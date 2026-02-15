@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 08-pl-creating-posts-and-pages-with-the-wordpress-block-editor</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">Tworzenie wpisów i stron za pomocą edytora bloków WordPress.</p>
+      <p xml:id="p2" begin="00:00:04.000" end="00:00:07.000" region="bottomCenter">Dzisiaj zagłębimy się w sedno tworzenia treści,</p>
+      <p xml:id="p3" begin="00:00:08.000" end="00:00:11.000" region="bottomCenter">korzystając z potężnego edytora bloków WordPress.</p>
+      <p xml:id="p4" begin="00:00:11.000" end="00:00:15.000" region="bottomCenter">Efekty uczenia się dla tej lekcji obejmują zdefiniowanie edytora bloków,</p>
+      <p xml:id="p5" begin="00:00:15.000" end="00:00:18.000" region="bottomCenter">poruszanie się po interfejsie edytora bloków,</p>
+      <p xml:id="p6" begin="00:00:18.000" end="00:00:22.000" region="bottomCenter">rozróżnienie między obszarem edycji treści a paskiem bocznym ustawień,</p>
+      <p xml:id="p7" begin="00:00:22.000" end="00:00:27.000" region="bottomCenter">tworzenie strony i wpisu, a na koniec korzystanie z bloków, wzorców i widoku listy.</p>
+      <p xml:id="p8" begin="00:00:28.000" end="00:00:34.000" region="bottomCenter">Edytor bloków WordPress pozwala tworzyć witrynę za pomocą bloków, bez konieczności pisania kodu.</p>
+      <p xml:id="p9" begin="00:00:37.000" end="00:00:42.000" region="bottomCenter">Jak już wspomniano, zaloguj się do kokpitu WordPressa, aby utworzyć wpis lub stronę.</p>
+      <p xml:id="p10" begin="00:00:43.000" end="00:00:47.000" region="bottomCenter">W kokpicie przejdź do sekcji wpisów lub stron w menu po lewej stronie.</p>
+      <p xml:id="p11" begin="00:00:49.000" end="00:00:54.000" region="bottomCenter">Utwórzmy nową stronę, aby dokładnie przyjrzeć się interfejsowi edytora bloków.</p>
+      <p xml:id="p12" begin="00:00:55.000" end="00:00:59.000" region="bottomCenter">Po dodaniu nowej strony możemy również nadać jej odpowiedni tytuł.</p>
+      <p xml:id="p13" begin="00:01:03.000" end="00:01:06.000" region="bottomCenter">Po kliknięciu na „Wybierak” można dodać szereg bloków, aby zbudować stronę.</p>
+      <p xml:id="p14" begin="00:01:09.000" end="00:01:15.000" region="bottomCenter">Bloki mogą mieć różną postać – mogą to być akapity, obrazki, kolumny, galerie, tabele cenowe i wiele innych.</p>
+      <p xml:id="p15" begin="00:01:16.000" end="00:01:19.000" region="bottomCenter">Kolejną świetną funkcją są wzorce bloków.</p>
+      <p xml:id="p16" begin="00:01:19.000" end="00:01:25.000" region="bottomCenter">Są to gotowe zestawy bloków lub wstępnie zaprojektowane bloki, które można szybko dodać, aby zbudować całe sekcje,</p>
+      <p xml:id="p17" begin="00:01:25.000" end="00:01:28.000" region="bottomCenter">a następnie modyfikować je zgodnie z własnymi potrzebami.</p>
+      <p xml:id="p18" begin="00:01:28.000" end="00:01:31.000" region="bottomCenter">Po prawej stronie, obok wzorców, możemy dodać multimedia.</p>
+      <p xml:id="p19" begin="00:01:34.000" end="00:01:37.000" region="bottomCenter">Po pierwsze, z naszej biblioteki multimediów lub z Openverse.</p>
+      <p xml:id="p20" begin="00:01:40.000" end="00:01:45.000" region="bottomCenter">Openverse udostępnia multimedia na licencji otwartej, z których można korzystać bezpłatnie.</p>
+      <p xml:id="p21" begin="00:01:46.000" end="00:01:49.000" region="bottomCenter">Istnieje wiele sposobów dodawania bloków.</p>
+      <p xml:id="p22" begin="00:01:49.000" end="00:01:55.000" region="bottomCenter">Po pierwsze, można kliknąć na przycisk „Wstaw” w lewym górnym rogu lub na przycisk „Wstaw” na stronie.</p>
+      <p xml:id="p23" begin="00:01:55.000" end="00:01:59.000" region="bottomCenter">Sześć bloków wyświetlanych poniżej pola wyszukiwania to ostatnio używane bloki.</p>
+      <p xml:id="p24" begin="00:02:00.000" end="00:02:03.000" region="bottomCenter">Można też użyć polecenia ukośnika.</p>
+      <p xml:id="p25" begin="00:02:03.000" end="00:02:09.000" region="bottomCenter">Wpiszmy więc „ukośnik obrazek” i dodajmy obrazek z naszej biblioteki multimediów, który już wcześniej przesłałem.</p>
+      <p xml:id="p26" begin="00:02:14.000" end="00:02:18.000" region="bottomCenter">Następnie naciśnij klawisz „Enter” i dodaj tekst do bloku akapitu.</p>
+      <p xml:id="p27" begin="00:02:19.000" end="00:02:22.000" region="bottomCenter">Następnie dodaj kolejny akapit.</p>
+      <p xml:id="p28" begin="00:02:23.000" end="00:02:26.000" region="bottomCenter">Interfejs jest podzielony na trzy główne sekcje.</p>
+      <p xml:id="p29" begin="00:02:29.000" end="00:02:34.000" region="bottomCenter">Obszar edycji treści, lewy pasek boczny do wybierania bloków lub widok listy,</p>
+      <p xml:id="p30" begin="00:02:34.000" end="00:02:39.000" region="bottomCenter">o którym porozmawiamy za chwilę, oraz pasek boczny ustawień po prawej stronie.</p>
+      <p xml:id="p31" begin="00:02:42.000" end="00:02:47.000" region="bottomCenter">Pasek boczny ustawień po prawej stronie zawiera dodatkowe ustawienia i opcje dla wybranego bloku,</p>
+      <p xml:id="p32" begin="00:02:48.000" end="00:02:51.000" region="bottomCenter">umożliwiając dalszą stylizację bloku.</p>
+      <p xml:id="p33" begin="00:02:51.000" end="00:02:54.000" region="bottomCenter">Każdy blok będzie oczywiście miał dostępne różne ustawienia.</p>
+      <p xml:id="p34" begin="00:02:55.000" end="00:03:00.000" region="bottomCenter">Po wybraniu bloku zobaczysz również pasek narzędzi związany z konkretnym blokiem.</p>
+      <p xml:id="p35" begin="00:03:05.000" end="00:03:08.000" region="bottomCenter">W tym przypadku jest to blok akapitu.</p>
+      <p xml:id="p36" begin="00:03:09.000" end="00:03:14.000" region="bottomCenter">Począwszy od lewej strony, pasek narzędzi bloku pozwala przekształcić ten blok w inny typ bloku,</p>
+      <p xml:id="p37" begin="00:03:16.000" end="00:03:21.000" region="bottomCenter">przeciągnąć i upuścić blok w nowe miejsce lub użyć strzałek, aby zmienić położenie bloku,</p>
+      <p xml:id="p38" begin="00:03:23.000" end="00:03:26.000" region="bottomCenter">zmienić wyrównanie tekstu,</p>
+      <p xml:id="p39" begin="00:03:28.000" end="00:03:31.000" region="bottomCenter">wybrać pogrubienie, kursywę lub dodać odnośnik.</p>
+      <p xml:id="p40" begin="00:03:35.000" end="00:03:40.000" region="bottomCenter">Strzałka rozwijana umożliwia podświetlanie, dodawanie przypisów i inne opcje stylizacji.</p>
+      <p xml:id="p41" begin="00:03:42.000" end="00:03:46.000" region="bottomCenter">Po kliknięciu trzech pionowych kropek wyświetlą się dodatkowe opcje.</p>
+      <p xml:id="p42" begin="00:03:48.000" end="00:03:51.000" region="bottomCenter">Następnie należy również zwrócić uwagę na widok listy.</p>
+      <p xml:id="p43" begin="00:03:53.000" end="00:03:58.000" region="bottomCenter">W tym przykładzie można zauważyć, że całą stronę zbudowałem przy użyciu różnych bloków.</p>
+      <p xml:id="p44" begin="00:04:00.000" end="00:04:04.000" region="bottomCenter">Przewijając w górę, możemy otworzyć widok listy w lewym górnym rogu.</p>
+      <p xml:id="p45" begin="00:04:12.000" end="00:04:16.000" region="bottomCenter">Widok listy pomaga nawigować między warstwami treści i zagnieżdżonymi blokami.</p>
+      <p xml:id="p46" begin="00:04:17.000" end="00:04:22.000" region="bottomCenter">Jest to nieodzowna funkcja edytora WordPress, która ułatwia pracę z blokami na stronie.</p>
+      <p xml:id="p47" begin="00:04:24.000" end="00:04:32.000" region="bottomCenter">Możesz wyświetlić dokładną kolejność i strukturę każdego bloku na stronie, co jest szczególnie pomocne, jeśli masz stronę z dużą ilością treści.</p>
+      <p xml:id="p48" begin="00:04:32.000" end="00:04:35.000" region="bottomCenter">Możesz wybierać bloki, które mają zagnieżdżone inne bloki.</p>
+      <p xml:id="p49" begin="00:04:36.000" end="00:04:40.000" region="bottomCenter">Możesz kliknąć i przeciągnąć bloki, aby przenieść je w inne miejsce na stronie.</p>
+      <p xml:id="p50" begin="00:04:40.000" end="00:04:46.000" region="bottomCenter">Po kliknięciu wielokropka, trzech kropek obok dowolnego bloku w widoku listy, pojawia się wiele przydatnych opcji.</p>
+      <p xml:id="p51" begin="00:04:49.000" end="00:04:56.000" region="bottomCenter">Wróćmy do naszej pierwotnej strony i kontynuujmy jej tworzenie za pomocą bloków, aby zobaczyć działanie edytora bloków.</p>
+      <p xml:id="p52" begin="00:04:58.000" end="00:05:03.000" region="bottomCenter">Najpierw dodajmy blok „Galeria” i wybierzmy trzy obrazki z naszej biblioteki multimediów.</p>
+      <p xml:id="p53" begin="00:05:13.000" end="00:05:18.000" region="bottomCenter">Po wstawieniu zaznaczę blok „Galeria”, kliknę trzy pionowe kropki i wybiorę opcję „Dodaj po”.</p>
+      <p xml:id="p54" begin="00:05:20.000" end="00:05:25.000" region="bottomCenter">Następnie kliknę w lewym górnym rogu „Wybierak” i dodam wzorzec, czyli gotową grupę bloków.</p>
+      <p xml:id="p55" begin="00:05:29.000" end="00:05:32.000" region="bottomCenter">Wybiorę jeden z polecanych wzorców, aby zaplanować wizytę.</p>
+      <p xml:id="p56" begin="00:05:36.000" end="00:05:41.000" region="bottomCenter">Następnie otworzę widok listy, wybiorę blok „Grupa” i zmienię wyrównanie tekstu.</p>
+      <p xml:id="p57" begin="00:05:44.000" end="00:05:47.000" region="bottomCenter">Teraz przyjrzyjmy się ustawieniom paska bocznego.</p>
+      <p xml:id="p58" begin="00:05:49.000" end="00:05:54.000" region="bottomCenter">Po wybraniu bloku możemy użyć ustawień paska bocznego, aby dalej stylizować blok.</p>
+      <p xml:id="p59" begin="00:05:55.000" end="00:05:59.000" region="bottomCenter">W tym przypadku możemy dodać efekt zaokrąglenia do naszego obrazka.</p>
+      <p xml:id="p60" begin="00:06:00.000" end="00:06:05.000" region="bottomCenter">Zaznaczę drugi akapit i użyję paska narzędzi bloku, aby zmienić tekst na pogrubiony.</p>
+      <p xml:id="p61" begin="00:06:09.000" end="00:06:14.000" region="bottomCenter">Następnie zaznaczę widok listy, aby upewnić się, że zaznaczyłem nadrzędny blok galerii.</p>
+      <p xml:id="p62" begin="00:06:14.000" end="00:06:18.000" region="bottomCenter">W ustawieniach paska bocznego zmienię liczbę kolumn z trzech na dwie.</p>
+      <p xml:id="p63" begin="00:06:21.000" end="00:06:25.000" region="bottomCenter">Na koniec zaznaczę blok przycisków i zmienię kolor tła na zielony.</p>
+      <p xml:id="p64" begin="00:06:30.000" end="00:06:36.000" region="bottomCenter">Mam nadzieję, że teraz rozumiesz, jak układają się elementy edytora bloków: bloki służą do dodawania treści,</p>
+      <p xml:id="p65" begin="00:06:43.000" end="00:06:49.000" region="bottomCenter">pasek boczny ustawień do stylizowania i edytowania treści, a widok listy do nawigacji po treści.</p>
+      <p xml:id="p66" begin="00:06:52.000" end="00:06:56.000" region="bottomCenter">Pamiętaj, że możesz również tworzyć i edytować strony w edytorze witryny.</p>
+      <p xml:id="p67" begin="00:06:57.000" end="00:07:00.000" region="bottomCenter">Przejdźmy więc do sekcji „Wygląd” i kliknijmy „Edytor”.</p>
+      <p xml:id="p68" begin="00:07:00.000" end="00:07:03.000" region="bottomCenter">To oczywiście przeniesie nas do edytora witryny.</p>
+      <p xml:id="p69" begin="00:07:03.000" end="00:07:09.000" region="bottomCenter">Następnie możemy wybrać strony. Otworzę stronę z edytora bloków, a następnie wybieram opcję „Edytuj”.</p>
+      <p xml:id="p70" begin="00:07:12.000" end="00:07:15.000" region="bottomCenter">W edytorze witryny dodajemy treść do bloku „Treść”.</p>
+      <p xml:id="p71" begin="00:07:16.000" end="00:07:22.000" region="bottomCenter">Działa to dokładnie w ten sam sposób i możemy kontynuować tworzenie naszej strony za pomocą bloków.</p>
+      <p xml:id="p72" begin="00:07:22.000" end="00:07:25.000" region="bottomCenter">W tym przypadku dodam blok „Osadź YouTube”,</p>
+      <p xml:id="p73" begin="00:07:26.000" end="00:07:30.000" region="bottomCenter">dodam swój adres URL, a następnie osadzę film na mojej stronie.</p>
+      <p xml:id="p74" begin="00:07:30.000" end="00:07:34.000" region="bottomCenter">Podsumowując, tworzenie wpisu jest takie samo jak tworzenie strony.</p>
+      <p xml:id="p75" begin="00:07:39.000" end="00:07:42.000" region="bottomCenter">Do budowania struktury treści używamy bloków.</p>
+      <p xml:id="p76" begin="00:07:44.000" end="00:07:49.000" region="bottomCenter">Pamiętaj, że dodawanie kategorii, tagów i obrazka wyróżniającego omówimy w innym rozdziale.</p>
+      <p xml:id="p77" begin="00:07:51.000" end="00:07:59.000" region="bottomCenter">Mam nadzieję, że teraz lepiej rozumiesz, jak poruszać się po edytorze bloków, a także jak korzystać z bloków, paska bocznego ustawień i widoku listy.</p>
+    </div>
+  </body>
+</tt>

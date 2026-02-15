@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 20-pl-managing-spam-on-your-website-2</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">Porozmawiajmy o zarządzaniu spamem w twojej witrynie internetowej.</p>
+      <p xml:id="p2" begin="00:00:05.400" end="00:00:09.300" region="bottomCenter">Zezwolenie na komentowanie w witrynie to świetny sposób na nawiązanie kontaktu z czytelnikami</p>
+      <p xml:id="p3" begin="00:00:09.360" end="00:00:11.260" region="bottomCenter">lub klientami i zbudowanie społeczności.</p>
+      <p xml:id="p4" begin="00:00:11.320" end="00:00:15.320" region="bottomCenter">Niestety, zezwolenie na komentowanie otwiera również drzwi dla spamerów.</p>
+      <p xml:id="p5" begin="00:00:15.560" end="00:00:21.260" region="bottomCenter">Wszyscy otrzymaliśmy wiadomości o możliwościach szybkiego wzbogacenia się lub zakupu niechcianych produktów.</p>
+      <p xml:id="p6" begin="00:00:21.280" end="00:00:27.580" region="bottomCenter">Spam w komentarzach pojawia się, gdy spamer publikuje komentarze w twojej witrynie internetowej za pośrednictwem bloga lub strony kontekstowej.</p>
+      <p xml:id="p7" begin="00:00:27.640" end="00:00:32.640" region="bottomCenter">W tej lekcji przyjrzymy się, jak można zarządzać spamem w swojej witrynie internetowej i unikać go,</p>
+      <p xml:id="p8" begin="00:00:32.800" end="00:00:36.800" region="bottomCenter">korzystając z wbudowanych funkcji WordPressa i wtyczki antyspamowej.</p>
+      <p xml:id="p9" begin="00:00:37.840" end="00:00:39.840" region="bottomCenter">Zacznijmy od wbudowanych funkcji.</p>
+      <p xml:id="p10" begin="00:00:40.360" end="00:00:44.160" region="bottomCenter">WordPress posiada domyślnie kilka wbudowanych funkcji, które pomagają zapobiegać</p>
+      <p xml:id="p11" begin="00:00:44.240" end="00:00:47.740" region="bottomCenter">spamowi w witrynie. Można je znaleźć na stronie ustawień dyskusji w kokpicie.</p>
+      <p xml:id="p12" begin="00:00:52.040" end="00:00:53.040" region="bottomCenter">Numer 1:</p>
+      <p xml:id="p13" begin="00:00:53.040" end="00:00:55.040" region="bottomCenter">Ograniczenie liczby dozwolonych odnośników.</p>
+      <p xml:id="p14" begin="00:00:55.320" end="00:01:00.020" region="bottomCenter">Ponieważ spamerskie komentarze działają poprzez odnośniki zwrotne i zachęcają odwiedzających do odwiedzenia witryny</p>
+      <p xml:id="p15" begin="00:01:00.040" end="00:01:03.040" region="bottomCenter">spamerów, wiele spamerskich komentarzy zawiera dużą liczbę odnośników.</p>
+      <p xml:id="p16" begin="00:01:03.120" end="00:01:07.620" region="bottomCenter">Możesz wychwycić niektóre spamerskie komentarze na swojej witrynie, ograniczając liczbę</p>
+      <p xml:id="p17" begin="00:01:07.680" end="00:01:12.680" region="bottomCenter">dozwolonych odnośników, zanim zostaną one zatrzymane do moderacji lub zatwierdzenia przez administratora.</p>
+      <p xml:id="p18" begin="00:01:13.160" end="00:01:14.960" region="bottomCenter">Warto o tym pamiętać.</p>
+      <p xml:id="p19" begin="00:01:15.000" end="00:01:20.200" region="bottomCenter">Domyślnie limit odnośników jest ustawiony na dwa odnośniki, ale można go obniżyć do jednego odnośnika na komentarz.</p>
+      <p xml:id="p20" begin="00:01:20.240" end="00:01:24.440" region="bottomCenter">Nie zaleca się ustawiania limitu na zero, ponieważ w przeciwnym razie wszystkie komentarze</p>
+      <p xml:id="p21" begin="00:01:24.440" end="00:01:26.040" region="bottomCenter">będą zatrzymywane do moderacji.</p>
+      <p xml:id="p22" begin="00:01:26.120" end="00:01:30.120" region="bottomCenter">Drugim krokiem, który możesz podjąć, jest zmiana ustawień moderacji komentarzy.</p>
+      <p xml:id="p23" begin="00:01:30.520" end="00:01:35.020" region="bottomCenter">Oprócz ograniczenia liczby odnośników w komentarzu, możesz również zastosować określone</p>
+      <p xml:id="p24" begin="00:01:35.040" end="00:01:40.040" region="bottomCenter">słowa, frazy, nazwy użytkowników, adresy e-mail itp. w polu tekstowym moderacji komentarzy,</p>
+      <p xml:id="p25" begin="00:01:41.560" end="00:01:46.360" region="bottomCenter">aby automatycznie zatrzymywać komentarze zawierające te elementy w kolejce moderacji.</p>
+      <p xml:id="p26" begin="00:01:46.400" end="00:01:51.400" region="bottomCenter">Wybrałem słowa takie jak hazard, ubezpieczenie, wygrana oraz odnośnik do witryny poświęconej</p>
+      <p xml:id="p27" begin="00:01:51.440" end="00:01:52.540" region="bottomCenter">kryptowalutom.</p>
+      <p xml:id="p28" begin="00:01:52.560" end="00:01:56.560" region="bottomCenter">Ponieważ są to elementy często pojawiające się w spamerskich komentarzach, zachęcam do</p>
+      <p xml:id="p29" begin="00:01:56.640" end="00:01:59.840" region="bottomCenter">przejrzenia poprzednich komentarzy w celu oznaczenia określonych słów.</p>
+      <p xml:id="p30" begin="00:01:59.880" end="00:02:03.880" region="bottomCenter">Następnie możesz również zablokować słowa kluczowe komentarzy lub, innymi słowy,</p>
+      <p xml:id="p31" begin="00:02:05.600" end="00:02:09.600" region="bottomCenter">automatycznie usuwać komentarze zawierające określone słowa lub elementy.</p>
+      <p xml:id="p32" begin="00:02:10.400" end="00:02:16.200" region="bottomCenter">Działa to podobnie jak ustawienie moderacji komentarzy, ale w tym przypadku możesz określić słowa, frazy, nazwy użytkowników,</p>
+      <p xml:id="p33" begin="00:02:16.280" end="00:02:20.280" region="bottomCenter">adresy IP itp., które spowodują automatyczne przeniesienie komentarza do kosza.</p>
+      <p xml:id="p34" begin="00:02:21.800" end="00:02:24.800" region="bottomCenter">Oznacza to, że nie musisz ręcznie przenosić komentarza do kosza</p>
+      <p xml:id="p35" begin="00:02:26.040" end="00:02:27.640" region="bottomCenter">z kolejki moderacji.</p>
+      <p xml:id="p36" begin="00:02:27.680" end="00:02:31.480" region="bottomCenter">Czwartym krokiem, jaki możesz podjąć, jest wyłączenie trackbacków.</p>
+      <p xml:id="p37" begin="00:02:31.520" end="00:02:33.920" region="bottomCenter">Duża część spamu to właśnie trackbacki.</p>
+      <p xml:id="p38" begin="00:02:34.000" end="00:02:39.000" region="bottomCenter">Trackbacki i pingbacki informują cię, że inny blog zamieścił odnośnik do twojej treści</p>
+      <p xml:id="p39" begin="00:02:39.560" end="00:02:40.560" region="bottomCenter">i vice versa.</p>
+      <p xml:id="p40" begin="00:02:40.560" end="00:02:46.560" region="bottomCenter">Jednak spamerzy często nadużywają tej funkcji, wysyłając trackbacki i pingi z witryn spamerskich.</p>
+      <p xml:id="p41" begin="00:02:48.680" end="00:02:54.680" region="bottomCenter">Ostatnim krokiem na stronie dyskusji jest zaznaczenie wszystkich komentarzy, które mają być moderowane.</p>
+      <p xml:id="p42" begin="00:02:54.840" end="00:02:58.940" region="bottomCenter">Można to zrobić, wybierając opcję „Komentarz”, który musi zostać ręcznie zatwierdzony.</p>
+      <p xml:id="p43" begin="00:02:59.000" end="00:03:03.000" region="bottomCenter">Można też zrezygnować z otrzymywania komentarzy, odznaczając opcję</p>
+      <p xml:id="p44" begin="00:03:05.360" end="00:03:08.360" region="bottomCenter">„Zezwalaj użytkownikom na dodawanie komentarzy”.</p>
+      <p xml:id="p45" begin="00:03:09.160" end="00:03:13.160" region="bottomCenter">Zanim przejdziemy do wtyczek, zobaczmy, jak oznaczyć komentarz jako spam.</p>
+      <p xml:id="p46" begin="00:03:13.840" end="00:03:17.840" region="bottomCenter">Przejdź do komentarzy, a zobaczysz, że mamy tu dwa spamerskie komentarze.</p>
+      <p xml:id="p47" begin="00:03:18.320" end="00:03:19.320" region="bottomCenter">Kliknij na oba.</p>
+      <p xml:id="p48" begin="00:03:19.320" end="00:03:22.320" region="bottomCenter">„Cryptocurrency Mania” i „Win Big”.</p>
+      <p xml:id="p49" begin="00:03:24.360" end="00:03:28.360" region="bottomCenter">Przejdź do akcji zbiorczej, oznacz je jako spam, a następnie zastosuj.</p>
+      <p xml:id="p50" begin="00:03:30.160" end="00:03:35.160" region="bottomCenter">Innym skutecznym sposobem zarządzania spamem i zapobiegania mu jest użycie wtyczki antyspamowej.</p>
+      <p xml:id="p51" begin="00:03:37.720" end="00:03:41.720" region="bottomCenter">Wiele darmowych i płatnych wtyczek zapewnia ochronę twojej witryny przed spamem.</p>
+      <p xml:id="p52" begin="00:03:42.560" end="00:03:45.560" region="bottomCenter">Możesz je znaleźć w katalogu wtyczek WordPress.org.</p>
+      <p xml:id="p53" begin="00:03:46.520" end="00:03:50.520" region="bottomCenter">Warto wspomnieć o takich wtyczkach jak Anti-spam Bee, Clean Talk i Akismet.</p>
+      <p xml:id="p54" begin="00:03:54.760" end="00:03:58.360" region="bottomCenter">W katalogu wtyczek jest wiele opcji do wyboru, więc znajdź tę,</p>
+      <p xml:id="p55" begin="00:03:58.440" end="00:04:00.440" region="bottomCenter">która najlepiej odpowiada twoim potrzebom.</p>
+      <p xml:id="p56" begin="00:04:00.560" end="00:04:03.560" region="bottomCenter">W tym przykładzie zainstaluję i włączę Akismet.</p>
+      <p xml:id="p57" begin="00:04:04.800" end="00:04:07.800" region="bottomCenter">Przejdź do wtyczek i kliknij „Dodaj nową.</p>
+      <p xml:id="p58" begin="00:04:08.760" end="00:04:11.760" region="bottomCenter">Wybierz Akismet, a następnie kliknij „Zainstaluj teraz”.</p>
+      <p xml:id="p59" begin="00:04:12.760" end="00:04:15.760" region="bottomCenter">Poczekaj na zakończenie instalacji, a następnie kliknij „Włącz”.</p>
+      <p xml:id="p60" begin="00:04:17.640" end="00:04:22.440" region="bottomCenter">Po kliknięciu przycisku „Włącz” zostaniesz przekierowany na stronę z prośbą o utworzenie</p>
+      <p xml:id="p61" begin="00:04:22.440" end="00:04:23.840" region="bottomCenter">konta w Akismet.</p>
+      <p xml:id="p62" begin="00:04:23.840" end="00:04:29.340" region="bottomCenter">Akismet jest bezpłatny do użytku osobistego, więc możesz wybrać kwotę, którą chcesz zapłacić, nawet jeśli jest to 0 USD.</p>
+      <p xml:id="p63" begin="00:04:29.360" end="00:04:34.360" region="bottomCenter">Przesunę suwak po prawej stronie do pozycji 0 USD i kontynuuję subskrypcję osobistą.</p>
+      <p xml:id="p64" begin="00:04:35.840" end="00:04:39.840" region="bottomCenter">Po aktywacji możesz zmienić kilka ustawień dotyczących sposobu, w jaki</p>
+      <p xml:id="p65" begin="00:04:40.600" end="00:04:43.600" region="bottomCenter">wtyczka ma zarządzać spamem w twojej witrynie.</p>
+      <p xml:id="p66" begin="00:04:44.000" end="00:04:48.000" region="bottomCenter">Przyjrzyjmy się jeszcze kilku wtyczkom zabezpieczającym, które warto rozważyć.</p>
+      <p xml:id="p67" begin="00:04:48.080" end="00:04:51.080" region="bottomCenter">CAPTCHA to technologia służąca do odróżniania robotów od ludzi.</p>
+      <p xml:id="p68" begin="00:04:52.600" end="00:04:57.300" region="bottomCenter">Znajdź odpowiednią wtyczkę CAPTCHA, ponieważ znacznie utrudnia ona spamującym botom infiltrację</p>
+      <p xml:id="p69" begin="00:04:57.360" end="00:04:58.360" region="bottomCenter">twojej witryny.</p>
+      <p xml:id="p70" begin="00:04:58.360" end="00:05:04.060" region="bottomCenter">Wtyczki antyspamowe mogą zatrzymywać i usuwać wiele spamerskich komentarzy, ale nie są w stanie powstrzymać spamerów</p>
+      <p xml:id="p71" begin="00:05:04.120" end="00:05:06.120" region="bottomCenter">przed dostępem do twojej witryny.</p>
+      <p xml:id="p72" begin="00:05:06.240" end="00:05:11.640" region="bottomCenter">Zbyt duża liczba żądań od spamerów dotyczących dodawania komentarzy może spowolnić działanie witryny</p>
+      <p xml:id="p73" begin="00:05:11.720" end="00:05:13.520" region="bottomCenter">i negatywnie wpłynąć na jej wydajność.</p>
+      <p xml:id="p74" begin="00:05:13.560" end="00:05:18.560" region="bottomCenter">Wtyczka zapory sieciowej, taka jak All in one WordPress Security and Firewall, WordFence, Sucuri</p>
+      <p xml:id="p75" begin="00:05:20.040" end="00:05:25.040" region="bottomCenter">lub Jetpack, pomoże ci blokować niechciane żądania, zanim dotrą one do twojej witryny.</p>
+      <p xml:id="p76" begin="00:05:25.800" end="00:05:30.800" region="bottomCenter">Wtyczki te powstrzymają automatyczne boty i skrypty przed próbami dodawania komentarzy.</p>
+      <p xml:id="p77" begin="00:05:31.000" end="00:05:35.000" region="bottomCenter">Wierzę, że te kroki pomogą ci zabezpieczyć witrynę i przechwycić spamerów.</p>
+    </div>
+  </body>
+</tt>

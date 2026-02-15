@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 24-pl-how-to-find-help-with-wordpress</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">Co należy zrobić, gdy napotkasz przeszkodę podczas pracy z WordPressem?</p>
+      <p xml:id="p2" begin="00:00:05.000" end="00:00:10.000" region="bottomCenter">W tej lekcji pokażę ci, jak znaleźć pomoc, gdy jej najbardziej potrzebujesz.</p>
+      <p xml:id="p3" begin="00:00:10.000" end="00:00:15.000" region="bottomCenter">Jeśli napotkasz problem, taki jak błąd formatowania, nieprawidłowe działanie wtyczki lub inne utrudnienie,</p>
+      <p xml:id="p4" begin="00:00:15.000" end="00:00:19.000" region="bottomCenter">możesz zacząć od odwiedzenia strony WordPress.org/support/forums,</p>
+      <p xml:id="p5" begin="00:00:20.000" end="00:00:24.000" region="bottomCenter">aby sprawdzić, czy istnieje już wątek dotyczący twojego problemu.</p>
+      <p xml:id="p6" begin="00:00:24.000" end="00:00:27.000" region="bottomCenter">Być może znajdziesz tam odpowiedź na swoje pytanie.</p>
+      <p xml:id="p7" begin="00:00:27.000" end="00:00:30.000" region="bottomCenter">Przejdźmy do praktycznej demonstracji.</p>
+      <p xml:id="p8" begin="00:00:30.000" end="00:00:34.000" region="bottomCenter">Przejdź na stronę WordPress.org, kliknij „Learn”, a następnie wybierz „Fora”.</p>
+      <p xml:id="p9" begin="00:00:36.000" end="00:00:39.000" region="bottomCenter">W prawym górnym rogu możesz wyszukać istniejące pytania.</p>
+      <p xml:id="p10" begin="00:00:41.000" end="00:00:44.000" region="bottomCenter">W tym przypadku wpiszę „Witryna wolno się wczytuje”,</p>
+      <p xml:id="p11" begin="00:00:46.000" end="00:00:49.000" region="bottomCenter">a następnie wyświetlę listę wyników.</p>
+      <p xml:id="p12" begin="00:00:50.000" end="00:00:53.000" region="bottomCenter">Mam nadzieję, że wśród nich znajdę odpowiedź.</p>
+      <p xml:id="p13" begin="00:00:55.000" end="00:00:58.000" region="bottomCenter">Jeśli nie możesz znaleźć wątku, który zawiera rozwiązanie twojego problemu,</p>
+      <p xml:id="p14" begin="00:00:58.000" end="00:01:02.000" region="bottomCenter">możemy wrócić do witryny forum wsparcia i zamieścić zapytanie na jednym z forów,</p>
+      <p xml:id="p15" begin="00:01:05.000" end="00:01:08.000" region="bottomCenter">takich jak „Naprawa WordPressa” lub „Wszystko inne dotyczące WordPressa”.</p>
+      <p xml:id="p16" begin="00:01:08.000" end="00:01:11.000" region="bottomCenter">Otwórzmy forum naprawy WordPressa.</p>
+      <p xml:id="p17" begin="00:01:12.000" end="00:01:16.000" region="bottomCenter">W prawym górnym rogu nad listą tematów możesz utworzyć własny temat,</p>
+      <p xml:id="p18" begin="00:01:16.000" end="00:01:20.000" region="bottomCenter">a następnie wypełnić wszystkie istotne szczegóły dotyczące swojego pytania.</p>
+      <p xml:id="p19" begin="00:01:21.000" end="00:01:25.000" region="bottomCenter">Jeśli napotkasz problem związany z konkretną wtyczką lub motywem,</p>
+      <p xml:id="p20" begin="00:01:25.000" end="00:01:29.000" region="bottomCenter">zalecamy skontaktowanie się bezpośrednio z forum wsparcia lub stroną wsparcia.</p>
+      <p xml:id="p21" begin="00:01:29.000" end="00:01:33.000" region="bottomCenter">Pragnę również podkreślić, że osoby z ogólnych forów wsparcia</p>
+      <p xml:id="p22" begin="00:01:33.000" end="00:01:38.000" region="bottomCenter">często kierują użytkowników do tych platform, jeśli problem dotyczy motywu lub wtyczki.</p>
+      <p xml:id="p23" begin="00:01:38.000" end="00:01:43.000" region="bottomCenter">Aby znaleźć forum wsparcia konkretnej wtyczki lub motywu, przejdź do strony forów</p>
+      <p xml:id="p24" begin="00:01:44.000" end="00:01:47.000" region="bottomCenter">i przewiń w dół do sekcji „Motywy i wtyczki”.</p>
+      <p xml:id="p25" begin="00:01:48.000" end="00:01:51.000" region="bottomCenter">Wybierz odpowiednią opcję, w tym przypadku wtyczki,</p>
+      <p xml:id="p26" begin="00:01:52.000" end="00:01:55.000" region="bottomCenter">a następnie wyszukaj odpowiednią wtyczkę.</p>
+      <p xml:id="p27" begin="00:01:56.000" end="00:01:59.000" region="bottomCenter">W tym przykładzie wybieram wtyczkę Jetpack.</p>
+      <p xml:id="p28" begin="00:02:00.000" end="00:02:04.000" region="bottomCenter">Następnie klikam zakładkę „Wsparcie” poniżej przycisku pobierania.</p>
+      <p xml:id="p29" begin="00:02:04.000" end="00:02:07.000" region="bottomCenter">Otworzy się forum wsparcia dla wtyczki Jetpack,</p>
+      <p xml:id="p30" begin="00:02:08.000" end="00:02:12.000" region="bottomCenter">na którym można przeszukiwać stare pytania lub tworzyć nowe tematy.</p>
+      <p xml:id="p31" begin="00:02:13.000" end="00:02:19.000" region="bottomCenter">Jeśli jesteś na swojej witrynie, możesz uzyskać dostęp do wsparcia z poziomu kokpitu, na stronie wtyczek.</p>
+      <p xml:id="p32" begin="00:02:19.000" end="00:02:24.000" region="bottomCenter">Jeśli korzystasz z motywu lub wtyczki premium, zawsze możesz odwiedzić ich witrynę internetową</p>
+      <p xml:id="p33" begin="00:02:24.000" end="00:02:27.000" region="bottomCenter">i skontaktować się z zespołem wsparcia.</p>
+      <p xml:id="p34" begin="00:02:27.000" end="00:02:32.000" region="bottomCenter">Na koniec, na stronie WordPress.org można uzyskać dostęp do dwóch fantastycznych zasobów,</p>
+      <p xml:id="p35" begin="00:02:32.000" end="00:02:37.000" region="bottomCenter">które zawierają pomoc i wskazówki dotyczące korzystania z WordPressa i tworzenia na jego bazie.</p>
+      <p xml:id="p36" begin="00:02:37.000" end="00:02:40.000" region="bottomCenter">Po pierwsze, dokumentacja WordPressa.</p>
+      <p xml:id="p37" begin="00:02:40.000" end="00:02:43.000" region="bottomCenter">Dostęp do dokumentacji można uzyskać ze strony forum</p>
+      <p xml:id="p38" begin="00:02:44.000" end="00:02:48.000" region="bottomCenter">lub klikając opcję „Learn”, a następnie wybierając „Dokumentacja”.</p>
+      <p xml:id="p39" begin="00:02:50.000" end="00:02:53.000" region="bottomCenter">Strona dokumentacji jest skarbnicą przewodników</p>
+      <p xml:id="p40" begin="00:02:54.000" end="00:02:57.000" region="bottomCenter">i artykułów obejmujących szeroki zakres tematów.</p>
+      <p xml:id="p41" begin="00:02:57.000" end="00:03:04.000" region="bottomCenter">Możesz użyć pola wyszukiwania, aby znaleźć interesujący cię temat, lub skorzystać z poniższych odnośników, aby zawęzić wyniki wyszukiwania.</p>
+      <p xml:id="p42" begin="00:03:04.000" end="00:03:09.000" region="bottomCenter">Być może chcesz dowiedzieć się więcej o zmianie lub dostosowywaniu wyglądu swojej witryny,</p>
+      <p xml:id="p43" begin="00:03:09.000" end="00:03:12.000" region="bottomCenter">więc w sekcji „Dostosowywanie” wybierz opcję „Wygląd”,</p>
+      <p xml:id="p44" begin="00:03:15.000" end="00:03:17.000" region="bottomCenter">a następnie wybierz interesujący cię temat.</p>
+      <p xml:id="p45" begin="00:03:17.000" end="00:03:21.000" region="bottomCenter">Być może chcesz dowiedzieć się więcej na przykład o motywach blokowych.</p>
+      <p xml:id="p46" begin="00:03:24.000" end="00:03:27.000" region="bottomCenter">Na koniec porozmawiajmy o Learn.WordPress.org.</p>
+      <p xml:id="p47" begin="00:03:29.000" end="00:03:33.000" region="bottomCenter">Aby otworzyć stronę, kliknij zakładkę „Learn” i wybierz „Learn WordPress”.</p>
+      <p xml:id="p48" begin="00:03:35.000" end="00:03:40.000" region="bottomCenter">Learn WordPress to platforma edukacyjna i źródło informacji, które oferuje różne materiały,</p>
+      <p xml:id="p49" begin="00:03:40.000" end="00:03:45.000" region="bottomCenter">w tym lekcje wideo, warsztaty online i kursy mające na celu pomoc osobom indywidualnym w nauce</p>
+      <p xml:id="p50" begin="00:03:45.000" end="00:03:50.000" region="bottomCenter">i doskonaleniu umiejętności korzystania z WordPressa oraz tworzenia witryn w tym systemie.</p>
+      <p xml:id="p51" begin="00:03:50.000" end="00:03:53.000" region="bottomCenter">Wierzę, że te platformy pomogą ci znaleźć potrzebne odpowiedzi lub zasoby.</p>
+      <p xml:id="p52" begin="00:03:55.000" end="00:03:58.000" region="bottomCenter">Dodam również odnośniki w opisie poniżej.</p>
+    </div>
+  </body>
+</tt>

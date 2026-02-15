@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 19-pl-7-tips-to-improve-website-security-2</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:06.000" region="bottomCenter">Witamy w Learn WordPress. Porozmawiajmy o 7 wskazówkach dotyczących poprawy bezpieczeństwa witryn internetowych.</p>
+      <p xml:id="p2" begin="00:00:06.000" end="00:00:10.000" region="bottomCenter">Numer 1. Korzystaj z menedżera haseł i zabezpieczaj hasła do logowania.</p>
+      <p xml:id="p3" begin="00:00:11.000" end="00:00:15.000" region="bottomCenter">Warto zapoznać się z menedżerami haseł, takimi jak 1Password i Bitwarden.</p>
+      <p xml:id="p4" begin="00:00:16.000" end="00:00:21.000" region="bottomCenter">Niestety jednym z najczęstszych obszarów zagrożeń bezpieczeństwa jest czynnik ludzki.</p>
+      <p xml:id="p5" begin="00:00:22.000" end="00:00:27.000" region="bottomCenter">Żadne hasła nie powinny się powtarzać. Upewnij się, że hasła mają co najmniej 10–12 znaków</p>
+      <p xml:id="p6" begin="00:00:28.000" end="00:00:31.000" region="bottomCenter">i zawierają cyfry oraz symbole.</p>
+      <p xml:id="p7" begin="00:00:31.000" end="00:00:35.000" region="bottomCenter">Pamiętaj, aby nigdy nie używać nazwy „admin” jako nazwy użytkownika.</p>
+      <p xml:id="p8" begin="00:00:36.000" end="00:00:42.000" region="bottomCenter">Menedżery haseł bezpiecznie przechowują twoje hasła i umożliwiają generowanie unikalnych, bezpiecznych haseł</p>
+      <p xml:id="p9" begin="00:00:42.000" end="00:00:46.000" region="bottomCenter">dla każdego logowania bez konieczności zapamiętywania każdego z nich.</p>
+      <p xml:id="p10" begin="00:00:46.000" end="00:00:49.000" region="bottomCenter">Numer 2. Używaj uwierzytelniania dwuskładnikowego.</p>
+      <p xml:id="p11" begin="00:00:49.000" end="00:00:54.000" region="bottomCenter">Uwierzytelnianie dwuskładnikowe może znacznie zwiększyć bezpieczeństwo twojej witryny WordPress,</p>
+      <p xml:id="p12" begin="00:00:54.000" end="00:00:57.000" region="bottomCenter">dodając dodatkową warstwę ochrony do procesu logowania.</p>
+      <p xml:id="p13" begin="00:00:58.000" end="00:01:05.000" region="bottomCenter">Dzięki temu nawet jeśli ktoś inny zdobędzie twoje hasło, nadal nie będzie mógł zalogować się na twoje konto bez drugiego składnika.</p>
+      <p xml:id="p14" begin="00:01:05.000" end="00:01:11.000" region="bottomCenter">Uwierzytelnianie dwuskładnikowe może wydawać się niewielkim krokiem, ale może znacznie poprawić bezpieczeństwo twojego</p>
+      <p xml:id="p15" begin="00:01:11.000" end="00:01:14.000" region="bottomCenter">konta internetowego i pomóc chronić twoje dane osobowe.</p>
+      <p xml:id="p16" begin="00:01:14.000" end="00:01:18.000" region="bottomCenter">Możesz poszukać wtyczki do uwierzytelniania dwuskładnikowego, takiej jak WP2FA,</p>
+      <p xml:id="p17" begin="00:01:20.000" end="00:01:24.000" region="bottomCenter">Two Factor Authentication lub Mini-orange’s Google Authenticator.</p>
+      <p xml:id="p18" begin="00:01:25.000" end="00:01:29.000" region="bottomCenter">Niektóre wtyczki zabezpieczające również zawierają funkcję uwierzytelniania</p>
+      <p xml:id="p19" begin="00:01:29.000" end="00:01:33.000" region="bottomCenter">dwuskładnikowego, ale o wtyczkach zabezpieczających porozmawiamy za chwilę.</p>
+      <p xml:id="p20" begin="00:01:33.000" end="00:01:41.000" region="bottomCenter">Numer 3. Zawsze sprawdzaj swoją bazę użytkowników, usuwaj niepotrzebnych użytkowników i bądź bardzo selektywny w wyborze użytkowników administracyjnych.</p>
+      <p xml:id="p21" begin="00:01:41.000" end="00:01:44.000" region="bottomCenter">Przejdźmy do sekcji „Użytkownicy” w kokpicie.</p>
+      <p xml:id="p22" begin="00:01:44.000" end="00:01:49.000" region="bottomCenter">Należy monitorować role użytkowników, takie jak redaktorzy, autorzy i współpracownicy.</p>
+      <p xml:id="p23" begin="00:01:49.000" end="00:01:53.000" region="bottomCenter">Zazwyczaj rola administracyjna jest zarezerwowana dla właściciela witryny internetowej.</p>
+      <p xml:id="p24" begin="00:01:53.000" end="00:02:00.000" region="bottomCenter">Usunięcie niepotrzebnych użytkowników zminimalizuje potencjalną powierzchnię ataku lub punkty wejścia, które mogą wykorzystać atakujący.</p>
+      <p xml:id="p25" begin="00:02:02.000" end="00:02:08.000" region="bottomCenter">Numer 4. Instaluj tylko wtyczki i motywy od zaufanych twórców i odinstaluj te, których nie używasz.</p>
+      <p xml:id="p26" begin="00:02:10.000" end="00:02:14.000" region="bottomCenter">Aby ocenić niezawodność motywu lub wtyczki, należy sprawdzić kilka rzeczy.</p>
+      <p xml:id="p27" begin="00:02:16.000" end="00:02:19.000" region="bottomCenter">Sprawdź opinie i recenzje użytkowników.</p>
+      <p xml:id="p28" begin="00:02:19.000" end="00:02:22.000" region="bottomCenter">Zwróć uwagę, kiedy motyw lub wtyczka zostały ostatnio zaktualizowane.</p>
+      <p xml:id="p29" begin="00:02:22.000" end="00:02:27.000" region="bottomCenter">Sprawdź liczbę aktywnych instalacji, zapoznaj się z pomocą techniczną, dokumentacją</p>
+      <p xml:id="p30" begin="00:02:30.000" end="00:02:35.000" region="bottomCenter">oraz upewnij się, że motyw lub wtyczka są kompatybilne z najnowszą wersją WordPressa.</p>
+      <p xml:id="p31" begin="00:02:35.000" end="00:02:41.000" region="bottomCenter">Numer 5. Aktualizuj wtyczki i motywy oraz pamiętaj o tworzeniu kopii zapasowej witryny przed aktualizacją.</p>
+      <p xml:id="p32" begin="00:02:43.000" end="00:02:46.000" region="bottomCenter">Być może zastanawiasz się, dlaczego.</p>
+      <p xml:id="p33" begin="00:02:46.000" end="00:02:53.000" region="bottomCenter">Aktualizowanie motywów i wtyczek WordPress jest ważne dla utrzymania bezpieczeństwa, stabilności i kompatybilności witryny.</p>
+      <p xml:id="p34" begin="00:02:55.000" end="00:03:00.000" region="bottomCenter">Aktualizacje często zawierają poprawki bezpieczeństwa, które naprawiają luki w oprogramowaniu</p>
+      <p xml:id="p35" begin="00:03:00.000" end="00:03:04.000" region="bottomCenter">i błędy, które mogą powodować nieprawidłowe działanie lub awarie witryny.</p>
+      <p xml:id="p36" begin="00:03:04.000" end="00:03:09.000" region="bottomCenter">Atakujący mogą również wykorzystać te błędy, aby uzyskać nieautoryzowany dostęp do witryny.</p>
+      <p xml:id="p37" begin="00:03:11.000" end="00:03:16.000" region="bottomCenter">Aktualizując witrynę, można zapewnić jej ochronę przed najnowszymi zagrożeniami bezpieczeństwa</p>
+      <p xml:id="p38" begin="00:03:17.000" end="00:03:21.000" region="bottomCenter">i sprawne działanie dzięki najnowszym technologiom internetowym.</p>
+      <p xml:id="p39" begin="00:03:24.000" end="00:03:29.000" region="bottomCenter">Numer 6. Zainstaluj wtyczkę zabezpieczającą, taką jak WordFence, Jetpack Security lub i-Themes,</p>
+      <p xml:id="p40" begin="00:03:30.000" end="00:03:34.000" region="bottomCenter">aby przeskanować swoją witrynę pod kątem zgłoszonych luk w zabezpieczeniach.</p>
+      <p xml:id="p41" begin="00:03:34.000" end="00:03:38.000" region="bottomCenter">W katalogu wtyczek dostępnych jest również wiele innych wtyczek,</p>
+      <p xml:id="p42" begin="00:03:39.000" end="00:03:42.000" region="bottomCenter">takich jak PatchStack czy All-in-One Security.</p>
+      <p xml:id="p43" begin="00:03:45.000" end="00:03:50.000" region="bottomCenter">Wtyczka zabezpieczająca witrynę internetową może pomóc chronić ją przed typowymi cyberzagrożeniami,</p>
+      <p xml:id="p44" begin="00:03:50.000" end="00:03:55.000" region="bottomCenter">blokować złośliwy ruch i ostrzegać o potencjalnych problemach związanych z bezpieczeństwem.</p>
+      <p xml:id="p45" begin="00:03:55.000" end="00:04:01.000" region="bottomCenter">Zasadniczo wtyczka zabezpieczająca pomoże ci zachować bezpieczeństwo i integralność twojej witryny internetowej.</p>
+      <p xml:id="p46" begin="00:04:02.000" end="00:04:05.000" region="bottomCenter">Numer 7. Coś dla bardziej zaawansowanych użytkowników.</p>
+      <p xml:id="p47" begin="00:04:07.000" end="00:04:13.000" region="bottomCenter">Obserwuj blogi poświęcone bezpieczeństwu, takie jak PatchStack, WPScan lub Sucuri, które informują o nowych lukach w zabezpieczeniach,</p>
+      <p xml:id="p48" begin="00:04:13.000" end="00:04:18.000" region="bottomCenter">dla których dostępne są aktualizacje, oraz o pojawiających się zagrożeniach internetowych.</p>
+      <p xml:id="p49" begin="00:04:18.000" end="00:04:21.000" region="bottomCenter">Warto również rozważyć kilka innych kroków.</p>
+      <p xml:id="p50" begin="00:04:21.000" end="00:04:24.000" region="bottomCenter">Po pierwsze, wybór niezawodnego dostawcy usług hostingowych.</p>
+      <p xml:id="p51" begin="00:04:24.000" end="00:04:29.000" region="bottomCenter">Po drugie, zainstalowanie certyfikatu SSL, jeśli dostawca jeszcze tego nie zrobił,</p>
+      <p xml:id="p52" begin="00:04:30.000" end="00:04:36.000" region="bottomCenter">pozwoli na włączenie protokołu HTTPS, który gwarantuje, że żadne informacje nie będą przesyłane w postaci zwykłego tekstu.</p>
+      <p xml:id="p53" begin="00:04:36.000" end="00:04:42.000" region="bottomCenter">Po trzecie, warto używać wykrywacza spamu, zwłaszcza jeśli prowadzisz bloga lub zezwalasz na komentowanie wpisów.</p>
+      <p xml:id="p54" begin="00:04:43.000" end="00:04:46.000" region="bottomCenter">Życzę powodzenia w dbaniu o bezpieczeństwo twojej witryny.</p>
+    </div>
+  </body>
+</tt>

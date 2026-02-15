@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 09-pl-basic-wordpress-settings-2</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:03.000" region="bottomCenter">Omówmy kilka podstawowych ustawień WordPressa.</p>
+      <p xml:id="p2" begin="00:00:05.240" end="00:00:10.140" region="bottomCenter">Rozpoczynając przygodę z witryną WordPress, odkryjesz szereg opcji znajdujących się</p>
+      <p xml:id="p3" begin="00:00:10.220" end="00:00:13.220" region="bottomCenter">w sekcji „Ustawienia” w lewym dolnym rogu kokpitu.</p>
+      <p xml:id="p4" begin="00:00:13.740" end="00:00:18.840" region="bottomCenter">Później zajmiemy się tymi opcjami bardziej szczegółowo, ale teraz skupmy się na kilku kluczowych ustawieniach,</p>
+      <p xml:id="p5" begin="00:00:18.920" end="00:00:22.920" region="bottomCenter">które pozwolą ci uruchomić witrynę i zapewnić jej płynne działanie.</p>
+      <p xml:id="p6" begin="00:00:22.940" end="00:00:27.940" region="bottomCenter">Efekty uczenia się obejmują ustawienie tytułu i sloganu witryny, aktualizację strefy czasowej</p>
+      <p xml:id="p7" begin="00:00:28.880" end="00:00:31.880" region="bottomCenter">witryny oraz wybór wyświetlania strony głównej.</p>
+      <p xml:id="p8" begin="00:00:33.640" end="00:00:36.640" region="bottomCenter">Na początek porozmawiajmy o tożsamości twojej witryny.</p>
+      <p xml:id="p9" begin="00:00:36.920" end="00:00:39.920" region="bottomCenter">W menu „Ustawienia” znajdziesz opcję „Ogólne”.</p>
+      <p xml:id="p10" begin="00:00:40.120" end="00:00:42.120" region="bottomCenter">Te elementy nie służą wyłącznie celom estetycznym.</p>
+      <p xml:id="p11" begin="00:00:42.240" end="00:00:46.240" region="bottomCenter">Mają one kluczowe znaczenie dla tego, jak twoja witryna wyświetla się w wynikach wyszukiwania.</p>
+      <p xml:id="p12" begin="00:00:46.400" end="00:00:48.300" region="bottomCenter">Co więc możesz zrobić?</p>
+      <p xml:id="p13" begin="00:00:48.320" end="00:00:53.320" region="bottomCenter">Stwórz atrakcyjny tytuł i slogan, które nie tylko reprezentują twoją witrynę, ale także zachęcają</p>
+      <p xml:id="p14" begin="00:00:53.320" end="00:00:57.320" region="bottomCenter">odwiedzających do jej otwarcia, gdy zobaczą ją w wynikach wyszukiwania</p>
+      <p xml:id="p15" begin="00:00:57.720" end="00:00:59.720" region="bottomCenter">lub gdy ją odwiedzą.</p>
+      <p xml:id="p16" begin="00:00:59.960" end="00:01:04.460" region="bottomCenter">Tytuł i slogan strony powinny informować odwiedzających, czym zajmuje się twoja witryna</p>
+      <p xml:id="p17" begin="00:01:04.880" end="00:01:06.180" region="bottomCenter">i kogo chcesz przyciągnąć.</p>
+      <p xml:id="p18" begin="00:01:06.200" end="00:01:10.200" region="bottomCenter">Często są to pierwsze elementy, które odwiedzający zauważają na twojej witrynie.</p>
+      <p xml:id="p19" begin="00:01:10.920" end="00:01:15.920" region="bottomCenter">Tytuł to zazwyczaj nazwa twojej witryny, natomiast slogan to krótkie zdanie lub fraza,</p>
+      <p xml:id="p20" begin="00:01:16.800" end="00:01:19.800" region="bottomCenter">które mają na celu przekazanie głównej tematyki strony.</p>
+      <p xml:id="p21" begin="00:01:20.960" end="00:01:25.760" region="bottomCenter">Pamiętaj, że możesz zdecydować się nie wyświetlać swojego sloganu, ale jak już wspomniano,</p>
+      <p xml:id="p22" begin="00:01:25.840" end="00:01:30.840" region="bottomCenter">wyszukiwarki zwracają uwagę na tytuły i slogany, co również pomoże ci poprawić SEO twojej witryny.</p>
+      <p xml:id="p23" begin="00:01:32.080" end="00:01:36.280" region="bottomCenter">Dlatego pamiętaj, aby dodać swój slogan, nawet jeśli zdecydujesz się nie wyświetlać</p>
+      <p xml:id="p24" begin="00:01:36.360" end="00:01:38.360" region="bottomCenter">go na stronie głównej swojej witryny.</p>
+      <p xml:id="p25" begin="00:01:38.880" end="00:01:42.880" region="bottomCenter">Oto przykład z wyszukiwarki, w której nie widać sloganu na stronie,</p>
+      <p xml:id="p26" begin="00:01:43.400" end="00:01:48.900" region="bottomCenter">ale po wyszukaniu hasła „Mantis Research” wyświetla się tytuł strony „Mantis Research” oraz część sloganu,</p>
+      <p xml:id="p27" begin="00:01:50.080" end="00:01:54.080" region="bottomCenter">co pomaga marketerom publikować badania, które przyciągają uwagę.</p>
+      <p xml:id="p28" begin="00:01:54.080" end="00:01:59.080" region="bottomCenter">Możesz zmienić tytuł i slogan swojej witryny w sekcji „Ustawienia ogólne”, jak pokazano</p>
+      <p xml:id="p29" begin="00:02:02.320" end="00:02:03.320" region="bottomCenter">w przykładzie.</p>
+      <p xml:id="p30" begin="00:02:04.240" end="00:02:07.240" region="bottomCenter">Możesz również zaktualizować tytuł i slogan witryny w edytorze witryny</p>
+      <p xml:id="p31" begin="00:02:09.920" end="00:02:11.420" region="bottomCenter">podczas aktualizacji nagłówka.</p>
+      <p xml:id="p32" begin="00:02:11.600" end="00:02:17.100" region="bottomCenter">Jeśli zaktualizujesz lub zmienisz blok „Tytuł witryny” lub blok „Slogan witryny”, zostanie on również</p>
+      <p xml:id="p33" begin="00:02:17.320" end="00:02:20.320" region="bottomCenter">automatycznie zaktualizowany w sekcji „Ustawienia ogólne”.</p>
+      <p xml:id="p34" begin="00:02:20.320" end="00:02:24.320" region="bottomCenter">Następnie omówimy ustawienia strefy czasowej w sekcji „Ogólne”.</p>
+      <p xml:id="p35" begin="00:02:26.480" end="00:02:31.380" region="bottomCenter">Najlepiej, aby strefa czasowa twojej witryny była zgodna z ustawieniami strefy czasowej komputera lub</p>
+      <p xml:id="p36" begin="00:02:31.400" end="00:02:32.400" region="bottomCenter">czasem lokalnym.</p>
+      <p xml:id="p37" begin="00:02:32.840" end="00:02:37.840" region="bottomCenter">Dzięki temu zaplanowane wpisy będą publikowane we właściwym czasie, a jeśli opublikujesz treść</p>
+      <p xml:id="p38" begin="00:02:38.520" end="00:02:42.520" region="bottomCenter">z wyprzedzeniem, będziesz dokładnie wiedzieć, kiedy zostanie ona opublikowana.</p>
+      <p xml:id="p39" begin="00:02:44.040" end="00:02:47.040" region="bottomCenter">Masz również możliwość wyboru własnego formatu daty i godziny.</p>
+      <p xml:id="p40" begin="00:02:51.360" end="00:02:55.360" region="bottomCenter">Możesz nawet zdecydować, kiedy chcesz, aby rozpoczynał się twój tydzień.</p>
+      <p xml:id="p41" begin="00:02:56.440" end="00:02:59.440" region="bottomCenter">Skupmy się teraz na strukturze twojej witryny.</p>
+      <p xml:id="p42" begin="00:03:01.920" end="00:03:05.920" region="bottomCenter">W sekcji „Czytanie” w ustawieniach możesz zdecydować, co zobaczą odwiedzający po</p>
+      <p xml:id="p43" begin="00:03:06.720" end="00:03:07.720" region="bottomCenter">wejściu na twoją witrynę.</p>
+      <p xml:id="p44" begin="00:03:07.720" end="00:03:12.720" region="bottomCenter">Czy chcesz mieć dynamiczną stronę główną prezentującą najnowsze wpisy, czy statyczną stronę?</p>
+      <p xml:id="p45" begin="00:03:14.000" end="00:03:15.500" region="bottomCenter">Wybór należy do ciebie.</p>
+      <p xml:id="p46" begin="00:03:15.760" end="00:03:19.760" region="bottomCenter">Domyślnie WordPress wyświetla listę wpisów na stronie głównej twojej witryny.</p>
+      <p xml:id="p47" begin="00:03:21.960" end="00:03:25.960" region="bottomCenter">Lista ta jest automatycznie aktualizowana po opublikowaniu nowych wpisów.</p>
+      <p xml:id="p48" begin="00:03:27.360" end="00:03:32.360" region="bottomCenter">Nie ma też potrzeby tworzenia żadnej strony, aby mieć stronę główną z najnowszymi wpisami.</p>
+      <p xml:id="p49" begin="00:03:35.040" end="00:03:39.040" region="bottomCenter">Możesz zapytać, gdzie edytować tę stronę główną wyświetlającą najnowsze wpisy?</p>
+      <p xml:id="p50" begin="00:03:41.400" end="00:03:45.400" region="bottomCenter">Ta strona główna jest wyświetlana za pomocą szablonu strony głównej bloga.</p>
+      <p xml:id="p51" begin="00:03:45.880" end="00:03:49.880" region="bottomCenter">eśli więc wybrałeś najnowsze wpisy jako wyświetlane na stronie głównej, możesz</p>
+      <p xml:id="p52" begin="00:03:51.080" end="00:03:53.080" region="bottomCenter">przejść do sekcji „Wygląd” i kliknąć „Edytor”.</p>
+      <p xml:id="p53" begin="00:03:53.960" end="00:03:57.960" region="bottomCenter">Otworzy się edytor witryny, a domyślnie po prawej stronie pojawi się szablon</p>
+      <p xml:id="p54" begin="00:03:59.440" end="00:04:00.440" region="bottomCenter">strony głównej bloga.</p>
+      <p xml:id="p55" begin="00:04:00.440" end="00:04:06.440" region="bottomCenter">Aby go otworzyć, wystarczy na niego kliknąć, a następnie można rozpocząć edycję szablonu strony głównej,</p>
+      <p xml:id="p56" begin="00:04:06.560" end="00:04:09.560" region="bottomCenter">który wyświetla wpisy za pomocą bloku „Pętla zapytania”.</p>
+      <p xml:id="p57" begin="00:04:11.000" end="00:04:14.000" region="bottomCenter">Tutaj można edytować i dostosowywać stronę główną.</p>
+      <p xml:id="p58" begin="00:04:18.440" end="00:04:22.440" region="bottomCenter">Jeśli jednak wolisz mieć statyczną stronę główną, możesz przejść do stron,</p>
+      <p xml:id="p59" begin="00:04:24.240" end="00:04:29.240" region="bottomCenter">a następnie utworzyć stronę główną oraz stronę dla wpisów, w tym przypadku moją stronę blogową.</p>
+      <p xml:id="p60" begin="00:04:34.000" end="00:04:39.000" region="bottomCenter">Następnie możesz utworzyć dowolne inne strony, które chcesz umieścić w swojej witrynie.</p>
+      <p xml:id="p61" begin="00:04:39.320" end="00:04:44.320" region="bottomCenter">Możesz wrócić do kokpitu, wybrać „Ustawienia”, „Czytanie”, a następnie włączyć opcję</p>
+      <p xml:id="p62" begin="00:04:45.680" end="00:04:48.680" region="bottomCenter">używania statycznej strony obok wyświetlanej strony głównej.</p>
+      <p xml:id="p63" begin="00:04:49.760" end="00:04:54.760" region="bottomCenter">Następnie wybierz jedną ze stron, które utworzyłeś jako stronę główną lub stronę startową.</p>
+      <p xml:id="p64" begin="00:04:55.520" end="00:05:01.520" region="bottomCenter">Poniżej możesz również wybrać inną stronę, na której będą wyświetlane np. dynamiczne wpisy lub blog.</p>
+      <p xml:id="p65" begin="00:05:02.800" end="00:05:07.800" region="bottomCenter">Po wybraniu statycznej strony, twoja strona główna zostanie automatycznie przypisana do</p>
+      <p xml:id="p66" begin="00:05:07.920" end="00:05:09.420" region="bottomCenter">domyślnego szablonu strony.</p>
+      <p xml:id="p67" begin="00:05:09.520" end="00:05:12.520" region="bottomCenter">Przejdźmy do stron, aby zobaczyć to w praktyce.</p>
+      <p xml:id="p68" begin="00:05:14.400" end="00:05:19.400" region="bottomCenter">Kiedy otwieram statyczną stronę główną, a następnie otwieram pasek boczny ustawień, zauważam,</p>
+      <p xml:id="p69" begin="00:05:21.360" end="00:05:26.860" region="bottomCenter">że po prawej stronie, obok szablonu, znajduje się informacja, że ta strona została przypisana do szablonu strony</p>
+      <p xml:id="p70" begin="00:05:27.000" end="00:05:30.000" region="bottomCenter">lub szablonu domyślnego.</p>
+      <p xml:id="p71" begin="00:05:30.640" end="00:05:35.640" region="bottomCenter">Oznacza to, że statyczna strona główna i inne strony, które zostały przypisane do</p>
+      <p xml:id="p72" begin="00:05:35.760" end="00:05:40.760" region="bottomCenter">tego domyślnego szablonu, będą miały ten sam szablon, czyli ten sam nagłówek i stopkę.</p>
+      <p xml:id="p73" begin="00:05:41.720" end="00:05:44.720" region="bottomCenter">Jeśli chcesz zaktualizować nagłówek, stopkę i strukturę tej strony,</p>
+      <p xml:id="p74" begin="00:05:46.080" end="00:05:48.080" region="bottomCenter">zrób to w szablonie.</p>
+      <p xml:id="p75" begin="00:05:48.440" end="00:05:53.440" region="bottomCenter">Ale oczywiście wróć do strony głównej, aby rozpocząć dodawanie treści i budowanie</p>
+      <p xml:id="p76" begin="00:05:53.520" end="00:05:56.520" region="bottomCenter">strony głównej za pomocą bloków.</p>
+      <p xml:id="p77" begin="00:05:59.560" end="00:06:04.060" region="bottomCenter">Podczas edycji strony z wpisami zauważysz, że u góry znajduje się informacja,</p>
+      <p xml:id="p78" begin="00:06:04.480" end="00:06:07.980" region="bottomCenter">że aktualnie edytujesz stronę, która wyświetla twoje najnowsze wpisy.</p>
+      <p xml:id="p79" begin="00:06:08.320" end="00:06:13.320" region="bottomCenter">Należy pamiętać, że strona wpisów została przypisana do szablonu strony głównej bloga.</p>
+      <p xml:id="p80" begin="00:06:14.080" end="00:06:17.080" region="bottomCenter">Całą stronę bloga zbudujesz w szablonie strony głównej bloga</p>
+      <p xml:id="p81" begin="00:06:19.600" end="00:06:22.600" region="bottomCenter">i pozostawisz tę stronę pustą.</p>
+      <p xml:id="p82" begin="00:06:22.680" end="00:06:27.480" region="bottomCenter">Prawidłowa konfiguracja podstawowych ustawień WordPressa ma kluczowe znaczenie dla funkcjonalności</p>
+      <p xml:id="p83" begin="00:06:27.560" end="00:06:29.060" region="bottomCenter">i wyglądu twojej witryny.</p>
+      <p xml:id="p84" begin="00:06:29.200" end="00:06:33.200" region="bottomCenter">Jak już wspomniano, w dalszej części omówimy więcej ustawień.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 03-pl-choosing-and-installing-a-theme-3</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:05.000" region="bottomCenter">Dzisiejsza sesja będzie poświęcona wyborowi i instalacji odpowiedniego motywu.</p>
+      <p xml:id="p2" begin="00:00:05.000" end="00:00:08.000" region="bottomCenter">Oto cele edukacyjne tego warsztatu.</p>
+      <p xml:id="p3" begin="00:00:08.000" end="00:00:11.000" region="bottomCenter">Rozróżnienie czterech różnych typów motywów,</p>
+      <p xml:id="p4" begin="00:00:12.000" end="00:00:14.000" region="bottomCenter">wyszukiwanie i ocena motywów,</p>
+      <p xml:id="p5" begin="00:00:14.000" end="00:00:19.000" region="bottomCenter">instalacja i aktualizacja motywu, a na koniec dostęp do pomocy technicznej dotyczącej motywu.</p>
+      <p xml:id="p6" begin="00:00:19.000" end="00:00:20.000" region="bottomCenter">Zaczynamy.</p>
+      <p xml:id="p7" begin="00:00:20.000" end="00:00:26.000" region="bottomCenter">Krótko mówiąc, motyw to po prostu szablon witryny internetowej o określonym układzie i wyglądzie.</p>
+      <p xml:id="p8" begin="00:00:27.000" end="00:00:32.000" region="bottomCenter">Podczas korzystania z WordPressa treść jest całkowicie oddzielona od jej prezentacji.</p>
+      <p xml:id="p9" begin="00:00:32.000" end="00:00:37.000" region="bottomCenter">Oznacza to, że wygląd i styl witryny można całkowicie zmienić, używając innego motywu,</p>
+      <p xml:id="p10" begin="00:00:37.000" end="00:00:40.000" region="bottomCenter">podczas gdy treść pozostanie taka sama.</p>
+      <p xml:id="p11" begin="00:00:40.000" end="00:00:42.000" region="bottomCenter">Spójrzmy na przykład.</p>
+      <p xml:id="p12" begin="00:00:42.000" end="00:00:45.000" region="bottomCenter">Tutaj używam domyślnego motywu Twenty Twenty-Three.</p>
+      <p xml:id="p13" begin="00:00:46.000" end="00:00:49.000" region="bottomCenter">W następnym przykładzie zainstalowałem i włączyłem motyw Bounce,</p>
+      <p xml:id="p14" begin="00:00:55.000" end="00:00:58.000" region="bottomCenter">który ma zupełnie inny wygląd i styl.</p>
+      <p xml:id="p15" begin="00:00:58.000" end="00:01:01.000" region="bottomCenter">Jednak treść pozostaje taka sama.</p>
+      <p xml:id="p16" begin="00:01:01.000" end="00:01:10.000" region="bottomCenter">Należy również podkreślić, że twoja witryna nie będzie wyglądać tak samo jak miniatury lub przykładowe witryny motywu, który zainstalujesz i włączysz.</p>
+      <p xml:id="p17" begin="00:01:11.000" end="00:01:18.000" region="bottomCenter">Jest to jedynie przykład tego, co można osiągnąć, a czasami wymaga instalacji określonych wtyczek, aby uzyskać początkowy wygląd.</p>
+      <p xml:id="p18" begin="00:01:20.000" end="00:01:23.000" region="bottomCenter">W WordPressie dostępne są tysiące darmowych motywów,</p>
+      <p xml:id="p19" begin="00:01:24.000" end="00:01:28.000" region="bottomCenter">ale motywy premium są dostępne poza repozytorium motywów.</p>
+      <p xml:id="p20" begin="00:01:29.000" end="00:01:34.000" region="bottomCenter">Należy jednak pamiętać, że wiele darmowych wersji oferuje również pakiety premium.</p>
+      <p xml:id="p21" begin="00:01:34.000" end="00:01:38.000" region="bottomCenter">Być może zadajesz sobie pytanie, jakie są rodzaje motywów?</p>
+      <p xml:id="p22" begin="00:01:39.000" end="00:01:42.000" region="bottomCenter">Istnieją cztery rodzaje motywów, na które warto zwrócić uwagę.</p>
+      <p xml:id="p23" begin="00:01:42.000" end="00:01:47.000" region="bottomCenter">Motywy blokowe, motywy klasyczne, motywy hybrydowe i motywy uniwersalne.</p>
+      <p xml:id="p24" begin="00:01:49.000" end="00:01:54.000" region="bottomCenter">Warto wspomnieć, że motywy blokowe i motywy klasyczne są najczęściej używane,</p>
+      <p xml:id="p25" begin="00:01:54.000" end="00:01:57.000" region="bottomCenter">a motywy blokowe stanowią przyszłość WordPressa.</p>
+      <p xml:id="p26" begin="00:01:57.000" end="00:02:00.000" region="bottomCenter">Zacznijmy więc od przyjrzenia się motywom blokowym.</p>
+      <p xml:id="p27" begin="00:02:00.000" end="00:02:04.000" region="bottomCenter">Motyw blokowy wykorzystuje bloki we wszystkich częściach witryny,</p>
+      <p xml:id="p28" begin="00:02:04.000" end="00:02:08.000" region="bottomCenter">w tym w menu nawigacyjnych, nagłówkach, treściach i stopkach.</p>
+      <p xml:id="p29" begin="00:02:08.000" end="00:02:14.000" region="bottomCenter">Motywy blokowe umożliwiają edycję i dostosowywanie wszystkich części witryny w edytorze witryny.</p>
+      <p xml:id="p30" begin="00:02:14.000" end="00:02:17.000" region="bottomCenter">Zobaczmy, jak działa motyw blokowy.</p>
+      <p xml:id="p31" begin="00:02:18.000" end="00:02:21.000" region="bottomCenter">Przejdę do sekcji „Wygląd” i kliknę „Motywy”.</p>
+      <p xml:id="p32" begin="00:02:22.000" end="00:02:25.000" region="bottomCenter">Włączyłem motyw blokowy o nazwie Twenty Twenty-Three,</p>
+      <p xml:id="p33" begin="00:02:27.000" end="00:02:30.000" region="bottomCenter">a na lewym pasku bocznym widać, że mamy dostęp do edytora.</p>
+      <p xml:id="p34" begin="00:02:33.000" end="00:02:37.000" region="bottomCenter">Po kliknięciu na edytor zostaniemy przeniesieni do edytora witryny,</p>
+      <p xml:id="p35" begin="00:02:38.000" end="00:02:41.000" region="bottomCenter">gdzie można tworzyć i edytować strony.</p>
+      <p xml:id="p36" begin="00:02:45.000" end="00:02:50.000" region="bottomCenter">Można utworzyć stronę roboczą lub edytować jedną z istniejących stron.</p>
+      <p xml:id="p37" begin="00:02:50.000" end="00:02:53.000" region="bottomCenter">Następnie możemy również zmienić style całej witryny</p>
+      <p xml:id="p38" begin="00:02:56.000" end="00:03:00.000" region="bottomCenter">lub dostosować wygląd poszczególnych bloków dla całej witryny.</p>
+      <p xml:id="p39" begin="00:03:01.000" end="00:03:05.000" region="bottomCenter">Edytor witryny umożliwia również konfigurowanie szablonów.</p>
+      <p xml:id="p40" begin="00:03:09.000" end="00:03:14.000" region="bottomCenter">Możesz dodawać nowe szablony lub edytować szablony dostarczone wraz z motywem.</p>
+      <p xml:id="p41" begin="00:03:15.000" end="00:03:18.000" region="bottomCenter">Ponadto możesz zarządzać różnymi wzorcami,</p>
+      <p xml:id="p42" begin="00:03:24.000" end="00:03:29.000" region="bottomCenter">wzorcami stworzonymi samodzielnie lub wzorcami szablonów nagłówków i stopek,</p>
+      <p xml:id="p43" begin="00:03:29.000" end="00:03:31.000" region="bottomCenter">które oczywiście dodajemy do szablonów.</p>
+      <p xml:id="p44" begin="00:03:31.000" end="00:03:37.000" region="bottomCenter">Zdaję sobie sprawę, że niektórzy mogą nie znać terminów takich jak style, szablony itp.</p>
+      <p xml:id="p45" begin="00:03:37.000" end="00:03:41.000" region="bottomCenter">Aby dowiedzieć się więcej, zapoznaj się z materiałami zamieszczonymi pod tym filmem.</p>
+      <p xml:id="p46" begin="00:03:41.000" end="00:03:46.000" region="bottomCenter">Wspaniała nowa funkcja pozwala również na podgląd motywu blokowego przed zmianą.</p>
+      <p xml:id="p47" begin="00:03:47.000" end="00:03:52.000" region="bottomCenter">Po najechaniu kursorem na motyw blokowy pojawi się przycisk podglądu na żywo.</p>
+      <p xml:id="p48" begin="00:03:52.000" end="00:03:57.000" region="bottomCenter">Po kliknięciu przycisku „Podgląd” na żywo zostaniesz przeniesiony do edytora witryny.</p>
+      <p xml:id="p49" begin="00:03:58.000" end="00:04:04.000" region="bottomCenter">Dzięki temu nie tylko możesz wyświetlić podgląd witryny, ale także zapoznać się z edytorem witryny.</p>
+      <p xml:id="p50" begin="00:04:06.000" end="00:04:11.000" region="bottomCenter">Teraz możesz wprowadzać dowolne zmiany lub dostosowania według własnego uznania.</p>
+      <p xml:id="p51" begin="00:04:12.000" end="00:04:15.000" region="bottomCenter">Na przykład zmienię styl i czcionkę tekstu.</p>
+      <p xml:id="p52" begin="00:04:21.000" end="00:04:24.000" region="bottomCenter">Teraz możemy przeglądać nasze strony, szablony itp.</p>
+      <p xml:id="p53" begin="00:04:34.000" end="00:04:40.000" region="bottomCenter">Jeśli podoba ci się to, co widzisz, możesz nawet aktywować i zapisać motyw oraz wprowadzone zmiany.</p>
+      <p xml:id="p54" begin="00:04:42.000" end="00:04:48.000" region="bottomCenter">Klasyczny motyw nie wykorzystuje edytora bloków do zarządzania układem strony poza wpisami i stronami.</p>
+      <p xml:id="p55" begin="00:04:49.000" end="00:04:55.000" region="bottomCenter">Wykorzystuje on narzędzie „Personalizacja”, menu i widżety do wprowadzania zmian w ustawieniach motywu.</p>
+      <p xml:id="p56" begin="00:04:55.000" end="00:05:00.000" region="bottomCenter">Ponieważ klasyczne motywy istnieją najdłużej, jest ich znacznie więcej do wyboru.</p>
+      <p xml:id="p57" begin="00:05:01.000" end="00:05:04.000" region="bottomCenter">Przyjrzyjmy się bliżej przykładowi klasycznego motywu.</p>
+      <p xml:id="p58" begin="00:05:04.000" end="00:05:10.000" region="bottomCenter">Po przejściu do sekcji „Wygląd” i kliknięciu opcji „Motywy” zauważysz, że włączyłem motyw Twenty Sixteen.</p>
+      <p xml:id="p59" begin="00:05:11.000" end="00:05:16.000" region="bottomCenter">W ustawieniach paska bocznego będziesz mieć dostęp do narzędzia dostosowywania i innych opcji.</p>
+      <p xml:id="p60" begin="00:05:16.000" end="00:05:21.000" region="bottomCenter">Po otwarciu narzędzia dostosowywania będziesz mógł zmienić wszystkie ustawienia motywu.</p>
+      <p xml:id="p61" begin="00:05:25.000" end="00:05:31.000" region="bottomCenter">Należy pamiętać, że motywy blokowe zapewniają większą elastyczność w projektowaniu i dostosowywaniu witryny internetowej.</p>
+      <p xml:id="p62" begin="00:05:31.000" end="00:05:38.000" region="bottomCenter">Motyw hybrydowy to klasyczny motyw, który wykorzystuje niektóre funkcje edycji witryny, takie jak edytor szablonów.</p>
+      <p xml:id="p63" begin="00:05:39.000" end="00:05:48.000" region="bottomCenter">Motyw hybrydowy, taki jak Eksell, nadal wykorzystuje narzędzie „Personalizacja” do wprowadzania zmian, a jednocześnie umożliwia tworzenie własnych szablonów.</p>
+      <p xml:id="p64" begin="00:05:49.000" end="00:05:55.000" region="bottomCenter">Przejdźmy więc do stron, otwórz jedną ze stron i przejdź do ustawień paska bocznego po prawej stronie.</p>
+      <p xml:id="p65" begin="00:05:57.000" end="00:06:03.000" region="bottomCenter">Kliknij „Szablony”, aby przypisać stronę do innego szablonu lub utworzyć szablon niestandardowy.</p>
+      <p xml:id="p66" begin="00:06:11.000" end="00:06:18.000" region="bottomCenter">I wreszcie, motyw uniwersalny to motyw, który można skonfigurować całkowicie w dowolny sposób, jako motyw blokowy lub klasyczny.</p>
+      <p xml:id="p67" begin="00:06:19.000" end="00:06:27.000" region="bottomCenter">W tym przykładzie zainstalowałem motyw uniwersalny Emulsion, jak można zauważyć, masz dostęp zarówno do narzędzia dostosowywania, jak i edytora.</p>
+      <p xml:id="p68" begin="00:06:29.000" end="00:06:33.000" region="bottomCenter">Następnie porozmawiajmy o wyszukiwaniu i dodawaniu nowych motywów.</p>
+      <p xml:id="p69" begin="00:06:36.000" end="00:06:42.000" region="bottomCenter">Aby dodać nowy motyw, przejdź do sekcji „Wygląd” i kliknij „Motywy”. U góry kliknij „Dodaj nowy”.</p>
+      <p xml:id="p70" begin="00:06:44.000" end="00:06:50.000" region="bottomCenter">Możesz wyszukiwać najpopularniejsze motywy, najnowsze dodane motywy oraz motywy przeznaczone do bloków.</p>
+      <p xml:id="p71" begin="00:06:53.000" end="00:06:57.000" region="bottomCenter">Po kliknięciu motywu wyświetlą się jego szczegóły oraz podgląd.</p>
+      <p xml:id="p72" begin="00:07:04.000" end="00:07:10.000" region="bottomCenter">Po kliknięciu na filtr „Funkcje” będziesz mógł wyszukiwać motywy według tematu, funkcji i układu.</p>
+      <p xml:id="p73" begin="00:07:12.000" end="00:07:15.000" region="bottomCenter">Co sprawia, że motyw jest dobry?</p>
+      <p xml:id="p74" begin="00:07:15.000" end="00:07:22.000" region="bottomCenter">Aby przejrzeć motywy, przejdź do strony WordPress.org, najedź kursorem na opcję „Extend”, a następnie kliknij „Motywy”.</p>
+      <p xml:id="p75" begin="00:07:23.000" end="00:07:26.000" region="bottomCenter">Tutaj możesz wyszukiwać różne motywy.</p>
+      <p xml:id="p76" begin="00:07:28.000" end="00:07:34.000" region="bottomCenter">Po znalezieniu odpowiedniego motywu kliknij opcję „Więcej informacji”, aby dowiedzieć się więcej o konkretnym motywie.</p>
+      <p xml:id="p77" begin="00:07:34.000" end="00:07:38.000" region="bottomCenter">Wszystkie informacje potrzebne do podjęcia świadomej decyzji znajdziesz po prawej stronie.</p>
+      <p xml:id="p78" begin="00:07:38.000" end="00:07:47.000" region="bottomCenter">Po zapoznaniu się z aktualizacjami wersji, aktywnymi instalacjami i ocenami uzyskasz dobre wyobrażenie o ogólnych wrażeniach innych użytkowników z tego motywu.</p>
+      <p xml:id="p79" begin="00:07:48.000" end="00:07:51.000" region="bottomCenter">Jak zainstalować motyw?</p>
+      <p xml:id="p80" begin="00:07:51.000" end="00:07:57.000" region="bottomCenter">Aby zainstalować nowy motyw, przejdź do sekcji „Wygląd”, kliknij „Motywy” i wybierz „Dodaj nowy”.</p>
+      <p xml:id="p81" begin="00:07:59.000" end="00:08:03.000" region="bottomCenter">Po znalezieniu odpowiedniego motywu kliknij „Zainstaluj”.</p>
+      <p xml:id="p82" begin="00:08:05.000" end="00:08:08.000" region="bottomCenter">Po zainstalowaniu nie zapomnij kliknąć „Włącz”.</p>
+      <p xml:id="p83" begin="00:08:10.000" end="00:08:14.000" region="bottomCenter">Jeśli masz motyw w postaci pliku zip, możesz zainstalować go ręcznie.</p>
+      <p xml:id="p84" begin="00:08:16.000" end="00:08:20.000" region="bottomCenter">Kliknij „Dodaj nowy”, a następnie u góry wybierz „Prześlij motyw”.</p>
+      <p xml:id="p85" begin="00:08:21.000" end="00:08:24.000" region="bottomCenter">Następnie możesz przesłać go ze swojego komputera.</p>
+      <p xml:id="p86" begin="00:08:26.000" end="00:08:29.000" region="bottomCenter">A co z aktualizacjami?</p>
+      <p xml:id="p87" begin="00:08:30.000" end="00:08:36.000" region="bottomCenter">Jeśli dostępne są aktualizacje, zostaniesz o tym poinformowany w górnym pasku menu i menu kokpitu.</p>
+      <p xml:id="p88" begin="00:08:36.000" end="00:08:40.000" region="bottomCenter">Możesz przejść do strony aktualizacji i przewinąć ją w dół.</p>
+      <p xml:id="p89" begin="00:08:44.000" end="00:08:48.000" region="bottomCenter">Znajdziesz tam pojedynczy motyw lub listę dostępnych aktualizacji.</p>
+      <p xml:id="p90" begin="00:08:49.000" end="00:08:54.000" region="bottomCenter">Na tej stronie możesz wybrać aktualizację poszczególnych motywów lub wszystkich naraz.</p>
+      <p xml:id="p91" begin="00:08:54.000" end="00:09:01.000" region="bottomCenter">Pamiętaj, aby przed dokonaniem jakichkolwiek aktualizacji wykonać kopię zapasową swojej witryny lub rozważyć użycie motywu potomnego.</p>
+      <p xml:id="p92" begin="00:09:01.000" end="00:09:06.000" region="bottomCenter">Motyw potomny to motyw podrzędny, który dziedziczy wygląd i funkcje motywu głównego.</p>
+      <p xml:id="p93" begin="00:09:09.000" end="00:09:15.000" region="bottomCenter">Korzystanie z motywu potomnego pozwala na aktualizację motywu nadrzędnego bez wpływu na dostosowania wprowadzone w witrynie.</p>
+      <p xml:id="p94" begin="00:09:15.000" end="00:09:18.000" region="bottomCenter">Dostosowania są przechowywane oddzielnie od plików motywu głównego.</p>
+      <p xml:id="p95" begin="00:09:18.000" end="00:09:21.000" region="bottomCenter">Dodam jednak odnośnik do tego w zasobach poniżej.</p>
+      <p xml:id="p96" begin="00:09:21.000" end="00:09:28.000" region="bottomCenter">Inną opcją jest przejście do sekcji „Wygląd”, kliknięcie opcji „Motywy” i przejście do motywu, który wymaga aktualizacji.</p>
+      <p xml:id="p97" begin="00:09:29.000" end="00:09:32.000" region="bottomCenter">U góry pojawi się opcja „Aktualizuj teraz”.</p>
+      <p xml:id="p98" begin="00:09:33.000" end="00:09:38.000" region="bottomCenter">Można również kliknąć opcję „Szczegóły motywu”, a następnie u góry również aktualizować.</p>
+      <p xml:id="p99" begin="00:09:38.000" end="00:09:43.000" region="bottomCenter">Na koniec można również włączyć automatyczne aktualizacje dla tego konkretnego motywu.</p>
+      <p xml:id="p100" begin="00:09:44.000" end="00:09:47.000" region="bottomCenter">Jak usunąć motyw?</p>
+      <p xml:id="p101" begin="00:09:47.000" end="00:09:52.000" region="bottomCenter">Aby usunąć motyw, wybierz odpowiedni motyw; w prawym dolnym rogu możesz go usunąć.</p>
+      <p xml:id="p102" begin="00:09:56.000" end="00:09:59.000" region="bottomCenter">I na koniec, jak uzyskać pomoc techniczną?</p>
+      <p xml:id="p103" begin="00:10:00.000" end="00:10:07.000" region="bottomCenter">Aby uzyskać pomoc techniczną, przejdź do katalogu motywów, wybierz odpowiedni motyw i przewiń w dół do sekcji pomocy technicznej.</p>
+      <p xml:id="p104" begin="00:10:07.000" end="00:10:16.000" region="bottomCenter">Najlepszym sposobem uzyskania pomocy dotyczącej motywu jest przejście do forum pomocy technicznej związanego z motywem, aby zadać pytania lub przejrzeć inne zgłoszenia.</p>
+      <p xml:id="p105" begin="00:10:16.000" end="00:10:21.000" region="bottomCenter">Jestem przekonany, że znajdziesz odpowiedni motyw, który spełni wszystkie twoje potrzeby.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 23-pl-how-to-use-headings-for-accessibility-and-seo</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:05.000" region="bottomCenter">W tej lekcji dowiesz się, jak używać nagłówków, żeby poprawić dostępność i SEO.</p>
+      <p xml:id="p2" begin="00:00:06.000" end="00:00:15.000" region="bottomCenter">Czy wiesz, że używanie nagłówków w witrynach internetowych, w wpisach i na stronach może mieć wpływ na to, czy ludzie będą chcieli zostać na twojej witrynie, czy raczej ją opuszczą i poszukają innej?</p>
+      <p xml:id="p3" begin="00:00:17.000" end="00:00:23.000" region="bottomCenter">W tym przykładzie mamy artykuł bez nagłówków, co sprawia, że czytelnikowi trudno się po nim poruszać.</p>
+      <p xml:id="p4" begin="00:00:26.000" end="00:00:34.000" region="bottomCenter">W kolejnym przykładzie dodaliśmy odpowiednie nagłówki, aby pomóc czytelnikowi zrozumieć treść i dowiedzieć się, o czym jest artykuł, zanim go przeczyta.</p>
+      <p xml:id="p5" begin="00:00:39.000" end="00:00:44.000" region="bottomCenter">Nagłówki porządkują treść i ułatwiają czytelnikowi nawigację oraz wyszukiwanie informacji.</p>
+      <p xml:id="p6" begin="00:00:46.000" end="00:00:53.000" region="bottomCenter">Co najważniejsze, są one niezbędnym narzędziem zapewniającym dostępność i optymalizację pod kątem wyszukiwarek internetowych.</p>
+      <p xml:id="p7" begin="00:00:53.000" end="00:01:00.000" region="bottomCenter">Pod koniec tej lekcji będziemy potrafili prawidłowo używać nagłówków w celu poprawy czytelności, dostępności i SEO.</p>
+      <p xml:id="p8" begin="00:01:01.000" end="00:01:05.000" region="bottomCenter">Po pierwsze, dlaczego tak ważne jest strukturyzowanie treści za pomocą nagłówków?</p>
+      <p xml:id="p9" begin="00:01:05.000" end="00:01:08.000" region="bottomCenter">Cóż, wprowadzają one nowe tematy lub sekcje.</p>
+      <p xml:id="p10" begin="00:01:09.000" end="00:01:11.000" region="bottomCenter">Prowadzą czytelnika.</p>
+      <p xml:id="p11" begin="00:01:11.000" end="00:01:13.000" region="bottomCenter">Pozwalają mu przeglądać treść.</p>
+      <p xml:id="p12" begin="00:01:13.000" end="00:01:21.000" region="bottomCenter">Dają również czytelnikowi wyobrażenie o tym, czego może się spodziewać, a na koniec dzielą tematy na łatwiejsze do przyswojenia fragmenty informacji.</p>
+      <p xml:id="p13" begin="00:01:21.000" end="00:01:24.000" region="bottomCenter">Nagłówki służą również do wskazania hierarchii informacji.</p>
+      <p xml:id="p14" begin="00:01:25.000" end="00:01:31.000" region="bottomCenter">Twoje strony i wpisy zostaną podzielone na podnagłówki, takie jak nagłówek 2 lub H2, H3, aż do H6.</p>
+      <p xml:id="p15" begin="00:01:36.000" end="00:01:41.000" region="bottomCenter">Po dodaniu pierwszego bloku nagłówka zauważysz, że automatycznie zostanie wybrany nagłówek H2.</p>
+      <p xml:id="p16" begin="00:01:41.000" end="00:01:46.000" region="bottomCenter">Dzieje się tak, ponieważ tytuł strony lub wpisu jest pierwszym głównym nagłówkiem.</p>
+      <p xml:id="p17" begin="00:01:47.000" end="00:01:52.000" region="bottomCenter">Po dodaniu nagłówka możesz zmienić jego typ, wybierając odpowiedni nagłówek w widoku listy.</p>
+      <p xml:id="p18" begin="00:01:54.000" end="00:01:59.000" region="bottomCenter">Następnie wybierz opcję H2 na pasku narzędzi bloku, a stamtąd możesz wybrać między H1 a H6,</p>
+      <p xml:id="p19" begin="00:02:02.000" end="00:02:06.000" region="bottomCenter">aby upewnić się, że nagłówki są w prawidłowej kolejności i hierarchii.</p>
+      <p xml:id="p20" begin="00:02:07.000" end="00:02:12.000" region="bottomCenter">Czy wiesz, że możesz użyć funkcji konspektu w widoku listy, aby szybko sprawdzić nagłówki?</p>
+      <p xml:id="p21" begin="00:02:13.000" end="00:02:17.000" region="bottomCenter">Sprawdź, czy nagłówek H2 odnosi się do nagłówka H1, a H3 do H2 itd.</p>
+      <p xml:id="p22" begin="00:02:20.000" end="00:02:28.000" region="bottomCenter">WordPress powiadomi cię również w tej sekcji konspektu, jeśli przypadkowo pominiesz poziom nagłówka, pomagając ci upewnić się, że są one w porządku chronologicznym.</p>
+      <p xml:id="p23" begin="00:02:28.000" end="00:02:34.000" region="bottomCenter">Możesz sprawdzić swoje strony pod kątem błędów, aby szybko je poprawić, zamiast przeszukiwać je blok po bloku.</p>
+      <p xml:id="p24" begin="00:02:34.000" end="00:02:39.000" region="bottomCenter">W tym przykładzie chcę upewnić się, że wszystkie rodzaje sushi są wymienione jako H4.</p>
+      <p xml:id="p25" begin="00:02:40.000" end="00:02:43.000" region="bottomCenter">Nagłówki są również ważne dla dostępności.</p>
+      <p xml:id="p26" begin="00:02:44.000" end="00:02:49.000" region="bottomCenter">Nieprawidłowe ich użycie oznacza, że wiele osób nie będzie miało dostępu do informacji zawartych w twojej witrynie.</p>
+      <p xml:id="p27" begin="00:02:49.000" end="00:02:57.000" region="bottomCenter">Kiedy używasz nagłówków dla dostępności, umożliwia to czytnikom ekranowym lepszą nawigację po stronie i szybkie znalezienie odpowiednich informacji.</p>
+      <p xml:id="p28" begin="00:02:57.000" end="00:03:03.000" region="bottomCenter">Ponadto użytkownicy korzystający wyłącznie z klawiatury mogą szybko przejść do odpowiedniej sekcji za pomocą jednego kliknięcia.</p>
+      <p xml:id="p29" begin="00:03:03.000" end="00:03:09.000" region="bottomCenter">Bez nagłówków czytnik ekranowy, w tym przykładzie, musi odczytać na głos cały fragment tekstu.</p>
+      <p xml:id="p30" begin="00:03:10.000" end="00:03:13.000" region="bottomCenter">Nie ma nagłówków, które pozwoliłyby użytkownikom przejść dalej.</p>
+      <p xml:id="p31" begin="00:03:13.000" end="00:03:20.000" region="bottomCenter">Jeśli dodam nagłówki, czytnik ekranu lub klawiatura umożliwią użytkownikom szybkie przejście do sekcji, która jest dla nich istotna.</p>
+      <p xml:id="p32" begin="00:03:22.000" end="00:03:28.000" region="bottomCenter">Nagłówki pomagają również użytkownikom z wadami wzroku zachować strukturę strony po jej powiększeniu.</p>
+      <p xml:id="p33" begin="00:03:28.000" end="00:03:36.000" region="bottomCenter">Gdy użytkownik z wadą wzroku powiększa stronę, różne rozmiary tekstu pozwalają mu śledzić, gdzie się znajduje w witrynie internetowej.</p>
+      <p xml:id="p34" begin="00:03:39.000" end="00:03:42.000" region="bottomCenter">Pamiętaj, aby podzielić nagłówki na logiczne fragmenty.</p>
+      <p xml:id="p35" begin="00:03:43.000" end="00:03:47.000" region="bottomCenter">Na przykład ten wpis dotyczy papug, co jest tytułem, nagłówkiem H1.</p>
+      <p xml:id="p36" begin="00:03:48.000" end="00:03:53.000" region="bottomCenter">Artykuł rozpocząłem od omówienia zdrowia papug i w tym celu użyłem nagłówka H2.</p>
+      <p xml:id="p37" begin="00:03:55.000" end="00:04:01.000" region="bottomCenter">Kolejnym podtematem dotyczącym zdrowia papug jest ich odżywianie, a następnie możemy przejść do kolejnego podtytułu.</p>
+      <p xml:id="p38" begin="00:04:03.000" end="00:04:08.000" region="bottomCenter">Każdy podtemat powinien odnosić się do powyższego tematu, podobnie jak w artykule w czasopiśmie.</p>
+      <p xml:id="p39" begin="00:04:10.000" end="00:04:16.000" region="bottomCenter">Na koniec porozmawiajmy o nagłówkach i optymalizacji pod kątem wyszukiwarek internetowych, czyli SEO.</p>
+      <p xml:id="p40" begin="00:04:16.000" end="00:04:22.000" region="bottomCenter">Możesz przemyślanie umieszczać słowa kluczowe w nagłówkach, aby poprawić pozycję swojej witryny w wyszukiwarce.</p>
+      <p xml:id="p41" begin="00:04:22.000" end="00:04:26.000" region="bottomCenter">Nagłówki powinny stanowić jasne i zwięzłe podsumowanie poniższej treści.</p>
+      <p xml:id="p42" begin="00:04:26.000" end="00:04:29.000" region="bottomCenter">Powinny one dokładnie odzwierciedlać treść danej sekcji.</p>
+      <p xml:id="p43" begin="00:04:31.000" end="00:04:36.000" region="bottomCenter">W edytorze witryny możesz kliknąć opcję „Style” i otworzyć swoją „Księgę stylów”.</p>
+      <p xml:id="p44" begin="00:04:37.000" end="00:04:43.000" region="bottomCenter">W tym miejscu można globalnie stylizować nagłówki, korzystając z ustawień paska bocznego po prawej stronie.</p>
+      <p xml:id="p45" begin="00:04:44.000" end="00:04:51.000" region="bottomCenter">Aby uzyskać jednolity wygląd i styl, zaleca się stosowanie tej samej hierarchii nagłówków i stylizacji w całej witrynie.</p>
+      <p xml:id="p46" begin="00:04:51.000" end="00:04:55.000" region="bottomCenter">Ostatnia wskazówka: nigdy nie używaj bloku „Nagłówek” do stylizacji tekstu.</p>
+      <p xml:id="p47" begin="00:04:56.000" end="00:05:05.000" region="bottomCenter">eśli chcesz nadać tekstowi stylowy wygląd, użyj dodatkowego bloku, takiego jak blok „Cytat”, lub przekształć nagłówek w blok „Akapit” i użyj ustawień „Style” po prawej stronie, aby odpowiednio zmodyfikować tekst.</p>
+      <p xml:id="p48" begin="00:05:12.000" end="00:05:20.000" region="bottomCenter">Jestem przekonany, że zaczniesz stosować nagłówki, aby poprawić komfort użytkowania swojej witryny, a także jej pozycjonowanie w wyszukiwarkach.</p>
+    </div>
+  </body>
+</tt>

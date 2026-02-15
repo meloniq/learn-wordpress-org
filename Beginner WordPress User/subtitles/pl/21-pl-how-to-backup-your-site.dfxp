@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 21-pl-how-to-backup-your-site</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">W tej lekcji omówimy istotną część zarządzania witryną WordPress.</p>
+      <p xml:id="p2" begin="00:00:06.000" end="00:00:08.000" region="bottomCenter">Tworzenie kopii zapasowych cennych danych.</p>
+      <p xml:id="p3" begin="00:00:08.000" end="00:00:14.000" region="bottomCenter">Wypadki się zdarzają, dlatego ważne jest, aby mieć kopię zapasową witryny na wypadek, gdyby coś poszło nie tak.</p>
+      <p xml:id="p4" begin="00:00:14.000" end="00:00:20.000" region="bottomCenter">Zaleca się również tworzenie kopii zapasowej witryny przed aktualizacją WordPress, motywów lub wtyczek,</p>
+      <p xml:id="p5" begin="00:00:20.000" end="00:00:27.000" region="bottomCenter">przed zainstalowaniem nowych wtyczek lub motywów, przed migracją lub przeniesieniem witryny oraz po znaczących aktualizacjach treści.</p>
+      <p xml:id="p6" begin="00:00:29.000" end="00:00:32.000" region="bottomCenter">Omówimy dwie metody tworzenia kopii zapasowej witryny WordPress.</p>
+      <p xml:id="p7" begin="00:00:32.000" end="00:00:38.000" region="bottomCenter">Po pierwsze, skorzystaj z usług firmy hostingowej, a po drugie, użyj wtyczki do tworzenia kopii zapasowych.</p>
+      <p xml:id="p8" begin="00:00:38.000" end="00:00:43.000" region="bottomCenter">Istnieje również ręczny sposób tworzenia kopii zapasowej witryny, ale omówimy go pokrótce na końcu.</p>
+      <p xml:id="p9" begin="00:00:44.000" end="00:00:49.000" region="bottomCenter">Najłatwiejszym sposobem jest skorzystanie z usług firmy hostingowej w celu wykonania kopii zapasowej.</p>
+      <p xml:id="p10" begin="00:00:49.000" end="00:00:54.000" region="bottomCenter">Różne firmy hostingowe mają różne interfejsy lub sposoby tworzenia kopii zapasowych witryn.</p>
+      <p xml:id="p11" begin="00:00:54.000" end="00:01:00.000" region="bottomCenter">Można się tego nauczyć, przechodząc do strony kopii zapasowych i przywracania w panelu sterowania firmy hostingowej.</p>
+      <p xml:id="p12" begin="00:01:02.000" end="00:01:08.000" region="bottomCenter">Aby wyjaśnić, jak działa ten proces, posłużę się moją witryną internetową Pressable, ponieważ tam mam konto hostingowe.</p>
+      <p xml:id="p13" begin="00:01:08.000" end="00:01:14.000" region="bottomCenter">Po zalogowaniu się do panelu sterowania przejdę do sekcji tworzenia kopii zapasowych i przywracania danych.</p>
+      <p xml:id="p14" begin="00:01:14.000" end="00:01:17.000" region="bottomCenter">U góry zobaczymy dostępne aktualizacje systemu plików</p>
+      <p xml:id="p15" begin="00:01:22.000" end="00:01:25.000" region="bottomCenter">i bazy danych.</p>
+      <p xml:id="p16" begin="00:01:25.000" end="00:01:28.000" region="bottomCenter">Moja firma hostingowa automatycznie dokonuje tych aktualizacji.</p>
+      <p xml:id="p17" begin="00:01:30.000" end="00:01:35.000" region="bottomCenter">Być może zadajesz sobie pytanie, jaka jest różnica między systemem plików a bazą danych?</p>
+      <p xml:id="p18" begin="00:01:35.000" end="00:01:43.000" region="bottomCenter">Mówiąc o tworzeniu kopii zapasowej systemu plików, mamy na myśli tworzenie kopii zapasowej plików i folderów, które składają się na twoją witrynę.</p>
+      <p xml:id="p19" begin="00:01:43.000" end="00:01:51.000" region="bottomCenter">Pliki te obejmują pliki samego WordPressa, motywy, wtyczki, przesłane multimedia i wszelkie inne pliki związane z twoją witryną internetową.</p>
+      <p xml:id="p20" begin="00:01:53.000" end="00:01:59.000" region="bottomCenter">Z kolei kopia zapasowa bazy danych skupia się na tworzeniu kopii zapasowej danych przechowywanych w bazie danych twojej witryny.</p>
+      <p xml:id="p21" begin="00:01:59.000" end="00:02:07.000" region="bottomCenter">W WordPressie baza danych jest miejscem, w którym przechowywane są wszystkie treści tekstowe, ustawienia, informacje o użytkownikach i inne dane dynamiczne.</p>
+      <p xml:id="p22" begin="00:02:07.000" end="00:02:10.000" region="bottomCenter">Obejmuje ona wpisy, strony, komentarze, profile użytkowników itp.</p>
+      <p xml:id="p23" begin="00:02:12.000" end="00:02:17.000" region="bottomCenter">Jak już wspomniałem, moja firma hostingowa automatycznie aktualizuje moją witrynę.</p>
+      <p xml:id="p24" begin="00:02:18.000" end="00:02:27.000" region="bottomCenter">Jednak poniżej automatycznych aktualizacji można zauważyć, że mogę również wybrać opcję utworzenia kopii zapasowej mojej witryny w dowolnym momencie, co nazywa się kopią zapasową na żądanie.</p>
+      <p xml:id="p25" begin="00:02:28.000" end="00:02:31.000" region="bottomCenter">Zaktualizujmy więc mój system plików i bazę danych na żądanie.</p>
+      <p xml:id="p26" begin="00:02:34.000" end="00:02:40.000" region="bottomCenter">Teraz możemy zobaczyć naszą najnowszą kopię zapasową systemu plików i bazy danych wykonaną na żądanie.</p>
+      <p xml:id="p27" begin="00:02:47.000" end="00:02:53.000" region="bottomCenter">Kopie zapasowe te pojawią się również na liście dostępnych kopii zapasowych systemu plików i bazy danych.</p>
+      <p xml:id="p28" begin="00:02:59.000" end="00:03:06.000" region="bottomCenter">Jeśli więc coś pójdzie nie tak i trzeba będzie przywrócić poprzednią wersję witryny, wystarczy wybrać kopię zapasową,</p>
+      <p xml:id="p29" begin="00:03:16.000" end="00:03:18.000" region="bottomCenter">a następnie kliknąć „Przywróć”.</p>
+      <p xml:id="p30" begin="00:03:18.000" end="00:03:22.000" region="bottomCenter">Jeśli więc masz kopie zapasowe swojej witryny, nie musisz się martwić.</p>
+      <p xml:id="p31" begin="00:03:23.000" end="00:03:32.000" region="bottomCenter">Następnie przyjrzymy się bliżej korzystaniu z wtyczki, jeśli jest to preferowana opcja lub jeśli nie masz takiej możliwości u swojego dostawcy usług hostingowych.</p>
+      <p xml:id="p32" begin="00:03:33.000" end="00:03:38.000" region="bottomCenter">W katalogu wtyczek dostępne są różne wtyczki, takie jak Updraft Plus, Jetpack, Duplicator itp.</p>
+      <p xml:id="p33" begin="00:03:42.000" end="00:03:45.000" region="bottomCenter">W tym demo zainstalujemy i włączymy wtyczkę Updraft Plus.</p>
+      <p xml:id="p34" begin="00:03:50.000" end="00:03:53.000" region="bottomCenter">Po włączeniu możemy przejść do ustawień.</p>
+      <p xml:id="p35" begin="00:03:54.000" end="00:04:00.000" region="bottomCenter">Pod zakładką „Kopia zapasowa i przywracanie” zobaczymy następne zaplanowane i istniejące kopie zapasowe.</p>
+      <p xml:id="p36" begin="00:04:02.000" end="00:04:11.000" region="bottomCenter">W prawym górnym rogu zauważymy duże wezwanie do działania lub przyciski „Utwórz kopię zapasową teraz”, które umożliwiają wykonanie kopii zapasowej systemu plików i bazy danych na żądanie.</p>
+      <p xml:id="p37" begin="00:04:14.000" end="00:04:17.000" region="bottomCenter">Teraz utworzę kopię zapasową mojej witryny.</p>
+      <p xml:id="p38" begin="00:04:19.000" end="00:04:25.000" region="bottomCenter">Następnie zobaczysz również opcje konfiguracji kopii zapasowych dla bazy danych, systemu plików lub obu tych elementów.</p>
+      <p xml:id="p39" begin="00:04:25.000" end="00:04:28.000" region="bottomCenter">Następnie możemy wybrać opcję „Utwórz kopię zapasową teraz”.</p>
+      <p xml:id="p40" begin="00:04:31.000" end="00:04:37.000" region="bottomCenter">Po utworzeniu kopii zapasowej zauważymy, że ta kopia zapasowa na żądanie wyświetla istniejące kopie zapasowe poniżej.</p>
+      <p xml:id="p41" begin="00:04:38.000" end="00:04:43.000" region="bottomCenter">Jeśli coś pójdzie nie tak, możesz po prostu przywrócić swoją witrynę internetową używając poniższych funkcji.</p>
+      <p xml:id="p42" begin="00:04:43.000" end="00:04:49.000" region="bottomCenter">Po przejściu do ustawień możesz skonfigurować harmonogram tworzenia kopii zapasowych dla swojej witryny internetowej.</p>
+      <p xml:id="p43" begin="00:04:50.000" end="00:04:55.000" region="bottomCenter">W tym przykładzie powiem, że chcę, aby moja witryna była aktualizowana codziennie.</p>
+      <p xml:id="p44" begin="00:05:00.000" end="00:05:06.000" region="bottomCenter">Po prawej stronie możesz wybrać, ile kopii zapasowych chcesz, aby wtyczka zachowała lub przechowywała.</p>
+      <p xml:id="p45" begin="00:05:06.000" end="00:05:10.000" region="bottomCenter">Poniżej można wybrać miejsce przechowywania kopii zapasowych.</p>
+      <p xml:id="p46" begin="00:05:12.000" end="00:05:20.000" region="bottomCenter">Istnieje więcej opcji, które warto sprawdzić, ale po skonfigurowaniu wtyczki można mieć pewność, że w razie potrzeby kopia zapasowa będzie dostępna.</p>
+      <p xml:id="p47" begin="00:05:22.000" end="00:05:28.000" region="bottomCenter">Na tym etapie warto zwrócić uwagę na najlepszą praktykę dotyczącą tworzenia kopii zapasowych witryny.</p>
+      <p xml:id="p48" begin="00:05:28.000" end="00:05:32.000" region="bottomCenter">Kopię zapasową należy przechowywać w miejscu innym niż serwer internetowy.</p>
+      <p xml:id="p49" begin="00:05:32.000" end="00:05:37.000" region="bottomCenter">Dobrym rozwiązaniem są usługi przechowywania danych w chmurze, takie jak Dropbox, Google Drive itp.</p>
+      <p xml:id="p50" begin="00:05:37.000" end="00:05:42.000" region="bottomCenter">Dzięki temu kopie zapasowe pozostaną bezpieczne nawet w przypadku problemów z serwerem.</p>
+      <p xml:id="p51" begin="00:05:43.000" end="00:05:52.000" region="bottomCenter">Wreszcie, masz również możliwość ręcznej aktualizacji bazy danych za pomocą phpMyAdmin oraz systemu plików poprzez serwer swojej witryny, korzystając z klienta FTP lub menedżera plików w panelu sterowania hostingu.</p>
+      <p xml:id="p52" begin="00:05:56.000" end="00:06:02.000" region="bottomCenter">Metody te są bardziej techniczne, dlatego dodamy odnośniki do innych zasobów, jeśli chcesz dowiedzieć się więcej.</p>
+      <p xml:id="p53" begin="00:06:03.000" end="00:06:11.000" region="bottomCenter">Nie ma znaczenia, którą metodę wybierzesz, ale ważne jest, aby regularnie wykonywać kopie zapasowe w celu ochrony swojej witryny i jej cennych danych.</p>
+    </div>
+  </body>
+</tt>

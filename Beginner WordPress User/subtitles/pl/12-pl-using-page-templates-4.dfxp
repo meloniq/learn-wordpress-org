@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 12-pl-using-page-templates-4</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:03.000" region="bottomCenter">W tej lekcji zajmiemy się bardziej szczegółowo szablonami.</p>
+      <p xml:id="p2" begin="00:00:04.000" end="00:00:08.000" region="bottomCenter">Po zakończeniu tej lekcji będziemy umieli odróżnić strony od szablonów,</p>
+      <p xml:id="p3" begin="00:00:11.000" end="00:00:16.000" region="bottomCenter">wiedzieć, jak modyfikować jeden z naszych podstawowych szablonów, jak dodać nowy szablon,</p>
+      <p xml:id="p4" begin="00:00:17.000" end="00:00:20.000" region="bottomCenter">a na koniec, jak przypisać własny szablon do strony lub wpisu.</p>
+      <p xml:id="p5" begin="00:00:22.000" end="00:00:25.000" region="bottomCenter">Szablon określa strukturę wyświetlania strony.</p>
+      <p xml:id="p6" begin="00:00:27.000" end="00:00:32.000" region="bottomCenter">Zazwyczaj obejmuje on fragment szablonu nagłówka, obszar treści oraz fragment szablonu stopki.</p>
+      <p xml:id="p7" begin="00:00:37.000" end="00:00:41.000" region="bottomCenter">Uważam, że ważne jest, aby od samego początku wyjaśnić następujące kwestie.</p>
+      <p xml:id="p8" begin="00:00:43.000" end="00:00:47.000" region="bottomCenter">Szablony nie służą do publikowania treści; szablony wpisów lub stron</p>
+      <p xml:id="p9" begin="00:00:47.000" end="00:00:50.000" region="bottomCenter">wyświetlają treść za pomocą bloku treści wpisu.</p>
+      <p xml:id="p10" begin="00:00:51.000" end="00:00:56.000" region="bottomCenter">Szablony, jak sama nazwa wskazuje, są szablonami projektowymi, które można zastosować do</p>
+      <p xml:id="p11" begin="00:00:56.000" end="00:00:58.000" region="bottomCenter">pojedynczych lub wielu stron i wpisów.</p>
+      <p xml:id="p12" begin="00:00:58.000" end="00:01:02.000" region="bottomCenter">Aby uzyskać dostęp do szablonów, przejdź do sekcji „Wygląd” i kliknij „Edytor”.</p>
+      <p xml:id="p13" begin="00:01:03.000" end="00:01:06.000" region="bottomCenter">Spowoduje to przejście do edytora witryny.</p>
+      <p xml:id="p14" begin="00:01:06.000" end="00:01:09.000" region="bottomCenter">Edytor służy do dostosowywania stylów całej witryny,</p>
+      <p xml:id="p15" begin="00:01:12.000" end="00:01:15.000" region="bottomCenter">edytowania stron,</p>
+      <p xml:id="p16" begin="00:01:16.000" end="00:01:19.000" region="bottomCenter">modyfikowania szablonów,</p>
+      <p xml:id="p17" begin="00:01:24.000" end="00:01:27.000" region="bottomCenter">a także zarządzania wszystkimi różnymi wzorcami w witrynie.</p>
+      <p xml:id="p18" begin="00:01:28.000" end="00:01:34.000" region="bottomCenter">Rozpoczynając tworzenie nowej witryny internetowej, możesz edytować istniejące szablony lub dodawać nowe,</p>
+      <p xml:id="p19" begin="00:01:37.000" end="00:01:42.000" region="bottomCenter">a motyw, którego używasz, określi, które istniejące lub wbudowane szablony są dostępne do użycia.</p>
+      <p xml:id="p20" begin="00:01:42.000" end="00:01:45.000" region="bottomCenter">Pierwszym z nich jest szablon strony,</p>
+      <p xml:id="p21" begin="00:01:45.000" end="00:01:48.000" region="bottomCenter">który tworzy strukturę wyświetlania poszczególnych stron.</p>
+      <p xml:id="p22" begin="00:01:52.000" end="00:01:55.000" region="bottomCenter">Następnym jest szablon pojedynczego wpisu,</p>
+      <p xml:id="p23" begin="00:01:56.000" end="00:01:59.000" region="bottomCenter">który wyświetla pojedynczy wpis na blogu.</p>
+      <p xml:id="p24" begin="00:02:00.000" end="00:02:03.000" region="bottomCenter">Szablon indeksu wyświetla wpisy,</p>
+      <p xml:id="p25" begin="00:02:08.000" end="00:02:11.000" region="bottomCenter">a szablon 404 wyświetla się, gdy nie znaleziono żadnej treści.</p>
+      <p xml:id="p26" begin="00:02:14.000" end="00:02:18.000" region="bottomCenter">Wszystkie te szablony można oczywiście modyfikować według własnego uznania.</p>
+      <p xml:id="p27" begin="00:02:19.000" end="00:02:22.000" region="bottomCenter">Istnieją również inne wbudowane szablony, które warto poznać,</p>
+      <p xml:id="p28" begin="00:02:23.000" end="00:02:26.000" region="bottomCenter">na przykład szablon pusty.</p>
+      <p xml:id="p29" begin="00:02:27.000" end="00:02:31.000" region="bottomCenter">Aby dodać nowy szablon, kliknij ikonkę „Wybieraka” lub plusa obok szablonów.</p>
+      <p xml:id="p30" begin="00:02:33.000" end="00:02:37.000" region="bottomCenter">Pojawi się okno modalne, w którym można wybrać jedną z różnych opcji szablonów.</p>
+      <p xml:id="p31" begin="00:02:37.000" end="00:02:40.000" region="bottomCenter">Możesz na przykład utworzyć szablon dla konkretnej strony,</p>
+      <p xml:id="p32" begin="00:02:41.000" end="00:02:45.000" region="bottomCenter">szablon dla wszystkich kategorii wpisów lub dla pojedynczej kategorii.</p>
+      <p xml:id="p33" begin="00:02:46.000" end="00:02:51.000" region="bottomCenter">Możesz nawet utworzyć własny szablon, który można zastosować do dowolnego wpisu lub strony.</p>
+      <p xml:id="p34" begin="00:02:52.000" end="00:02:55.000" region="bottomCenter">Po utworzeniu nowego szablonu, w tym przypadku własnego szablonu</p>
+      <p xml:id="p35" begin="00:02:57.000" end="00:03:00.000" region="bottomCenter">i nadaniu mu nazwy,</p>
+      <p xml:id="p36" begin="00:03:00.000" end="00:03:03.000" region="bottomCenter">zostaniesz zapytany, czy chcesz wybrać wzorzec,</p>
+      <p xml:id="p37" begin="00:03:06.000" end="00:03:10.000" region="bottomCenter"> a jeśli chcesz zacząć od pustego szablonu, po prostu wybierz opcję „Pomiń”.</p>
+      <p xml:id="p38" begin="00:03:12.000" end="00:03:15.000" region="bottomCenter">Jak edytować szablony? Po wybraniu odpowiedniego szablonu</p>
+      <p xml:id="p39" begin="00:03:17.000" end="00:03:21.000" region="bottomCenter">możesz kliknąć ikonkę „Edytuj” na pasku bocznym obok opcji „Strony”</p>
+      <p xml:id="p40" begin="00:03:22.000" end="00:03:25.000" region="bottomCenter">lub na ekranie szablonu po prawej stronie.</p>
+      <p xml:id="p41" begin="00:03:26.000" end="00:03:31.000" region="bottomCenter">Po otwarciu szablonu możesz rozpocząć edycję fragmentu szablonu nagłówka i stopki.</p>
+      <p xml:id="p42" begin="00:03:32.000" end="00:03:36.000" region="bottomCenter">Zatrzymajmy się na chwilę, aby zastanowić się nad tym. Podczas edycji szablonu</p>
+      <p xml:id="p43" begin="00:03:36.000" end="00:03:40.000" region="bottomCenter">należy pamiętać o rozdzieleniu części dynamicznych i statycznych.</p>
+      <p xml:id="p44" begin="00:03:40.000" end="00:03:46.000" region="bottomCenter">Część dynamiczna to część treści, która będzie się zmieniać dla każdej strony lub wpisu korzystającego z szablonu.</p>
+      <p xml:id="p45" begin="00:03:46.000" end="00:03:53.000" region="bottomCenter">Jak widać na tym przykładzie, treść ze strony lub wpisu będzie wyświetlana w miejscu, w którym do szablonu dodano blok treści wpisu.</p>
+      <p xml:id="p46" begin="00:03:55.000" end="00:04:00.000" region="bottomCenter">Części statyczne to części szablonu, które pozostają niezmienne, takie jak nagłówek i stopka.</p>
+      <p xml:id="p47" begin="00:04:01.000" end="00:04:04.000" region="bottomCenter">Dlatego nie dodajemy żadnej treści do szablonu.</p>
+      <p xml:id="p48" begin="00:04:06.000" end="00:04:10.000" region="bottomCenter">Edytor witryny wyraźnie rozróżnia edycję treści strony i jej szablonu,</p>
+      <p xml:id="p49" begin="00:04:12.000" end="00:04:17.000" region="bottomCenter">ułatwiając przełączanie się między tymi dwoma trybami i wyświetlanie ich w odpowiednim kontekście.</p>
+      <p xml:id="p50" begin="00:04:18.000" end="00:04:20.000" region="bottomCenter">Zobaczmy, jak to działa.</p>
+      <p xml:id="p51" begin="00:04:20.000" end="00:04:23.000" region="bottomCenter">Otwórzmy jedną z naszych stron.</p>
+      <p xml:id="p52" begin="00:04:25.000" end="00:04:28.000" region="bottomCenter">W tym przypadku moją przykładową stronę.</p>
+      <p xml:id="p53" begin="00:04:29.000" end="00:04:32.000" region="bottomCenter">Po otwarciu strony możemy również otworzyć widok listy.</p>
+      <p xml:id="p54" begin="00:04:34.000" end="00:04:40.000" region="bottomCenter">Po wybraniu bloku „Treść wpisu” zauważymy, że cała dodana przez nas treść została dodana do bloku „Treść wpisu”.</p>
+      <p xml:id="p55" begin="00:04:43.000" end="00:04:47.000" region="bottomCenter">Zobaczymy to również w pasku bocznym ustawień po prawej stronie.</p>
+      <p xml:id="p56" begin="00:04:49.000" end="00:04:52.000" region="bottomCenter">Ale co się stanie, jeśli spróbuję edytować nagłówek i stopkę?</p>
+      <p xml:id="p57" begin="00:04:54.000" end="00:04:57.000" region="bottomCenter">Kliknijmy na nagłówek, aby spróbować go zmodyfikować.</p>
+      <p xml:id="p58" begin="00:04:58.000" end="00:05:03.000" region="bottomCenter">Pojawi się komunikat z informacją, że aby edytować ten blok, należy edytować szablon.</p>
+      <p xml:id="p59" begin="00:05:04.000" end="00:05:07.000" region="bottomCenter">To samo dotyczy stopki.</p>
+      <p xml:id="p60" begin="00:05:07.000" end="00:05:11.000" region="bottomCenter">Jeśli spróbujemy edytować stopkę, zostaniemy poproszeni o przejście do szablonu.</p>
+      <p xml:id="p61" begin="00:05:15.000" end="00:05:21.000" region="bottomCenter">Aby to zrobić, możemy kliknąć opcję „Edytuj szablon” w pasku bocznym ustawień po prawej stronie u dołu.</p>
+      <p xml:id="p62" begin="00:05:24.000" end="00:05:28.000" region="bottomCenter">Spowoduje to przejście do szablonu przypisanego do odpowiedniej strony.</p>
+      <p xml:id="p63" begin="00:05:28.000" end="00:05:31.000" region="bottomCenter">Teraz możemy przejść do aktualizacji nagłówka i stopki.</p>
+      <p xml:id="p64" begin="00:05:33.000" end="00:05:37.000" region="bottomCenter">Zauważymy również, że blok „Treść wpisu” jest tylko symbolem zastępczym.</p>
+      <p xml:id="p65" begin="00:05:39.000" end="00:05:42.000" region="bottomCenter">Nie możemy tutaj dodawać żadnej treści.</p>
+      <p xml:id="p66" begin="00:05:42.000" end="00:05:45.000" region="bottomCenter">Następnie zaznaczę stopkę, kliknę trzy pionowe kropki,</p>
+      <p xml:id="p67" begin="00:05:48.000" end="00:05:53.000" region="bottomCenter">a następnie zastąpię tę stopkę jednym z moich istniejących fragmentów szablonu stopki.</p>
+      <p xml:id="p68" begin="00:05:54.000" end="00:05:58.000" region="bottomCenter">Po zakończeniu kliknę przycisk „Zapisz”. Zaktualizowałem szablon strony.</p>
+      <p xml:id="p69" begin="00:06:04.000" end="00:06:08.000" region="bottomCenter">Jeśli chcesz powrócić do strony, kliknij przycisk „Wstecz” na pasku narzędzi.</p>
+      <p xml:id="p70" begin="00:06:10.000" end="00:06:14.000" region="bottomCenter">Spowoduje to powrót do strony, gdzie możesz modyfikować zawartość.</p>
+      <p xml:id="p71" begin="00:06:15.000" end="00:06:18.000" region="bottomCenter">Szablon można edytować osobno.</p>
+      <p xml:id="p72" begin="00:06:18.000" end="00:06:21.000" region="bottomCenter">Po powrocie do szablonów w pasku bocznym zauważysz,</p>
+      <p xml:id="p73" begin="00:06:24.000" end="00:06:28.000" region="bottomCenter">że na samym dole znajduje się opcja zarządzania wszystkimi szablonami.</p>
+      <p xml:id="p74" begin="00:06:30.000" end="00:06:34.000" region="bottomCenter">Po jej wybraniu będziesz mógł zmienić nazwę i usunąć utworzone własne szablony</p>
+      <p xml:id="p75" begin="00:06:37.000" end="00:06:41.000" region="bottomCenter">lub wyczyścić dostosowania wbudowanych szablonów, które zmodyfikowałeś.</p>
+      <p xml:id="p76" begin="00:06:43.000" end="00:06:47.000" region="bottomCenter">W następnej sekcji omówimy przypisywanie różnych szablonów do stron lub wpisów.</p>
+      <p xml:id="p77" begin="00:06:51.000" end="00:06:55.000" region="bottomCenter">Obecnie znajdujemy się na stronie głównej mojej przykładowej witryny</p>
+      <p xml:id="p78" begin="00:06:55.000" end="00:06:58.000" region="bottomCenter">i przypisaliśmy tę stronę do szablonu strony.</p>
+      <p xml:id="p79" begin="00:06:58.000" end="00:07:01.000" region="bottomCenter">Stworzyłem własny szablon z nowym nagłówkiem i stopką.</p>
+      <p xml:id="p80" begin="00:07:04.000" end="00:07:09.000" region="bottomCenter">Aby przypisać nowy własny szablon, możemy kliknąć opcję „Edytuj stronę” u góry</p>
+      <p xml:id="p81" begin="00:07:10.000" end="00:07:13.000" region="bottomCenter">lub przejść do kokpitu, otworzyć strony,</p>
+      <p xml:id="p82" begin="00:07:14.000" end="00:07:17.500" region="bottomCenter">wybrać odpowiednią stronę, w tym przypadku stronę przykładową.</p>
+      <p xml:id="p83" begin="00:07:18.000" end="00:07:23.000" region="bottomCenter">Po otwarciu strony zobaczymy naszą treść, ale po otwarciu ustawień paska bocznego</p>
+      <p xml:id="p84" begin="00:07:25.000" end="00:07:31.000" region="bottomCenter">po prawej stronie zobaczymy, że ta strona została przypisana do szablonu strony, szablonu domyślnego.</p>
+      <p xml:id="p85" begin="00:07:31.000" end="00:07:35.000" region="bottomCenter">Po kliknięciu nazwy zauważysz, że możesz dodać nowy szablon z tego miejsca.</p>
+      <p xml:id="p86" begin="00:07:39.000" end="00:07:42.000" region="bottomCenter">Możesz edytować szablon przypisany do strony lub,</p>
+      <p xml:id="p87" begin="00:07:43.000" end="00:07:47.000" region="bottomCenter">po kliknięciu menu rozwijanego, wybrać lub przypisać nowy szablon do tej strony.</p>
+      <p xml:id="p88" begin="00:07:50.000" end="00:07:53.000" region="bottomCenter">Wybiorę teraz własny szablon, który stworzyłem.</p>
+      <p xml:id="p89" begin="00:07:55.000" end="00:07:58.000" region="bottomCenter">Po wykonaniu tej czynności zaktualizuję stronę.</p>
+      <p xml:id="p90" begin="00:07:59.000" end="00:08:02.000" region="bottomCenter">Możemy wyświetlić podgląd strony w nowej karcie</p>
+      <p xml:id="p91" begin="00:08:05.000" end="00:08:11.000" region="bottomCenter">i teraz zobaczymy, że ta strona ma nowy nagłówek i stopkę dzięki własnemu szablonowi, który przypisałem do tej strony.</p>
+      <p xml:id="p92" begin="00:08:15.000" end="00:08:21.000" region="bottomCenter">Na koniec omówimy pokrótce elementy szablonu nagłówka i stopki, których używamy do konfiguracji naszych szablonów.</p>
+      <p xml:id="p93" begin="00:08:23.000" end="00:08:27.000" region="bottomCenter">Element szablonu nagłówka lub stopki można edytować bezpośrednio w szablonie.</p>
+      <p xml:id="p94" begin="00:08:29.000" end="00:08:37.000" region="bottomCenter">W tym przykładzie edytuję element szablonu nagłówka i umieszczam blok tytułu witryny oraz blok sloganu witryny w ułożonym w stosie bloku grupy.</p>
+      <p xml:id="p95" begin="00:08:39.000" end="00:08:43.000" region="bottomCenter">Następnie otwieram pasek boczny ustawień i usuwam odstępy między dwoma blokami.</p>
+      <p xml:id="p96" begin="00:08:47.000" end="00:08:51.000" region="bottomCenter">Po wybraniu fragmentu szablonu nagłówka lub stopki pojawi się opcja „Edytuj”.</p>
+      <p xml:id="p97" begin="00:08:56.000" end="00:09:02.000" region="bottomCenter">Po wybraniu opcji „Edytuj” można edytować fragment szablonu w trybie edycji szablonu bez żadnych zakłóceń.</p>
+      <p xml:id="p98" begin="00:09:04.000" end="00:09:08.000" region="bottomCenter">Inną opcją jest przejście do sekcji „Wzorce” w pasku bocznym widoku witryny.</p>
+      <p xml:id="p99" begin="00:09:12.000" end="00:09:20.000" region="bottomCenter">Po wybraniu sekcji „Wzorce” można przewinąć stronę do dołu, gdzie można wyświetlić i modyfikować nagłówek, stopkę oraz ogólne fragmenty szablonu.</p>
+      <p xml:id="p100" begin="00:09:24.000" end="00:09:30.000" region="bottomCenter">Aby dodać nowy fragment szablonu, kliknij ikonkę plusa obok sekcji „Wzorce” i wybierz opcję „Utwórz fragment szablonu”.</p>
+      <p xml:id="p101" begin="00:09:30.000" end="00:09:34.000" region="bottomCenter">Możesz wybrać między ogólnymi, nagłówkowymi i stopkowymi fragmentami szablonu.</p>
+      <p xml:id="p102" begin="00:09:35.000" end="00:09:42.000" region="bottomCenter">Ogólne fragmenty szablonu nie są powiązane z żadnym konkretnym obszarem; pamiętaj, aby nadać fragmentowi szablonu opisową nazwę.</p>
+      <p xml:id="p103" begin="00:09:42.000" end="00:09:48.000" region="bottomCenter">Po kliknięciu trzech poziomych kropek poniżej fragmentu szablonu możesz zmienić nazwę, powielić go lub usunąć.</p>
+      <p xml:id="p104" begin="00:09:50.000" end="00:09:56.000" region="bottomCenter">Po wybraniu fragmentu szablonu możesz go modyfikować w trybie edycji bez żadnych zakłóceń, jak pokazano wcześniej.</p>
+      <p xml:id="p105" begin="00:09:58.000" end="00:10:02.000" region="bottomCenter">Mamy nadzieję, że teraz lepiej rozumiesz, jak działają szablony.</p>
+      <p xml:id="p106" begin="00:10:03.000" end="00:10:10.000" region="bottomCenter">Podsumowując, szablon określa strukturę wyświetlania treści, co zazwyczaj odbywa się za pomocą fragmentu szablonu nagłówka i stopki.</p>
+      <p xml:id="p107" begin="00:10:12.000" end="00:10:15.000" region="bottomCenter">Szablony można przypisywać do pojedynczych lub wielu stron.</p>
+    </div>
+  </body>
+</tt>

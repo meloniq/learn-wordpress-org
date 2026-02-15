@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 02-pl-wordpress-essentials-domains-and-hosting</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:03.000" region="bottomCenter">Witaj w Learn WordPress.</p>
+      <p xml:id="p2" begin="00:00:03.000" end="00:00:06.000" region="bottomCenter">W tej lekcji omówimy istotny aspekt tworzenia witryny internetowej,</p>
+      <p xml:id="p3" begin="00:00:08.000" end="00:00:11.000" region="bottomCenter">czyli wybór odpowiedniej domeny i dostawcy usług hostingowych.</p>
+      <p xml:id="p4" begin="00:00:13.000" end="00:00:18.000" region="bottomCenter">Efektem tej lekcji jest umiejętność rozróżnienia między domenami a hostingiem,</p>
+      <p xml:id="p5" begin="00:00:18.000" end="00:00:25.000" region="bottomCenter">opisanie, co oznacza łączenie domen, oraz określenie czynników, które należy wziąć pod uwagę przy wyborze firmy hostingowej.</p>
+      <p xml:id="p6" begin="00:00:25.000" end="00:00:28.000" region="bottomCenter">Zacznijmy od wyjaśnienia różnicy między hostem a domeną.</p>
+      <p xml:id="p7" begin="00:00:30.000" end="00:00:33.000" region="bottomCenter">Wyobraź sobie, że twoja witryna internetowa to dom mobilny,</p>
+      <p xml:id="p8" begin="00:00:36.000" end="00:00:40.000" region="bottomCenter">a domena to adres, a host to teren, na którym zbudowany jest twój dom lub witryna internetowa.</p>
+      <p xml:id="p9" begin="00:00:40.000" end="00:00:46.000" region="bottomCenter">Domena to unikalny adres internetowy, który odwiedzający wpisują w przeglądarkach, aby znaleźć twoją witrynę.</p>
+      <p xml:id="p10" begin="00:00:46.000" end="00:00:52.000" region="bottomCenter">Na przykład nazwa domeny oficjalnej witryny internetowej Coca-Coli to www.coca-colacompany.com.</p>
+      <p xml:id="p11" begin="00:00:54.000" end="00:01:01.000" region="bottomCenter">Z drugiej strony host to usługa, która przechowuje pliki twojej witryny internetowej i udostępnia je użytkownikom w internecie.</p>
+      <p xml:id="p12" begin="00:01:02.000" end="00:01:05.000" region="bottomCenter">Należy również pamiętać, że w razie potrzeby można zmienić firmę hostingową</p>
+      <p xml:id="p13" begin="00:01:07.000" end="00:01:10.000" region="bottomCenter">i jest to możliwe bez zmiany domeny.</p>
+      <p xml:id="p14" begin="00:01:13.000" end="00:01:19.000" region="bottomCenter">Skontaktuj się jednak z nową firmą hostingową, aby upewnić się, że wykonujesz prawidłowo czynności.</p>
+      <p xml:id="p15" begin="00:01:19.000" end="00:01:24.000" region="bottomCenter">Jeśli chodzi o wybór dostawcy usług hostingowych, możesz poszukać takiego, który oferuje pakiety domen.</p>
+      <p xml:id="p16" begin="00:01:24.000" end="00:01:30.000" region="bottomCenter">Oznacza to, że dostawca oferuje zarówno usługi hostingowe, jak i rejestrację domen w jednym pakiecie.</p>
+      <p xml:id="p17" begin="00:01:30.000" end="00:01:37.000" region="bottomCenter">Łączenie domen z hostingiem upraszcza proces, ponieważ nie musisz zarządzać różnymi kontami u różnych dostawców.</p>
+      <p xml:id="p18" begin="00:01:38.000" end="00:01:45.000" region="bottomCenter">Warto pamiętać, że przed zarejestrowaniem się w firmie hostingowej można również kupić nazwy domen osobno.</p>
+      <p xml:id="p19" begin="00:01:45.000" end="00:01:48.000" region="bottomCenter">Zakup domeny osobno daje ci większą kontrolę nad jej ustawieniami.</p>
+      <p xml:id="p20" begin="00:01:50.000" end="00:01:53.000" region="bottomCenter">Ułatwia też zmianę dostawcy usług hostingowych.</p>
+      <p xml:id="p21" begin="00:01:53.000" end="00:01:56.000" region="bottomCenter">Pamiętaj tylko, żeby śledzić daty odnowienia rejestracji domeny.</p>
+      <p xml:id="p22" begin="00:01:57.000" end="00:02:03.000" region="bottomCenter">Pierwszym krokiem jest wybór rejestratora domen, czyli firmy, która zarządza rezerwacją nazw domen.</p>
+      <p xml:id="p23" begin="00:02:04.000" end="00:02:07.000" region="bottomCenter">Następnie wyszukaj i wybierz nazwę domeny.</p>
+      <p xml:id="p24" begin="00:02:08.000" end="00:02:11.000" region="bottomCenter">Jeśli chcesz, możesz też wybrać domeny krajowe.</p>
+      <p xml:id="p25" begin="00:02:12.000" end="00:02:18.000" region="bottomCenter">Potem możesz zarejestrować domenę, skonfigurować jej ustawienia, a następnie wybrać dostawcę usług hostingowych.</p>
+      <p xml:id="p26" begin="00:02:19.000" end="00:02:25.000" region="bottomCenter">Wybierając dostawcę usług hostingowych, należy wziąć pod uwagę takie czynniki, jak niezawodność.</p>
+      <p xml:id="p27" begin="00:02:25.000" end="00:02:31.000" region="bottomCenter">Wybierz dostawcę, który ma dobre wyniki w zakresie dostępności i niezawodnej obsługi klienta.</p>
+      <p xml:id="p28" begin="00:02:31.000" end="00:02:33.000" region="bottomCenter">Po drugie, skalowalność.</p>
+      <p xml:id="p29" begin="00:02:33.000" end="00:02:39.000" region="bottomCenter">Wybierz dostawcę, który umożliwia łatwą aktualizację planu hostingowego w miarę rozwoju witryny.</p>
+      <p xml:id="p30" begin="00:02:39.000" end="00:02:41.000" region="bottomCenter">Po trzecie, bezpieczeństwo.</p>
+      <p xml:id="p31" begin="00:02:41.000" end="00:02:48.000" region="bottomCenter">Upewnij się, że dostawca usług hostingowych oferuje solidne funkcje bezpieczeństwa, takie jak certyfikaty SSL i regularne kopie zapasowe.</p>
+      <p xml:id="p32" begin="00:02:48.000" end="00:02:51.000" region="bottomCenter">Czwartym czynnikiem jest przyjazny dla użytkownika interfejs.</p>
+      <p xml:id="p33" begin="00:02:51.000" end="00:02:56.000" region="bottomCenter">Poszukaj dostawcy z intuicyjnym panelem sterowania, który ułatwia zarządzanie witryną internetową.</p>
+      <p xml:id="p34" begin="00:02:56.000" end="00:02:58.000" region="bottomCenter">I wreszcie, przystępna cena.</p>
+      <p xml:id="p35" begin="00:02:59.000" end="00:03:05.000" region="bottomCenter">Porównaj plany cenowe, aby znaleźć dostawcę, który oferuje odpowiednie funkcje w ramach twojego budżetu.</p>
+      <p xml:id="p36" begin="00:03:05.000" end="00:03:07.000" region="bottomCenter">Zobaczmy to wszystko w praktyce.</p>
+      <p xml:id="p37" begin="00:03:07.000" end="00:03:17.000" region="bottomCenter">Odwiedzając witrynę dostawcy usług hostingowych, zazwyczaj zobaczysz różne plany cenowe z odpowiednimi funkcjami i informacjami, które są potrzebne do podjęcia świadomej decyzji.</p>
+      <p xml:id="p38" begin="00:03:17.000" end="00:03:24.000" region="bottomCenter">Podsumowując, zrozumienie różnicy między hostem a domeną jest kluczowe dla każdego, kto chce stworzyć witrynę internetową.</p>
+      <p xml:id="p39" begin="00:03:25.000" end="00:03:32.000" region="bottomCenter">Pamiętaj, że host zapewnia przestrzeń i zasoby dla twojej witryny internetowej, podczas gdy domena służy jako jej unikalny adres w internecie.</p>
+      <p xml:id="p40" begin="00:03:34.000" end="00:03:41.000" region="bottomCenter">Innymi słowy, firma hostingowa zapewnia przestrzeń w internecie, serwer, na którym przechowywane są pliki twojej witryny internetowej.</p>
+      <p xml:id="p41" begin="00:03:42.000" end="00:03:49.000" region="bottomCenter">Dzięki temu użytkownicy mogą uzyskać dostęp do twojej witryny internetowej w dowolnym momencie, wpisując jej adres lub domenę.</p>
+      <p xml:id="p42" begin="00:03:49.000" end="00:03:58.000" region="bottomCenter">Wiele firm hostingowych oferuje również rozwiązania typu „jedno kliknięcie”, które pozwalają zarejestrować nazwę domeny, zainstalować WordPress i skonfigurować hosting dosłownie jednym kliknięciem.</p>
+      <p xml:id="p43" begin="00:04:02.000" end="00:04:06.000" region="bottomCenter">Proces ten eliminuje wszelkie przeszkody techniczne dla użytkowników.</p>
+      <p xml:id="p44" begin="00:04:06.000" end="00:04:13.000" region="bottomCenter">Istnieje wiele firm hostingowych, spośród których można wybierać, masz możliwość hostowania swojej witryny w dowolnym miejscu.</p>
+      <p xml:id="p45" begin="00:04:14.000" end="00:04:19.000" region="bottomCenter">Pamiętaj, że to tylko kilka przykładów, a istnieje wiele innych firm hostingowych, które warto sprawdzić.</p>
+      <p xml:id="p46" begin="00:04:19.000" end="00:04:25.000" region="bottomCenter">Po zarejestrowaniu nazwy domeny i wybraniu dostawcy usług hostingowych można rozpocząć planowanie i projektowanie witryny.</p>
+    </div>
+  </body>
+</tt>

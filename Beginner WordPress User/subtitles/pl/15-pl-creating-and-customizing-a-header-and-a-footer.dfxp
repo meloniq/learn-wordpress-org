@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 15-pl-creating-and-customizing-a-header-and-a-footer</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:03.000" region="bottomCenter">W tej lekcji stworzymy i dostosujemy nagłówek oraz stopkę.</p>
+      <p xml:id="p2" begin="00:00:04.860" end="00:00:08.860" region="bottomCenter">Motywy blokowe pozwalają nam budować całą witrynę przy użyciu bloków,</p>
+      <p xml:id="p3" begin="00:00:08.860" end="00:00:11.860" region="bottomCenter">w tym stron, wpisów, szablonów i fragmentów szablonów.</p>
+      <p xml:id="p4" begin="00:00:12.700" end="00:00:16.600" region="bottomCenter">Omówiliśmy już zagnieżdżanie bloków i korzystanie z wzorców bloków.</p>
+      <p xml:id="p5" begin="00:00:16.600" end="00:00:20.600" region="bottomCenter">W tej sesji utworzę i dostosuję nagłówek i stopkę mojej witryny,</p>
+      <p xml:id="p6" begin="00:00:21.100" end="00:00:24.000" region="bottomCenter">korzystając z wzorców dostarczonych wraz z moim motywem.</p>
+      <p xml:id="p7" begin="00:00:24.000" end="00:00:27.000" region="bottomCenter">Wzorce nagłówków i stopek stanowią solidną podstawę do pracy,</p>
+      <p xml:id="p8" begin="00:00:27.960" end="00:00:30.960" region="bottomCenter">a większość układu została już przygotowana.</p>
+      <p xml:id="p9" begin="00:00:32.300" end="00:00:37.300" region="bottomCenter">Zanim zaczniemy, chciałbym zaznaczyć, że używam motywu blokowego Twenty Twenty-Four,</p>
+      <p xml:id="p10" begin="00:00:38.360" end="00:00:42.360" region="bottomCenter">a jeśli przejdę do „Ustawienia”, a następnie „Czytanie”, zauważysz, że ustawiłem</p>
+      <p xml:id="p11" begin="00:00:43.860" end="00:00:46.860" region="bottomCenter">statyczną stronę główną i stronę wpisów.</p>
+      <p xml:id="p12" begin="00:00:47.360" end="00:00:51.360" region="bottomCenter">Dzięki temu, jeśli przejdziemy do stron i otworzymy naszą stronę główną,</p>
+      <p xml:id="p13" begin="00:00:53.200" end="00:00:57.200" region="bottomCenter">zauważymy, że została ona przypisana do domyślnego szablonu strony,</p>
+      <p xml:id="p14" begin="00:00:58.380" end="00:01:01.380" region="bottomCenter">takiego samego jak inne strony w moim menu nawigacyjnym.</p>
+      <p xml:id="p15" begin="00:01:03.240" end="00:01:06.240" region="bottomCenter">Zacznijmy więc.</p>
+      <p xml:id="p16" begin="00:01:06.280" end="00:01:11.280" region="bottomCenter">Przejdziemy do edytora witryny, gdzie możemy edytować i aktualizować nasze szablony.</p>
+      <p xml:id="p17" begin="00:01:11.980" end="00:01:16.880" region="bottomCenter">Należy pamiętać, że na tym etapie wszystkie nasze szablony mają ten sam nagłówek i stopkę.</p>
+      <p xml:id="p18" begin="00:01:16.960" end="00:01:19.960" region="bottomCenter">Jeśli więc otworzymy na przykład szablon stron,</p>
+      <p xml:id="p19" begin="00:01:20.760" end="00:01:24.760" region="bottomCenter">zauważymy, że jest on taki sam jak szablon 404 i szablon pojedynczych wpisów.</p>
+      <p xml:id="p20" begin="00:01:31.440" end="00:01:32.940" region="bottomCenter">Co to oznacza?</p>
+      <p xml:id="p21" begin="00:01:33.160" end="00:01:37.560" region="bottomCenter">Oznacza to, że jeśli dostosujemy aktualny fragment szablonu nagłówka i stopki, automatycznie</p>
+      <p xml:id="p22" begin="00:01:37.600" end="00:01:40.600" region="bottomCenter">zaktualizuje się on we wszystkich szablonach, w których się znajduje.</p>
+      <p xml:id="p23" begin="00:01:40.640" end="00:01:45.340" region="bottomCenter">Jeśli jednak zastąpię nagłówek lub stopkę w jednym szablonie, będę musiał ręcznie zastąpić je</p>
+      <p xml:id="p24" begin="00:01:45.360" end="00:01:49.360" region="bottomCenter">we wszystkich innych szablonach, w których zamierzam ich używać.</p>
+      <p xml:id="p25" begin="00:01:49.800" end="00:01:53.800" region="bottomCenter">Bez dalszych wstępów otworzę szablon strony i zacznę dostosowywać</p>
+      <p xml:id="p26" begin="00:01:53.960" end="00:01:55.960" region="bottomCenter">nagłówek i stopkę.</p>
+      <p xml:id="p27" begin="00:01:56.200" end="00:01:59.200" region="bottomCenter">Zacznijmy od nagłówka i otwórzmy widok listy.</p>
+      <p xml:id="p28" begin="00:02:01.200" end="00:02:05.200" region="bottomCenter">Chcę zastąpić nagłówek, więc kliknę trzy pionowe kropki, a następnie wybieram opcję</p>
+      <p xml:id="p29" begin="00:02:05.240" end="00:02:07.140" region="bottomCenter">„Zastąp nagłówek”.</p>
+      <p xml:id="p30" begin="00:02:07.160" end="00:02:11.160" region="bottomCenter">Teraz mogę wybierać spośród wielu wzorców dostępnych w moim motywie.</p>
+      <p xml:id="p31" begin="00:02:11.320" end="00:02:14.320" region="bottomCenter">Wybiorę nagłówek wewnątrz obrazka tła o pełnej szerokości.</p>
+      <p xml:id="p32" begin="00:02:16.640" end="00:02:19.640" region="bottomCenter">Po wybraniu zacznę modyfikować.</p>
+      <p xml:id="p33" begin="00:02:20.440" end="00:02:25.440" region="bottomCenter">Upewnię się, że zaznaczyłem blok „Okładka”, a następnie zastąpię obrazek tła obrazkiem,</p>
+      <p xml:id="p34" begin="00:02:26.760" end="00:02:29.760" region="bottomCenter">który już przesłałem do mojej biblioteki multimediów.</p>
+      <p xml:id="p35" begin="00:02:31.080" end="00:02:36.080" region="bottomCenter">Następnie zaznaczę blok „Logo witryny” i prześlę przezroczysty obrazek, który zapisałem</p>
+      <p xml:id="p36" begin="00:02:39.360" end="00:02:42.360" region="bottomCenter">jako logo w mojej bibliotece multimediów.</p>
+      <p xml:id="p37" begin="00:02:42.920" end="00:02:47.920" region="bottomCenter">Następnie ponownie wybieram blok „Okładka”, otwieram „Style” i zmieniam krycie na zero,</p>
+      <p xml:id="p38" begin="00:02:49.200" end="00:02:52.200" region="bottomCenter">ponieważ wybrałem jasny obrazek.</p>
+      <p xml:id="p39" begin="00:02:52.240" end="00:02:57.240" region="bottomCenter">Po zakończeniu wybieram blok „Tytuł witryny” i wybieram ciemniejszy kolor tekstu.</p>
+      <p xml:id="p40" begin="00:03:00.240" end="00:03:04.240" region="bottomCenter">Następnie klikam trzy pionowe kropki obok opcji „Typografia”, wybieram „Fonty”</p>
+      <p xml:id="p41" begin="00:03:06.200" end="00:03:09.200" region="bottomCenter">i wybieram nowy krój pisma.</p>
+      <p xml:id="p42" begin="00:03:10.200" end="00:03:14.200" region="bottomCenter">Chcę również powiększyć tytuł witryny, więc ustawiam niestandardowy rozmiar.</p>
+      <p xml:id="p43" begin="00:03:19.160" end="00:03:22.160" region="bottomCenter">Następnie możemy przejść do bloku „Nawigacja”.</p>
+      <p xml:id="p44" begin="00:03:22.840" end="00:03:26.840" region="bottomCenter">Po wybraniu bloku „Nawigacja” otworzę „Style”, zmienię kolor tekstu,</p>
+      <p xml:id="p45" begin="00:03:30.520" end="00:03:33.520" region="bottomCenter">zmienię rodzinę kroju pisma i powiększę menu nawigacyjne,</p>
+      <p xml:id="p46" begin="00:03:40.160" end="00:03:43.160" region="bottomCenter">ustawiając niestandardowy rozmiar.</p>
+      <p xml:id="p47" begin="00:03:45.840" end="00:03:48.840" region="bottomCenter">Ostatnim krokiem jest dodanie wypełnienia wokół bloku „Wiersz”.</p>
+      <p xml:id="p48" begin="00:03:49.440" end="00:03:53.440" region="bottomCenter">Otworzę więc style i wymiary poniżej i dodam więcej wypełnienia, aby stworzyć</p>
+      <p xml:id="p49" begin="00:03:54.240" end="00:03:57.240" region="bottomCenter">więcej miejsca wokół tekstu.</p>
+      <p xml:id="p50" begin="00:03:57.520" end="00:04:00.520" region="bottomCenter">I gotowe, nasz nowy nagłówek jest gotowy.</p>
+      <p xml:id="p51" begin="00:04:03.080" end="00:04:08.080" region="bottomCenter">Następnym krokiem jest zapisanie, a następnie aktualizacja innych szablonów za pomocą nowego</p>
+      <p xml:id="p52" begin="00:04:09.600" end="00:04:12.600" region="bottomCenter">nagłówka, który utworzyłem przy użyciu wzorców.</p>
+      <p xml:id="p53" begin="00:04:15.320" end="00:04:18.320" region="bottomCenter">Na przykład otwórzmy szablon 404 i zastąpmy nagłówek.</p>
+      <p xml:id="p54" begin="00:04:26.520" end="00:04:29.520" region="bottomCenter">Teraz zobaczysz to poniżej „fragmenty szablonu”.</p>
+      <p xml:id="p55" begin="00:04:32.440" end="00:04:38.440" region="bottomCenter">Możemy zapisać, a następnie wykonać tę samą procedurę dla wszystkich innych odpowiednich szablonów.</p>
+      <p xml:id="p56" begin="00:04:39.520" end="00:04:43.520" region="bottomCenter">Teraz możemy wrócić do naszego szablonu strony i przejść do stopki.</p>
+      <p xml:id="p57" begin="00:04:44.560" end="00:04:49.560" region="bottomCenter">W tym przypadku nie zamierzam zastępować stopki; zamierzam jedynie zaktualizować istniejący</p>
+      <p xml:id="p58" begin="00:04:50.320" end="00:04:55.320" region="bottomCenter">wzorzec, a następnie zostanie on automatycznie zaktualizowany we wszystkich innych szablonach.</p>
+      <p xml:id="p59" begin="00:04:55.560" end="00:05:00.560" region="bottomCenter">Najpierw powiększę blok „Logo witryny” i dodam slogan mojej witryny do</p>
+      <p xml:id="p60" begin="00:05:07.840" end="00:05:10.840" region="bottomCenter">bloku „Slogan witryny” poniżej tytułu witryny.</p>
+      <p xml:id="p61" begin="00:05:12.200" end="00:05:15.200" region="bottomCenter">Teraz możemy przejść do trzech kolumn po prawej stronie.</p>
+      <p xml:id="p62" begin="00:05:16.200" end="00:05:20.200" region="bottomCenter">Wybiorę tytuł środkowego bloku i zmienię go na „Szybkie odnośniki”.</p>
+      <p xml:id="p63" begin="00:05:26.240" end="00:05:30.240" region="bottomCenter">Następnie wybiorę blok „Nawigacja”, który został dodany z treścią zastępczą.</p>
+      <p xml:id="p64" begin="00:05:32.120" end="00:05:36.120" region="bottomCenter">W ustawieniach paska bocznego obok menu kliknę trzy pionowe kropki i wybiorę</p>
+      <p xml:id="p65" begin="00:05:38.600" end="00:05:40.600" region="bottomCenter">nawigację nagłówka.</p>
+      <p xml:id="p66" begin="00:05:40.640" end="00:05:44.640" region="bottomCenter">Otworzę również zakładkę ustawień i sprawdzę, czy orientacja jest pionowa.</p>
+      <p xml:id="p67" begin="00:05:47.600" end="00:05:51.600" region="bottomCenter">Teraz możemy przejść do następnej kolumny; tym razem zastąpię treść zastępczą</p>
+      <p xml:id="p68" begin="00:05:55.160" end="00:05:57.160" region="bottomCenter">nowym menu nawigacyjnym.</p>
+      <p xml:id="p69" begin="00:05:57.560" end="00:06:02.560" region="bottomCenter">Kliknę więc opcję „Utwórz nowe menu”, a następnie wybiorę stronę z polityką prywatności,</p>
+      <p xml:id="p70" begin="00:06:06.960" end="00:06:09.960" region="bottomCenter">którą już utworzyłem, oraz stronę z warunkami użytkowania.</p>
+      <p xml:id="p71" begin="00:06:18.320" end="00:06:24.320" region="bottomCenter">W ostatniej kolumnie upewnię się, że zaktualizowałem odnośniki do moich platform społecznościowych.</p>
+      <p xml:id="p72" begin="00:06:24.680" end="00:06:28.680" region="bottomCenter">Obecnie znajduje się tam zawartość zastępcza, dlatego zastąpię hashtag</p>
+      <p xml:id="p73" begin="00:06:29.760" end="00:06:31.760" region="bottomCenter">prawidłowym odnośnikiem.</p>
+      <p xml:id="p74" begin="00:06:32.320" end="00:06:37.320" region="bottomCenter">Teraz moja stopka jest gotowa, ale oczywiście mogę wprowadzić dalsze modyfikacje.</p>
+      <p xml:id="p75" begin="00:06:38.320" end="00:06:42.320" region="bottomCenter">Po zapisaniu możemy przejść do innych szablonów, na przykład szablonu 404,</p>
+      <p xml:id="p76" begin="00:06:45.880" end="00:06:49.880" region="bottomCenter">i zobaczymy, że stopka została automatycznie zaktualizowana.</p>
+      <p xml:id="p77" begin="00:06:52.000" end="00:06:56.000" region="bottomCenter">Oto widok interfejsu użytkownika, gdy odwiedzam moją stronę kontaktową.</p>
+      <p xml:id="p78" begin="00:07:00.560" end="00:07:04.860" region="bottomCenter">Wierzę, że wzorce nagłówków i stopek będą dla ciebie inspiracją i zapewnią solidną</p>
+      <p xml:id="p79" begin="00:07:04.920" end="00:07:07.920" region="bottomCenter">podstawę do projektowania nagłówków i stopek.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 11-pl-intro-to-the-site-editor</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:05.000" region="bottomCenter">Zapoznajmy się z edytorem witryny, który umożliwia projektowanie wszystkich elementów witryny</p>
+      <p xml:id="p2" begin="00:00:05.400" end="00:00:08.400" region="bottomCenter">za pomocą bloków, od nagłówka po stopkę i wszystko pomiędzy.</p>
+      <p xml:id="p3" begin="00:00:10.360" end="00:00:13.360" region="bottomCenter">Przejdźmy do sekcji „Wygląd” i kliknijmy „Edytor”.</p>
+      <p xml:id="p4" begin="00:00:14.520" end="00:00:16.520" region="bottomCenter">Otworzy się edytor witryny.</p>
+      <p xml:id="p5" begin="00:00:17.040" end="00:00:21.840" region="bottomCenter">Po lewej stronie znajduje się pasek boczny widoku witryny, to sprytne narzędzie pozwala zagłębić się</p>
+      <p xml:id="p6" begin="00:00:21.840" end="00:00:26.840" region="bottomCenter">w kluczowe elementy witryny, w tym nawigację, style, strony, szablony i wzorce.</p>
+      <p xml:id="p7" begin="00:00:28.960" end="00:00:31.960" region="bottomCenter">Celem tej lekcji jest dogłębne zrozumienie tych elementów.</p>
+      <p xml:id="p8" begin="00:00:33.840" end="00:00:36.840" region="bottomCenter">Zacznijmy od góry, od nawigacji.</p>
+      <p xml:id="p9" begin="00:00:37.080" end="00:00:39.880" region="bottomCenter">Tutaj możesz szybko przeglądać i dostosowywać wszystkie swoje menu.</p>
+      <p xml:id="p10" begin="00:00:40.040" end="00:00:42.840" region="bottomCenter">o twoje centrum dowodzenia do zarządzania menu.</p>
+      <p xml:id="p11" begin="00:00:42.920" end="00:00:45.920" region="bottomCenter">Możesz bezpośrednio wprowadzać proste zmiany,</p>
+      <p xml:id="p12" begin="00:00:46.800" end="00:00:49.800" region="bottomCenter">takie jak zmiana kolejności.</p>
+      <p xml:id="p13" begin="00:00:53.040" end="00:00:56.940" region="bottomCenter">Po kliknięciu trzech pionowych kropek obok nazwy pozycji menu możesz</p>
+      <p xml:id="p14" begin="00:00:57.000" end="00:01:01.000" region="bottomCenter">zmienić nazwę, powielić lub usunąć pozycję zgodnie z potrzebami.</p>
+      <p xml:id="p15" begin="00:01:02.760" end="00:01:07.760" region="bottomCenter">Po otwarciu w trybie edycji możesz wprowadzać pewne zmiany bez rozpraszania uwagi.</p>
+      <p xml:id="p16" begin="00:01:08.160" end="00:01:10.660" region="bottomCenter">Aktualizacje zostaną zsynchronizowane w całej witrynie.</p>
+      <p xml:id="p17" begin="00:01:10.800" end="00:01:14.800" region="bottomCenter">Możesz dodać nowe strony lub inne pozycje menu, klikając ikonkę plusa.</p>
+      <p xml:id="p18" begin="00:01:18.800" end="00:01:21.800" region="bottomCenter">Zauważysz, że blok nawigacji jest zablokowany w tym obszarze.</p>
+      <p xml:id="p19" begin="00:01:22.640" end="00:01:26.440" region="bottomCenter">Jeśli chcesz zmienić styl menu nawigacyjnego, musisz otworzyć szablon</p>
+      <p xml:id="p20" begin="00:01:26.480" end="00:01:29.480" region="bottomCenter">lub część szablonu, której jest on częścią.</p>
+      <p xml:id="p21" begin="00:01:29.640" end="00:01:31.640" region="bottomCenter">Następnie porozmawiajmy o stylach.</p>
+      <p xml:id="p22" begin="00:01:32.440" end="00:01:36.440" region="bottomCenter">Po wybraniu opcji „Style” będziesz mógł przeglądać różne kombinacje stylów</p>
+      <p xml:id="p23" begin="00:01:37.440" end="00:01:40.440" region="bottomCenter">dostępne w ramach wybranego motywu.</p>
+      <p xml:id="p24" begin="00:01:40.720" end="00:01:44.720" region="bottomCenter">Po kliknięciu opcji „Edytuj style” możesz przeglądać style i zmieniać</p>
+      <p xml:id="p25" begin="00:01:46.200" end="00:01:49.200" region="bottomCenter">typografię, kolory oraz układ swojej witryny.</p>
+      <p xml:id="p26" begin="00:01:49.320" end="00:01:50.820" region="bottomCenter">Zobaczmy, jak to działa.</p>
+      <p xml:id="p27" begin="00:01:50.960" end="00:01:55.760" region="bottomCenter">Po kliknięciu opcji „Typografia” możesz zarządzać ustawieniami typograficznymi tekstu,</p>
+      <p xml:id="p28" begin="00:01:55.800" end="00:01:58.300" region="bottomCenter">odnośników, nagłówków, podpisów i przycisków.</p>
+      <p xml:id="p29" begin="00:01:58.480" end="00:02:02.480" region="bottomCenter">Wspaniałą nowością jest to, że masz teraz dostęp do biblioteki krojów pisma.</p>
+      <p xml:id="p30" begin="00:02:04.360" end="00:02:07.360" region="bottomCenter">W sekcji „Fonty” zobaczymy kroje pisma dodane do naszego motywu.</p>
+      <p xml:id="p31" begin="00:02:09.280" end="00:02:14.680" region="bottomCenter">Po kliknięciu opcji „Zarządzaj krojem pisma” możemy instalować, usuwać i włączać lokalne kroje pisma</p>
+      <p xml:id="p32" begin="00:02:14.760" end="00:02:18.760" region="bottomCenter">oraz Google Fonts w całej witrynie z dowolnym motywem blokowym.</p>
+      <p xml:id="p33" begin="00:02:18.960" end="00:02:23.960" region="bottomCenter">Po kliknięciu opcji „Instaluj kroje pisma” można zainstalować dowolny font Google</p>
+      <p xml:id="p34" begin="00:02:24.320" end="00:02:29.320" region="bottomCenter">w witrynie internetowej, a po kliknięciu opcji „Prześlij” można przesłać krój pisma z komputera.</p>
+      <p xml:id="p35" begin="00:02:30.080" end="00:02:34.080" region="bottomCenter">Należy upewnić się, że ma się prawo do używania przesyłanych krojów pisma.</p>
+      <p xml:id="p36" begin="00:02:35.280" end="00:02:37.280" region="bottomCenter">Pod opcją „Typografia” widoczne są kolory.</p>
+      <p xml:id="p37" begin="00:02:37.520" end="00:02:42.520" region="bottomCenter">W tym miejscu można również zmienić kolory różnych globalnych elementów witryny.</p>
+      <p xml:id="p38" begin="00:02:43.880" end="00:02:48.880" region="bottomCenter">Po przejściu do opcji „Układ” można zauważyć, że można nawet kontrolować elementy,</p>
+      <p xml:id="p39" begin="00:02:49.000" end="00:02:52.000" region="bottomCenter">takie jak wypełnienie i odstępy między blokami.</p>
+      <p xml:id="p40" begin="00:02:53.040" end="00:02:56.040" region="bottomCenter">Jeśli spojrzysz dalej w dół, możesz dostosować wygląd</p>
+      <p xml:id="p41" begin="00:02:57.080" end="00:02:59.980" region="bottomCenter">poszczególnych bloków dla całej witryny.</p>
+      <p xml:id="p42" begin="00:03:00.000" end="00:03:05.000" region="bottomCenter">Aby zobaczyć, jak te bloki zmienią się po edycji, przejdź do „Księga stylów” swojej witryny.</p>
+      <p xml:id="p43" begin="00:03:05.080" end="00:03:08.080" region="bottomCenter">Zauważysz małe oko u góry.</p>
+      <p xml:id="p44" begin="00:03:08.960" end="00:03:14.960" region="bottomCenter">Księga stylów pozwala użytkownikowi wyświetlić podgląd każdego bloku, który można wstawić do witryny.</p>
+      <p xml:id="p45" begin="00:03:15.000" end="00:03:20.000" region="bottomCenter">Daje to możliwość podglądu tego, jak style globalne wpłyną na wyświetlane bloki,</p>
+      <p xml:id="p46" begin="00:03:20.720" end="00:03:24.720" region="bottomCenter">bez konieczności wstawiania tych bloków do szablonu przez użytkownika.</p>
+      <p xml:id="p47" begin="00:03:25.840" end="00:03:29.840" region="bottomCenter">Należy również pamiętać, że styl bloków można dostosować w księdze stylów.</p>
+      <p xml:id="p48" begin="00:03:31.200" end="00:03:34.200" region="bottomCenter">Zaktualizujmy na przykład blok „Przyciski”,</p>
+      <p xml:id="p49" begin="00:03:34.920" end="00:03:37.920" region="bottomCenter">zmieniając kolor tła i wielkość liter na wielkie.</p>
+      <p xml:id="p50" begin="00:03:48.240" end="00:03:51.240" region="bottomCenter">Jeśli podoba ci się efekt, możesz kliknąć „Zapisz”.</p>
+      <p xml:id="p51" begin="00:03:52.440" end="00:03:56.940" region="bottomCenter">Należy również pamiętać, że zmiana pojedynczego bloku w księdze stylów ma pierwszeństwo</p>
+      <p xml:id="p52" begin="00:03:57.080" end="00:04:00.080" region="bottomCenter">przed globalnymi stylami, które zostały ustawione.</p>
+      <p xml:id="p53" begin="00:04:02.840" end="00:04:05.840" region="bottomCenter">Skoro już tu jesteśmy, musimy również porozmawiać o zmianach stylów.</p>
+      <p xml:id="p54" begin="00:04:05.840" end="00:04:08.840" region="bottomCenter">Kliknijmy na opcję „Wersje stylu” obok ikonki „Księga stylów”.</p>
+      <p xml:id="p55" begin="00:04:10.680" end="00:04:13.680" region="bottomCenter">Zmiany stylów otworzą się podczas edycji szablonu w księdze stylów.</p>
+      <p xml:id="p56" begin="00:04:15.040" end="00:04:19.540" region="bottomCenter">Funkcja zmian stylów umożliwia przeglądanie zmian stylów w czasie w sposób wizualny</p>
+      <p xml:id="p57" begin="00:04:19.960" end="00:04:24.260" region="bottomCenter">i pozwala łatwo przywrócić poprzedni stan, jeśli znajdziesz styl, który bardziej ci odpowiada</p>
+      <p xml:id="p58" begin="00:04:24.320" end="00:04:26.320" region="bottomCenter">lub chcesz przywrócić poprzednią wersję.</p>
+      <p xml:id="p59" begin="00:04:26.680" end="00:04:29.680" region="bottomCenter">Wystarczy wybrać wersję, a następnie kliknąć „Zastosuj”.</p>
+      <p xml:id="p60" begin="00:04:31.720" end="00:04:35.720" region="bottomCenter">W tym przykładzie edytuję szablon i postępuję zgodnie z tą samą procedurą.</p>
+      <p xml:id="p61" begin="00:04:35.760" end="00:04:41.760" region="bottomCenter">Otwieram zmiany stylów, wybieram poprzedni styl, a następnie klikam „Zastosuj”, aby przywrócić poprzednią wersję.</p>
+      <p xml:id="p62" begin="00:04:45.000" end="00:04:49.000" region="bottomCenter">Po kliknięciu trzech pionowych kropek obok stylów można zresetować</p>
+      <p xml:id="p63" begin="00:04:50.760" end="00:04:53.760" region="bottomCenter">style i dodać dodatkowy kod CSS.</p>
+      <p xml:id="p64" begin="00:04:57.000" end="00:05:01.000" region="bottomCenter">W sekcji „Style” możemy przejść do „Strony”, aby tworzyć i publikować strony.</p>
+      <p xml:id="p65" begin="00:05:02.200" end="00:05:06.200" region="bottomCenter">Aby dodać nową stronę, kliknij ikonkę plusa obok stron i utwórz wersję roboczą.</p>
+      <p xml:id="p66" begin="00:05:07.400" end="00:05:11.400" region="bottomCenter">Możesz oczywiście utworzyć nową stronę również w kokpicie, WP Admin.</p>
+      <p xml:id="p67" begin="00:05:13.160" end="00:05:17.160" region="bottomCenter">Następnie otwórzmy jedną z naszych istniejących stron, moją stronę „O mnie”.</p>
+      <p xml:id="p68" begin="00:05:17.960" end="00:05:21.960" region="bottomCenter">Po otwarciu strony należy pamiętać o dodaniu treści do bloku „Treść”.</p>
+      <p xml:id="p69" begin="00:05:23.040" end="00:05:26.840" region="bottomCenter">Innymi słowy, blok „Treść” jest domem lub kontenerem dla wszystkich</p>
+      <p xml:id="p70" begin="00:05:26.920" end="00:05:27.920" region="bottomCenter">treści.</p>
+      <p xml:id="p71" begin="00:05:28.080" end="00:05:31.880" region="bottomCenter">Drugą rzeczą, o której należy pamiętać, jest to, że podczas edycji strony nie można</p>
+      <p xml:id="p72" begin="00:05:31.880" end="00:05:33.380" region="bottomCenter">dostosowywać nagłówka i stopki.</p>
+      <p xml:id="p73" begin="00:05:33.440" end="00:05:35.540" region="bottomCenter">Wszystko to jest częścią zarządzania szablonami.</p>
+      <p xml:id="p74" begin="00:05:35.600" end="00:05:38.600" region="bottomCenter">Po kliknięciu nagłówka pojawi się komunikat „Edytuj szablon,</p>
+      <p xml:id="p75" begin="00:05:39.720" end="00:05:41.120" region="bottomCenter">aby edytować ten blok”.</p>
+      <p xml:id="p76" begin="00:05:41.160" end="00:05:44.960" region="bottomCenter">Jeśli chcesz zmodyfikować szablon przypisany do tej strony, możesz kliknąć opcję</p>
+      <p xml:id="p77" begin="00:05:45.040" end="00:05:46.540" region="bottomCenter">„Edytuj szablon”.</p>
+      <p xml:id="p78" begin="00:05:46.800" end="00:05:49.800" region="bottomCenter">W tym przykładzie spowoduje to przejście do szablonu strony.</p>
+      <p xml:id="p79" begin="00:05:50.000" end="00:05:53.000" region="bottomCenter">Tutaj możesz zmodyfikować nagłówek i stopkę.</p>
+      <p xml:id="p80" begin="00:05:53.720" end="00:05:56.720" region="bottomCenter">Nie będzie można dodawać treści do szablonu.</p>
+      <p xml:id="p81" begin="00:05:57.120" end="00:06:00.120" region="bottomCenter">Treść jest oczywiście dodawana do wpisów i stron.</p>
+      <p xml:id="p82" begin="00:06:00.440" end="00:06:03.440" region="bottomCenter">Blok treści jest w tym kontekście jedynie symbolem zastępczym.</p>
+      <p xml:id="p83" begin="00:06:04.680" end="00:06:07.680" region="bottomCenter">To prowadzi nas do kolejnego tematu, a mianowicie szablonów.</p>
+      <p xml:id="p84" begin="00:06:08.000" end="00:06:11.000" region="bottomCenter">Szablony określają strukturę wyświetlania treści.</p>
+      <p xml:id="p85" begin="00:06:11.680" end="00:06:16.480" region="bottomCenter">Po wybraniu opcji szablonów zobaczysz szereg szablonów dostępnych w ramach motywu,</p>
+      <p xml:id="p86" begin="00:06:16.480" end="00:06:17.780" region="bottomCenter">czyli szablonów wbudowanych.</p>
+      <p xml:id="p87" begin="00:06:17.800" end="00:06:22.800" region="bottomCenter">Na przykład szablon strony wyświetlający pojedynczą stronę, szablon indeksu,</p>
+      <p xml:id="p88" begin="00:06:23.680" end="00:06:29.680" region="bottomCenter">który jest szablonem rezerwowym, lub szablon pojedynczego wpisu wyświetlający układ pojedynczych wpisów.</p>
+      <p xml:id="p89" begin="00:06:29.920" end="00:06:32.920" region="bottomCenter">Na samym dole zobaczymy wszystkie szablony niestandardowe.</p>
+      <p xml:id="p90" begin="00:06:33.840" end="00:06:39.340" region="bottomCenter">Po kliknięciu ikonki plusa obok szablonów można dodać różne nowe szablony, nawet szablon niestandardowy,</p>
+      <p xml:id="p91" begin="00:06:39.400" end="00:06:42.700" region="bottomCenter">który można zastosować do dowolnego wpisu lub strony.</p>
+      <p xml:id="p92" begin="00:06:42.720" end="00:06:45.720" region="bottomCenter">Otwórzmy szablon strony, aby lepiej zrozumieć, jak działa szablon.</p>
+      <p xml:id="p93" begin="00:06:47.400" end="00:06:49.400" region="bottomCenter">Szablon zapewnia strukturę.</p>
+      <p xml:id="p94" begin="00:06:49.440" end="00:06:53.440" region="bottomCenter">Szablon zazwyczaj zawiera część szablonu nagłówka i część szablonu stopki.</p>
+      <p xml:id="p95" begin="00:06:54.520" end="00:06:59.520" region="bottomCenter">Blok „Treść wpisu” pobiera treść ze strony lub wpisu przypisanego do szablonu.</p>
+      <p xml:id="p96" begin="00:07:00.880" end="00:07:06.880" region="bottomCenter">Szablon służy więc wyłącznie do modyfikacji układu lub wyglądu strony, a mianowicie nagłówka, stopki,</p>
+      <p xml:id="p97" begin="00:07:07.000" end="00:07:08.500" region="bottomCenter">a nawet paska bocznego.</p>
+      <p xml:id="p98" begin="00:07:08.720" end="00:07:13.720" region="bottomCenter">Edytor witryny wprowadza zatem wyraźne rozróżnienie między edycją szablonu a edycją strony.</p>
+      <p xml:id="p99" begin="00:07:14.640" end="00:07:17.640" region="bottomCenter">Możesz modyfikować nagłówek i stopkę w szablonie.</p>
+      <p xml:id="p100" begin="00:07:18.520" end="00:07:23.320" region="bottomCenter">Jedną z dostępnych opcji jest kliknięcie trzech pionowych kropek i wybranie opcji</p>
+      <p xml:id="p101" begin="00:07:23.360" end="00:07:24.360" region="bottomCenter">„Zastąp nagłówek”.</p>
+      <p xml:id="p102" begin="00:07:24.360" end="00:07:28.360" region="bottomCenter">Następnie możesz zastąpić bieżący nagłówek jednym z istniejących elementów szablonu</p>
+      <p xml:id="p103" begin="00:07:28.400" end="00:07:31.400" region="bottomCenter">nagłówka lub wzorców nagłówka dostarczonych wraz z motywem.</p>
+      <p xml:id="p104" begin="00:07:33.520" end="00:07:37.120" region="bottomCenter">Inną opcją jest wybranie nagłówka, a następnie kliknięcie przycisku „Edytuj”.</p>
+      <p xml:id="p105" begin="00:07:37.160" end="00:07:40.160" region="bottomCenter">Umożliwi to modyfikowanie nagłówka lub stopki w trybie edycji szablonu</p>
+      <p xml:id="p106" begin="00:07:41.420" end="00:07:43.820" region="bottomCenter">bez żadnych innych zakłóceń.</p>
+      <p xml:id="p107" begin="00:07:43.880" end="00:07:48.880" region="bottomCenter">Aby przypisać nowy szablon do strony lub wpisu, otwórz odpowiednią treść, w tym przypadku</p>
+      <p xml:id="p108" begin="00:07:49.000" end="00:07:54.000" region="bottomCenter">moją stronę „O mnie”, a następnie otwórz ustawienia paska bocznego po prawej stronie.</p>
+      <p xml:id="p109" begin="00:07:54.480" end="00:07:59.480" region="bottomCenter">Obok opcji „Szablon” kliknij nazwę szablonu, wybierz opcję „Zamień szablon”, a następnie</p>
+      <p xml:id="p110" begin="00:08:01.840" end="00:08:05.840" region="bottomCenter">wybierz własny szablon, który chcesz przypisać do swojej strony lub wpisu.</p>
+      <p xml:id="p111" begin="00:08:07.760" end="00:08:12.660" region="bottomCenter">Warto również wspomnieć, że po kliknięciu opcji „Zarządzaj wszystkimi szablonami”, a następnie</p>
+      <p xml:id="p112" begin="00:08:12.680" end="00:08:17.680" region="bottomCenter">wybraniu opcji „Edycja zbiorcza”, można przeglądać i filtrować szablony w widoku tabeli</p>
+      <p xml:id="p113" begin="00:08:18.960" end="00:08:20.960" region="bottomCenter">lub siatki.</p>
+      <p xml:id="p114" begin="00:08:21.120" end="00:08:25.820" region="bottomCenter">Po ponownym wybraniu opcji „Edycja zbiorcza” dostępnych jest więcej opcji filtrowania.</p>
+      <p xml:id="p115" begin="00:08:25.880" end="00:08:30.880" region="bottomCenter">Należy pamiętać, że w ten sam sposób można przeglądać i filtrować strony oraz części szablonów.</p>
+      <p xml:id="p116" begin="00:08:32.440" end="00:08:35.440" region="bottomCenter">Na koniec porozmawiajmy o wzorcach.</p>
+      <p xml:id="p117" begin="00:08:37.480" end="00:08:41.480" region="bottomCenter">W górnej części ekranu można wyświetlić wszystkie dostępne wzorce.</p>
+      <p xml:id="p118" begin="00:08:41.960" end="00:08:47.560" region="bottomCenter">Po wybraniu opcji „Moje wzorce” można tworzyć własne wzorce zsynchronizowane i niezsynchronizowane</p>
+      <p xml:id="p119" begin="00:08:47.600" end="00:08:48.600" region="bottomCenter">oraz zarządzać nimi.</p>
+      <p xml:id="p120" begin="00:08:48.600" end="00:08:53.600" region="bottomCenter">Pod sekcją „Moje wzorce” możemy wyświetlić wszystkie nasze własne wzorce oraz wzorce dostarczane</p>
+      <p xml:id="p121" begin="00:08:53.600" end="00:08:56.600" region="bottomCenter">wraz z naszym motywem w odpowiednich kategoriach.</p>
+      <p xml:id="p122" begin="00:08:57.680" end="00:09:02.680" region="bottomCenter">Pod sekcją „Części szablonu” możemy również tworzyć nagłówki, stopki i ogólne części szablonu</p>
+      <p xml:id="p123" begin="00:09:03.000" end="00:09:04.500" region="bottomCenter">oraz zarządzać nimi.</p>
+      <p xml:id="p124" begin="00:09:04.960" end="00:09:07.760" region="bottomCenter">Części szablonu są zasadniczo wzorcami.</p>
+      <p xml:id="p125" begin="00:09:07.760" end="00:09:12.760" region="bottomCenter">Są to zsynchronizowane komponenty wielokrotnego użytku, które można wykorzystać w całej witrynie.</p>
+      <p xml:id="p126" begin="00:09:12.960" end="00:09:14.960" region="bottomCenter">Zacznijmy od sekcji „Moje wzorce”.</p>
+      <p xml:id="p127" begin="00:09:15.280" end="00:09:20.280" region="bottomCenter">Aby utworzyć własny wzorzec, kliknij przycisk „Wstaw” obok wzorców, a następnie wybierz opcję</p>
+      <p xml:id="p128" begin="00:09:20.860" end="00:09:22.360" region="bottomCenter">„Utwórz wzorzec”.</p>
+      <p xml:id="p129" begin="00:09:22.640" end="00:09:27.640" region="bottomCenter">Po nadaniu nazwy możesz dodać wzorzec do odpowiedniej kategorii, a następnie zdecydować,</p>
+      <p xml:id="p130" begin="00:09:31.800" end="00:09:33.800" region="bottomCenter">czy chcesz go zsynchronizować.</p>
+      <p xml:id="p131" begin="00:09:33.960" end="00:09:39.860" region="bottomCenter">Zsynchronizowany wzorzec zostanie zsynchronizowany w całej witrynie, co oznacza, że jeśli zmienisz wzorzec</p>
+      <p xml:id="p132" begin="00:09:39.920" end="00:09:44.320" region="bottomCenter">w jednym miejscu, zostanie on zaktualizowany wszędzie tam, gdzie jest używany.</p>
+      <p xml:id="p133" begin="00:09:44.360" end="00:09:49.360" region="bottomCenter">Możesz również wyłączyć tę opcję, jeśli wolisz mieć wzorzec niesynchronizowany.</p>
+      <p xml:id="p134" begin="00:09:50.480" end="00:09:55.480" region="bottomCenter">Wzorce niesynchronizowane to zwykłe wzorce, które można edytować niezależnie.</p>
+      <p xml:id="p135" begin="00:09:56.760" end="00:10:01.360" region="bottomCenter">Po powrocie do obszaru własnych wzorców zauważysz, że wzorce zsynchronizowane mają</p>
+      <p xml:id="p136" begin="00:10:01.360" end="00:10:04.360" region="bottomCenter">fioletową ikonę, a wzorce niesynchronizowane nie.</p>
+      <p xml:id="p137" begin="00:10:05.680" end="00:10:09.680" region="bottomCenter">Następnie zauważysz, że wzorce dołączone do motywu są zablokowane</p>
+      <p xml:id="p138" begin="00:10:09.840" end="00:10:12.840" region="bottomCenter">i nie można ich edytować.</p>
+      <p xml:id="p139" begin="00:10:14.080" end="00:10:18.080" region="bottomCenter">Jednak po kliknięciu trzech pionowych kropek pod wzorcem można go</p>
+      <p xml:id="p140" begin="00:10:19.360" end="00:10:21.860" region="bottomCenter">skopiować do obszaru „Moje wzorce”.</p>
+      <p xml:id="p141" begin="00:10:21.920" end="00:10:27.920" region="bottomCenter">W dolnej części możemy tworzyć nagłówki, stopki i ogólne elementy szablonu oraz zarządzać nimi.</p>
+      <p xml:id="p142" begin="00:10:28.440" end="00:10:29.940" region="bottomCenter">Masz tu dwie opcje.</p>
+      <p xml:id="p143" begin="00:10:30.200" end="00:10:35.500" region="bottomCenter">Możesz tworzyć własne nagłówki i stopki lub dostosowywać wzorce fragmentu szablonu, które są dostarczane</p>
+      <p xml:id="p144" begin="00:10:35.520" end="00:10:36.620" region="bottomCenter">wraz z motywem.</p>
+      <p xml:id="p145" begin="00:10:36.680" end="00:10:41.680" region="bottomCenter">Aby utworzyć własny fragment szablonu, kliknij ikonkę plusa u góry obok wzorców</p>
+      <p xml:id="p146" begin="00:10:42.280" end="00:10:45.080" region="bottomCenter">i wybierz opcję „Utwórz fragment szablonu”.</p>
+      <p xml:id="p147" begin="00:10:45.080" end="00:10:49.180" region="bottomCenter">Dodając nowy fragment szablonu, możesz wybrać między ogólnymi fragmentami szablonu</p>
+      <p xml:id="p148" begin="00:10:49.240" end="00:10:50.740" region="bottomCenter">nagłówka i stopki.</p>
+      <p xml:id="p149" begin="00:10:50.920" end="00:10:54.920" region="bottomCenter">Ogólne fragmenty szablonu nie są powiązane z żadnym konkretnym obszarem,</p>
+      <p xml:id="p150" begin="00:10:55.200" end="00:10:58.200" region="bottomCenter">więc pamiętaj, aby nadać im opisową nazwę.</p>
+      <p xml:id="p151" begin="00:10:58.240" end="00:11:03.240" region="bottomCenter">Po otwarciu fragmentu szablonu w tym miejscu będziesz mógł modyfikować i edytować swój</p>
+      <p xml:id="p152" begin="00:11:04.560" end="00:11:08.460" region="bottomCenter">fragment szablonu w trybie edycji szablonu bez żadnych zakłóceń.</p>
+      <p xml:id="p153" begin="00:11:08.520" end="00:11:13.520" region="bottomCenter">Możesz również otworzyć odpowiedni szablon, w tym przypadku mój własny szablon,</p>
+      <p xml:id="p154" begin="00:11:16.280" end="00:11:21.280" region="bottomCenter">a następnie zmodyfikować fragment szablonu nagłówka lub stopki z poziomu szablonu.</p>
+      <p xml:id="p155" begin="00:11:21.320" end="00:11:26.320" region="bottomCenter">Jak pokazano wcześniej, możesz łatwo zastąpić jeden ze swoich nagłówków lub stopek wzorcem</p>
+      <p xml:id="p156" begin="00:11:28.440" end="00:11:31.440" region="bottomCenter">lub istniejącym fragmentem szablonu z biblioteki.</p>
+      <p xml:id="p157" begin="00:11:32.800" end="00:11:37.500" region="bottomCenter">Na koniec chciałbym również zwrócić uwagę na niezwykle pomocną funkcję o nazwie paleta poleceń,</p>
+      <p xml:id="p158" begin="00:11:37.560" end="00:11:42.560" region="bottomCenter">która pozwoli ci zaoszczędzić mnóstwo czasu i pomoże ci efektywniej poruszać się po edytorze witryny.</p>
+      <p xml:id="p159" begin="00:11:42.800" end="00:11:46.800" region="bottomCenter">Paleta poleceń umożliwia szybkie wykonywanie zadań i poruszanie się po edytorze</p>
+      <p xml:id="p160" begin="00:11:47.680" end="00:11:48.680" region="bottomCenter">witryny.</p>
+      <p xml:id="p161" begin="00:11:49.120" end="00:11:54.120" region="bottomCenter">Możesz na przykład wpisać „new”, aby utworzyć stronę lub szablon, lub po prostu nazwę obszaru,</p>
+      <p xml:id="p162" begin="00:11:55.560" end="00:11:57.560" region="bottomCenter">do którego chcesz przejść.</p>
+      <p xml:id="p163" begin="00:11:57.720" end="00:12:00.720" region="bottomCenter">Na przykład „pattern”, aby zarządzać wszystkimi moimi wzorcami.</p>
+      <p xml:id="p164" begin="00:12:04.800" end="00:12:09.800" region="bottomCenter">Dostęp do palety poleceń można uzyskać za pomocą skrótu klawiszowego command+k na komputerze Mac</p>
+      <p xml:id="p165" begin="00:12:09.920" end="00:12:11.920" region="bottomCenter">lub control+k w systemie Windows.</p>
+      <p xml:id="p166" begin="00:12:12.120" end="00:12:15.120" region="bottomCenter">Znajdziesz ją również na pasku bocznym widoku witryny, klikając ikonkę wyszukiwania.</p>
+      <p xml:id="p167" begin="00:12:21.560" end="00:12:24.560" region="bottomCenter">Możesz też po prostu kliknąć pasek tytułu.</p>
+      <p xml:id="p168" begin="00:12:26.480" end="00:12:29.480" region="bottomCenter">To kończy nasz krótki przegląd możliwości edytora witryny.</p>
+    </div>
+  </body>
+</tt>

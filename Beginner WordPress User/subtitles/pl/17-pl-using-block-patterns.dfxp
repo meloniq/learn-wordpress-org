@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 17-pl-using-block-patterns</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">Nauczyliśmy się używać i grupować bloki, aby budować naszą witrynę.</p>
+      <p xml:id="p2" begin="00:00:04.000" end="00:00:08.000" region="bottomCenter">Ale czy wiesz, że istnieje skrót do szybszego tworzenia własnych układów treści,</p>
+      <p xml:id="p3" begin="00:00:09.000" end="00:00:12.000" region="bottomCenter">a mianowicie użycie wzorców bloków?</p>
+      <p xml:id="p4" begin="00:00:12.000" end="00:00:16.000" region="bottomCenter">Nie wszyscy jesteśmy projektantami, a tworzenie układów jest czasochłonne.</p>
+      <p xml:id="p5" begin="00:00:16.000" end="00:00:19.000" region="bottomCenter">Wzorce bloków stanowią rozwiązanie tego problemu.</p>
+      <p xml:id="p6" begin="00:00:19.000" end="00:00:24.000" region="bottomCenter">Cele nauczania tej lekcji to używanie i modyfikowanie dostępnych gotowych wzorców bloków,</p>
+      <p xml:id="p7" begin="00:00:25.000" end="00:00:30.000" region="bottomCenter">przeglądanie katalogu wzorców bloków, tworzenie własnych wzorców zsynchronizowanych i niesynchronizowanych,</p>
+      <p xml:id="p8" begin="00:00:30.000" end="00:00:33.000" region="bottomCenter">a na koniec wykorzystanie wzorców nagłówków i stopek.</p>
+      <p xml:id="p9" begin="00:00:34.000" end="00:00:36.000" region="bottomCenter">Ale czym są wzorce?</p>
+      <p xml:id="p10" begin="00:00:36.000" end="00:00:43.000" region="bottomCenter">Wzorce bloków to gotowe projekty lub układy zgrupowanych bloków, które można modyfikować i zmieniać zgodnie z własnymi potrzebami.</p>
+      <p xml:id="p11" begin="00:00:43.000" end="00:00:48.000" region="bottomCenter">Pozwala to nie tylko zaoszczędzić czas, ale także zwiększyć kreatywność i poprawić jakość projektu.</p>
+      <p xml:id="p12" begin="00:00:48.000" end="00:00:52.000" region="bottomCenter">Zamiast samodzielnie zagnieżdżać i grupować bloki, wzorce robią to za ciebie.</p>
+      <p xml:id="p13" begin="00:00:53.000" end="00:01:01.000" region="bottomCenter">Jednym kliknięciem uzyskasz dostęp do pięknych i funkcjonalnych układów, od wezwań do działania, nagłówków, kolumn, galerii i wielu innych elementów.</p>
+      <p xml:id="p14" begin="00:01:02.000" end="00:01:07.000" region="bottomCenter">Aby dodać wzorzec, kliknij ikonkę plusa w lewym górnym rogu, zwaną również „Wybierak”,</p>
+      <p xml:id="p15" begin="00:01:08.000" end="00:01:11.000" region="bottomCenter">i otwórz zakładkę wzorców po prawej stronie obok bloków.</p>
+      <p xml:id="p16" begin="00:01:12.000" end="00:01:15.000" region="bottomCenter">U góry zobaczysz wszystkie wzorce.</p>
+      <p xml:id="p17" begin="00:01:15.000" end="00:01:21.000" region="bottomCenter">Poniżej znajdują się wszystkie zsynchronizowane i niezsynchronizowane wzorce, które sam stworzyłeś.</p>
+      <p xml:id="p18" begin="00:01:21.000" end="00:01:26.000" region="bottomCenter">Zsynchronizowane wzorce są oznaczone fioletową ikonką, a niezsynchronizowane wzorce nie mają ikonki,</p>
+      <p xml:id="p19" begin="00:01:26.000" end="00:01:30.000" region="bottomCenter">ale więcej o zsynchronizowanych i niezsynchronizowanych wzorcach za chwilę.</p>
+      <p xml:id="p20" begin="00:01:30.000" end="00:01:34.000" region="bottomCenter">Pod sekcją „Moje wzorce” zobaczysz wzorce dołączone do twojego motywu.</p>
+      <p xml:id="p21" begin="00:01:34.000" end="00:01:39.000" region="bottomCenter">Są one uporządkowane w różne kategorie, aby ułatwić ci znalezienie tego, czego potrzebujesz.</p>
+      <p xml:id="p22" begin="00:01:39.000" end="00:01:44.000" region="bottomCenter">Po kliknięciu kategorii, przewijając w dół, zobaczysz podgląd wszystkich dostępnych wzorców.</p>
+      <p xml:id="p23" begin="00:01:46.000" end="00:01:53.000" region="bottomCenter">Możesz również wybrać opcję „Przeglądaj wszystkie wzorce” na dole, aby uzyskać ogólny przegląd wzorców dostępnych w ramach danego motywu.</p>
+      <p xml:id="p24" begin="00:01:54.000" end="00:01:57.000" region="bottomCenter">Możesz również przeglądać je według kategorii.</p>
+      <p xml:id="p25" begin="00:01:59.000" end="00:02:02.000" region="bottomCenter">Spójrzmy na krótki przykład.</p>
+      <p xml:id="p26" begin="00:02:02.000" end="00:02:09.000" region="bottomCenter">Po wybraniu wzorca, w tym przypadku jednego z kategorii „Polecane”, możesz go zmodyfikować, aby spełniał twoje wymagania projektowe.</p>
+      <p xml:id="p27" begin="00:02:10.000" end="00:02:14.000" region="bottomCenter">Można go łatwo edytować w taki sam sposób, jak każdy inny blok.</p>
+      <p xml:id="p28" begin="00:02:15.000" end="00:02:18.000" region="bottomCenter">Możesz zmienić wyrównanie bloku kontenera.</p>
+      <p xml:id="p29" begin="00:02:19.000" end="00:02:23.000" region="bottomCenter">Możesz edytować nagłówek, aktualizować treść, zastępować obrazki</p>
+      <p xml:id="p30" begin="00:02:33.000" end="00:02:37.000" region="bottomCenter">i na przykład zmieniać kolor tła wzorca, a także inne opcje stylizacji.</p>
+      <p xml:id="p31" begin="00:02:40.000" end="00:02:44.000" region="bottomCenter">Jednak cała ciężka praca i układ zostały już wykonane za ciebie.</p>
+      <p xml:id="p32" begin="00:02:44.000" end="00:02:49.000" region="bottomCenter">Jedyne, co musisz zrobić, to wybrać wzorzec i zmodyfikować go zgodnie z własnymi wymaganiami.</p>
+      <p xml:id="p33" begin="00:02:51.000" end="00:02:54.000" region="bottomCenter">Wzorce dostępne w ramach motywu są ograniczone.</p>
+      <p xml:id="p34" begin="00:02:54.000" end="00:02:59.000" region="bottomCenter">Jeśli chcesz mieć większy wybór wzorców, możesz przejrzeć katalog wzorców bloków.</p>
+      <p xml:id="p35" begin="00:02:59.000" end="00:03:02.000" region="bottomCenter">W tym celu przejdź do witryny WordPress.org.</p>
+      <p xml:id="p36" begin="00:03:04.000" end="00:03:07.000" region="bottomCenter">Kliknij „Extend”, a następnie wybierz „Wzorce”.</p>
+      <p xml:id="p37" begin="00:03:10.000" end="00:03:14.000" region="bottomCenter">Tutaj możesz wyszukiwać i znajdować nowe wzorce dla swojej witryny internetowej.</p>
+      <p xml:id="p38" begin="00:03:15.000" end="00:03:22.000" region="bottomCenter">Zauważysz, że istnieje opcja wyświetlania tylko wybranych wzorców lub setek wzorców, które zostały dodane przez społeczność WordPress.</p>
+      <p xml:id="p39" begin="00:03:24.000" end="00:03:32.000" region="bottomCenter">Możesz wpisać tekst w polu wyszukiwania, wyszukiwać według kategorii lub przeglądać wszystkie dostępne opcje, aż znajdziesz to, czego szukasz.</p>
+      <p xml:id="p40" begin="00:03:33.000" end="00:03:39.000" region="bottomCenter">Po znalezieniu szablonu, który ci odpowiada, możesz kliknąć „Gwiazdkę”, aby dodać go do ulubionych.</p>
+      <p xml:id="p41" begin="00:03:39.000" end="00:03:46.000" region="bottomCenter">Kiedy będziesz gotowy, aby dodać wzorzec do swojej witryny, otwórz go, kliknij „Kopiuj wzorzec”, wróć do swojej witryny, a następnie wklej.</p>
+      <p xml:id="p42" begin="00:03:54.000" end="00:03:57.000" region="bottomCenter">Następnie możesz zacząć zmieniać i modyfikować swój wzorzec.</p>
+      <p xml:id="p43" begin="00:04:00.000" end="00:04:05.000" region="bottomCenter">Tak wygląda mój wzorzec po zmianach dostosowujących go do moich potrzeb projektowych.</p>
+      <p xml:id="p44" begin="00:04:06.000" end="00:04:09.000" region="bottomCenter">Po przejściu do edytora witryny</p>
+      <p xml:id="p45" begin="00:04:10.000" end="00:04:13.000" region="bottomCenter">w widoku bocznym zobaczysz kartę „Wzorce”.</p>
+      <p xml:id="p46" begin="00:04:14.000" end="00:04:21.000" region="bottomCenter">Tutaj możesz zarządzać, edytować i tworzyć wszystkie swoje wzorce, zsynchronizowane lub nie, wraz z fragmentami szablonów.</p>
+      <p xml:id="p47" begin="00:04:22.000" end="00:04:26.000" region="bottomCenter">Po kliknięciu „Moje wzorce” zobaczysz wszystkie swoje własne wzorce.</p>
+      <p xml:id="p48" begin="00:04:26.000" end="00:04:30.000" region="bottomCenter">Zsynchronizowane wzorce mają fioletową ikonkę, a niezsynchronizowane nie.</p>
+      <p xml:id="p49" begin="00:04:31.000" end="00:04:39.000" region="bottomCenter">Po najechaniu kursorem na fioletową ikonę pojawi się wyraźny komunikat: „Edytowanie tego wzorca spowoduje również aktualizację wszystkich miejsc, w których jest on używany”.</p>
+      <p xml:id="p50" begin="00:04:39.000" end="00:04:45.000" region="bottomCenter">Pod własnymi wzorcami zobaczymy wszystkie dostępne kategorie, a także wzorce dostarczone przez motyw.</p>
+      <p xml:id="p51" begin="00:04:47.000" end="00:04:54.000" region="bottomCenter">Warto również zauważyć, że po kliknięciu trzech pionowych kropek wzorca dostarczonego wraz z motywem można również powielić</p>
+      <p xml:id="p52" begin="00:04:55.000" end="00:05:02.000" region="bottomCenter">i dodać ten wzorzec do obszaru własnych wzorców, a po zapisaniu go jako własny wzorzec można go modyfikować według własnego uznania.</p>
+      <p xml:id="p53" begin="00:05:02.000" end="00:05:08.000" region="bottomCenter">W dolnej części znajdują się wszystkie wzorce nagłówków, stopek i ogólnych fragmentów szablonów.</p>
+      <p xml:id="p54" begin="00:05:08.000" end="00:05:11.000" region="bottomCenter">Zacznijmy od własnych wzorców.</p>
+      <p xml:id="p55" begin="00:05:11.000" end="00:05:17.000" region="bottomCenter">Po kliknięciu ikonki plusa obok opcji „Wzorce” można utworzyć własne wzorce zsynchronizowane lub niezsynchronizowane.</p>
+      <p xml:id="p56" begin="00:05:18.000" end="00:05:26.000" region="bottomCenter">Po nadaniu nazwy można dodać wzorzec do odpowiedniej kategorii, w tym przypadku „Wezwanie do działania”, a następnie zdecydować się na jego synchronizację.</p>
+      <p xml:id="p57" begin="00:05:31.000" end="00:05:39.000" region="bottomCenter">W tym przykładzie zdecyduję się zsynchronizować wzorzec, a na dole pojawi się komunikat „Synchronizuj ten wzorzec w wielu lokalizacjach”.</p>
+      <p xml:id="p58" begin="00:05:41.000" end="00:05:46.000" region="bottomCenter">Teraz możesz zacząć tworzyć zsynchronizowany wzorzec, a gdy będzie gotowy, kliknij „Zapisz”.</p>
+      <p xml:id="p59" begin="00:05:49.000" end="00:05:57.000" region="bottomCenter">Aby utworzyć wzorzec w edytorze bloków, po prostu wybierz projekt, kliknij trzy pionowe kropki na pasku narzędzi bloku i wybierz „Utwórz wzorzec”.</p>
+      <p xml:id="p60" begin="00:06:02.000" end="00:06:08.000" region="bottomCenter">Następnie postępuj zgodnie z tą samą procedurą, co poprzednio, a ja ponownie wybiorę zsynchronizowany wzorzec.</p>
+      <p xml:id="p61" begin="00:06:12.000" end="00:06:18.000" region="bottomCenter">Jeśli więc podoba ci się jakiś projekt, możesz go zapisać i ponownie wykorzystać jako wzorzec zsynchronizowany lub niezsynchronizowany.</p>
+      <p xml:id="p62" begin="00:06:18.000" end="00:06:21.000" region="bottomCenter">Na koniec omówimy fragmenty szablonu.</p>
+      <p xml:id="p63" begin="00:06:21.000" end="00:06:26.000" region="bottomCenter">Aby zarządzać nagłówkiem i stopką, można skorzystać z wzorców fragmentów szablonu.</p>
+      <p xml:id="p64" begin="00:06:26.000" end="00:06:32.000" region="bottomCenter">Szablony służą do tworzenia projektu witryny internetowej, co zazwyczaj odbywa się poprzez dodanie fragmentu szablonu nagłówka i stopki.</p>
+      <p xml:id="p65" begin="00:06:32.000" end="00:06:35.000" region="bottomCenter">Spójrzmy na przykład i otwórzmy nasz szablon strony.</p>
+      <p xml:id="p66" begin="00:06:38.000" end="00:06:44.000" region="bottomCenter">Po otwarciu szablonu strony możemy wybrać aktualny nagłówek, a następnie kliknąć trzy pionowe kropki.</p>
+      <p xml:id="p67" begin="00:06:48.000" end="00:06:51.000" region="bottomCenter">Następnie możemy wybrać opcję „Zastąp nagłówek”.</p>
+      <p xml:id="p68" begin="00:06:51.000" end="00:06:58.000" region="bottomCenter">Po wykonaniu tej czynności można wybrać jeden z istniejących fragmentów szablonu lub wzorców dostarczonych wraz z motywem.</p>
+      <p xml:id="p69" begin="00:06:58.000" end="00:07:01.000" region="bottomCenter">Działa to dokładnie tak samo w przypadku stopki.</p>
+      <p xml:id="p70" begin="00:07:02.000" end="00:07:07.000" region="bottomCenter">W sekcji „Wzorce” można zarządzać istniejącymi fragmentami szablonu i edytować je.</p>
+      <p xml:id="p71" begin="00:07:09.000" end="00:07:15.000" region="bottomCenter">Aby dodać nowy fragment szablonu, kliknij ikonkę plusa obok „Wzorce” i wybierz „Utwórz fragment szablonu”.</p>
+      <p xml:id="p72" begin="00:07:15.000" end="00:07:20.000" region="bottomCenter">Tutaj możesz wybrać między utworzeniem ogólnego fragmentu szablonu, stopki lub nagłówka.</p>
+      <p xml:id="p73" begin="00:07:22.000" end="00:07:29.000" region="bottomCenter">Aby utworzyć nowy fragment szablonu nagłówka, nadaj mu odpowiednią nazwę, wybierz „Nagłówek”, a następnie kliknij „Utwórz”.</p>
+      <p xml:id="p74" begin="00:07:30.000" end="00:07:34.000" region="bottomCenter">Następnie możesz rozpocząć tworzenie nowego nagłówka w trybie edycji szablonu.</p>
+      <p xml:id="p75" begin="00:07:36.000" end="00:07:41.000" region="bottomCenter">Jesteśmy przekonani, że wzorce staną się jednym z twoich ulubionych nowych narzędzi.</p>
+    </div>
+  </body>
+</tt>

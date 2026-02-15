@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 13-pl-using-template-parts-2</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">W tej lekcji przyjrzymy się bliżej wykorzystaniu fragmentów szablonów.</p>
+      <p xml:id="p2" begin="00:00:05.000" end="00:00:13.000" region="bottomCenter">Po zakończeniu tej lekcji będziesz w stanie opisać, czym są fragmenty szablonu i jak działają, edytować fragment szablonu i zastąpić go w szablonie.</p>
+      <p xml:id="p3" begin="00:00:17.000" end="00:00:24.000" region="bottomCenter">Jeśli odwiedzisz dobrze zaprojektowaną witrynę internetową, zauważysz, że jedną z jej mocnych stron jest spójność.</p>
+      <p xml:id="p4" begin="00:00:24.000" end="00:00:33.000" region="bottomCenter">Nagłówki, stopki i paski boczne często mają tę samą lub podobną treść, aby ułatwić użytkownikom znalezienie informacji, których szukają, niezależnie od tego, gdzie się znajdują w witrynie.</p>
+      <p xml:id="p5" begin="00:00:37.000" end="00:00:44.000" region="bottomCenter">Czy aby uzyskać ten efekt, projektanci witryn internetowych muszą tworzyć nagłówki, stopki i paski boczne od podstaw na każdej stronie?</p>
+      <p xml:id="p6" begin="00:00:45.000" end="00:00:47.000" region="bottomCenter">Krótka odpowiedź brzmi: nie.</p>
+      <p xml:id="p7" begin="00:00:47.000" end="00:00:50.000" region="bottomCenter">Dzięki motywom blokowym WordPressa można korzystać z funkcji znanej jako fragment szablonu.</p>
+      <p xml:id="p8" begin="00:00:53.000" end="00:00:56.000" region="bottomCenter">Po pierwsze, czym są fragmenty szablonu?</p>
+      <p xml:id="p9" begin="00:00:56.000" end="00:01:04.000" region="bottomCenter">Fragmenty szablonu to grupy bloków, których można używać do tworzenia powtarzających się fragmentów szablonu, takich jak nagłówek, stopka i pasek boczny.</p>
+      <p xml:id="p10" begin="00:01:06.000" end="00:01:12.000" region="bottomCenter">Zobaczmy, jak to działa. Gdy jesteś w kokpicie WordPress, przejdź do sekcji „Wygląd”, a następnie kliknij „Edytor”.</p>
+      <p xml:id="p11" begin="00:01:13.000" end="00:01:21.000" region="bottomCenter">Spowoduje to przejście do edytora witryny, a następnie otworzymy jeden z naszych szablonów, w tym przypadku szablon strony głównej bloga.</p>
+      <p xml:id="p12" begin="00:01:21.000" end="00:01:25.000" region="bottomCenter">Tworzymy i modyfikujemy nasze szablony nagłówków i stopek w ramach szablonu.</p>
+      <p xml:id="p13" begin="00:01:29.000" end="00:01:38.000" region="bottomCenter">Niektóre motywy blokowe oferują więcej lub mniej opcji, ale prawie wszystkie są dostarczane z gotowymi nagłówkami i stopkami, tak jak widać tutaj w ramach motywu Twenty Twenty-Four.</p>
+      <p xml:id="p14" begin="00:01:41.000" end="00:01:48.000" region="bottomCenter">WordPress jeszcze bardziej uprościł tę czynność, udostępniając gotowe do użycia i modyfikacji wzorce nagłówków i stopek.</p>
+      <p xml:id="p15" begin="00:01:48.000" end="00:01:55.000" region="bottomCenter">Po kliknięciu trzech pionowych kropek szablonu nagłówka i wybraniu opcji „Zastąp nagłówek” najpierw zobaczysz istniejące fragmenty szablonu.</p>
+      <p xml:id="p16" begin="00:01:59.000" end="00:02:02.000" region="bottomCenter">Są to fragmenty szablonu, które już utworzyłem.</p>
+      <p xml:id="p17" begin="00:02:03.000" end="00:02:06.000" region="bottomCenter">Poniżej znajdują się wzorce szablonów nagłówków.</p>
+      <p xml:id="p18" begin="00:02:08.000" end="00:02:11.000" region="bottomCenter">Możesz wybrać dowolny wzorzec dostępny w twoim motywie.</p>
+      <p xml:id="p19" begin="00:02:14.000" end="00:02:18.000" region="bottomCenter">Jak wspomniano, niektóre motywy mogą oferować więcej, a inne mniej.</p>
+      <p xml:id="p20" begin="00:02:19.000" end="00:02:22.000" region="bottomCenter">Działa to dokładnie tak samo w przypadku stopek.</p>
+      <p xml:id="p21" begin="00:02:24.000" end="00:02:27.000" region="bottomCenter">Zacznijmy od edycji szablonu nagłówka.</p>
+      <p xml:id="p22" begin="00:02:27.000" end="00:02:35.000" region="bottomCenter">Po kliknięciu opcji „Edytuj” na pasku narzędzi bloga możesz pracować nad szablonem nagłówka w trybie edycji bez żadnych innych zakłóceń.</p>
+      <p xml:id="p23" begin="00:02:36.000" end="00:02:41.000" region="bottomCenter">Najpierw otwórzmy widok listy. Następnie dodam logo mojej witryny do szablonu nagłówka.</p>
+      <p xml:id="p24" begin="00:02:45.000" end="00:02:50.000" region="bottomCenter">Po wybraniu bloku „Logo witryny” mogę przesłać obrazek z biblioteki multimediów lub komputera.</p>
+      <p xml:id="p25" begin="00:02:53.000" end="00:02:57.000" region="bottomCenter">Następnie zaznaczę blok „Tytuł witryny” i dodam tytuł tej witryny.</p>
+      <p xml:id="p26" begin="00:03:02.000" end="00:03:07.000" region="bottomCenter">Potem zapiszę fragment szablonu nagłówka i wrócę do szablonu strony głównej bloga.</p>
+      <p xml:id="p27" begin="00:03:09.000" end="00:03:15.000" region="bottomCenter">Przypominam: fragmenty szablonu są synchronizowane i będą aktualizowane wszędzie tam, gdzie zostały użyte.</p>
+      <p xml:id="p28" begin="00:03:16.000" end="00:03:20.000" region="bottomCenter">Zauważysz, że kolor fioletowy wskazuje, kiedy wzorzec jest zsynchronizowany.</p>
+      <p xml:id="p29" begin="00:03:22.000" end="00:03:25.000" region="bottomCenter">Zobaczmy to w praktyce na jednym z naszych innych szablonów.</p>
+      <p xml:id="p30" begin="00:03:26.000" end="00:03:31.000" region="bottomCenter">Kiedy otworzymy nasz szablon strony, zobaczymy, że nagłówek jest dokładnie taki sam.</p>
+      <p xml:id="p31" begin="00:03:32.000" end="00:03:39.000" region="bottomCenter">Kiedy otworzymy nasz szablon 404, zobaczymy, że zmiany zostały zastosowane również tutaj, ponieważ fragmenty szablonu są synchronizowane.</p>
+      <p xml:id="p32" begin="00:03:42.000" end="00:03:48.000" region="bottomCenter">A co, jeśli chcesz mieć inny nagłówek na stronie głównej, ale reszta witryny ma mieć standardowy nagłówek?</p>
+      <p xml:id="p33" begin="00:03:50.000" end="00:03:58.000" region="bottomCenter">W takim przypadku należy utworzyć nowy szablon nagłówka lub zastąpić nagłówek wzorcem i dodać go do szablonu strony głównej bloga lub strony głównej.</p>
+      <p xml:id="p34" begin="00:04:01.000" end="00:04:07.000" region="bottomCenter">Zmodyfikuję szablon strony głównej bloga, ponieważ jako stronę główną wybrałem stronę z wpisami.</p>
+      <p xml:id="p35" begin="00:04:09.000" end="00:04:15.000" region="bottomCenter">Wybieram więc nagłówek, klikam trzy pionowe kropki, a następnie wybieram opcję „Zastąp nagłówek”.</p>
+      <p xml:id="p36" begin="00:04:15.000" end="00:04:20.000" region="bottomCenter">Teraz możesz zastąpić nagłówek strony głównej wzorcem lub istniejącym fragmentem szablonu.</p>
+      <p xml:id="p37" begin="00:04:21.000" end="00:04:27.000" region="bottomCenter">Zastąpię nagłówek istniejącym fragmentem szablonu nagłówka, który już utworzyłem i nazwałem „Nagłówek banera”.</p>
+      <p xml:id="p38" begin="00:04:30.000" end="00:04:34.000" region="bottomCenter">Teraz moja strona główna będzie miała swój własny, unikalny nagłówek.</p>
+      <p xml:id="p39" begin="00:04:35.000" end="00:04:40.000" region="bottomCenter">Po zapisaniu możemy przejrzeć inne szablony, aby sprawdzić, czy nadal mają standardowy nagłówek.</p>
+      <p xml:id="p40" begin="00:04:51.000" end="00:04:54.000" region="bottomCenter">Na koniec omówimy tworzenie fragmentu szablonu od podstaw.</p>
+      <p xml:id="p41" begin="00:04:55.000" end="00:04:59.000" region="bottomCenter">Przejdź do sekcji „Wzorce”, a następnie przewiń w dół do fragmentów szablonu.</p>
+      <p xml:id="p42" begin="00:05:03.000" end="00:05:08.000" region="bottomCenter">Tutaj możesz wyświetlić wszystkie istniejące nagłówki, stopki i ogólne fragmenty szablonu.</p>
+      <p xml:id="p43" begin="00:05:12.000" end="00:05:18.000" region="bottomCenter">Aby utworzyć nowy fragment szablonu, kliknij ikonkę plusa obok wzorców i wybierz opcję „Utwórz fragment szablonu”.</p>
+      <p xml:id="p44" begin="00:05:22.000" end="00:05:31.000" region="bottomCenter">W tym miejscu możesz wybrać ogólny fragment szablonu, który nie jest powiązany z żadnym konkretnym obszarem, fragment szablonu nagłówka lub fragment szablonu stopki.</p>
+      <p xml:id="p45" begin="00:05:31.000" end="00:05:34.000" region="bottomCenter">W tym przypadku utworzymy fragment szablonu stopki.</p>
+      <p xml:id="p46" begin="00:05:35.000" end="00:05:38.000" region="bottomCenter">Najpierw musimy nadać mu odpowiednią nazwę.</p>
+      <p xml:id="p47" begin="00:05:38.000" end="00:05:43.000" region="bottomCenter">W tym przypadku będzie to „Czterokolumnowa stopka”, a następnie możemy kliknąć „Utwórz”.</p>
+      <p xml:id="p48" begin="00:05:43.000" end="00:05:48.000" region="bottomCenter">Spowoduje to ponowne przejście do trybu podświetlania; stąd możemy zacząć budować od podstaw.</p>
+      <p xml:id="p49" begin="00:05:49.000" end="00:05:52.000" region="bottomCenter">Skorzystam ze skrótu i pobiorę wzorzec z katalogu wzorców.</p>
+      <p xml:id="p50" begin="00:05:54.000" end="00:05:58.000" region="bottomCenter">Przejdź do strony wordpress.org, kliknij „Extend” i wybierz „Wzorce”.</p>
+      <p xml:id="p51" begin="00:06:00.000" end="00:06:03.000" region="bottomCenter">Stąd możesz wybierać spośród tysięcy wzorców.</p>
+      <p xml:id="p52" begin="00:06:05.000" end="00:06:11.000" region="bottomCenter">Wybiorę opcję „Wkład społeczności”, kliknę „Stopki”, a następnie można wyszukać odpowiedni wzorzec.</p>
+      <p xml:id="p53" begin="00:06:16.000" end="00:06:22.000" region="bottomCenter">Po znalezieniu wzorca, który ci się podoba, możesz go skopiować, wrócić do swojej witryny i wkleić.</p>
+      <p xml:id="p54" begin="00:06:26.000" end="00:06:30.000" region="bottomCenter">Teraz możesz zacząć modyfikować go zgodnie ze swoimi potrzebami.</p>
+      <p xml:id="p55" begin="00:06:31.000" end="00:06:40.000" region="bottomCenter">Po aktualizacji możemy wrócić do obszaru wzorców i zauważysz, że nowa stopka jest częścią istniejących elementów szablonu. Możesz dodać go do dowolnego szablonu.</p>
+      <p xml:id="p56" begin="00:06:43.000" end="00:06:50.000" region="bottomCenter">Po wybraniu opcji Zarządzaj wszystkimi fragmentami szablonu możesz zmienić nazwę i usunąć niestandardowe fragmenty szablonu</p>
+      <p xml:id="p57" begin="00:06:52.000" end="00:06:56.000" region="bottomCenter">lub wyczyścić dostosowania fragmentu szablonu dostarczonych przez motyw.</p>
+      <p xml:id="p58" begin="00:06:58.000" end="00:07:05.000" region="bottomCenter">Mam nadzieję, że teraz czujesz się komfortowo, edytując szablony i tworząc nagłówek i stopkę dla swojej witryny.</p>
+    </div>
+  </body>
+</tt>

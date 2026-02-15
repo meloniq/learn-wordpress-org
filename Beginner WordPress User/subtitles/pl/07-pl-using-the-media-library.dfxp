@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 07-pl-using-the-media-library</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:03.000" region="bottomCenter">W tej lekcji zagłębimy się w bibliotekę multimediów.</p>
+      <p xml:id="p2" begin="00:00:04.000" end="00:00:12.000" region="bottomCenter">Nauczymy się poruszać po bibliotece multimediów i zarządzać nią, dodawać tekst alternatywny oraz zrozumiemy znaczenie optymalizacji obrazków.</p>
+      <p xml:id="p3" begin="00:00:13.000" end="00:00:19.000" region="bottomCenter">Media to obrazki, nagrania wideo i pliki, które przesyłasz i wykorzystujesz na swojej witrynie.</p>
+      <p xml:id="p4" begin="00:00:19.000" end="00:00:22.000" region="bottomCenter">Oczywiście media są umieszczane na stronach i we wpisach.</p>
+      <p xml:id="p5" begin="00:00:25.000" end="00:00:32.000" region="bottomCenter">Zgodzisz się zapewne, że media odgrywają kluczową rolę w poprawie ogólnego wrażenia i skuteczności witryny internetowej.</p>
+      <p xml:id="p6" begin="00:00:34.000" end="00:00:43.000" region="bottomCenter">Do biblioteki można dodawać różne rodzaje mediów, od zdjęć, zrzutów ekranu, plików audio, dokumentów PDF, arkuszy kalkulacyjnych, prezentacji PowerPoint i innych.</p>
+      <p xml:id="p7" begin="00:00:45.000" end="00:00:49.000" region="bottomCenter">Po otwarciu biblioteki multimediów zostanie wyświetlony domyślny widok siatki.</p>
+      <p xml:id="p8" begin="00:00:51.000" end="00:00:56.000" region="bottomCenter">W widoku siatki miniatury obrazków, ikony audio itp. są ułożone w strukturze siatki.</p>
+      <p xml:id="p9" begin="00:00:58.000" end="00:01:02.000" region="bottomCenter">Tutaj możesz filtrować multimedia, aby znaleźć to, czego szukasz.</p>
+      <p xml:id="p10" begin="00:01:03.000" end="00:01:08.000" region="bottomCenter">W górnej części, obok ikony widoku siatki, możesz filtrować multimedia według typu i daty.</p>
+      <p xml:id="p11" begin="00:01:11.000" end="00:01:19.000" region="bottomCenter">Rozwijane menu „Wszystkie elementy media” pozwala wybrać typy multimediów, takie jak obrazki, pliki audio, wideo, dokumenty, a nawet arkusze kalkulacyjne.</p>
+      <p xml:id="p12" begin="00:01:21.000" end="00:01:26.000" region="bottomCenter">Możesz również wyświetlić wszystkie multimedia, które nie są dołączone do żadnych wpisów ani stron.</p>
+      <p xml:id="p13" begin="00:01:26.000" end="00:01:32.000" region="bottomCenter">Oznacza to, że multimedia znajdują się w bibliotece multimediów, ale nie zostały użyte w żadnym miejscu witryny.</p>
+      <p xml:id="p14" begin="00:01:32.000" end="00:01:37.000" region="bottomCenter">Skorzystajmy na przykład z opcji filtrowania, aby wyświetlić tylko pliki audio.</p>
+      <p xml:id="p15" begin="00:01:38.000" end="00:01:41.000" region="bottomCenter">Lub dokumenty, takie jak pliki PDF.</p>
+      <p xml:id="p16" begin="00:01:42.000" end="00:01:45.000" region="bottomCenter">Lub nawet arkusze kalkulacyjne.</p>
+      <p xml:id="p17" begin="00:01:47.000" end="00:01:52.000" region="bottomCenter">Następnie można oczywiście powrócić do wyświetlania wszystkich elementów multimedialnych.</p>
+      <p xml:id="p18" begin="00:01:53.000" end="00:01:58.000" region="bottomCenter">Kolejna opcja, „Wszystkie daty”, umożliwia wyświetlenie obrazków według daty ich przesłania.</p>
+      <p xml:id="p19" begin="00:01:59.000" end="00:02:04.000" region="bottomCenter">Możesz szybko znaleźć multimedia przesłane w danym miesiącu lub wyświetlić wszystkie.</p>
+      <p xml:id="p20" begin="00:02:06.000" end="00:02:11.000" region="bottomCenter">Po kliknięciu opcji „Zaznacz wiele elementów” możesz jednocześnie usunąć multimedia.</p>
+      <p xml:id="p21" begin="00:02:13.000" end="00:02:21.000" region="bottomCenter">Możesz również wyszukiwać multimedia za pomocą pola wyszukiwania w prawym górnym rogu, na przykład używając słów z opisu lub nazwy pliku.</p>
+      <p xml:id="p22" begin="00:02:22.000" end="00:02:28.000" region="bottomCenter">W tym przypadku chciałbym wyświetlić wszystkie moje obrazy związane z butami za pomocą prostego wyszukiwania.</p>
+      <p xml:id="p23" begin="00:02:29.000" end="00:02:32.000" region="bottomCenter">Możesz również wyświetlić swoje multimedia w widoku listy.</p>
+      <p xml:id="p24" begin="00:02:33.000" end="00:02:38.000" region="bottomCenter">Wszystkie multimedia zostaną wyświetlone poniżej siebie w widoku listy, jak sugeruje nazwa.</p>
+      <p xml:id="p25" begin="00:02:38.000" end="00:02:43.000" region="bottomCenter">Będziesz również mógł zobaczyć nazwę pliku i typ pliku, na przykład PDF lub JPEG.</p>
+      <p xml:id="p26" begin="00:02:45.000" end="00:02:50.000" region="bottomCenter">Aby dodać multimedia do biblioteki, kliknij opcję „Dodaj plik mediów” na pasku bocznym lub u góry.</p>
+      <p xml:id="p27" begin="00:02:51.000" end="00:02:58.000" region="bottomCenter">Po wybraniu tej opcji będziesz mógł przeciągnąć i upuścić pojedyncze lub wiele plików na stronę lub użyć opcji wyboru plików.</p>
+      <p xml:id="p28" begin="00:03:00.000" end="00:03:05.000" region="bottomCenter">Dodając multimedia do strony lub wpisu za pomocą bloku obrazka lub bloku galerii,</p>
+      <p xml:id="p29" begin="00:03:05.000" end="00:03:13.000" region="bottomCenter">można na przykład przesyłać obrazki bezpośrednio z komputera do wpisu lub strony oraz biblioteki multimediów lub bezpośrednio z biblioteki multimediów.</p>
+      <p xml:id="p30" begin="00:03:16.000" end="00:03:25.000" region="bottomCenter">W przypadku większych plików wideo lepiej jest osadzić je za pomocą bloków YouTube lub wideo, ponieważ pozwala to zaoszczędzić miejsce w bibliotece multimediów i zapewnia lepszą wydajność.</p>
+      <p xml:id="p31" begin="00:03:29.000" end="00:03:34.000" region="bottomCenter">Po otwarciu obrazka można dodać atrybuty, takie jak tekst alternatywny, tytuł, podpis i opis.</p>
+      <p xml:id="p32" begin="00:03:39.000" end="00:03:42.000" region="bottomCenter">Ważne jest, aby zawsze dodawać tekst ALT do obrazka.</p>
+      <p xml:id="p33" begin="00:03:43.000" end="00:03:52.000" region="bottomCenter">Tekst ALT to zwięzły opis obrazka dla użytkowników, którzy nie mogą go wyświetlić, a także jest przydatny dla SEO witryny lub optymalizacji witryny pod kątem wyszukiwarek.</p>
+      <p xml:id="p34" begin="00:03:54.000" end="00:04:00.000" region="bottomCenter">Dodanie opisu również poprawia SEO i pozwala na lepszą organizację oraz zrozumienie celu lub treści obrazka.</p>
+      <p xml:id="p35" begin="00:04:04.000" end="00:04:11.000" region="bottomCenter">Po kliknięciu opcji „Edytuj obrazek” można przyciąć obrazek, skalować go lub zmienić jego rozmiar w celu optymalizacji.</p>
+      <p xml:id="p36" begin="00:04:19.000" end="00:04:23.000" region="bottomCenter">Wymiary aktualizują się automatycznie po zmianie wysokości lub szerokości.</p>
+      <p xml:id="p37" begin="00:04:25.000" end="00:04:32.000" region="bottomCenter">Nie martw się – po wybraniu opcji „Przywróć oryginalny obrazek” można przywrócić obrazek do jego oryginalnego formatu.</p>
+      <p xml:id="p38" begin="00:04:35.000" end="00:04:38.000" region="bottomCenter">Istnieje również możliwość obrócenia lub odwrócenia obrazka.</p>
+      <p xml:id="p39" begin="00:04:44.000" end="00:04:47.000" region="bottomCenter">Na koniec omówimy pokrótce optymalizację obrazków.</p>
+      <p xml:id="p40" begin="00:04:50.000" end="00:04:58.000" region="bottomCenter">Zaleca się optymalizację obrazków przed przesłaniem ich do biblioteki multimediów, aby poprawić szybkość wczytywania strony i zaoszczędzić miejsce na serwerze.</p>
+      <p xml:id="p41" begin="00:05:00.000" end="00:05:07.000" region="bottomCenter">Można to osiągnąć za pomocą narzędzi internetowych, takich jak TinyPNG, Bulk Resize lub Squoosh.app - to tylko kilka z nich.</p>
+      <p xml:id="p42" begin="00:05:14.000" end="00:05:20.000" region="bottomCenter">Pamiętaj, aby przed dodaniem obrazków do biblioteki multimediów zapisać je pod opisową i odpowiednią nazwą pliku.</p>
+      <p xml:id="p43" begin="00:05:21.000" end="00:05:26.000" region="bottomCenter">Pomaga to wyszukiwarkom zrozumieć zawartość obrazka, co przyczynia się do poprawy SEO.</p>
+      <p xml:id="p44" begin="00:05:26.000" end="00:05:32.000" region="bottomCenter">Wyszukiwarki mogą wykorzystywać nazwy plików jako czynnik podczas indeksowania i rankingu treści.</p>
+      <p xml:id="p45" begin="00:05:32.000" end="00:05:35.000" region="bottomCenter">Inną opcją jest użycie wtyczki do optymalizacji obrazków.</p>
+      <p xml:id="p46" begin="00:05:37.000" end="00:05:42.000" region="bottomCenter">W katalogu wtyczek dostępnych jest wiele różnych wtyczek do optymalizacji obrazków.</p>
+      <p xml:id="p47" begin="00:05:45.000" end="00:05:51.000" region="bottomCenter">Po znalezieniu wtyczki, która odpowiada twoim potrzebom, możesz ją zainstalować, włączyć i wykonać niezbędne czynności.</p>
+      <p xml:id="p48" begin="00:05:52.000" end="00:06:01.000" region="bottomCenter">Obie te metody, zarówno użycie narzędzia internetowego, jak i wtyczki, poprawiają ogólną wydajność poprzez kompresję obrazków bez utraty jakości wizualnej.</p>
+      <p xml:id="p49" begin="00:06:03.000" end="00:06:09.000" region="bottomCenter">Życzymy powodzenia w korzystaniu z biblioteki multimediów, aby przenieść swoją witrynę na wyższy poziom.</p>
+    </div>
+  </body>
+</tt>

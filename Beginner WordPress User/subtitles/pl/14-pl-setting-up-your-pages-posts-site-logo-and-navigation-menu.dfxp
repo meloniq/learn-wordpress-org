@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 14-pl-setting-up-your-pages-posts-site-logo-and-navigation-menu</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">W tej lekcji wykorzystamy dotychczasową wiedzę, aby skonfigurować nasze strony,</p>
+      <p xml:id="p2" begin="00:00:06.400" end="00:00:09.400" region="bottomCenter">wpisy, logo witryny i menu nawigacyjne.</p>
+      <p xml:id="p3" begin="00:00:11.760" end="00:00:13.560" region="bottomCenter">Najpierw stwórzmy nasze strony.</p>
+      <p xml:id="p4" begin="00:00:13.600" end="00:00:17.600" region="bottomCenter">Przejdę do stron, kliknę „Dodaj nową stronę”, a następnie będę mógł dodać</p>
+      <p xml:id="p5" begin="00:00:20.840" end="00:00:26.840" region="bottomCenter">lub wybrać szablon dostarczony wraz z moim motywem. Korzystam z domyślnego motywu Twenty Twenty-Four.</p>
+      <p xml:id="p6" begin="00:00:27.000" end="00:00:31.000" region="bottomCenter">Wybiorę wzorzec, który mi się podoba, i nazwę go „Strona główna”.</p>
+      <p xml:id="p7" begin="00:00:35.320" end="00:00:38.320" region="bottomCenter">Po opublikowaniu wrócę do stron i dodam kolejną stronę.</p>
+      <p xml:id="p8" begin="00:00:42.040" end="00:00:45.040" region="bottomCenter">Tym razem nie będę wybierać wzorca i nazwę tę stronę „Blog”.</p>
+      <p xml:id="p9" begin="00:00:47.080" end="00:00:50.080" region="bottomCenter">Następnie utworzę stronę „O nas” i wybiorę odpowiedni wzorzec.</p>
+      <p xml:id="p10" begin="00:00:53.240" end="00:00:57.240" region="bottomCenter">Na koniec utworzę również stronę „Kontakt” bez wybierania wzorca.</p>
+      <p xml:id="p11" begin="00:01:04.440" end="00:01:07.440" region="bottomCenter">Teraz mam już gotowe strony.</p>
+      <p xml:id="p12" begin="00:01:11.280" end="00:01:15.280" region="bottomCenter">Następnie przejdę do sekcji „Ustawienia” i kliknę opcję „Czytanie”.</p>
+      <p xml:id="p13" begin="00:01:16.840" end="00:01:21.840" region="bottomCenter">Jako wyświetlanie strony głównej wybieram stronę statyczną i ustawiam stronę główną</p>
+      <p xml:id="p14" begin="00:01:25.040" end="00:01:29.040" region="bottomCenter">jako statyczną stronę główną, a stronę bloga jako stronę z wpisami.</p>
+      <p xml:id="p15" begin="00:01:31.820" end="00:01:36.820" region="bottomCenter">Przypominam, że jeśli jako wyświetlanie strony głównej wybrano najnowsze wpisy,</p>
+      <p xml:id="p16" begin="00:01:37.200" end="00:01:42.200" region="bottomCenter">należy zmodyfikować szablon strony głównej bloga dla tej strony głównej lub strony początkowej,</p>
+      <p xml:id="p17" begin="00:01:43.160" end="00:01:45.160" region="bottomCenter">ponieważ żadna strona nie została utworzona.</p>
+      <p xml:id="p18" begin="00:01:46.120" end="00:01:51.120" region="bottomCenter">Należy pamiętać, że po otwarciu statycznej strony głównej i paska bocznego ustawień</p>
+      <p xml:id="p19" begin="00:01:54.400" end="00:01:59.400" region="bottomCenter">zauważymy, że strona ta została przypisana do szablonu strony lub domyślnego szablonu strony,</p>
+      <p xml:id="p20" begin="00:02:02.480" end="00:02:07.480" region="bottomCenter">a moja strona bloga lub strona wpisów została przypisana do szablonu strony głównej bloga</p>
+      <p xml:id="p21" begin="00:02:08.160" end="00:02:10.160" region="bottomCenter">i nie można tego zmienić.</p>
+      <p xml:id="p22" begin="00:02:11.000" end="00:02:15.800" region="bottomCenter">Następnie zauważymy również, że moje inne strony również zostały przypisane do ogólnego</p>
+      <p xml:id="p23" begin="00:02:15.800" end="00:02:19.800" region="bottomCenter">lub domyślnego szablonu strony, tak samo jak moja strona główna.</p>
+      <p xml:id="p24" begin="00:02:24.560" end="00:02:27.560" region="bottomCenter">Następnie skupmy się na wpisach. Jak widać, utworzyłem już</p>
+      <p xml:id="p25" begin="00:02:29.080" end="00:02:32.080" region="bottomCenter">dwa wpisy, a także kategorie i tagi.</p>
+      <p xml:id="p26" begin="00:02:37.840" end="00:02:43.340" region="bottomCenter">Przypominam, że kategorie służą do klasyfikowania treści według głównych tematów lub sekcji, a tagi są</p>
+      <p xml:id="p27" begin="00:02:43.440" end="00:02:47.440" region="bottomCenter">jak etykiety, które zawierają szczegółowe informacje o treści.</p>
+      <p xml:id="p28" begin="00:02:48.360" end="00:02:51.360" region="bottomCenter">Jako przykład dodam nowy wpis.</p>
+      <p xml:id="p29" begin="00:02:53.500" end="00:02:56.500" region="bottomCenter">Wpis dotyczy Nowego Jorku i dodam do niego przykładową treść.</p>
+      <p xml:id="p30" begin="00:02:59.960" end="00:03:03.960" region="bottomCenter">Następnie otworzę pasek boczny ustawień i wybiorę odpowiednią kategorię,</p>
+      <p xml:id="p31" begin="00:03:06.360" end="00:03:10.360" region="bottomCenter">w tym przypadku „Podróże”, i dodam nowy tag, mianowicie „Miasto”.</p>
+      <p xml:id="p32" begin="00:03:16.480" end="00:03:19.480" region="bottomCenter">Na koniec ustawię obrazek wyróżniający lub miniaturkę wpisu.</p>
+      <p xml:id="p33" begin="00:03:20.800" end="00:03:26.800" region="bottomCenter">Obrazek wyróżniający jest oczywiście reprezentatywnym obrazkiem dla twojego wpisu, po jego ustawieniu</p>
+      <p xml:id="p34" begin="00:03:27.760" end="00:03:33.760" region="bottomCenter">możemy kliknąć „Opublikuj”, a następnie wyświetlić nasze trzy wpisy wraz z odpowiednimi kategoriami i tagami.</p>
+      <p xml:id="p35" begin="00:03:37.000" end="00:03:42.000" region="bottomCenter">Następnie przyjrzyjmy się bliżej menu nawigacyjnemu, przejdź do sekcji „Wygląd”</p>
+      <p xml:id="p36" begin="00:03:43.520" end="00:03:44.920" region="bottomCenter">i kliknij „Edytor”.</p>
+      <p xml:id="p37" begin="00:03:45.000" end="00:03:49.000" region="bottomCenter">Otworzy się edytor witryny, a po prawej stronie zobaczymy naszą stronę główną.</p>
+      <p xml:id="p38" begin="00:03:51.000" end="00:03:56.000" region="bottomCenter">Po otwarciu strony głównej zobaczymy przykładową treść lub wzorzec, który dodaliśmy</p>
+      <p xml:id="p39" begin="00:03:56.840" end="00:03:58.740" region="bottomCenter">podczas tworzenia strony.</p>
+      <p xml:id="p40" begin="00:03:58.800" end="00:04:01.800" region="bottomCenter">U góry widzimy wzorzec nagłówka dostarczony przez nasz motyw.</p>
+      <p xml:id="p41" begin="00:04:03.400" end="00:04:07.400" region="bottomCenter">Jeśli spróbujemy edytować ten nagłówek, pojawi się komunikat „Edytuj szablon,</p>
+      <p xml:id="p42" begin="00:04:08.840" end="00:04:09.840" region="bottomCenter">aby edytować ten blok”.</p>
+      <p xml:id="p43" begin="00:04:09.920" end="00:04:12.920" region="bottomCenter">Kliknijmy „Edytuj szablon”.</p>
+      <p xml:id="p44" begin="00:04:13.560" end="00:04:16.560" region="bottomCenter">Teraz możemy edytować nagłówek szablonu strony.</p>
+      <p xml:id="p45" begin="00:04:17.160" end="00:04:20.760" region="bottomCenter">Należy pamiętać, że ten nagłówek znajduje się również w szablonie strony głównej bloga.</p>
+      <p xml:id="p46" begin="00:04:20.760" end="00:04:25.760" region="bottomCenter">Jeśli więc wprowadzimy zmiany w tym nagłówku w szablonie strony, zostaną one automatycznie</p>
+      <p xml:id="p47" begin="00:04:26.640" end="00:04:29.640" region="bottomCenter">zaktualizowane również w szablonie strony głównej bloga.</p>
+      <p xml:id="p48" begin="00:04:30.120" end="00:04:35.120" region="bottomCenter">Jak widać, w prawym górnym rogu znajduje się menu nawigacyjne, a jego zaletą jest to,</p>
+      <p xml:id="p49" begin="00:04:35.320" end="00:04:38.320" region="bottomCenter">że zostało dodane automatycznie podczas tworzenia stron.</p>
+      <p xml:id="p50" begin="00:04:40.960" end="00:04:44.960" region="bottomCenter">Po wybraniu menu nawigacyjnego i otwarciu widoku listy zauważymy, że elementy</p>
+      <p xml:id="p51" begin="00:04:47.240" end="00:04:50.240" region="bottomCenter">nawigacyjne nadal są częścią listy stron.</p>
+      <p xml:id="p52" begin="00:04:50.400" end="00:04:55.400" region="bottomCenter">Aby to zmienić, kliknij opcję „Edytuj” na pasku bocznym ustawień, aby odłączyć listę stron</p>
+      <p xml:id="p53" begin="00:04:57.520" end="00:05:00.520" region="bottomCenter">i móc zarządzać elementami nawigacyjnymi indywidualnie.</p>
+      <p xml:id="p54" begin="00:05:01.560" end="00:05:06.560" region="bottomCenter">Po odłączeniu możesz użyć widoku listy, aby zmienić kolejność elementów nawigacyjnych.</p>
+      <p xml:id="p55" begin="00:05:08.760" end="00:05:13.760" region="bottomCenter">Możesz też użyć strzałek na pasku narzędzi bloku nawigacyjnego, aby zmienić położenie</p>
+      <p xml:id="p56" begin="00:05:14.720" end="00:05:16.720" region="bottomCenter">elementów w wybranym miejscu.</p>
+      <p xml:id="p57" begin="00:05:16.760" end="00:05:22.260" region="bottomCenter">Następnie postanowiłem dodać odnośniki do serwisów społecznościowych do mojego menu nawigacyjnego.</p>
+      <p xml:id="p58" begin="00:05:22.320" end="00:05:27.320" region="bottomCenter">Po kliknięciu na wstawianie bloku nawigacyjnego wstawiam blok ikonek społecznościowych,</p>
+      <p xml:id="p59" begin="00:05:28.600" end="00:05:31.600" region="bottomCenter">a następnie wybieram odpowiednie platformy społecznościowe.</p>
+      <p xml:id="p60" begin="00:05:32.520" end="00:05:35.520" region="bottomCenter">W tym przypadku X i Instagram.</p>
+      <p xml:id="p61" begin="00:05:37.640" end="00:05:40.640" region="bottomCenter">Nie zapomnij dodać odpowiednich adresów URL.</p>
+      <p xml:id="p62" begin="00:05:44.400" end="00:05:48.400" region="bottomCenter">Po wybraniu bloku nawigacyjnego możesz kliknąć trzy pionowe kropki na</p>
+      <p xml:id="p63" begin="00:05:48.640" end="00:05:53.640" region="bottomCenter">pasku bocznym ustawień, aby utworzyć nowe menu lub wybrać jedno z istniejących menu.</p>
+      <p xml:id="p64" begin="00:05:55.400" end="00:05:58.400" region="bottomCenter">Po wybraniu opcji „Ustawienia” można zmienić wyrównanie</p>
+      <p xml:id="p65" begin="00:06:00.640" end="00:06:03.640" region="bottomCenter">oraz orientację menu nawigacyjnego.</p>
+      <p xml:id="p66" begin="00:06:04.440" end="00:06:09.240" region="bottomCenter">Poniżej można również wybrać menu hamburgerowe, które pojawi się podczas przeglądania</p>
+      <p xml:id="p67" begin="00:06:09.320" end="00:06:11.320" region="bottomCenter">witryny na mniejszym urządzeniu.</p>
+      <p xml:id="p68" begin="00:06:11.880" end="00:06:16.280" region="bottomCenter">Po kliknięciu opcji „Style” dostępnych jest wiele opcji dalszego dostosowywania stylu</p>
+      <p xml:id="p69" begin="00:06:16.280" end="00:06:17.380" region="bottomCenter">menu nawigacyjnego.</p>
+      <p xml:id="p70" begin="00:06:17.440" end="00:06:20.440" region="bottomCenter">Następnie omówimy blok „Logo witryny”.</p>
+      <p xml:id="p71" begin="00:06:21.600" end="00:06:26.400" region="bottomCenter">Jak można zauważyć, szablon nagłówka dostarczony przez mój motyw zawiera blok</p>
+      <p xml:id="p72" begin="00:06:26.400" end="00:06:27.500" region="bottomCenter">„Logo witryny”.</p>
+      <p xml:id="p73" begin="00:06:27.520" end="00:06:32.520" region="bottomCenter">Kliknij blok „Logo witryny”, aby dodać nowy obrazek z biblioteki multimediów lub przesłać go</p>
+      <p xml:id="p74" begin="00:06:32.520" end="00:06:34.520" region="bottomCenter">bezpośrednio z komputera.</p>
+      <p xml:id="p75" begin="00:06:34.600" end="00:06:37.600" region="bottomCenter">Prześlę logo, które już dodałem do pulpitu.</p>
+      <p xml:id="p76" begin="00:06:41.440" end="00:06:44.440" region="bottomCenter">Następnie nieznacznie je powiększę.</p>
+      <p xml:id="p77" begin="00:06:44.960" end="00:06:47.960" region="bottomCenter">Następnie chciałbym dodać moje menu nawigacyjne do stopki.</p>
+      <p xml:id="p78" begin="00:06:50.600" end="00:06:55.600" region="bottomCenter">Po przewinięciu strony w dół zauważymy, że pod odnośnikami znajduje się przykładowa treść,</p>
+      <p xml:id="p79" begin="00:06:56.920" end="00:07:00.920" region="bottomCenter">która była częścią domyślnego wzorca stopki dostarczonego wraz z moim motywem.</p>
+      <p xml:id="p80" begin="00:07:01.960" end="00:07:06.560" region="bottomCenter">Po otwarciu widoku listy i wybraniu bloku nawigacyjnego mogę kliknąć trzy pionowe kropki</p>
+      <p xml:id="p81" begin="00:07:06.600" end="00:07:10.600" region="bottomCenter">na pasku bocznym ustawień, a następnie wybrać odpowiednie menu nawigacyjne.</p>
+      <p xml:id="p82" begin="00:07:16.520" end="00:07:19.520" region="bottomCenter">Teraz moje menu nawigacyjne znajduje się w nagłówku i stopce.</p>
+      <p xml:id="p83" begin="00:07:20.920" end="00:07:26.320" region="bottomCenter">Jak wspomniano wcześniej, jeśli przejdziemy do szablonu strony głównej bloga, który jest szablonem</p>
+      <p xml:id="p84" begin="00:07:26.400" end="00:07:30.400" region="bottomCenter">mojej strony z wpisami, zobaczymy, że nagłówek i stopka są takie same.</p>
+      <p xml:id="p85" begin="00:07:36.160" end="00:07:41.160" region="bottomCenter">Gdy wszystkie te elementy są już na swoim miejscu, musimy zdecydować o ogólnym stylu</p>
+      <p xml:id="p86" begin="00:07:41.280" end="00:07:43.080" region="bottomCenter">naszej witryny.</p>
+      <p xml:id="p87" begin="00:07:43.120" end="00:07:47.120" region="bottomCenter">Przechodząc do sekcji „Style”, można dostosować typografię, kolory i układ</p>
+      <p xml:id="p88" begin="00:07:50.320" end="00:07:51.320" region="bottomCenter">strony.</p>
+      <p xml:id="p89" begin="00:07:51.320" end="00:07:56.320" region="bottomCenter">Po kliknięciu opcji „Przeglądaj style” można wyświetlić pomniejszony widok wszystkich</p>
+      <p xml:id="p90" begin="00:07:57.760" end="00:08:00.760" region="bottomCenter">kombinacji stylów dostępnych w danym motywie.</p>
+      <p xml:id="p91" begin="00:08:05.360" end="00:08:08.360" region="bottomCenter">Wybiorę styl „Rdza” jako przykład.</p>
+      <p xml:id="p92" begin="00:08:15.920" end="00:08:20.920" region="bottomCenter">Teraz, gdy mamy już gotowe strony, wpisy, menu nawigacyjne, logo witryny i style,</p>
+      <p xml:id="p93" begin="00:08:22.680" end="00:08:26.680" region="bottomCenter">możemy dodać treść do naszych stron i zmodyfikować niektóre z dodanych</p>
+      <p xml:id="p94" begin="00:08:29.120" end="00:08:32.120" region="bottomCenter">wzorców.</p>
+      <p xml:id="p95" begin="00:08:32.280" end="00:08:39.280" region="bottomCenter">W przypadku strony takiej jak nasza strona kontaktowa, która nie ma szablonu, możemy zacząć budować ją od podstaw.</p>
+      <p xml:id="p96" begin="00:08:40.040" end="00:08:45.040" region="bottomCenter">Aby zmodyfikować sposób wyświetlania naszych wpisów, musimy przejść do szablonu</p>
+      <p xml:id="p97" begin="00:08:45.920" end="00:08:48.920" region="bottomCenter">strony głównej bloga.</p>
+      <p xml:id="p98" begin="00:08:49.280" end="00:08:54.280" region="bottomCenter">Po otwarciu szablonu strony głównej bloga możemy dostosować naszą stronę bloga, a także blok</p>
+      <p xml:id="p99" begin="00:08:55.760" end="00:09:01.760" region="bottomCenter">„Pętla zapytania”, aby zdecydować, w jaki sposób mają być wyświetlane nasze wpisy na blogu lub treści dynamiczne.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 04-pl-choosing-and-installing-a-plugin-2</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:06.000" region="bottomCenter">Jedną z największych zalet korzystania z WordPressa jest możliwość wyboru i instalacji wtyczek</p>
+      <p xml:id="p2" begin="00:00:06.360" end="00:00:09.360" region="bottomCenter">rozszerzających funkcjonalność witryny.</p>
+      <p xml:id="p3" begin="00:00:09.440" end="00:00:13.440" region="bottomCenter">Różne wtyczki mogą służyć do dodawania dodatkowych funkcji związanych z</p>
+      <p xml:id="p4" begin="00:00:14.280" end="00:00:19.280" region="bottomCenter">mediami społecznościowymi, analityką, bezpieczeństwem, marketingiem, członkostwem i subskrypcjami,</p>
+      <p xml:id="p5" begin="00:00:20.040" end="00:00:23.040" region="bottomCenter">optymalizacją wydajności, SEO i tak dalej.</p>
+      <p xml:id="p6" begin="00:00:23.440" end="00:00:28.440" region="bottomCenter">Wtyczki te mogą pomóc w lepszym wykorzystaniu witryny i uczynieniu jej bardziej dynamiczną.</p>
+      <p xml:id="p7" begin="00:00:29.040" end="00:00:34.040" region="bottomCenter">Być może chcesz dodać mapę lub formularz kontaktowy, aby uruchomić wielojęzyczną witrynę internetową,</p>
+      <p xml:id="p8" begin="00:00:35.920" end="00:00:40.920" region="bottomCenter">zbudować witrynę e-commerce lub zwiększyć szybkość działania swojej witryny dzięki buforowaniu.</p>
+      <p xml:id="p9" begin="00:00:41.080" end="00:00:44.080" region="bottomCenter">Wszystko to można osiągnąć dzięki odpowiednim wtyczkom.</p>
+      <p xml:id="p10" begin="00:00:44.720" end="00:00:48.720" region="bottomCenter">Możesz przejrzeć wszystkie, tysiące dostępnych wtyczek, odwiedzając stronę WordPress.org</p>
+      <p xml:id="p11" begin="00:00:49.000" end="00:00:51.000" region="bottomCenter">i przeglądając katalog wtyczek.</p>
+      <p xml:id="p12" begin="00:00:51.400" end="00:00:55.200" region="bottomCenter">Chociaż wszystkie wymienione wtyczki są bezpłatne i dostępne w repozytorium wtyczek</p>
+      <p xml:id="p13" begin="00:00:55.280" end="00:01:00.280" region="bottomCenter">WordPress.org, mogą one mieć również wersje premium dostępne za opłatą, które zapewniają większą funkcjonalność.</p>
+      <p xml:id="p14" begin="00:01:02.720" end="00:01:07.720" region="bottomCenter">Aby dodać wtyczkę, przejdź do sekcji „Wtyczki” w kokpicie WordPressa i wybierz opcję „Dodaj nową”.</p>
+      <p xml:id="p15" begin="00:01:08.600" end="00:01:13.100" region="bottomCenter">Otworzy się strona polecanych wtyczek, na której możesz przeglądać najpopularniejsze</p>
+      <p xml:id="p16" begin="00:01:13.120" end="00:01:16.120" region="bottomCenter">wtyczki, polecane wtyczki oraz zakładkę ulubionych.</p>
+      <p xml:id="p17" begin="00:01:17.920" end="00:01:21.920" region="bottomCenter">Gdy znajdziesz odpowiednią wtyczkę, skorzystaj z funkcji wyszukiwania w prawym górnym rogu</p>
+      <p xml:id="p18" begin="00:01:22.120" end="00:01:23.120" region="bottomCenter">strony.</p>
+      <p xml:id="p19" begin="00:01:23.200" end="00:01:27.200" region="bottomCenter">Jeśli wpiszesz na przykład „SEO”, repozytorium wyświetli listę wtyczek pasujących</p>
+      <p xml:id="p20" begin="00:01:28.200" end="00:01:29.200" region="bottomCenter">do twojego wyszukiwania.</p>
+      <p xml:id="p21" begin="00:01:29.200" end="00:01:32.200" region="bottomCenter">Omówmy teraz, na co należy zwrócić uwagę przy wyborze wtyczki.</p>
+      <p xml:id="p22" begin="00:01:33.680" end="00:01:35.680" region="bottomCenter">Porównajmy trzy najlepsze wtyczki.</p>
+      <p xml:id="p23" begin="00:01:36.360" end="00:01:38.360" region="bottomCenter">Należy zwrócić uwagę na cztery ważne kwestie.</p>
+      <p xml:id="p24" begin="00:01:38.880" end="00:01:40.380" region="bottomCenter">Po pierwsze, ocena gwiazdkowa.</p>
+      <p xml:id="p25" begin="00:01:40.560" end="00:01:43.560" region="bottomCenter">Odnosi się ona do opinii klientów, którzy zainstalowali wtyczkę.</p>
+      <p xml:id="p26" begin="00:01:44.000" end="00:01:46.000" region="bottomCenter">Po drugie, data ostatniej aktualizacji,</p>
+      <p xml:id="p27" begin="00:01:46.760" end="00:01:49.760" region="bottomCenter">wskazuje że wtyczka jest aktywnie wspierana i rozwijana.</p>
+      <p xml:id="p28" begin="00:01:50.200" end="00:01:54.200" region="bottomCenter">Sugerowałbym unikanie wtyczek, które nie były aktualizowane od dłuższego czasu.</p>
+      <p xml:id="p29" begin="00:01:55.080" end="00:01:57.080" region="bottomCenter">Po trzecie, aktywne instalacje.</p>
+      <p xml:id="p30" begin="00:01:58.000" end="00:02:01.000" region="bottomCenter">Wskazuje to na popularność i dobre wsparcie techniczne wtyczki.</p>
+      <p xml:id="p31" begin="00:02:01.600" end="00:02:03.600" region="bottomCenter">Na koniec kompatybilność.</p>
+      <p xml:id="p32" begin="00:02:03.840" end="00:02:07.840" region="bottomCenter">Upewnij się, że wtyczka jest kompatybilna z najnowszą wersją WordPressa.</p>
+      <p xml:id="p33" begin="00:02:09.040" end="00:02:13.040" region="bottomCenter">Po kliknięciu na „więcej szczegółów” będziesz mógł sprawdzić, jak dobrze obsługiwana</p>
+      <p xml:id="p34" begin="00:02:13.200" end="00:02:14.200" region="bottomCenter">jest dana wtyczka.</p>
+      <p xml:id="p35" begin="00:02:14.200" end="00:02:19.700" region="bottomCenter">Znajduje się tam również sekcja z często zadawanymi pytaniami oraz miejsce, gdzie można przeczytać recenzje.</p>
+      <p xml:id="p36" begin="00:02:20.160" end="00:02:24.160" region="bottomCenter">Poszukajmy innej wtyczki jako przykładu instalacji i włączania wtyczki.</p>
+      <p xml:id="p37" begin="00:02:25.600" end="00:02:27.600" region="bottomCenter">Poszukamy wtyczki formularzy.</p>
+      <p xml:id="p38" begin="00:02:28.080" end="00:02:32.080" region="bottomCenter">Istnieje wiele opcji, na przykład Contact Form 7, Contact Form by WP Forms i</p>
+      <p xml:id="p39" begin="00:02:33.840" end="00:02:34.840" region="bottomCenter">Ninja Forms.</p>
+      <p xml:id="p40" begin="00:02:34.840" end="00:02:39.840" region="bottomCenter">Zainstaluję Contact Form by WP Forms, a po zainstalowaniu należy</p>
+      <p xml:id="p41" begin="00:02:40.640" end="00:02:42.640" region="bottomCenter">kliknąć „Włącz”.</p>
+      <p xml:id="p42" begin="00:02:42.880" end="00:02:44.880" region="bottomCenter">Następnie należy skonfigurować wtyczkę.</p>
+      <p xml:id="p43" begin="00:02:45.680" end="00:02:49.680" region="bottomCenter">Po skonfigurowaniu wtyczki wystarczy użyć katalogu bloków, aby dodać</p>
+      <p xml:id="p44" begin="00:02:50.560" end="00:02:53.560" region="bottomCenter">formularz w dowolnym miejscu.</p>
+      <p xml:id="p45" begin="00:02:55.920" end="00:03:00.920" region="bottomCenter">Należy pamiętać, że można również łatwo dodać nową wtyczkę, przesyłając archiwum zip</p>
+      <p xml:id="p46" begin="00:03:01.020" end="00:03:03.020" region="bottomCenter">wtyczki z lokalnego komputera.</p>
+      <p xml:id="p47" begin="00:03:03.560" end="00:03:07.560" region="bottomCenter">Wiele wtyczek premium można pobrać poza katalogiem wtyczek WordPress.</p>
+      <p xml:id="p48" begin="00:03:08.480" end="00:03:12.480" region="bottomCenter">Jeśli chcesz przestać korzystać z wtyczki, przejdź do sekcji wtyczek i kliknij</p>
+      <p xml:id="p49" begin="00:03:12.640" end="00:03:13.640" region="bottomCenter">opcję „Wyłącz”.</p>
+      <p xml:id="p50" begin="00:03:14.320" end="00:03:17.320" region="bottomCenter">Po wyłączeniu będziesz mieć możliwość trwałego usunięcia wtyczki.</p>
+      <p xml:id="p51" begin="00:03:23.920" end="00:03:26.920" region="bottomCenter">Ale co się stanie, jeśli wystąpi konflikt wtyczek?</p>
+      <p xml:id="p52" begin="00:03:27.920" end="00:03:31.420" region="bottomCenter">Istnieją dwa główne sposoby identyfikacji konfliktów wtyczek w witrynie.</p>
+      <p xml:id="p53" begin="00:03:31.800" end="00:03:36.800" region="bottomCenter">Numer 1: ręcznie wyłącz wtyczki, a następnie przetestuj je pojedynczo, aby znaleźć</p>
+      <p xml:id="p54" begin="00:03:36.920" end="00:03:38.420" region="bottomCenter">wtyczkę powodującą problem.</p>
+      <p xml:id="p55" begin="00:03:38.600" end="00:03:44.600" region="bottomCenter">Numer 2: użyj wtyczki do rozwiązywania problemów, na przykład Health Check and Troubleshooting.</p>
+      <p xml:id="p56" begin="00:03:45.520" end="00:03:51.520" region="bottomCenter">Pamiętaj jednak, aby instalować dobrze skonstruowane wtyczki i stosować cztery kryteria, które omówiliśmy wcześniej.</p>
+      <p xml:id="p57" begin="00:03:51.640" end="00:03:55.640" region="bottomCenter">Wtyczki to niesamowite narzędzia, które pozwalają rozszerzyć funkcjonalność twojej witryny.</p>
+      <p xml:id="p58" begin="00:03:55.920" end="00:03:59.920" region="bottomCenter">Jestem przekonany, że znajdziesz te, które najlepiej odpowiadają twoim potrzebom.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 22-pl-how-to-improve-seo-rankings-2</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:03.000" region="bottomCenter">W tej lekcji zajmiemy się poprawą naszych rankingów SEO.</p>
+      <p xml:id="p2" begin="00:00:07.800" end="00:00:09.600" region="bottomCenter">Ale czym jest SEO?</p>
+      <p xml:id="p3" begin="00:00:09.600" end="00:00:13.900" region="bottomCenter">Optymalizacja pod kątem wyszukiwarek internetowych odnosi się do technik, które pomagają uzyskać wyższą</p>
+      <p xml:id="p4" begin="00:00:13.960" end="00:00:15.760" region="bottomCenter">pozycję witryny w wynikach wyszukiwania.</p>
+      <p xml:id="p5" begin="00:00:15.760" end="00:00:20.760" region="bottomCenter">Celem jest oczywiście pozyskanie większej liczby odwiedzających witrynę w sposób organiczny.</p>
+      <p xml:id="p6" begin="00:00:21.160" end="00:00:26.160" region="bottomCenter">Wyszukiwarki wysyłają roboty do witryny, aby ją przeszukały i dowiedziały się, jaka jest jej zawartość</p>
+      <p xml:id="p7" begin="00:00:26.200" end="00:00:28.200" region="bottomCenter">i gdzie znajdują się odnośniki.</p>
+      <p xml:id="p8" begin="00:00:28.480" end="00:00:33.480" region="bottomCenter">Sprawdzają również, czego dotyczą obrazki, testują, czy witryna wczytuje się szybko, a także badają,</p>
+      <p xml:id="p9" begin="00:00:34.600" end="00:00:37.600" region="bottomCenter">czy układ witryny jest dostępny i dostosowany do urządzeń mobilnych.</p>
+      <p xml:id="p10" begin="00:00:39.960" end="00:00:44.960" region="bottomCenter">Po zakończeniu przeszukiwania roboty ustalają słowa kluczowe z witryny, a następnie</p>
+      <p xml:id="p11" begin="00:00:45.400" end="00:00:48.400" region="bottomCenter">zapisują je w bazie danych wyszukiwarki.</p>
+      <p xml:id="p12" begin="00:00:49.400" end="00:00:54.400" region="bottomCenter">Teraz, gdy ktoś rozpoczyna wyszukiwanie, wyszukiwarki dopasowują zapytanie użytkownika</p>
+      <p xml:id="p13" begin="00:00:56.040" end="00:01:01.040" region="bottomCenter">do słów kluczowych w bazie danych, aby polecić strony, które są najbardziej dopasowane.</p>
+      <p xml:id="p14" begin="00:01:01.080" end="00:01:04.080" region="bottomCenter">Przyjrzyjmy się kilku wskazówkom, które możemy wdrożyć.</p>
+      <p xml:id="p15" begin="00:01:04.360" end="00:01:09.360" region="bottomCenter">Najpierw przejdź na stronę „Ustawienia”, następnie „Czytanie” i upewnij się, że odznaczyłeś</p>
+      <p xml:id="p16" begin="00:01:10.560" end="00:01:13.560" region="bottomCenter">pole „Widoczność w wyszukiwarkach”.</p>
+      <p xml:id="p17" begin="00:01:13.880" end="00:01:17.880" region="bottomCenter">Jeśli to pole jest zaznaczone, wyszukiwarki nie będą indeksować witryny,</p>
+      <p xml:id="p18" begin="00:01:18.760" end="00:01:20.360" region="bottomCenter">a tego nie chcemy.</p>
+      <p xml:id="p19" begin="00:01:20.360" end="00:01:25.360" region="bottomCenter">Ta opcja jest używana tylko wtedy, gdy witryna jest jeszcze w trakcie tworzenia.</p>
+      <p xml:id="p20" begin="00:01:25.400" end="00:01:31.200" region="bottomCenter">Drugą rzeczą, na którą należy zwrócić uwagę, jest to, że wyszukiwarki internetowe preferują witryny z aktualnymi treściami,</p>
+      <p xml:id="p21" begin="00:01:31.280" end="00:01:35.280" region="bottomCenter">dlatego należy jak najczęściej aktualizować swoją stronę o nowe treści.</p>
+      <p xml:id="p22" begin="00:01:36.360" end="00:01:42.060" region="bottomCenter">Jeśli strona główna i inne strony rzadko ulegają zmianom, zaleca się utworzenie strony z blogiem lub aktualnościami</p>
+      <p xml:id="p23" begin="00:01:42.080" end="00:01:46.080" region="bottomCenter">i regularne publikowanie wpisów dotyczących produktów, marki, klientów i</p>
+      <p xml:id="p24" begin="00:01:46.760" end="00:01:48.760" region="bottomCenter">różnych innych tematów.</p>
+      <p xml:id="p25" begin="00:01:49.400" end="00:01:54.400" region="bottomCenter">Trzecia wskazówka dotyczy zapewnienia wysokiej jakości treści w witrynie internetowej.</p>
+      <p xml:id="p26" begin="00:01:55.720" end="00:02:01.220" region="bottomCenter">Firma Google opublikowała wytyczne E-A-T, które zasadniczo mówią, że wyszukiwarki internetowe zwracają</p>
+      <p xml:id="p27" begin="00:02:01.360" end="00:02:04.360" region="bottomCenter">uwagę na wiedzę specjalistyczną, autorytet i wiarygodność.</p>
+      <p xml:id="p28" begin="00:02:05.480" end="00:02:07.880" region="bottomCenter">Porozmawiajmy więc najpierw o wiedzy specjalistycznej.</p>
+      <p xml:id="p29" begin="00:02:07.880" end="00:02:10.880" region="bottomCenter">Pisz o treściach, na których się znasz i które cię interesują.</p>
+      <p xml:id="p30" begin="00:02:12.440" end="00:02:13.740" region="bottomCenter">A co z autorytetem?</p>
+      <p xml:id="p31" begin="00:02:13.760" end="00:02:18.760" region="bottomCenter">Jeśli wykazałeś się wiedzą specjalistyczną, wyszukiwarki uznają cię za autorytet,</p>
+      <p xml:id="p32" begin="00:02:19.480" end="00:02:24.980" region="bottomCenter">jeśli inni umieszczają odnośniki do twojej witryny, jeśli ludzie rozmawiają o niej w mediach społecznościowych</p>
+      <p xml:id="p33" begin="00:02:25.000" end="00:02:28.200" region="bottomCenter">i jeśli w swoich treściach umieszczasz odnośniki do renomowanych witryn.</p>
+      <p xml:id="p34" begin="00:02:28.280" end="00:02:31.280" region="bottomCenter">Na koniec „T” oznacza wiarygodność.</p>
+      <p xml:id="p35" begin="00:02:31.680" end="00:02:36.680" region="bottomCenter">Upewnij się, że informacje, które udostępniasz, są wiarygodne i oparte na faktach.</p>
+      <p xml:id="p36" begin="00:02:37.840" end="00:02:40.840" region="bottomCenter">Oto ważne pytanie, które możesz sobie zadać.</p>
+      <p xml:id="p37" begin="00:02:40.840" end="00:02:42.940" region="bottomCenter">Czy twoje treści nadają się do udostępniania?</p>
+      <p xml:id="p38" begin="00:02:43.000" end="00:02:44.200" region="bottomCenter">Kwestie do rozważenia:</p>
+      <p xml:id="p39" begin="00:02:44.240" end="00:02:45.540" region="bottomCenter">Czy są zabawne?</p>
+      <p xml:id="p40" begin="00:02:45.560" end="00:02:47.260" region="bottomCenter">Czy nie są zbyt długie?</p>
+      <p xml:id="p41" begin="00:02:47.280" end="00:02:48.880" region="bottomCenter">Czy są w dobrym guście?</p>
+      <p xml:id="p42" begin="00:02:48.880" end="00:02:50.880" region="bottomCenter">Czy są napisane prostym językiem?</p>
+      <p xml:id="p43" begin="00:02:50.880" end="00:02:54.280" region="bottomCenter">Czy mają streszczenie, czy też są zbyt długie i nikt ich nie czyta?</p>
+      <p xml:id="p44" begin="00:02:54.320" end="00:02:59.320" region="bottomCenter">Zasadniczo chodzi o to, aby upewnić się, że twoje treści są warte przeczytania i udostępnienia.</p>
+      <p xml:id="p45" begin="00:03:00.040" end="00:03:03.040" region="bottomCenter">Następnie porozmawiajmy o słowach kluczowych.</p>
+      <p xml:id="p46" begin="00:03:04.200" end="00:03:08.600" region="bottomCenter">Słowa kluczowe i frazy kluczowe w treści ułatwiają użytkownikom znalezienie twojej witryny</p>
+      <p xml:id="p47" begin="00:03:08.640" end="00:03:10.240" region="bottomCenter">za pośrednictwem wyszukiwarek.</p>
+      <p xml:id="p48" begin="00:03:10.320" end="00:03:14.320" region="bottomCenter">Dobrze zoptymalizowana witryna mówi tym samym językiem, co jej odbiorcy.</p>
+      <p xml:id="p49" begin="00:03:16.120" end="00:03:20.120" region="bottomCenter">Dlatego musimy wiedzieć, czego szukają ludzie, i umieszczać te słowa lub frazy</p>
+      <p xml:id="p50" begin="00:03:21.360" end="00:03:24.360" region="bottomCenter">na naszych stronach i w naszych wpisach.</p>
+      <p xml:id="p51" begin="00:03:25.160" end="00:03:28.960" region="bottomCenter">Badanie słów kluczowych pomoże ci dowiedzieć się, jakich słów kluczowych używają ludzie,</p>
+      <p xml:id="p52" begin="00:03:28.960" end="00:03:30.260" region="bottomCenter">szukając podobnych witryn.</p>
+      <p xml:id="p53" begin="00:03:30.280" end="00:03:35.980" region="bottomCenter">Możesz skorzystać z bezpłatnych narzędzi, takich jak WordStream lub Google Keyword Planner, aby znaleźć słowa kluczowe,</p>
+      <p xml:id="p54" begin="00:03:36.040" end="00:03:39.040" region="bottomCenter">które możesz wykorzystać w swoich treściach.</p>
+      <p xml:id="p55" begin="00:03:39.080" end="00:03:42.080" region="bottomCenter">Aby znaleźć słowa kluczowe, należy wpisać nazwę domeny witryn</p>
+      <p xml:id="p56" begin="00:03:43.360" end="00:03:46.260" region="bottomCenter">podobnych do twojej.</p>
+      <p xml:id="p57" begin="00:03:46.320" end="00:03:51.320" region="bottomCenter">Dzięki temu dowiesz się, jakich słów używają użytkownicy, aby wyszukiwać treści na tej witrynie.</p>
+      <p xml:id="p58" begin="00:03:52.040" end="00:03:56.040" region="bottomCenter">Po zidentyfikowaniu tych słów kluczowych, użyj ich w treści swojej witryny.</p>
+      <p xml:id="p59" begin="00:03:57.320" end="00:04:02.320" region="bottomCenter">Wyszukiwarki internetowe przy ustalaniu słów kluczowych będą traktować priorytetowo tytuły treści.</p>
+      <p xml:id="p60" begin="00:04:03.120" end="00:04:07.120" region="bottomCenter">Możesz jednak używać ich również w zajawkach, nagłówkach i treści.</p>
+      <p xml:id="p61" begin="00:04:08.160" end="00:04:13.160" region="bottomCenter">Przedstawiony tutaj układ odpowiada ogólnie kolejności, w jakiej należy używać słów kluczowych.</p>
+      <p xml:id="p62" begin="00:04:14.280" end="00:04:19.280" region="bottomCenter">Pamiętaj, aby używać słów kluczowych w naturalny sposób i unikać ich nadmiernego stosowania,</p>
+      <p xml:id="p63" begin="00:04:19.440" end="00:04:23.440" region="bottomCenter">ponieważ może to negatywnie wpłynąć na pozycjonowanie twojej witryny.</p>
+      <p xml:id="p64" begin="00:04:23.520" end="00:04:25.520" region="bottomCenter">Porozmawiajmy jeszcze trochę o linkowaniu.</p>
+      <p xml:id="p65" begin="00:04:25.680" end="00:04:29.280" region="bottomCenter">Wyszukiwarki będą przeglądać twoje odnośniki, aby zrozumieć strukturę twojej witryny</p>
+      <p xml:id="p66" begin="00:04:29.360" end="00:04:30.760" region="bottomCenter">i znaleźć więcej treści.</p>
+      <p xml:id="p67" begin="00:04:30.840" end="00:04:36.240" region="bottomCenter">Umieszczaj odnośniki do innych wpisów, które już znajdują się w twojej witrynie, ponieważ wyszukiwarki uznają strony,</p>
+      <p xml:id="p68" begin="00:04:36.280" end="00:04:39.280" region="bottomCenter">do których prowadzi wiele odnośników, za ważniejsze.</p>
+      <p xml:id="p69" begin="00:04:41.200" end="00:04:47.200" region="bottomCenter">Pamiętaj również, aby umieszczać odnośniki zewnętrzne do renomowanych witryn o wysokim poziomie wiedzy,</p>
+      <p xml:id="p70" begin="00:04:47.440" end="00:04:52.440" region="bottomCenter">autorytetu i wiarygodności (E-A-T), ponieważ dzięki temu twoja witryna również</p>
+      <p xml:id="p71" begin="00:04:52.760" end="00:04:54.760" region="bottomCenter">zyska na wiarygodności.</p>
+      <p xml:id="p72" begin="00:04:54.840" end="00:04:57.840" region="bottomCenter">Kolejnym tematem, który chcemy omówić, są metadane.</p>
+      <p xml:id="p73" begin="00:04:58.640" end="00:05:02.640" region="bottomCenter">Metadane to tagi w treści twojej strony, które są widoczne dla wyszukiwarek.</p>
+      <p xml:id="p74" begin="00:05:03.760" end="00:05:08.560" region="bottomCenter">Są one ukryte za kulisami, ale dostarczają wyszukiwarkom kluczowych informacji</p>
+      <p xml:id="p75" begin="00:05:08.640" end="00:05:10.640" region="bottomCenter">o twojej witrynie.</p>
+      <p xml:id="p76" begin="00:05:11.240" end="00:05:16.240" region="bottomCenter">Być może nie wiedziałeś o tym, ale metaopisy to informacje wyświetlane pod każdym</p>
+      <p xml:id="p77" begin="00:05:16.920" end="00:05:19.920" region="bottomCenter">wynikiem wyszukiwania.</p>
+      <p xml:id="p78" begin="00:05:20.360" end="00:05:25.360" region="bottomCenter">WordPress automatycznie tworzy metadane, więc nie jest łatwo je bezpośrednio edytować.</p>
+      <p xml:id="p79" begin="00:05:25.800" end="00:05:30.800" region="bottomCenter">Jednak większość wtyczek SEO pozwala edytować i modyfikować metadane, aby były bardziej</p>
+      <p xml:id="p80" begin="00:05:31.600" end="00:05:33.300" region="bottomCenter">dostosowane do treści.</p>
+      <p xml:id="p81" begin="00:05:33.360" end="00:05:36.360" region="bottomCenter">Zazwyczaj nie więcej niż dwa zdania.</p>
+      <p xml:id="p82" begin="00:05:37.080" end="00:05:43.080" region="bottomCenter">Jedną z rzeczy, które możesz zrobić, jest napisanie zajawki wpisu, ponieważ WordPress wykorzystuje</p>
+      <p xml:id="p83" begin="00:05:43.200" end="00:05:45.900" region="bottomCenter">te zajawki do tworzenia metaopisów.</p>
+      <p xml:id="p84" begin="00:05:45.960" end="00:05:49.960" region="bottomCenter">Zaleca się używanie słów kluczowych i ręczne pisanie tych zajawek;</p>
+      <p xml:id="p85" begin="00:05:50.480" end="00:05:54.480" region="bottomCenter">w przeciwnym razie program po prostu pobierze pierwszy akapit z treści.</p>
+      <p xml:id="p86" begin="00:05:55.320" end="00:05:58.320" region="bottomCenter">Następnie, szybkość działania strony jest bardzo ważna.</p>
+      <p xml:id="p87" begin="00:05:58.400" end="00:06:01.700" region="bottomCenter">Wyszukiwarki internetowe zdecydowanie biorą pod uwagę szybkość działania witryny</p>
+      <p xml:id="p88" begin="00:06:01.760" end="00:06:04.760" region="bottomCenter">podczas jej pozycjonowania, więc jest to ważny element SEO.</p>
+      <p xml:id="p89" begin="00:06:05.400" end="00:06:09.400" region="bottomCenter">Oto kilka wskazówek, które pomogą ci poprawić szybkość działania strony.</p>
+      <p xml:id="p90" begin="00:06:10.480" end="00:06:13.880" region="bottomCenter">Czy twój hosting ma wysoką pozycję pod względem szybkości działania witryny?</p>
+      <p xml:id="p91" begin="00:06:13.880" end="00:06:18.880" region="bottomCenter">Czy twój hosting ma włączoną funkcję buforowania? Możesz również skorzystać z wtyczki buforującej.</p>
+      <p xml:id="p92" begin="00:06:19.160" end="00:06:21.360" region="bottomCenter">Czy twój motyw WordPress szybko się wczytuje?</p>
+      <p xml:id="p93" begin="00:06:21.400" end="00:06:25.800" region="bottomCenter">Niektóre bardzo efektowne motywy WordPress, które wykorzystują wiele wtyczek, mogą drastycznie zmienić</p>
+      <p xml:id="p94" begin="00:06:25.840" end="00:06:26.840" region="bottomCenter">szybkość twojej witryny,</p>
+      <p xml:id="p95" begin="00:06:26.880" end="00:06:28.380" region="bottomCenter">więc bądź ostrożny.</p>
+      <p xml:id="p96" begin="00:06:28.440" end="00:06:31.240" region="bottomCenter">Czy zoptymalizowałeś obrazki i filmy?</p>
+      <p xml:id="p97" begin="00:06:31.320" end="00:06:34.020" region="bottomCenter">Czy zainstalowałeś dobrze skonstruowane wtyczki?</p>
+      <p xml:id="p98" begin="00:06:34.040" end="00:06:37.040" region="bottomCenter">Czy twój motyw i wtyczki dobrze ze sobą współpracują?</p>
+      <p xml:id="p99" begin="00:06:37.320" end="00:06:43.320" region="bottomCenter">Możesz sprawdzić szybkość swojej witryny za pomocą narzędzi takich jak GTmetrix lub PageSpeed Insights.</p>
+      <p xml:id="p100" begin="00:06:46.040" end="00:06:49.040" region="bottomCenter">Optymalizacja obrazków to kolejny element układanki SEO.</p>
+      <p xml:id="p101" begin="00:06:49.600" end="00:06:55.600" region="bottomCenter">Najpierw przyjrzyjmy się kilku krokom, które możesz wykonać przed przesłaniem obrazków do swojej witryny.</p>
+      <p xml:id="p102" begin="00:06:56.160" end="00:06:59.160" region="bottomCenter">Wybierz dobry format pliku, taki jak PNG, JPEG lub WebP.</p>
+      <p xml:id="p103" begin="00:07:03.720" end="00:07:08.420" region="bottomCenter">W tym przykładzie używam otwartej witryny internetowej Squoosh, aby bezpłatnie zmienić</p>
+      <p xml:id="p104" begin="00:07:08.440" end="00:07:09.440" region="bottomCenter">format pliku.</p>
+      <p xml:id="p105" begin="00:07:09.440" end="00:07:13.440" region="bottomCenter">Zawiera ona również kilka innych ustawień, które warto sprawdzić.</p>
+      <p xml:id="p106" begin="00:07:13.640" end="00:07:16.640" region="bottomCenter">Po drugie, zmniejsz rozmiar obrazków.</p>
+      <p xml:id="p107" begin="00:07:16.880" end="00:07:21.580" region="bottomCenter">Zbyt duże obrazki zostaną zmniejszone, gdy pojawią się w przeglądarkach użytkowników,</p>
+      <p xml:id="p108" begin="00:07:21.640" end="00:07:24.040" region="bottomCenter">co wpłynie na szybkość wczytywania twojej witryny.</p>
+      <p xml:id="p109" begin="00:07:24.040" end="00:07:29.240" region="bottomCenter">Dlatego pamiętaj, aby zmniejszyć rozmiar bardzo dużych obrazków, ponieważ większość monitorów na świecie</p>
+      <p xml:id="p110" begin="00:07:29.320" end="00:07:32.320" region="bottomCenter">ma rozdzielczość nie większą niż 1920 na 1080 pikseli.</p>
+      <p xml:id="p111" begin="00:07:35.520" end="00:07:40.520" region="bottomCenter">Na szczęście WordPress tworzy trzy różne wersje rozmiaru podczas przesyłania obrazka,</p>
+      <p xml:id="p112" begin="00:07:40.560" end="00:07:43.560" region="bottomCenter">ale duży obrazek nadal zajmuje miejsce na serwerze.</p>
+      <p xml:id="p113" begin="00:07:45.440" end="00:07:48.440" region="bottomCenter">Po trzecie, zmniejsz rozmiar pliku obrazka.</p>
+      <p xml:id="p114" begin="00:07:48.800" end="00:07:51.800" region="bottomCenter">Chcesz zmniejszyć rozmiar pliku obrazka bez utraty jakości.</p>
+      <p xml:id="p115" begin="00:07:53.320" end="00:07:56.320" region="bottomCenter">Możesz użyć programów takich jak TinyPNG lub Squoosh.</p>
+      <p xml:id="p116" begin="00:07:58.480" end="00:08:02.480" region="bottomCenter">Na koniec zmień nazwę pliku obrazka, aby wyjaśniała, co przedstawia obrazek.</p>
+      <p xml:id="p117" begin="00:08:04.960" end="00:08:08.960" region="bottomCenter">Po przesłaniu obrazka do WordPressa zaleca się dodanie tekstu alternatywnego</p>
+      <p xml:id="p118" begin="00:08:10.080" end="00:08:13.080" region="bottomCenter">lub tekstu ALT oraz opisu obrazka.</p>
+      <p xml:id="p119" begin="00:08:13.280" end="00:08:18.080" region="bottomCenter">Wyszukiwarki internetowe przywiązują dużą wagę do tekstu ALT. Wykorzystują one te informacje,</p>
+      <p xml:id="p120" begin="00:08:18.120" end="00:08:23.920" region="bottomCenter">aby zrozumieć kontekst obrazka, jego treść i cel.</p>
+      <p xml:id="p121" begin="00:08:24.000" end="00:08:28.000" region="bottomCenter">Obrazki powinny również posiadać tekst alternatywny ze względu na dostępność.</p>
+      <p xml:id="p122" begin="00:08:28.400" end="00:08:33.400" region="bottomCenter">Należy również upewnić się, że co najmniej jeden z obrazków zawiera słowo kluczowe</p>
+      <p xml:id="p123" begin="00:08:33.680" end="00:08:36.480" region="bottomCenter">lub frazę kluczową jako część tagu ALT.</p>
+      <p xml:id="p124" begin="00:08:36.500" end="00:08:39.500" region="bottomCenter">Przedostatnia wskazówka dotyczy tworzenia mapy witryny.</p>
+      <p xml:id="p125" begin="00:08:39.800" end="00:08:42.000" region="bottomCenter">Jest to coś, z czego korzystają wyszukiwarki.</p>
+      <p xml:id="p126" begin="00:08:42.040" end="00:08:47.040" region="bottomCenter">Przypomina mapę lub plan działania, który pomaga wyszukiwarkom ustalić, gdzie znajdują się</p>
+      <p xml:id="p127" begin="00:08:47.760" end="00:08:49.860" region="bottomCenter">wszystkie treści w twojej witrynie.</p>
+      <p xml:id="p128" begin="00:08:49.880" end="00:08:54.780" region="bottomCenter">Mapy witryn nie poprawiają pozycji w wynikach wyszukiwania, ale pomagają wyszukiwarkom poruszać się</p>
+      <p xml:id="p129" begin="00:08:54.800" end="00:08:56.500" region="bottomCenter">po treściach w twojej witrynie.</p>
+      <p xml:id="p130" begin="00:08:56.560" end="00:08:59.560" region="bottomCenter">Większość wtyczek SEO automatycznie generuje mapę witryny,</p>
+      <p xml:id="p131" begin="00:09:01.640" end="00:09:04.640" region="bottomCenter">więc nie musisz jej kodować, jeśli nie potrafisz.</p>
+      <p xml:id="p132" begin="00:09:04.800" end="00:09:12.000" region="bottomCenter">Na koniec porozmawiajmy o lokalnym SEO, które pozwala zoptymalizować witrynę tak, aby pojawiała się ona wyżej w lokalnych wynikach wyszukiwania,</p>
+      <p xml:id="p133" begin="00:09:12.040" end="00:09:17.640" region="bottomCenter">zwłaszcza jeśli twoja baza klientów znajduje się głównie w tym samym mieście lub obszarze metropolitalnym.</p>
+      <p xml:id="p134" begin="00:09:17.720" end="00:09:20.320" region="bottomCenter">Jest kilka rzeczy, które możesz zrobić.</p>
+      <p xml:id="p135" begin="00:09:20.320" end="00:09:26.120" region="bottomCenter">Przeprowadź lokalne badania słów kluczowych SEO. Dodaj swoje dane kontaktowe w stopce lub na stronie kontaktowej,</p>
+      <p xml:id="p136" begin="00:09:26.120" end="00:09:32.120" region="bottomCenter">publikuj zlokalizowane treści i zdobądź lokalne odnośniki zwrotne – czyli spraw, aby lokalne witryny odsyłały</p>
+      <p xml:id="p137" begin="00:09:33.880" end="00:09:36.280" region="bottomCenter">lub posiadały odnośnik do twojej witryny.</p>
+      <p xml:id="p138" begin="00:09:36.280" end="00:09:40.380" region="bottomCenter">Życzę powodzenia w działaniach mających na celu poprawę pozycji w wynikach wyszukiwania</p>
+      <p xml:id="p139" begin="00:09:40.400" end="00:09:45.400" region="bottomCenter">i pamiętaj, aby zainstalować i włączyć wtyczkę SEO, która najlepiej spełnia twoje potrzeby.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 16-pl-nesting-and-using-blocks-to-create-visually-appealing-content</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.000" end="00:00:04.000" region="bottomCenter">Jak już wiemy, bloki stanowią podstawę budowania twojej przestrzeni online.</p>
+      <p xml:id="p2" begin="00:00:04.560" end="00:00:08.160" region="bottomCenter">Można je traktować jako dosłowne elementy składowe twojej witryny internetowej.</p>
+      <p xml:id="p3" begin="00:00:08.160" end="00:00:11.160" region="bottomCenter">W tej lekcji będziemy rozwijać naszą wiedzę na temat bloków,</p>
+      <p xml:id="p4" begin="00:00:11.640" end="00:00:13.640" region="bottomCenter">zapoznamy się z różnymi typami bloków,</p>
+      <p xml:id="p5" begin="00:00:14.200" end="00:00:18.200" region="bottomCenter">a także nauczymy się je zagnieżdżać i grupować, aby tworzyć różne układy.</p>
+      <p xml:id="p6" begin="00:00:18.240" end="00:00:24.240" region="bottomCenter">Bloki zagnieżdżone pomagają tworzyć bardziej złożone układy poprzez dodawanie wielu bloków jeden w drugim.</p>
+      <p xml:id="p7" begin="00:00:24.240" end="00:00:29.240" region="bottomCenter">Zazwyczaj używamy bloków kontenerowych, takich jak blok „Grupa”, blok „Kolumny”, blok „Okładka”,</p>
+      <p xml:id="p8" begin="00:00:29.240" end="00:00:32.240" region="bottomCenter">blok „Media i tekst” lub blok „Wiersz”, aby grupować treści.</p>
+      <p xml:id="p9" begin="00:00:33.560" end="00:00:36.460" region="bottomCenter">Przypominamy, że po otwarciu widoku listy</p>
+      <p xml:id="p10" begin="00:00:36.480" end="00:00:40.480" region="bottomCenter">można poruszać się między warstwami treści i zagnieżdżonymi blokami.</p>
+      <p xml:id="p11" begin="00:00:41.000" end="00:00:45.000" region="bottomCenter">Przyjrzyjmy się drugiej sekcji tej strony głównej, aby zobaczyć to w praktyce.</p>
+      <p xml:id="p12" begin="00:00:45.520" end="00:00:48.520" region="bottomCenter">Wybiorę blok „Kolumny”.</p>
+      <p xml:id="p13" begin="00:00:49.080" end="00:00:54.080" region="bottomCenter">Po rozwinięciu bloku „Kolumny” zobaczymy wszystkie bloki znajdujące się w środku.</p>
+      <p xml:id="p14" begin="00:00:55.680" end="00:00:59.680" region="bottomCenter">W lewej kolumnie zauważymy blok „Nagłówek”, blok „Separator” i blok „Akapit”.</p>
+      <p xml:id="p15" begin="00:01:04.560" end="00:01:08.560" region="bottomCenter">W prawej kolumnie zobaczymy blok „Galeria” z czterema obrazkami.</p>
+      <p xml:id="p16" begin="00:01:11.560" end="00:01:14.260" region="bottomCenter">Przejdźmy dalej i stwórzmy razem kilka przykładów.</p>
+      <p xml:id="p17" begin="00:01:14.320" end="00:01:17.320" region="bottomCenter">Najpierw zgrupuję kilka bloków za pomocą bloku „Grupa”.</p>
+      <p xml:id="p18" begin="00:01:18.600" end="00:01:21.600" region="bottomCenter">Ale najpierw dodam blok „Nagłówek”</p>
+      <p xml:id="p19" begin="00:01:24.440" end="00:01:26.340" region="bottomCenter">i nadam mu odpowiednią nazwę.</p>
+      <p xml:id="p20" begin="00:01:26.360" end="00:01:29.360" region="bottomCenter">W tym przypadku śmiech jest najlepszym lekarstwem.</p>
+      <p xml:id="p21" begin="00:01:31.560" end="00:01:34.560" region="bottomCenter">Następnie nacisnę „Enter” i dodam blok „Kolumny”,</p>
+      <p xml:id="p22" begin="00:01:37.800" end="00:01:40.800" region="bottomCenter">wybieram dwie równe kolumny,</p>
+      <p xml:id="p23" begin="00:01:41.600" end="00:01:44.600" region="bottomCenter">a następnie dodaję tekst w lewej</p>
+      <p xml:id="p24" begin="00:01:46.080" end="00:01:49.080" region="bottomCenter">i prawej kolumnie.</p>
+      <p xml:id="p25" begin="00:01:50.040" end="00:01:55.040" region="bottomCenter">Następnie zaznaczę oba te bloki w widoku listy, przytrzymując klawisz „Shift”</p>
+      <p xml:id="p26" begin="00:01:55.920" end="00:02:01.920" region="bottomCenter">i klikając myszką, co pozwoli mi zaznaczyć wiele bloków, a następnie użyć paska narzędzi bloków,</p>
+      <p xml:id="p27" begin="00:02:02.040" end="00:02:05.040" region="bottomCenter"> aby zgrupować je w bloku „Grupa”.</p>
+      <p xml:id="p28" begin="00:02:06.800" end="00:02:10.800" region="bottomCenter">Następnie chciałbym zmienić szerokość bloku „Grupa” na szeroką.</p>
+      <p xml:id="p29" begin="00:02:11.080" end="00:02:17.080" region="bottomCenter">Zanim jednak będę mógł to zrobić, muszę odznaczyć opcję „Bloki wewnętrzne uwzględniają szerokość treści”.</p>
+      <p xml:id="p30" begin="00:02:17.800" end="00:02:21.800" region="bottomCenter">Dopiero po odznaczeniu tej opcji zagnieżdżone bloki będą mogły korzystać</p>
+      <p xml:id="p31" begin="00:02:23.360" end="00:02:26.360" region="bottomCenter">z opcji szerokości treści i zwiększonej szerokości.</p>
+      <p xml:id="p32" begin="00:02:27.520" end="00:02:30.520" region="bottomCenter">Jeśli nie odznaczę tej opcji, nie będę mógł zmienić wyrównania na pełną</p>
+      <p xml:id="p33" begin="00:02:33.360" end="00:02:34.360" region="bottomCenter">szerokość.</p>
+      <p xml:id="p34" begin="00:02:35.160" end="00:02:38.160" region="bottomCenter">Jak widać, nic się nie dzieje.</p>
+      <p xml:id="p35" begin="00:02:38.600" end="00:02:43.600" region="bottomCenter">Po odznaczeniu opcji mogę wrócić do paska narzędzi bloku i zmienić szerokość na zwiększoną</p>
+      <p xml:id="p36" begin="00:02:44.680" end="00:02:46.980" region="bottomCenter">bez ograniczeń narzuconych przez motyw.</p>
+      <p xml:id="p37" begin="00:02:47.040" end="00:02:50.940" region="bottomCenter">Następnie możemy otworzyć zakładkę „Style”, aby dalej stylizować nasz blok.</p>
+      <p xml:id="p38" begin="00:02:51.000" end="00:02:55.000" region="bottomCenter">Pierwszą rzeczą, którą chcę zrobić, jest zmiana koloru tła bloku „Grupa”.</p>
+      <p xml:id="p39" begin="00:02:55.960" end="00:02:59.960" region="bottomCenter">Pamiętaj też, że jeśli chcesz, możesz dodać obrazek tła do bloku „Grupa”.</p>
+      <p xml:id="p40" begin="00:03:01.840" end="00:03:06.840" region="bottomCenter">Kliknij trzy pionowe kropki obok opcji „Typografia”, aby wyświetlić wszystkie dostępne opcje.</p>
+      <p xml:id="p41" begin="00:03:08.120" end="00:03:13.120" region="bottomCenter">Następnie dodam trochę dopełnienia, aby stworzyć więcej miejsca wokół zawartości mojego</p>
+      <p xml:id="p42" begin="00:03:13.920" end="00:03:14.420" region="bottomCenter">bloku.</p>
+      <p xml:id="p43" begin="00:03:14.480" end="00:03:17.480" region="bottomCenter"></p>
+      <p xml:id="p44" begin="00:03:19.240" end="00:03:22.240" region="bottomCenter">Możesz zdecydować się na dalszą stylizację bloku „Grupa”.</p>
+      <p xml:id="p45" begin="00:03:24.800" end="00:03:29.800" region="bottomCenter">Jeśli na stronie znajduje się wiele warstw treści, można użyć bloku „Grupa”, aby zmienić nazwy</p>
+      <p xml:id="p46" begin="00:03:30.560" end="00:03:31.560" region="bottomCenter">sekcji.</p>
+      <p xml:id="p47" begin="00:03:31.560" end="00:03:37.560" region="bottomCenter">W powyższym przykładzie widzimy, że pierwsza sekcja nosi nazwę „Nasza historia”. Teraz mogę zaznaczyć</p>
+      <p xml:id="p48" begin="00:03:37.920" end="00:03:40.920" region="bottomCenter">blok „Grupa” poniżej i zmienić jego nazwę.</p>
+      <p xml:id="p49" begin="00:03:41.040" end="00:03:44.040" region="bottomCenter">W tym przypadku na „Referencje”.</p>
+      <p xml:id="p50" begin="00:03:45.160" end="00:03:49.160" region="bottomCenter">Ta funkcja bloku „Grupa” pozwala uporządkować i zorganizować treść.</p>
+      <p xml:id="p51" begin="00:03:52.040" end="00:03:56.040" region="bottomCenter">W następnym przykładzie użyjemy bloku „Media” i „Tekst”, aby zgrupować bloki.</p>
+      <p xml:id="p52" begin="00:03:57.320" end="00:04:00.320" region="bottomCenter">Dodajmy więc blok „Media” i „Tekst”.</p>
+      <p xml:id="p53" begin="00:04:01.040" end="00:04:05.040" region="bottomCenter">Następnie po lewej stronie możemy dodać obrazek z naszej biblioteki multimediów.</p>
+      <p xml:id="p54" begin="00:04:08.320" end="00:04:11.320" region="bottomCenter">Po prawej stronie możemy zacząć dodawać treść.</p>
+      <p xml:id="p55" begin="00:04:11.560" end="00:04:14.560" region="bottomCenter">U góry dodam nagłówek i nazwę go „Sushi to sztuka”.</p>
+      <p xml:id="p56" begin="00:04:19.360" end="00:04:22.360" region="bottomCenter">Naciśnij klawisz „Enter”, a następnie dodaj tekst.</p>
+      <p xml:id="p57" begin="00:04:22.760" end="00:04:26.760" region="bottomCenter">Na dole chcę dodać wezwanie do działania lub, w tym przypadku, blok „Przyciski”.</p>
+      <p xml:id="p58" begin="00:04:30.320" end="00:04:33.320" region="bottomCenter">Następnie wpiszę „Dowiedz się więcej”</p>
+      <p xml:id="p59" begin="00:04:33.920" end="00:04:38.920" region="bottomCenter">i użyję paska narzędzi bloku, aby pogrubić tekst, a także dodać odpowiedni adres URL.</p>
+      <p xml:id="p60" begin="00:04:42.120" end="00:04:45.120" region="bottomCenter">Następnie zaznaczę blok nadrzędny w widoku listy i zmienię wyrównanie na</p>
+      <p xml:id="p61" begin="00:04:48.320" end="00:04:50.320" region="bottomCenter">szerokie.</p>
+      <p xml:id="p62" begin="00:04:50.680" end="00:04:55.680" region="bottomCenter">Możesz również użyć paska narzędzi bloku, jeśli chcesz zmienić i wyświetlić obrazek</p>
+      <p xml:id="p63" begin="00:04:55.800" end="00:04:57.600" region="bottomCenter">po prawej stronie.</p>
+      <p xml:id="p64" begin="00:04:57.640" end="00:05:00.640" region="bottomCenter">W sekcji „Ustawienia” zmienię szerokość mediów na 40.</p>
+      <p xml:id="p65" begin="00:05:06.280" end="00:05:10.280" region="bottomCenter">Następnie otworzę kartę „Style” i dodam wypełnienie wokół treści.</p>
+      <p xml:id="p66" begin="00:05:13.640" end="00:05:17.640" region="bottomCenter">Na koniec zmienię pionowe wyrównanie obrazka, aby wyrównać go do dołu.</p>
+      <p xml:id="p67" begin="00:05:23.040" end="00:05:25.040" region="bottomCenter">I to wszystko.</p>
+      <p xml:id="p68" begin="00:05:25.240" end="00:05:28.240" region="bottomCenter">Nasz blok „Media i tekst” jest gotowy.</p>
+      <p xml:id="p69" begin="00:05:28.440" end="00:05:31.440" region="bottomCenter">W następnym przykładzie użyjemy bloku „Kolumny”.</p>
+      <p xml:id="p70" begin="00:05:31.440" end="00:05:35.540" region="bottomCenter">Blok „Kolumny” jest jednym z najskuteczniejszych bloków do tworzenia złożonych</p>
+      <p xml:id="p71" begin="00:05:35.560" end="00:05:36.960" region="bottomCenter">układów lub projektów.</p>
+      <p xml:id="p72" begin="00:05:37.040" end="00:05:41.040" region="bottomCenter">Dodajmy więc blok „Kolumny”, a następnie wybierzmy trzy równe kolumny.</p>
+      <p xml:id="p73" begin="00:05:44.440" end="00:05:47.440" region="bottomCenter">W lewej kolumnie dodam tekst i nazwę go „Półmiski”,</p>
+      <p xml:id="p74" begin="00:05:52.520" end="00:05:55.520" region="bottomCenter">nacisnę „Enter”, a następnie dodam akapit.</p>
+      <p xml:id="p75" begin="00:05:57.120" end="00:06:01.120" region="bottomCenter">Poniżej dodam blok „Obrazek” i wybiorę obrazek z mojej biblioteki multimediów.</p>
+      <p xml:id="p76" begin="00:06:08.440" end="00:06:11.440" region="bottomCenter">Następnie zaznaczę tekst u góry, pogrubiam go i powiększam,</p>
+      <p xml:id="p77" begin="00:06:16.960" end="00:06:19.960" region="bottomCenter">a następnie wyśrodkuję tekst obu akapitów.</p>
+      <p xml:id="p78" begin="00:06:22.880" end="00:06:26.880" region="bottomCenter">Po wyrównaniu do środka zaznaczę blok „Obrazek” i zmienię proporcje</p>
+      <p xml:id="p79" begin="00:06:28.080" end="00:06:31.080" region="bottomCenter">na kwadratowe.</p>
+      <p xml:id="p80" begin="00:06:32.040" end="00:06:37.040" region="bottomCenter">Następnie zaznaczę główny blok „Kolumny” lub blok nadrzędny i zmienię wyrównanie</p>
+      <p xml:id="p81" begin="00:06:37.320" end="00:06:39.320" region="bottomCenter">na szerokie.</p>
+      <p xml:id="p82" begin="00:06:39.840" end="00:06:43.840" region="bottomCenter">Następnie przejdę do stylu i dodam wypełnienie wokół zawartości bloku,</p>
+      <p xml:id="p83" begin="00:06:47.080" end="00:06:50.080" region="bottomCenter">a także odstępy między trzema kolumnami.</p>
+      <p xml:id="p84" begin="00:06:53.560" end="00:06:57.560" region="bottomCenter">Po zakończeniu stylizacji bloku zaznaczę lewą kolumnę i powielę ją</p>
+      <p xml:id="p85" begin="00:06:59.760" end="00:07:02.760" region="bottomCenter">dwukrotnie.</p>
+      <p xml:id="p86" begin="00:07:05.400" end="00:07:08.400" region="bottomCenter">Po powieleniu możemy usunąć puste kolumny.</p>
+      <p xml:id="p87" begin="00:07:13.600" end="00:07:17.600" region="bottomCenter">Następnie możemy przystąpić do modyfikacji zawartości według własnego uznania.</p>
+      <p xml:id="p88" begin="00:07:20.360" end="00:07:23.360" region="bottomCenter">W ostatnim przykładzie użyjemy bloku „Okładka”.</p>
+      <p xml:id="p89" begin="00:07:23.640" end="00:07:27.640" region="bottomCenter">Blok „Okładka” pozwala wyświetlać tekst i inne treści na obrazku lub filmie.</p>
+      <p xml:id="p90" begin="00:07:28.760" end="00:07:32.760" region="bottomCenter">Jest to świetny blok do stosowania w nagłówkach i wyświetlaczach typu baner.</p>
+      <p xml:id="p91" begin="00:07:32.840" end="00:07:35.840" region="bottomCenter">Dodajmy więc nasz blok „Okładka”.</p>
+      <p xml:id="p92" begin="00:07:36.120" end="00:07:39.120" region="bottomCenter">Następnie zobaczysz, że możesz wybrać nakładkę koloru.</p>
+      <p xml:id="p93" begin="00:07:41.480" end="00:07:45.480" region="bottomCenter">Ja jednak dodam obrazek z mojej biblioteki multimediów jako tło.</p>
+      <p xml:id="p94" begin="00:07:47.920" end="00:07:50.920" region="bottomCenter">Następnie dodam tekst, a po nim blok „Przyciski”.</p>
+      <p xml:id="p95" begin="00:07:56.880" end="00:07:59.880" region="bottomCenter">Napiszę „Zamów” i zmienię kolory tła oraz tekstu</p>
+      <p xml:id="p96" begin="00:08:03.880" end="00:08:06.880" region="bottomCenter">wezwania do działania.</p>
+      <p xml:id="p97" begin="00:08:11.400" end="00:08:16.400" region="bottomCenter">Następnie zaznaczę oba bloki i ułożę je jeden na drugim za pomocą bloku „Stos”.</p>
+      <p xml:id="p98" begin="00:08:19.400" end="00:08:22.400" region="bottomCenter">Dzięki temu mogę dostosować oba bloki jednocześnie.</p>
+      <p xml:id="p99" begin="00:08:23.160" end="00:08:26.160" region="bottomCenter">Następnie wyrównam blok „Stos” do środka, zaznaczę blok „Okładka” i zmienię</p>
+      <p xml:id="p100" begin="00:08:32.120" end="00:08:34.120" region="bottomCenter">wyrównanie na szerokie.</p>
+      <p xml:id="p101" begin="00:08:34.600" end="00:08:38.600" region="bottomCenter">Nie zapomnij odznaczyć opcji „Bloki wewnętrzne używają szerokości treści”.</p>
+      <p xml:id="p102" begin="00:08:39.800" end="00:08:42.100" region="bottomCenter">Teraz możemy wprowadzić dalsze modyfikacje.</p>
+      <p xml:id="p103" begin="00:08:42.120" end="00:08:45.120" region="bottomCenter">Powiększę tekst „Ciesz się 20% zniżką” oraz blok przycisków.</p>
+      <p xml:id="p104" begin="00:08:53.120" end="00:08:58.120" region="bottomCenter">Chcę również pogrubić tekst bloku przycisków i nie zapomnij dodać swojego adresu URL.</p>
+      <p xml:id="p105" begin="00:09:03.880" end="00:09:07.880" region="bottomCenter">Następnie zaznaczę blok okładki i pamiętaj, że na pasku narzędzi bloku</p>
+      <p xml:id="p106" begin="00:09:09.160" end="00:09:12.160" region="bottomCenter">możesz przełączyć blok na pełną wysokość.</p>
+      <p xml:id="p107" begin="00:09:12.720" end="00:09:16.720" region="bottomCenter">Możemy jednak również ręcznie zmniejszyć lub zwiększyć rozmiar.</p>
+      <p xml:id="p108" begin="00:09:19.720" end="00:09:24.720" region="bottomCenter">Następnie otworzę kartę „Style” i zmienię krycie nakładki na 30, aby była jaśniejsza.</p>
+      <p xml:id="p109" begin="00:09:30.440" end="00:09:33.440" region="bottomCenter">Teraz mój blok okładki jest gotowy.</p>
+      <p xml:id="p110" begin="00:09:35.480" end="00:09:41.480" region="bottomCenter">Jestem przekonany, że czujesz się teraz pewniej, jeśli chodzi o zagnieżdżanie i grupowanie bloków.</p>
+    </div>
+  </body>
+</tt>
