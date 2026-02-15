@@ -1,0 +1,131 @@
+Course: https://learn.wordpress.org/course/beginner-wordpress-user/
+
+01.
+## https://learn.wordpress.org/lesson/introduction-to-wordpress-2/
+-- https://www.youtube.com/watch?v=3S-s_V_z8JQ
+-- https://wordpress.tv/2023/12/06/introduction-to-wordpress/
+
+02.
+## https://learn.wordpress.org/lesson/wordpress-essentials-domains-and-hosting/
+-- https://www.youtube.com/watch?v=stbR6Tf7tCg
+-- https://wordpress.tv/2023/12/07/wordpress-essentials-domains-and-hosting/
+
+03.
+## https://learn.wordpress.org/lesson/choosing-and-installing-a-theme/
+-- https://www.youtube.com/watch?v=tMi4F6bScqM
+-- https://wordpress.tv/2024/01/18/choosing-and-installing-a-theme-3/
+
+04.
+## https://learn.wordpress.org/lesson/choosing-and-installing-a-plugin/
+-- https://www.youtube.com/watch?v=WooNmrNKmcM
+-- https://wordpress.tv/2024/02/13/choosing-and-installing-a-plugin-2/
+
+05.
+## https://learn.wordpress.org/lesson/getting-started-with-the-wordpress-dashboard/
+-- https://www.youtube.com/watch?v=VCgWDVu-tOw
+-- https://wordpress.tv/2024/01/19/getting-started-with-the-wordpress-dashboard/
+
+06.
+## https://learn.wordpress.org/lesson/understanding-the-difference-between-wordpress-posts-and-pages/
+-- https://www.youtube.com/watch?v=bSbRXQRNovA
+-- https://wordpress.tv/2023/12/21/understanding-the-difference-between-wordpress-posts-and-pages/
+
+07.
+## https://learn.wordpress.org/lesson/using-the-media-library-2/
+-- https://www.youtube.com/watch?v=_A-Er-XuOtU
+-- https://wordpress.tv/2024/01/31/using-the-media-library/
+
+08.
+## https://learn.wordpress.org/lesson/creating-posts-and-pages-with-the-wordpress-block-editor/
+-- https://www.youtube.com/watch?v=DaaCThv_NNM
+-- https://wordpress.tv/2024/01/04/creating-posts-and-pages-with-the-wordpress-block-editor/
+
+09.
+## https://learn.wordpress.org/lesson/basic-wordpress-settings/
+-- https://www.youtube.com/watch?v=voounCw7s6k
+-- https://wordpress.tv/2024/05/09/basic-wordpress-settings-2/
+
+10.
+## https://learn.wordpress.org/lesson/what-is-the-difference-between-the-block-editor-and-site-editor/
+-- https://www.youtube.com/watch?v=93N8fUNhwd4
+-- https://wordpress.tv/2024/01/19/what-is-the-difference-between-the-block-editor-and-site-editor/
+
+11.
+## https://learn.wordpress.org/lesson/intro-to-the-site-editor/
+-- https://www.youtube.com/watch?v=ILgA2GemwO0
+-- https://wordpress.tv/2024/05/05/intro-to-the-site-editor/
+
+12.
+## https://learn.wordpress.org/lesson/using-page-templates/
+-- https://www.youtube.com/watch?v=KV2-MAXk05Y
+-- https://wordpress.tv/2024/01/19/using-page-templates-4/
+
+13.
+## https://learn.wordpress.org/lesson/using-template-parts/
+-- https://www.youtube.com/watch?v=CTn9jtvCvtc
+-- https://wordpress.tv/2024/02/07/using-template-parts-2/
+
+14.
+## https://learn.wordpress.org/lesson/setting-up-your-pages-posts-site-logo-and-navigation-menu/
+-- https://www.youtube.com/watch?v=frKxjyQBdiw
+-- https://wordpress.tv/2024/01/31/setting-up-your-pages-posts-site-logo-and-navigation-menu/
+
+15.
+## https://learn.wordpress.org/lesson/creating-and-customizing-a-header-and-footer/
+-- https://www.youtube.com/watch?v=TQqBzkkIyz0
+-- https://wordpress.tv/2024/02/12/creating-and-customizing-a-header-and-a-footer/
+
+16.
+## https://learn.wordpress.org/lesson/nesting-and-using-blocks-to-create-visually-appealing-content/
+-- https://www.youtube.com/watch?v=cOkjsce0E1w
+-- https://wordpress.tv/2024/02/07/nesting-and-using-blocks-to-create-visually-appealing-content/
+
+17.
+## https://learn.wordpress.org/lesson/using-block-patterns-2/
+-- https://www.youtube.com/watch?v=JBm1TPZ58Q8
+-- https://wordpress.tv/2024/04/29/using-block-patterns/
+
+18.
+## https://learn.wordpress.org/lesson/embedding-media-and-third-party-content-on-your-website/
+-- https://www.youtube.com/watch?v=_nMgMSpVi4A
+-- https://wordpress.tv/2024/02/12/embedding-media-and-third-party-content-on-your-website-2/
+
+19.
+## https://learn.wordpress.org/lesson/7-tips-to-improve-website-security/
+-- https://www.youtube.com/watch?v=D3O4L11G9ug
+-- https://wordpress.tv/2024/02/13/7-tips-to-improve-website-security-2/
+
+20.
+## https://learn.wordpress.org/lesson/managing-spam-on-your-site/
+-- https://www.youtube.com/watch?v=po6xDzAkOH4
+-- https://wordpress.tv/2024/03/18/managing-spam-on-your-website-2/
+
+21.
+## https://learn.wordpress.org/lesson/how-to-backup-your-site/
+-- https://www.youtube.com/watch?v=MA_gBE3QIb4
+-- https://wordpress.tv/2024/03/18/how-to-backup-your-site/
+
+22.
+## https://learn.wordpress.org/lesson/how-to-improve-your-seo-rankings/
+-- https://www.youtube.com/watch?v=gxqNt0-fcmc
+-- https://wordpress.tv/2024/02/15/how-to-improve-seo-rankings-2/
+
+23.
+## https://learn.wordpress.org/lesson/how-to-use-headings-for-accessibility-and-seo/
+-- https://www.youtube.com/watch?v=_xecSWaqiUw
+-- https://wordpress.tv/2024/02/21/how-to-use-headings-for-accessibility-and-seo/
+
+24.
+## https://learn.wordpress.org/lesson/how-to-find-help-with-wordpress-2/
+-- https://www.youtube.com/watch?v=nrR5h70ENXc
+-- https://wordpress.tv/2024/03/18/how-to-find-help-with-wordpress/
+
+
+## 
+-- 
+-- 
+
+
+
+
+
