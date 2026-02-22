@@ -1,0 +1,196 @@
+Course: https://learn.wordpress.org/course/intermediate-wordpress-user/
+
+01.
+## https://learn.wordpress.org/lesson/user-management/
+-- https://www.youtube.com/watch?v=rYJL4MQT-xs
+-- https://wordpress.tv/2024/02/21/user-management-2/
+
+02.
+## https://learn.wordpress.org/lesson/migrating-your-site-part-1-changing-to-a-new-host-and-domain/
+-- https://www.youtube.com/watch?v=_Un1GZRLNeE
+-- https://wordpress.tv/2024/05/15/migrating-your-site-part-1-changing-to-a-new-host-and-domain/
+
+03.
+## https://learn.wordpress.org/lesson/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/
+-- https://www.youtube.com/watch?v=kKX5z-Gw6bM
+-- https://wordpress.tv/2024/05/15/migrating-your-site-part-2-changing-your-host-but-keeping-your-domain/
+
+04.
+## https://learn.wordpress.org/lesson/differentiating-between-homepage-display-settings-and-various-templates/
+-- https://www.youtube.com/watch?v=mrf0L2RTMq0
+-- https://wordpress.tv/2024/05/30/differentiating-between-homepage-display-settings-and-various-templates/
+
+05.
+## https://learn.wordpress.org/lesson/personalizing-your-404-template/
+-- https://www.youtube.com/watch?v=E-AC9V2PbKQ
+-- https://wordpress.tv/2024/04/03/personalizing-your-404-template-2/
+
+06.
+## https://learn.wordpress.org/lesson/customizing-the-search-results-template/
+-- https://www.youtube.com/watch?v=a46BWuhKTAs
+-- https://wordpress.tv/2024/04/03/customizing-the-search-results-template/
+
+07.
+## https://learn.wordpress.org/lesson/customizing-your-single-posts-template/
+-- https://www.youtube.com/watch?v=KOSQb5U9JyY
+-- https://wordpress.tv/2024/04/04/customizing-your-single-posts-template/
+
+08.
+## https://learn.wordpress.org/lesson/creating-a-custom-template/
+-- https://www.youtube.com/watch?v=rT9Y-xD8tkY
+-- https://wordpress.tv/2024/04/04/creating-a-custom-template/
+
+09.
+## https://learn.wordpress.org/lesson/adding-and-customizing-category-template/
+-- https://www.youtube.com/watch?v=JMojZbyuYr0
+-- https://wordpress.tv/2024/04/28/adding-and-customizing-a-category-template/
+
+10.
+## https://learn.wordpress.org/lesson/styling-your-site-with-global-styles/
+-- https://www.youtube.com/watch?v=S1Z9OHXME7E
+-- https://wordpress.tv/2024/04/10/styling-your-site-with-global-styles-2/
+
+11.
+## https://learn.wordpress.org/lesson/using-the-style-book/
+-- https://www.youtube.com/watch?v=NLnKutKvrt8
+-- https://wordpress.tv/2024/05/10/using-the-style-book/
+
+12.
+## https://learn.wordpress.org/lesson/taking-advantage-of-query-loops-2/
+-- https://www.youtube.com/watch?v=zPb-u847stE
+-- https://wordpress.tv/2024/04/28/taking-advantage-of-query-loops-2/
+
+13.
+## https://learn.wordpress.org/lesson/using-the-comments-block/
+-- https://www.youtube.com/watch?v=x0Liygal_xs
+-- https://wordpress.tv/2024/04/29/using-the-comments-block/
+
+14.
+## https://learn.wordpress.org/lesson/designing-with-the-columns-block/
+-- https://www.youtube.com/watch?v=bNCMI-igIns
+-- https://wordpress.tv/2024/04/04/designing-with-the-columns-block-2/
+
+15.
+## https://learn.wordpress.org/lesson/using-the-group-block/
+-- https://www.youtube.com/watch?v=UBcwrgVJhLA
+-- https://wordpress.tv/2024/06/11/using-the-group-block/
+
+16.
+## https://learn.wordpress.org/lesson/designing-with-row-and-stack-blocks/
+-- https://www.youtube.com/watch?v=21W6J_-4Kx8
+-- https://wordpress.tv/2024/05/02/designing-with-row-and-stack-blocks-2/
+
+17.
+## https://learn.wordpress.org/lesson/uncovering-the-cover-block/
+-- https://www.youtube.com/watch?v=qaN3JugpJYE
+-- https://wordpress.tv/2024/06/18/uncovering-the-cover-block-2/
+
+18.
+## https://learn.wordpress.org/lesson/advanced-wordpress-block-layouts/
+-- https://www.youtube.com/watch?v=_tr0nxCBDaM
+-- https://wordpress.tv/2024/05/14/advanced-wordpress-block-layouts/
+
+19.
+## https://learn.wordpress.org/lesson/building-a-page-with-only-patterns/
+-- https://www.youtube.com/watch?v=PF8e1Z0GkK8
+-- https://wordpress.tv/2024/04/30/building-a-page-with-only-patterns-3/
+
+20.
+## https://learn.wordpress.org/lesson/creating-your-own-custom-synced-and-non-synced-patterns/
+-- https://www.youtube.com/watch?v=8cb25mCHK18
+-- https://wordpress.tv/2024/05/01/creating-your-own-custom-synced-and-non-synced-patterns/
+
+21.
+## https://learn.wordpress.org/lesson/organizing-your-media-library/
+-- https://www.youtube.com/watch?v=6Aw_opEvhYg
+-- https://wordpress.tv/2024/05/06/organizing-your-media-library/
+
+22.
+## https://learn.wordpress.org/lesson/seo-strategies/
+-- https://www.youtube.com/watch?v=tMKBcfzok4Q
+-- https://wordpress.tv/2024/06/04/seo-strategies/
+
+23.
+## https://learn.wordpress.org/lesson/what-is-accessiblity-and-why-is-it-important/
+-- https://www.youtube.com/watch?v=ZkSzVnQDUlA
+-- https://wordpress.tv/2024/06/18/what-is-accessiblity-and-why-is-it-important/
+
+24.
+## https://learn.wordpress.org/lesson/testing-your-content-for-accessibility/
+-- https://www.youtube.com/watch?v=iEL11QKi7T0
+-- https://wordpress.tv/2024/06/18/testing-your-content-for-accessibility/
+
+25.
+## https://learn.wordpress.org/lesson/tools-export-and-import/
+-- https://www.youtube.com/watch?v=8tXFpxqkPpI
+-- https://wordpress.tv/2024/05/07/tools-export-and-import/
+
+26.
+## https://learn.wordpress.org/lesson/tools-site-health/
+-- https://www.youtube.com/watch?v=DEjycJctbCw
+-- https://wordpress.tv/2024/05/07/tools-site-health-2/
+
+27.
+## https://learn.wordpress.org/lesson/managing-settings-general-2/
+-- https://www.youtube.com/watch?v=reENaqLzE2M
+-- https://wordpress.tv/2024/05/16/managing-settings-general-2/
+
+28.
+## https://learn.wordpress.org/lesson/managing-settings-writing-2/
+-- https://www.youtube.com/watch?v=b_VQdTN0nio
+-- https://wordpress.tv/2024/05/16/managing-settings-writing/
+
+29.
+## https://learn.wordpress.org/lesson/managing-settings-reading-2/
+-- https://www.youtube.com/watch?v=An36m7tkCkA
+-- https://wordpress.tv/2024/05/16/managing-settings-reading/
+
+30.
+## https://learn.wordpress.org/lesson/managin-settings-discussion/
+-- https://www.youtube.com/watch?v=0N4aKjm5k8Y
+-- https://wordpress.tv/2024/05/16/managing-settings-discussion/
+
+31.
+## https://learn.wordpress.org/lesson/managing-settings-media/
+-- https://www.youtube.com/watch?v=beUM5uFeqCk
+-- https://wordpress.tv/2024/05/16/managing-settings-media-2/
+
+32.
+## https://learn.wordpress.org/lesson/managing-settings-permalinks/
+-- https://www.youtube.com/watch?v=_kVssz3b2F4
+-- https://wordpress.tv/2024/05/16/managing-settings-permalinks-2/
+
+33.
+## https://learn.wordpress.org/lesson/managing-settings-privacy-policy/
+-- https://www.youtube.com/watch?v=QcDxvk1xwqE
+-- https://wordpress.tv/2024/05/16/managing-settings-privacy-policy/
+
+34.
+## https://learn.wordpress.org/lesson/website-optimization/
+-- https://www.youtube.com/watch?v=5S0DM_uEd_U
+-- https://wordpress.tv/2024/07/02/website-optimization/
+
+35.
+## https://learn.wordpress.org/lesson/image-optimization/
+-- https://www.youtube.com/watch?v=efgwjgrqHqQ
+-- https://wordpress.tv/2024/05/26/image-optimization-2/
+
+36.
+## https://learn.wordpress.org/lesson/domain-management-understanding-dns-records/
+-- https://www.youtube.com/watch?v=cf9I2wmfA7g
+-- https://wordpress.tv/2024/05/30/domain-management-understanding-dns-records/
+
+37.
+## https://learn.wordpress.org/lesson/essential-security-plugin-features-and-settings/
+-- https://www.youtube.com/watch?v=kr6QIQ2mM0o
+-- https://wordpress.tv/2024/06/11/essential-security-plugin-features-and-settings/
+
+
+## 
+-- 
+-- 
+
+
+
+
+
