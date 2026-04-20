@@ -1,0 +1,300 @@
+1
+00:00:00,000 --> 00:00:04,000
+Nauczyliśmy się używać i grupować bloki, aby budować naszą witrynę.
+
+2
+00:00:04,000 --> 00:00:08,000
+Ale czy wiesz, że istnieje skrót do szybszego tworzenia własnych układów treści,
+
+3
+00:00:09,000 --> 00:00:12,000
+a mianowicie użycie wzorców bloków?
+
+4
+00:00:12,000 --> 00:00:16,000
+Nie wszyscy jesteśmy projektantami, a tworzenie układów jest czasochłonne.
+
+5
+00:00:16,000 --> 00:00:19,000
+Wzorce bloków stanowią rozwiązanie tego problemu.
+
+6
+00:00:19,000 --> 00:00:24,000
+Cele nauczania tej lekcji to używanie i modyfikowanie dostępnych gotowych wzorców bloków,
+
+7
+00:00:25,000 --> 00:00:30,000
+przeglądanie katalogu wzorców bloków, tworzenie własnych wzorców zsynchronizowanych i niesynchronizowanych,
+
+8
+00:00:30,000 --> 00:00:33,000
+a na koniec wykorzystanie wzorców nagłówków i stopek.
+
+9
+00:00:34,000 --> 00:00:36,000
+Ale czym są wzorce?
+
+10
+00:00:36,000 --> 00:00:43,000
+Wzorce bloków to gotowe projekty lub układy zgrupowanych bloków, które można modyfikować i zmieniać zgodnie z własnymi potrzebami.
+
+11
+00:00:43,000 --> 00:00:48,000
+Pozwala to nie tylko zaoszczędzić czas, ale także zwiększyć kreatywność i poprawić jakość projektu.
+
+12
+00:00:48,000 --> 00:00:52,000
+Zamiast samodzielnie zagnieżdżać i grupować bloki, wzorce robią to za ciebie.
+
+13
+00:00:53,000 --> 00:01:01,000
+Jednym kliknięciem uzyskasz dostęp do pięknych i funkcjonalnych układów, od wezwań do działania, nagłówków, kolumn, galerii i wielu innych elementów.
+
+14
+00:01:02,000 --> 00:01:07,000
+Aby dodać wzorzec, kliknij ikonkę plusa w lewym górnym rogu, zwaną również „Wybierak”,
+
+15
+00:01:08,000 --> 00:01:11,000
+i otwórz zakładkę wzorców po prawej stronie obok bloków.
+
+16
+00:01:12,000 --> 00:01:15,000
+U góry zobaczysz wszystkie wzorce.
+
+17
+00:01:15,000 --> 00:01:21,000
+Poniżej znajdują się wszystkie zsynchronizowane i niezsynchronizowane wzorce, które sam stworzyłeś.
+
+18
+00:01:21,000 --> 00:01:26,000
+Zsynchronizowane wzorce są oznaczone fioletową ikonką, a niezsynchronizowane wzorce nie mają ikonki,
+
+19
+00:01:26,000 --> 00:01:30,000
+ale więcej o zsynchronizowanych i niezsynchronizowanych wzorcach za chwilę.
+
+20
+00:01:30,000 --> 00:01:34,000
+Pod sekcją „Moje wzorce” zobaczysz wzorce dołączone do twojego motywu.
+
+21
+00:01:34,000 --> 00:01:39,000
+Są one uporządkowane w różne kategorie, aby ułatwić ci znalezienie tego, czego potrzebujesz.
+
+22
+00:01:39,000 --> 00:01:44,000
+Po kliknięciu kategorii, przewijając w dół, zobaczysz podgląd wszystkich dostępnych wzorców.
+
+23
+00:01:46,000 --> 00:01:53,000
+Możesz również wybrać opcję „Przeglądaj wszystkie wzorce” na dole, aby uzyskać ogólny przegląd wzorców dostępnych w ramach danego motywu.
+
+24
+00:01:54,000 --> 00:01:57,000
+Możesz również przeglądać je według kategorii.
+
+25
+00:01:59,000 --> 00:02:02,000
+Spójrzmy na krótki przykład.
+
+26
+00:02:02,000 --> 00:02:09,000
+Po wybraniu wzorca, w tym przypadku jednego z kategorii „Polecane”, możesz go zmodyfikować, aby spełniał twoje wymagania projektowe.
+
+27
+00:02:10,000 --> 00:02:14,000
+Można go łatwo edytować w taki sam sposób, jak każdy inny blok.
+
+28
+00:02:15,000 --> 00:02:18,000
+Możesz zmienić wyrównanie bloku kontenera.
+
+29
+00:02:19,000 --> 00:02:23,000
+Możesz edytować nagłówek, aktualizować treść, zastępować obrazki
+
+30
+00:02:33,000 --> 00:02:37,000
+i na przykład zmieniać kolor tła wzorca, a także inne opcje stylizacji.
+
+31
+00:02:40,000 --> 00:02:44,000
+Jednak cała ciężka praca i układ zostały już wykonane za ciebie.
+
+32
+00:02:44,000 --> 00:02:49,000
+Jedyne, co musisz zrobić, to wybrać wzorzec i zmodyfikować go zgodnie z własnymi wymaganiami.
+
+33
+00:02:51,000 --> 00:02:54,000
+Wzorce dostępne w ramach motywu są ograniczone.
+
+34
+00:02:54,000 --> 00:02:59,000
+Jeśli chcesz mieć większy wybór wzorców, możesz przejrzeć katalog wzorców bloków.
+
+35
+00:02:59,000 --> 00:03:02,000
+W tym celu przejdź do witryny WordPress.org.
+
+36
+00:03:04,000 --> 00:03:07,000
+Kliknij „Extend”, a następnie wybierz „Wzorce”.
+
+37
+00:03:10,000 --> 00:03:14,000
+Tutaj możesz wyszukiwać i znajdować nowe wzorce dla swojej witryny internetowej.
+
+38
+00:03:15,000 --> 00:03:22,000
+Zauważysz, że istnieje opcja wyświetlania tylko wybranych wzorców lub setek wzorców, które zostały dodane przez społeczność WordPress.
+
+39
+00:03:24,000 --> 00:03:32,000
+Możesz wpisać tekst w polu wyszukiwania, wyszukiwać według kategorii lub przeglądać wszystkie dostępne opcje, aż znajdziesz to, czego szukasz.
+
+40
+00:03:33,000 --> 00:03:39,000
+Po znalezieniu szablonu, który ci odpowiada, możesz kliknąć „Gwiazdkę”, aby dodać go do ulubionych.
+
+41
+00:03:39,000 --> 00:03:46,000
+Kiedy będziesz gotowy, aby dodać wzorzec do swojej witryny, otwórz go, kliknij „Kopiuj wzorzec”, wróć do swojej witryny, a następnie wklej.
+
+42
+00:03:54,000 --> 00:03:57,000
+Następnie możesz zacząć zmieniać i modyfikować swój wzorzec.
+
+43
+00:04:00,000 --> 00:04:05,000
+Tak wygląda mój wzorzec po zmianach dostosowujących go do moich potrzeb projektowych.
+
+44
+00:04:06,000 --> 00:04:09,000
+Po przejściu do edytora witryny
+
+45
+00:04:10,000 --> 00:04:13,000
+w widoku bocznym zobaczysz kartę „Wzorce”.
+
+46
+00:04:14,000 --> 00:04:21,000
+Tutaj możesz zarządzać, edytować i tworzyć wszystkie swoje wzorce, zsynchronizowane lub nie, wraz z fragmentami szablonów.
+
+47
+00:04:22,000 --> 00:04:26,000
+Po kliknięciu „Moje wzorce” zobaczysz wszystkie swoje własne wzorce.
+
+48
+00:04:26,000 --> 00:04:30,000
+Zsynchronizowane wzorce mają fioletową ikonkę, a niezsynchronizowane nie.
+
+49
+00:04:31,000 --> 00:04:39,000
+Po najechaniu kursorem na fioletową ikonę pojawi się wyraźny komunikat: „Edytowanie tego wzorca spowoduje również aktualizację wszystkich miejsc, w których jest on używany”.
+
+50
+00:04:39,000 --> 00:04:45,000
+Pod własnymi wzorcami zobaczymy wszystkie dostępne kategorie, a także wzorce dostarczone przez motyw.
+
+51
+00:04:47,000 --> 00:04:54,000
+Warto również zauważyć, że po kliknięciu trzech pionowych kropek wzorca dostarczonego wraz z motywem można również powielić
+
+52
+00:04:55,000 --> 00:05:02,000
+i dodać ten wzorzec do obszaru własnych wzorców, a po zapisaniu go jako własny wzorzec można go modyfikować według własnego uznania.
+
+53
+00:05:02,000 --> 00:05:08,000
+W dolnej części znajdują się wszystkie wzorce nagłówków, stopek i ogólnych fragmentów szablonów.
+
+54
+00:05:08,000 --> 00:05:11,000
+Zacznijmy od własnych wzorców.
+
+55
+00:05:11,000 --> 00:05:17,000
+Po kliknięciu ikonki plusa obok opcji „Wzorce” można utworzyć własne wzorce zsynchronizowane lub niezsynchronizowane.
+
+56
+00:05:18,000 --> 00:05:26,000
+Po nadaniu nazwy można dodać wzorzec do odpowiedniej kategorii, w tym przypadku „Wezwanie do działania”, a następnie zdecydować się na jego synchronizację.
+
+57
+00:05:31,000 --> 00:05:39,000
+W tym przykładzie zdecyduję się zsynchronizować wzorzec, a na dole pojawi się komunikat „Synchronizuj ten wzorzec w wielu lokalizacjach”.
+
+58
+00:05:41,000 --> 00:05:46,000
+Teraz możesz zacząć tworzyć zsynchronizowany wzorzec, a gdy będzie gotowy, kliknij „Zapisz”.
+
+59
+00:05:49,000 --> 00:05:57,000
+Aby utworzyć wzorzec w edytorze bloków, po prostu wybierz projekt, kliknij trzy pionowe kropki na pasku narzędzi bloku i wybierz „Utwórz wzorzec”.
+
+60
+00:06:02,000 --> 00:06:08,000
+Następnie postępuj zgodnie z tą samą procedurą, co poprzednio, a ja ponownie wybiorę zsynchronizowany wzorzec.
+
+61
+00:06:12,000 --> 00:06:18,000
+Jeśli więc podoba ci się jakiś projekt, możesz go zapisać i ponownie wykorzystać jako wzorzec zsynchronizowany lub niezsynchronizowany.
+
+62
+00:06:18,000 --> 00:06:21,000
+Na koniec omówimy fragmenty szablonu.
+
+63
+00:06:21,000 --> 00:06:26,000
+Aby zarządzać nagłówkiem i stopką, można skorzystać z wzorców fragmentów szablonu.
+
+64
+00:06:26,000 --> 00:06:32,000
+Szablony służą do tworzenia projektu witryny internetowej, co zazwyczaj odbywa się poprzez dodanie fragmentu szablonu nagłówka i stopki.
+
+65
+00:06:32,000 --> 00:06:35,000
+Spójrzmy na przykład i otwórzmy nasz szablon strony.
+
+66
+00:06:38,000 --> 00:06:44,000
+Po otwarciu szablonu strony możemy wybrać aktualny nagłówek, a następnie kliknąć trzy pionowe kropki.
+
+67
+00:06:48,000 --> 00:06:51,000
+Następnie możemy wybrać opcję „Zastąp nagłówek”.
+
+68
+00:06:51,000 --> 00:06:58,000
+Po wykonaniu tej czynności można wybrać jeden z istniejących fragmentów szablonu lub wzorców dostarczonych wraz z motywem.
+
+69
+00:06:58,000 --> 00:07:01,000
+Działa to dokładnie tak samo w przypadku stopki.
+
+70
+00:07:02,000 --> 00:07:07,000
+W sekcji „Wzorce” można zarządzać istniejącymi fragmentami szablonu i edytować je.
+
+71
+00:07:09,000 --> 00:07:15,000
+Aby dodać nowy fragment szablonu, kliknij ikonkę plusa obok „Wzorce” i wybierz „Utwórz fragment szablonu”.
+
+72
+00:07:15,000 --> 00:07:20,000
+Tutaj możesz wybrać między utworzeniem ogólnego fragmentu szablonu, stopki lub nagłówka.
+
+73
+00:07:22,000 --> 00:07:29,000
+Aby utworzyć nowy fragment szablonu nagłówka, nadaj mu odpowiednią nazwę, wybierz „Nagłówek”, a następnie kliknij „Utwórz”.
+
+74
+00:07:30,000 --> 00:07:34,000
+Następnie możesz rozpocząć tworzenie nowego nagłówka w trybie edycji szablonu.
+
+75
+00:07:36,000 --> 00:07:41,000
+Jesteśmy przekonani, że wzorce staną się jednym z twoich ulubionych nowych narzędzi.
+

@@ -1,0 +1,440 @@
+1
+00:00:00,000 --> 00:00:04,000
+Jak już wiemy, bloki stanowią podstawę budowania twojej przestrzeni online.
+
+2
+00:00:04,560 --> 00:00:08,160
+Można je traktować jako dosłowne elementy składowe twojej witryny internetowej.
+
+3
+00:00:08,160 --> 00:00:11,160
+W tej lekcji będziemy rozwijać naszą wiedzę na temat bloków,
+
+4
+00:00:11,640 --> 00:00:13,640
+zapoznamy się z różnymi typami bloków,
+
+5
+00:00:14,200 --> 00:00:18,200
+a także nauczymy się je zagnieżdżać i grupować, aby tworzyć różne układy.
+
+6
+00:00:18,240 --> 00:00:24,240
+Bloki zagnieżdżone pomagają tworzyć bardziej złożone układy poprzez dodawanie wielu bloków jeden w drugim.
+
+7
+00:00:24,240 --> 00:00:29,240
+Zazwyczaj używamy bloków kontenerowych, takich jak blok „Grupa”, blok „Kolumny”, blok „Okładka”,
+
+8
+00:00:29,240 --> 00:00:32,240
+blok „Media i tekst” lub blok „Wiersz”, aby grupować treści.
+
+9
+00:00:33,560 --> 00:00:36,460
+Przypominamy, że po otwarciu widoku listy
+
+10
+00:00:36,480 --> 00:00:40,480
+można poruszać się między warstwami treści i zagnieżdżonymi blokami.
+
+11
+00:00:41,000 --> 00:00:45,000
+Przyjrzyjmy się drugiej sekcji tej strony głównej, aby zobaczyć to w praktyce.
+
+12
+00:00:45,520 --> 00:00:48,520
+Wybiorę blok „Kolumny”.
+
+13
+00:00:49,080 --> 00:00:54,080
+Po rozwinięciu bloku „Kolumny” zobaczymy wszystkie bloki znajdujące się w środku.
+
+14
+00:00:55,680 --> 00:00:59,680
+W lewej kolumnie zauważymy blok „Nagłówek”, blok „Separator” i blok „Akapit”.
+
+15
+00:01:04,560 --> 00:01:08,560
+W prawej kolumnie zobaczymy blok „Galeria” z czterema obrazkami.
+
+16
+00:01:11,560 --> 00:01:14,260
+Przejdźmy dalej i stwórzmy razem kilka przykładów.
+
+17
+00:01:14,320 --> 00:01:17,320
+Najpierw zgrupuję kilka bloków za pomocą bloku „Grupa”.
+
+18
+00:01:18,600 --> 00:01:21,600
+Ale najpierw dodam blok „Nagłówek”
+
+19
+00:01:24,440 --> 00:01:26,340
+i nadam mu odpowiednią nazwę.
+
+20
+00:01:26,360 --> 00:01:29,360
+W tym przypadku śmiech jest najlepszym lekarstwem.
+
+21
+00:01:31,560 --> 00:01:34,560
+Następnie nacisnę „Enter” i dodam blok „Kolumny”,
+
+22
+00:01:37,800 --> 00:01:40,800
+wybieram dwie równe kolumny,
+
+23
+00:01:41,600 --> 00:01:44,600
+a następnie dodaję tekst w lewej
+
+24
+00:01:46,080 --> 00:01:49,080
+i prawej kolumnie.
+
+25
+00:01:50,040 --> 00:01:55,040
+Następnie zaznaczę oba te bloki w widoku listy, przytrzymując klawisz „Shift”
+
+26
+00:01:55,920 --> 00:02:01,920
+i klikając myszką, co pozwoli mi zaznaczyć wiele bloków, a następnie użyć paska narzędzi bloków,
+
+27
+00:02:02,040 --> 00:02:05,040
+ aby zgrupować je w bloku „Grupa”.
+
+28
+00:02:06,800 --> 00:02:10,800
+Następnie chciałbym zmienić szerokość bloku „Grupa” na szeroką.
+
+29
+00:02:11,080 --> 00:02:17,080
+Zanim jednak będę mógł to zrobić, muszę odznaczyć opcję „Bloki wewnętrzne uwzględniają szerokość treści”.
+
+30
+00:02:17,800 --> 00:02:21,800
+Dopiero po odznaczeniu tej opcji zagnieżdżone bloki będą mogły korzystać
+
+31
+00:02:23,360 --> 00:02:26,360
+z opcji szerokości treści i zwiększonej szerokości.
+
+32
+00:02:27,520 --> 00:02:30,520
+Jeśli nie odznaczę tej opcji, nie będę mógł zmienić wyrównania na pełną
+
+33
+00:02:33,360 --> 00:02:34,360
+szerokość.
+
+34
+00:02:35,160 --> 00:02:38,160
+Jak widać, nic się nie dzieje.
+
+35
+00:02:38,600 --> 00:02:43,600
+Po odznaczeniu opcji mogę wrócić do paska narzędzi bloku i zmienić szerokość na zwiększoną
+
+36
+00:02:44,680 --> 00:02:46,980
+bez ograniczeń narzuconych przez motyw.
+
+37
+00:02:47,040 --> 00:02:50,940
+Następnie możemy otworzyć zakładkę „Style”, aby dalej stylizować nasz blok.
+
+38
+00:02:51,000 --> 00:02:55,000
+Pierwszą rzeczą, którą chcę zrobić, jest zmiana koloru tła bloku „Grupa”.
+
+39
+00:02:55,960 --> 00:02:59,960
+Pamiętaj też, że jeśli chcesz, możesz dodać obrazek tła do bloku „Grupa”.
+
+40
+00:03:01,840 --> 00:03:06,840
+Kliknij trzy pionowe kropki obok opcji „Typografia”, aby wyświetlić wszystkie dostępne opcje.
+
+41
+00:03:08,120 --> 00:03:13,120
+Następnie dodam trochę dopełnienia, aby stworzyć więcej miejsca wokół zawartości mojego
+
+42
+00:03:13,920 --> 00:03:14,420
+bloku.
+
+43
+00:03:14,480 --> 00:03:17,480
+
+
+44
+00:03:19,240 --> 00:03:22,240
+Możesz zdecydować się na dalszą stylizację bloku „Grupa”.
+
+45
+00:03:24,800 --> 00:03:29,800
+Jeśli na stronie znajduje się wiele warstw treści, można użyć bloku „Grupa”, aby zmienić nazwy
+
+46
+00:03:30,560 --> 00:03:31,560
+sekcji.
+
+47
+00:03:31,560 --> 00:03:37,560
+W powyższym przykładzie widzimy, że pierwsza sekcja nosi nazwę „Nasza historia”. Teraz mogę zaznaczyć
+
+48
+00:03:37,920 --> 00:03:40,920
+blok „Grupa” poniżej i zmienić jego nazwę.
+
+49
+00:03:41,040 --> 00:03:44,040
+W tym przypadku na „Referencje”.
+
+50
+00:03:45,160 --> 00:03:49,160
+Ta funkcja bloku „Grupa” pozwala uporządkować i zorganizować treść.
+
+51
+00:03:52,040 --> 00:03:56,040
+W następnym przykładzie użyjemy bloku „Media” i „Tekst”, aby zgrupować bloki.
+
+52
+00:03:57,320 --> 00:04:00,320
+Dodajmy więc blok „Media” i „Tekst”.
+
+53
+00:04:01,040 --> 00:04:05,040
+Następnie po lewej stronie możemy dodać obrazek z naszej biblioteki multimediów.
+
+54
+00:04:08,320 --> 00:04:11,320
+Po prawej stronie możemy zacząć dodawać treść.
+
+55
+00:04:11,560 --> 00:04:14,560
+U góry dodam nagłówek i nazwę go „Sushi to sztuka”.
+
+56
+00:04:19,360 --> 00:04:22,360
+Naciśnij klawisz „Enter”, a następnie dodaj tekst.
+
+57
+00:04:22,760 --> 00:04:26,760
+Na dole chcę dodać wezwanie do działania lub, w tym przypadku, blok „Przyciski”.
+
+58
+00:04:30,320 --> 00:04:33,320
+Następnie wpiszę „Dowiedz się więcej”
+
+59
+00:04:33,920 --> 00:04:38,920
+i użyję paska narzędzi bloku, aby pogrubić tekst, a także dodać odpowiedni adres URL.
+
+60
+00:04:42,120 --> 00:04:45,120
+Następnie zaznaczę blok nadrzędny w widoku listy i zmienię wyrównanie na
+
+61
+00:04:48,320 --> 00:04:50,320
+szerokie.
+
+62
+00:04:50,680 --> 00:04:55,680
+Możesz również użyć paska narzędzi bloku, jeśli chcesz zmienić i wyświetlić obrazek
+
+63
+00:04:55,800 --> 00:04:57,600
+po prawej stronie.
+
+64
+00:04:57,640 --> 00:05:00,640
+W sekcji „Ustawienia” zmienię szerokość mediów na 40.
+
+65
+00:05:06,280 --> 00:05:10,280
+Następnie otworzę kartę „Style” i dodam wypełnienie wokół treści.
+
+66
+00:05:13,640 --> 00:05:17,640
+Na koniec zmienię pionowe wyrównanie obrazka, aby wyrównać go do dołu.
+
+67
+00:05:23,040 --> 00:05:25,040
+I to wszystko.
+
+68
+00:05:25,240 --> 00:05:28,240
+Nasz blok „Media i tekst” jest gotowy.
+
+69
+00:05:28,440 --> 00:05:31,440
+W następnym przykładzie użyjemy bloku „Kolumny”.
+
+70
+00:05:31,440 --> 00:05:35,540
+Blok „Kolumny” jest jednym z najskuteczniejszych bloków do tworzenia złożonych
+
+71
+00:05:35,560 --> 00:05:36,960
+układów lub projektów.
+
+72
+00:05:37,040 --> 00:05:41,040
+Dodajmy więc blok „Kolumny”, a następnie wybierzmy trzy równe kolumny.
+
+73
+00:05:44,440 --> 00:05:47,440
+W lewej kolumnie dodam tekst i nazwę go „Półmiski”,
+
+74
+00:05:52,520 --> 00:05:55,520
+nacisnę „Enter”, a następnie dodam akapit.
+
+75
+00:05:57,120 --> 00:06:01,120
+Poniżej dodam blok „Obrazek” i wybiorę obrazek z mojej biblioteki multimediów.
+
+76
+00:06:08,440 --> 00:06:11,440
+Następnie zaznaczę tekst u góry, pogrubiam go i powiększam,
+
+77
+00:06:16,960 --> 00:06:19,960
+a następnie wyśrodkuję tekst obu akapitów.
+
+78
+00:06:22,880 --> 00:06:26,880
+Po wyrównaniu do środka zaznaczę blok „Obrazek” i zmienię proporcje
+
+79
+00:06:28,080 --> 00:06:31,080
+na kwadratowe.
+
+80
+00:06:32,040 --> 00:06:37,040
+Następnie zaznaczę główny blok „Kolumny” lub blok nadrzędny i zmienię wyrównanie
+
+81
+00:06:37,320 --> 00:06:39,320
+na szerokie.
+
+82
+00:06:39,840 --> 00:06:43,840
+Następnie przejdę do stylu i dodam wypełnienie wokół zawartości bloku,
+
+83
+00:06:47,080 --> 00:06:50,080
+a także odstępy między trzema kolumnami.
+
+84
+00:06:53,560 --> 00:06:57,560
+Po zakończeniu stylizacji bloku zaznaczę lewą kolumnę i powielę ją
+
+85
+00:06:59,760 --> 00:07:02,760
+dwukrotnie.
+
+86
+00:07:05,400 --> 00:07:08,400
+Po powieleniu możemy usunąć puste kolumny.
+
+87
+00:07:13,600 --> 00:07:17,600
+Następnie możemy przystąpić do modyfikacji zawartości według własnego uznania.
+
+88
+00:07:20,360 --> 00:07:23,360
+W ostatnim przykładzie użyjemy bloku „Okładka”.
+
+89
+00:07:23,640 --> 00:07:27,640
+Blok „Okładka” pozwala wyświetlać tekst i inne treści na obrazku lub filmie.
+
+90
+00:07:28,760 --> 00:07:32,760
+Jest to świetny blok do stosowania w nagłówkach i wyświetlaczach typu baner.
+
+91
+00:07:32,840 --> 00:07:35,840
+Dodajmy więc nasz blok „Okładka”.
+
+92
+00:07:36,120 --> 00:07:39,120
+Następnie zobaczysz, że możesz wybrać nakładkę koloru.
+
+93
+00:07:41,480 --> 00:07:45,480
+Ja jednak dodam obrazek z mojej biblioteki multimediów jako tło.
+
+94
+00:07:47,920 --> 00:07:50,920
+Następnie dodam tekst, a po nim blok „Przyciski”.
+
+95
+00:07:56,880 --> 00:07:59,880
+Napiszę „Zamów” i zmienię kolory tła oraz tekstu
+
+96
+00:08:03,880 --> 00:08:06,880
+wezwania do działania.
+
+97
+00:08:11,400 --> 00:08:16,400
+Następnie zaznaczę oba bloki i ułożę je jeden na drugim za pomocą bloku „Stos”.
+
+98
+00:08:19,400 --> 00:08:22,400
+Dzięki temu mogę dostosować oba bloki jednocześnie.
+
+99
+00:08:23,160 --> 00:08:26,160
+Następnie wyrównam blok „Stos” do środka, zaznaczę blok „Okładka” i zmienię
+
+100
+00:08:32,120 --> 00:08:34,120
+wyrównanie na szerokie.
+
+101
+00:08:34,600 --> 00:08:38,600
+Nie zapomnij odznaczyć opcji „Bloki wewnętrzne używają szerokości treści”.
+
+102
+00:08:39,800 --> 00:08:42,100
+Teraz możemy wprowadzić dalsze modyfikacje.
+
+103
+00:08:42,120 --> 00:08:45,120
+Powiększę tekst „Ciesz się 20% zniżką” oraz blok przycisków.
+
+104
+00:08:53,120 --> 00:08:58,120
+Chcę również pogrubić tekst bloku przycisków i nie zapomnij dodać swojego adresu URL.
+
+105
+00:09:03,880 --> 00:09:07,880
+Następnie zaznaczę blok okładki i pamiętaj, że na pasku narzędzi bloku
+
+106
+00:09:09,160 --> 00:09:12,160
+możesz przełączyć blok na pełną wysokość.
+
+107
+00:09:12,720 --> 00:09:16,720
+Możemy jednak również ręcznie zmniejszyć lub zwiększyć rozmiar.
+
+108
+00:09:19,720 --> 00:09:24,720
+Następnie otworzę kartę „Style” i zmienię krycie nakładki na 30, aby była jaśniejsza.
+
+109
+00:09:30,440 --> 00:09:33,440
+Teraz mój blok okładki jest gotowy.
+
+110
+00:09:35,480 --> 00:09:41,480
+Jestem przekonany, że czujesz się teraz pewniej, jeśli chodzi o zagnieżdżanie i grupowanie bloków.
+

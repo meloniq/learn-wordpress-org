@@ -1,0 +1,428 @@
+1
+00:00:00,000 --> 00:00:03,000
+W tej lekcji zajmiemy się bardziej szczegółowo szablonami.
+
+2
+00:00:04,000 --> 00:00:08,000
+Po zakończeniu tej lekcji będziemy umieli odróżnić strony od szablonów,
+
+3
+00:00:11,000 --> 00:00:16,000
+wiedzieć, jak modyfikować jeden z naszych podstawowych szablonów, jak dodać nowy szablon,
+
+4
+00:00:17,000 --> 00:00:20,000
+a na koniec, jak przypisać własny szablon do strony lub wpisu.
+
+5
+00:00:22,000 --> 00:00:25,000
+Szablon określa strukturę wyświetlania strony.
+
+6
+00:00:27,000 --> 00:00:32,000
+Zazwyczaj obejmuje on fragment szablonu nagłówka, obszar treści oraz fragment szablonu stopki.
+
+7
+00:00:37,000 --> 00:00:41,000
+Uważam, że ważne jest, aby od samego początku wyjaśnić następujące kwestie.
+
+8
+00:00:43,000 --> 00:00:47,000
+Szablony nie służą do publikowania treści; szablony wpisów lub stron
+
+9
+00:00:47,000 --> 00:00:50,000
+wyświetlają treść za pomocą bloku treści wpisu.
+
+10
+00:00:51,000 --> 00:00:56,000
+Szablony, jak sama nazwa wskazuje, są szablonami projektowymi, które można zastosować do
+
+11
+00:00:56,000 --> 00:00:58,000
+pojedynczych lub wielu stron i wpisów.
+
+12
+00:00:58,000 --> 00:01:02,000
+Aby uzyskać dostęp do szablonów, przejdź do sekcji „Wygląd” i kliknij „Edytor”.
+
+13
+00:01:03,000 --> 00:01:06,000
+Spowoduje to przejście do edytora witryny.
+
+14
+00:01:06,000 --> 00:01:09,000
+Edytor służy do dostosowywania stylów całej witryny,
+
+15
+00:01:12,000 --> 00:01:15,000
+edytowania stron,
+
+16
+00:01:16,000 --> 00:01:19,000
+modyfikowania szablonów,
+
+17
+00:01:24,000 --> 00:01:27,000
+a także zarządzania wszystkimi różnymi wzorcami w witrynie.
+
+18
+00:01:28,000 --> 00:01:34,000
+Rozpoczynając tworzenie nowej witryny internetowej, możesz edytować istniejące szablony lub dodawać nowe,
+
+19
+00:01:37,000 --> 00:01:42,000
+a motyw, którego używasz, określi, które istniejące lub wbudowane szablony są dostępne do użycia.
+
+20
+00:01:42,000 --> 00:01:45,000
+Pierwszym z nich jest szablon strony,
+
+21
+00:01:45,000 --> 00:01:48,000
+który tworzy strukturę wyświetlania poszczególnych stron.
+
+22
+00:01:52,000 --> 00:01:55,000
+Następnym jest szablon pojedynczego wpisu,
+
+23
+00:01:56,000 --> 00:01:59,000
+który wyświetla pojedynczy wpis na blogu.
+
+24
+00:02:00,000 --> 00:02:03,000
+Szablon indeksu wyświetla wpisy,
+
+25
+00:02:08,000 --> 00:02:11,000
+a szablon 404 wyświetla się, gdy nie znaleziono żadnej treści.
+
+26
+00:02:14,000 --> 00:02:18,000
+Wszystkie te szablony można oczywiście modyfikować według własnego uznania.
+
+27
+00:02:19,000 --> 00:02:22,000
+Istnieją również inne wbudowane szablony, które warto poznać,
+
+28
+00:02:23,000 --> 00:02:26,000
+na przykład szablon pusty.
+
+29
+00:02:27,000 --> 00:02:31,000
+Aby dodać nowy szablon, kliknij ikonkę „Wybieraka” lub plusa obok szablonów.
+
+30
+00:02:33,000 --> 00:02:37,000
+Pojawi się okno modalne, w którym można wybrać jedną z różnych opcji szablonów.
+
+31
+00:02:37,000 --> 00:02:40,000
+Możesz na przykład utworzyć szablon dla konkretnej strony,
+
+32
+00:02:41,000 --> 00:02:45,000
+szablon dla wszystkich kategorii wpisów lub dla pojedynczej kategorii.
+
+33
+00:02:46,000 --> 00:02:51,000
+Możesz nawet utworzyć własny szablon, który można zastosować do dowolnego wpisu lub strony.
+
+34
+00:02:52,000 --> 00:02:55,000
+Po utworzeniu nowego szablonu, w tym przypadku własnego szablonu
+
+35
+00:02:57,000 --> 00:03:00,000
+i nadaniu mu nazwy,
+
+36
+00:03:00,000 --> 00:03:03,000
+zostaniesz zapytany, czy chcesz wybrać wzorzec,
+
+37
+00:03:06,000 --> 00:03:10,000
+ a jeśli chcesz zacząć od pustego szablonu, po prostu wybierz opcję „Pomiń”.
+
+38
+00:03:12,000 --> 00:03:15,000
+Jak edytować szablony? Po wybraniu odpowiedniego szablonu
+
+39
+00:03:17,000 --> 00:03:21,000
+możesz kliknąć ikonkę „Edytuj” na pasku bocznym obok opcji „Strony”
+
+40
+00:03:22,000 --> 00:03:25,000
+lub na ekranie szablonu po prawej stronie.
+
+41
+00:03:26,000 --> 00:03:31,000
+Po otwarciu szablonu możesz rozpocząć edycję fragmentu szablonu nagłówka i stopki.
+
+42
+00:03:32,000 --> 00:03:36,000
+Zatrzymajmy się na chwilę, aby zastanowić się nad tym. Podczas edycji szablonu
+
+43
+00:03:36,000 --> 00:03:40,000
+należy pamiętać o rozdzieleniu części dynamicznych i statycznych.
+
+44
+00:03:40,000 --> 00:03:46,000
+Część dynamiczna to część treści, która będzie się zmieniać dla każdej strony lub wpisu korzystającego z szablonu.
+
+45
+00:03:46,000 --> 00:03:53,000
+Jak widać na tym przykładzie, treść ze strony lub wpisu będzie wyświetlana w miejscu, w którym do szablonu dodano blok treści wpisu.
+
+46
+00:03:55,000 --> 00:04:00,000
+Części statyczne to części szablonu, które pozostają niezmienne, takie jak nagłówek i stopka.
+
+47
+00:04:01,000 --> 00:04:04,000
+Dlatego nie dodajemy żadnej treści do szablonu.
+
+48
+00:04:06,000 --> 00:04:10,000
+Edytor witryny wyraźnie rozróżnia edycję treści strony i jej szablonu,
+
+49
+00:04:12,000 --> 00:04:17,000
+ułatwiając przełączanie się między tymi dwoma trybami i wyświetlanie ich w odpowiednim kontekście.
+
+50
+00:04:18,000 --> 00:04:20,000
+Zobaczmy, jak to działa.
+
+51
+00:04:20,000 --> 00:04:23,000
+Otwórzmy jedną z naszych stron.
+
+52
+00:04:25,000 --> 00:04:28,000
+W tym przypadku moją przykładową stronę.
+
+53
+00:04:29,000 --> 00:04:32,000
+Po otwarciu strony możemy również otworzyć widok listy.
+
+54
+00:04:34,000 --> 00:04:40,000
+Po wybraniu bloku „Treść wpisu” zauważymy, że cała dodana przez nas treść została dodana do bloku „Treść wpisu”.
+
+55
+00:04:43,000 --> 00:04:47,000
+Zobaczymy to również w pasku bocznym ustawień po prawej stronie.
+
+56
+00:04:49,000 --> 00:04:52,000
+Ale co się stanie, jeśli spróbuję edytować nagłówek i stopkę?
+
+57
+00:04:54,000 --> 00:04:57,000
+Kliknijmy na nagłówek, aby spróbować go zmodyfikować.
+
+58
+00:04:58,000 --> 00:05:03,000
+Pojawi się komunikat z informacją, że aby edytować ten blok, należy edytować szablon.
+
+59
+00:05:04,000 --> 00:05:07,000
+To samo dotyczy stopki.
+
+60
+00:05:07,000 --> 00:05:11,000
+Jeśli spróbujemy edytować stopkę, zostaniemy poproszeni o przejście do szablonu.
+
+61
+00:05:15,000 --> 00:05:21,000
+Aby to zrobić, możemy kliknąć opcję „Edytuj szablon” w pasku bocznym ustawień po prawej stronie u dołu.
+
+62
+00:05:24,000 --> 00:05:28,000
+Spowoduje to przejście do szablonu przypisanego do odpowiedniej strony.
+
+63
+00:05:28,000 --> 00:05:31,000
+Teraz możemy przejść do aktualizacji nagłówka i stopki.
+
+64
+00:05:33,000 --> 00:05:37,000
+Zauważymy również, że blok „Treść wpisu” jest tylko symbolem zastępczym.
+
+65
+00:05:39,000 --> 00:05:42,000
+Nie możemy tutaj dodawać żadnej treści.
+
+66
+00:05:42,000 --> 00:05:45,000
+Następnie zaznaczę stopkę, kliknę trzy pionowe kropki,
+
+67
+00:05:48,000 --> 00:05:53,000
+a następnie zastąpię tę stopkę jednym z moich istniejących fragmentów szablonu stopki.
+
+68
+00:05:54,000 --> 00:05:58,000
+Po zakończeniu kliknę przycisk „Zapisz”. Zaktualizowałem szablon strony.
+
+69
+00:06:04,000 --> 00:06:08,000
+Jeśli chcesz powrócić do strony, kliknij przycisk „Wstecz” na pasku narzędzi.
+
+70
+00:06:10,000 --> 00:06:14,000
+Spowoduje to powrót do strony, gdzie możesz modyfikować zawartość.
+
+71
+00:06:15,000 --> 00:06:18,000
+Szablon można edytować osobno.
+
+72
+00:06:18,000 --> 00:06:21,000
+Po powrocie do szablonów w pasku bocznym zauważysz,
+
+73
+00:06:24,000 --> 00:06:28,000
+że na samym dole znajduje się opcja zarządzania wszystkimi szablonami.
+
+74
+00:06:30,000 --> 00:06:34,000
+Po jej wybraniu będziesz mógł zmienić nazwę i usunąć utworzone własne szablony
+
+75
+00:06:37,000 --> 00:06:41,000
+lub wyczyścić dostosowania wbudowanych szablonów, które zmodyfikowałeś.
+
+76
+00:06:43,000 --> 00:06:47,000
+W następnej sekcji omówimy przypisywanie różnych szablonów do stron lub wpisów.
+
+77
+00:06:51,000 --> 00:06:55,000
+Obecnie znajdujemy się na stronie głównej mojej przykładowej witryny
+
+78
+00:06:55,000 --> 00:06:58,000
+i przypisaliśmy tę stronę do szablonu strony.
+
+79
+00:06:58,000 --> 00:07:01,000
+Stworzyłem własny szablon z nowym nagłówkiem i stopką.
+
+80
+00:07:04,000 --> 00:07:09,000
+Aby przypisać nowy własny szablon, możemy kliknąć opcję „Edytuj stronę” u góry
+
+81
+00:07:10,000 --> 00:07:13,000
+lub przejść do kokpitu, otworzyć strony,
+
+82
+00:07:14,000 --> 00:07:17,500
+wybrać odpowiednią stronę, w tym przypadku stronę przykładową.
+
+83
+00:07:18,000 --> 00:07:23,000
+Po otwarciu strony zobaczymy naszą treść, ale po otwarciu ustawień paska bocznego
+
+84
+00:07:25,000 --> 00:07:31,000
+po prawej stronie zobaczymy, że ta strona została przypisana do szablonu strony, szablonu domyślnego.
+
+85
+00:07:31,000 --> 00:07:35,000
+Po kliknięciu nazwy zauważysz, że możesz dodać nowy szablon z tego miejsca.
+
+86
+00:07:39,000 --> 00:07:42,000
+Możesz edytować szablon przypisany do strony lub,
+
+87
+00:07:43,000 --> 00:07:47,000
+po kliknięciu menu rozwijanego, wybrać lub przypisać nowy szablon do tej strony.
+
+88
+00:07:50,000 --> 00:07:53,000
+Wybiorę teraz własny szablon, który stworzyłem.
+
+89
+00:07:55,000 --> 00:07:58,000
+Po wykonaniu tej czynności zaktualizuję stronę.
+
+90
+00:07:59,000 --> 00:08:02,000
+Możemy wyświetlić podgląd strony w nowej karcie
+
+91
+00:08:05,000 --> 00:08:11,000
+i teraz zobaczymy, że ta strona ma nowy nagłówek i stopkę dzięki własnemu szablonowi, który przypisałem do tej strony.
+
+92
+00:08:15,000 --> 00:08:21,000
+Na koniec omówimy pokrótce elementy szablonu nagłówka i stopki, których używamy do konfiguracji naszych szablonów.
+
+93
+00:08:23,000 --> 00:08:27,000
+Element szablonu nagłówka lub stopki można edytować bezpośrednio w szablonie.
+
+94
+00:08:29,000 --> 00:08:37,000
+W tym przykładzie edytuję element szablonu nagłówka i umieszczam blok tytułu witryny oraz blok sloganu witryny w ułożonym w stosie bloku grupy.
+
+95
+00:08:39,000 --> 00:08:43,000
+Następnie otwieram pasek boczny ustawień i usuwam odstępy między dwoma blokami.
+
+96
+00:08:47,000 --> 00:08:51,000
+Po wybraniu fragmentu szablonu nagłówka lub stopki pojawi się opcja „Edytuj”.
+
+97
+00:08:56,000 --> 00:09:02,000
+Po wybraniu opcji „Edytuj” można edytować fragment szablonu w trybie edycji szablonu bez żadnych zakłóceń.
+
+98
+00:09:04,000 --> 00:09:08,000
+Inną opcją jest przejście do sekcji „Wzorce” w pasku bocznym widoku witryny.
+
+99
+00:09:12,000 --> 00:09:20,000
+Po wybraniu sekcji „Wzorce” można przewinąć stronę do dołu, gdzie można wyświetlić i modyfikować nagłówek, stopkę oraz ogólne fragmenty szablonu.
+
+100
+00:09:24,000 --> 00:09:30,000
+Aby dodać nowy fragment szablonu, kliknij ikonkę plusa obok sekcji „Wzorce” i wybierz opcję „Utwórz fragment szablonu”.
+
+101
+00:09:30,000 --> 00:09:34,000
+Możesz wybrać między ogólnymi, nagłówkowymi i stopkowymi fragmentami szablonu.
+
+102
+00:09:35,000 --> 00:09:42,000
+Ogólne fragmenty szablonu nie są powiązane z żadnym konkretnym obszarem; pamiętaj, aby nadać fragmentowi szablonu opisową nazwę.
+
+103
+00:09:42,000 --> 00:09:48,000
+Po kliknięciu trzech poziomych kropek poniżej fragmentu szablonu możesz zmienić nazwę, powielić go lub usunąć.
+
+104
+00:09:50,000 --> 00:09:56,000
+Po wybraniu fragmentu szablonu możesz go modyfikować w trybie edycji bez żadnych zakłóceń, jak pokazano wcześniej.
+
+105
+00:09:58,000 --> 00:10:02,000
+Mamy nadzieję, że teraz lepiej rozumiesz, jak działają szablony.
+
+106
+00:10:03,000 --> 00:10:10,000
+Podsumowując, szablon określa strukturę wyświetlania treści, co zazwyczaj odbywa się za pomocą fragmentu szablonu nagłówka i stopki.
+
+107
+00:10:12,000 --> 00:10:15,000
+Szablony można przypisywać do pojedynczych lub wielu stron.
+

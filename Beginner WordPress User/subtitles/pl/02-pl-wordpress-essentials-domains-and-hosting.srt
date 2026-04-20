@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:03,000
+Witaj w Learn WordPress.
+
+2
+00:00:03,000 --> 00:00:06,000
+W tej lekcji omówimy istotny aspekt tworzenia witryny internetowej,
+
+3
+00:00:08,000 --> 00:00:11,000
+czyli wybór odpowiedniej domeny i dostawcy usług hostingowych.
+
+4
+00:00:13,000 --> 00:00:18,000
+Efektem tej lekcji jest umiejętność rozróżnienia między domenami a hostingiem,
+
+5
+00:00:18,000 --> 00:00:25,000
+opisanie, co oznacza łączenie domen, oraz określenie czynników, które należy wziąć pod uwagę przy wyborze firmy hostingowej.
+
+6
+00:00:25,000 --> 00:00:28,000
+Zacznijmy od wyjaśnienia różnicy między hostem a domeną.
+
+7
+00:00:30,000 --> 00:00:33,000
+Wyobraź sobie, że twoja witryna internetowa to dom mobilny,
+
+8
+00:00:36,000 --> 00:00:40,000
+a domena to adres, a host to teren, na którym zbudowany jest twój dom lub witryna internetowa.
+
+9
+00:00:40,000 --> 00:00:46,000
+Domena to unikalny adres internetowy, który odwiedzający wpisują w przeglądarkach, aby znaleźć twoją witrynę.
+
+10
+00:00:46,000 --> 00:00:52,000
+Na przykład nazwa domeny oficjalnej witryny internetowej Coca-Coli to www.coca-colacompany.com.
+
+11
+00:00:54,000 --> 00:01:01,000
+Z drugiej strony host to usługa, która przechowuje pliki twojej witryny internetowej i udostępnia je użytkownikom w internecie.
+
+12
+00:01:02,000 --> 00:01:05,000
+Należy również pamiętać, że w razie potrzeby można zmienić firmę hostingową
+
+13
+00:01:07,000 --> 00:01:10,000
+i jest to możliwe bez zmiany domeny.
+
+14
+00:01:13,000 --> 00:01:19,000
+Skontaktuj się jednak z nową firmą hostingową, aby upewnić się, że wykonujesz prawidłowo czynności.
+
+15
+00:01:19,000 --> 00:01:24,000
+Jeśli chodzi o wybór dostawcy usług hostingowych, możesz poszukać takiego, który oferuje pakiety domen.
+
+16
+00:01:24,000 --> 00:01:30,000
+Oznacza to, że dostawca oferuje zarówno usługi hostingowe, jak i rejestrację domen w jednym pakiecie.
+
+17
+00:01:30,000 --> 00:01:37,000
+Łączenie domen z hostingiem upraszcza proces, ponieważ nie musisz zarządzać różnymi kontami u różnych dostawców.
+
+18
+00:01:38,000 --> 00:01:45,000
+Warto pamiętać, że przed zarejestrowaniem się w firmie hostingowej można również kupić nazwy domen osobno.
+
+19
+00:01:45,000 --> 00:01:48,000
+Zakup domeny osobno daje ci większą kontrolę nad jej ustawieniami.
+
+20
+00:01:50,000 --> 00:01:53,000
+Ułatwia też zmianę dostawcy usług hostingowych.
+
+21
+00:01:53,000 --> 00:01:56,000
+Pamiętaj tylko, żeby śledzić daty odnowienia rejestracji domeny.
+
+22
+00:01:57,000 --> 00:02:03,000
+Pierwszym krokiem jest wybór rejestratora domen, czyli firmy, która zarządza rezerwacją nazw domen.
+
+23
+00:02:04,000 --> 00:02:07,000
+Następnie wyszukaj i wybierz nazwę domeny.
+
+24
+00:02:08,000 --> 00:02:11,000
+Jeśli chcesz, możesz też wybrać domeny krajowe.
+
+25
+00:02:12,000 --> 00:02:18,000
+Potem możesz zarejestrować domenę, skonfigurować jej ustawienia, a następnie wybrać dostawcę usług hostingowych.
+
+26
+00:02:19,000 --> 00:02:25,000
+Wybierając dostawcę usług hostingowych, należy wziąć pod uwagę takie czynniki, jak niezawodność.
+
+27
+00:02:25,000 --> 00:02:31,000
+Wybierz dostawcę, który ma dobre wyniki w zakresie dostępności i niezawodnej obsługi klienta.
+
+28
+00:02:31,000 --> 00:02:33,000
+Po drugie, skalowalność.
+
+29
+00:02:33,000 --> 00:02:39,000
+Wybierz dostawcę, który umożliwia łatwą aktualizację planu hostingowego w miarę rozwoju witryny.
+
+30
+00:02:39,000 --> 00:02:41,000
+Po trzecie, bezpieczeństwo.
+
+31
+00:02:41,000 --> 00:02:48,000
+Upewnij się, że dostawca usług hostingowych oferuje solidne funkcje bezpieczeństwa, takie jak certyfikaty SSL i regularne kopie zapasowe.
+
+32
+00:02:48,000 --> 00:02:51,000
+Czwartym czynnikiem jest przyjazny dla użytkownika interfejs.
+
+33
+00:02:51,000 --> 00:02:56,000
+Poszukaj dostawcy z intuicyjnym panelem sterowania, który ułatwia zarządzanie witryną internetową.
+
+34
+00:02:56,000 --> 00:02:58,000
+I wreszcie, przystępna cena.
+
+35
+00:02:59,000 --> 00:03:05,000
+Porównaj plany cenowe, aby znaleźć dostawcę, który oferuje odpowiednie funkcje w ramach twojego budżetu.
+
+36
+00:03:05,000 --> 00:03:07,000
+Zobaczmy to wszystko w praktyce.
+
+37
+00:03:07,000 --> 00:03:17,000
+Odwiedzając witrynę dostawcy usług hostingowych, zazwyczaj zobaczysz różne plany cenowe z odpowiednimi funkcjami i informacjami, które są potrzebne do podjęcia świadomej decyzji.
+
+38
+00:03:17,000 --> 00:03:24,000
+Podsumowując, zrozumienie różnicy między hostem a domeną jest kluczowe dla każdego, kto chce stworzyć witrynę internetową.
+
+39
+00:03:25,000 --> 00:03:32,000
+Pamiętaj, że host zapewnia przestrzeń i zasoby dla twojej witryny internetowej, podczas gdy domena służy jako jej unikalny adres w internecie.
+
+40
+00:03:34,000 --> 00:03:41,000
+Innymi słowy, firma hostingowa zapewnia przestrzeń w internecie, serwer, na którym przechowywane są pliki twojej witryny internetowej.
+
+41
+00:03:42,000 --> 00:03:49,000
+Dzięki temu użytkownicy mogą uzyskać dostęp do twojej witryny internetowej w dowolnym momencie, wpisując jej adres lub domenę.
+
+42
+00:03:49,000 --> 00:03:58,000
+Wiele firm hostingowych oferuje również rozwiązania typu „jedno kliknięcie”, które pozwalają zarejestrować nazwę domeny, zainstalować WordPress i skonfigurować hosting dosłownie jednym kliknięciem.
+
+43
+00:04:02,000 --> 00:04:06,000
+Proces ten eliminuje wszelkie przeszkody techniczne dla użytkowników.
+
+44
+00:04:06,000 --> 00:04:13,000
+Istnieje wiele firm hostingowych, spośród których można wybierać, masz możliwość hostowania swojej witryny w dowolnym miejscu.
+
+45
+00:04:14,000 --> 00:04:19,000
+Pamiętaj, że to tylko kilka przykładów, a istnieje wiele innych firm hostingowych, które warto sprawdzić.
+
+46
+00:04:19,000 --> 00:04:25,000
+Po zarejestrowaniu nazwy domeny i wybraniu dostawcy usług hostingowych można rozpocząć planowanie i projektowanie witryny.
+

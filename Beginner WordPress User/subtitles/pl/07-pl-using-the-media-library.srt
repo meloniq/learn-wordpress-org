@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:03,000
+W tej lekcji zagłębimy się w bibliotekę multimediów.
+
+2
+00:00:04,000 --> 00:00:12,000
+Nauczymy się poruszać po bibliotece multimediów i zarządzać nią, dodawać tekst alternatywny oraz zrozumiemy znaczenie optymalizacji obrazków.
+
+3
+00:00:13,000 --> 00:00:19,000
+Media to obrazki, nagrania wideo i pliki, które przesyłasz i wykorzystujesz na swojej witrynie.
+
+4
+00:00:19,000 --> 00:00:22,000
+Oczywiście media są umieszczane na stronach i we wpisach.
+
+5
+00:00:25,000 --> 00:00:32,000
+Zgodzisz się zapewne, że media odgrywają kluczową rolę w poprawie ogólnego wrażenia i skuteczności witryny internetowej.
+
+6
+00:00:34,000 --> 00:00:43,000
+Do biblioteki można dodawać różne rodzaje mediów, od zdjęć, zrzutów ekranu, plików audio, dokumentów PDF, arkuszy kalkulacyjnych, prezentacji PowerPoint i innych.
+
+7
+00:00:45,000 --> 00:00:49,000
+Po otwarciu biblioteki multimediów zostanie wyświetlony domyślny widok siatki.
+
+8
+00:00:51,000 --> 00:00:56,000
+W widoku siatki miniatury obrazków, ikony audio itp. są ułożone w strukturze siatki.
+
+9
+00:00:58,000 --> 00:01:02,000
+Tutaj możesz filtrować multimedia, aby znaleźć to, czego szukasz.
+
+10
+00:01:03,000 --> 00:01:08,000
+W górnej części, obok ikony widoku siatki, możesz filtrować multimedia według typu i daty.
+
+11
+00:01:11,000 --> 00:01:19,000
+Rozwijane menu „Wszystkie elementy media” pozwala wybrać typy multimediów, takie jak obrazki, pliki audio, wideo, dokumenty, a nawet arkusze kalkulacyjne.
+
+12
+00:01:21,000 --> 00:01:26,000
+Możesz również wyświetlić wszystkie multimedia, które nie są dołączone do żadnych wpisów ani stron.
+
+13
+00:01:26,000 --> 00:01:32,000
+Oznacza to, że multimedia znajdują się w bibliotece multimediów, ale nie zostały użyte w żadnym miejscu witryny.
+
+14
+00:01:32,000 --> 00:01:37,000
+Skorzystajmy na przykład z opcji filtrowania, aby wyświetlić tylko pliki audio.
+
+15
+00:01:38,000 --> 00:01:41,000
+Lub dokumenty, takie jak pliki PDF.
+
+16
+00:01:42,000 --> 00:01:45,000
+Lub nawet arkusze kalkulacyjne.
+
+17
+00:01:47,000 --> 00:01:52,000
+Następnie można oczywiście powrócić do wyświetlania wszystkich elementów multimedialnych.
+
+18
+00:01:53,000 --> 00:01:58,000
+Kolejna opcja, „Wszystkie daty”, umożliwia wyświetlenie obrazków według daty ich przesłania.
+
+19
+00:01:59,000 --> 00:02:04,000
+Możesz szybko znaleźć multimedia przesłane w danym miesiącu lub wyświetlić wszystkie.
+
+20
+00:02:06,000 --> 00:02:11,000
+Po kliknięciu opcji „Zaznacz wiele elementów” możesz jednocześnie usunąć multimedia.
+
+21
+00:02:13,000 --> 00:02:21,000
+Możesz również wyszukiwać multimedia za pomocą pola wyszukiwania w prawym górnym rogu, na przykład używając słów z opisu lub nazwy pliku.
+
+22
+00:02:22,000 --> 00:02:28,000
+W tym przypadku chciałbym wyświetlić wszystkie moje obrazy związane z butami za pomocą prostego wyszukiwania.
+
+23
+00:02:29,000 --> 00:02:32,000
+Możesz również wyświetlić swoje multimedia w widoku listy.
+
+24
+00:02:33,000 --> 00:02:38,000
+Wszystkie multimedia zostaną wyświetlone poniżej siebie w widoku listy, jak sugeruje nazwa.
+
+25
+00:02:38,000 --> 00:02:43,000
+Będziesz również mógł zobaczyć nazwę pliku i typ pliku, na przykład PDF lub JPEG.
+
+26
+00:02:45,000 --> 00:02:50,000
+Aby dodać multimedia do biblioteki, kliknij opcję „Dodaj plik mediów” na pasku bocznym lub u góry.
+
+27
+00:02:51,000 --> 00:02:58,000
+Po wybraniu tej opcji będziesz mógł przeciągnąć i upuścić pojedyncze lub wiele plików na stronę lub użyć opcji wyboru plików.
+
+28
+00:03:00,000 --> 00:03:05,000
+Dodając multimedia do strony lub wpisu za pomocą bloku obrazka lub bloku galerii,
+
+29
+00:03:05,000 --> 00:03:13,000
+można na przykład przesyłać obrazki bezpośrednio z komputera do wpisu lub strony oraz biblioteki multimediów lub bezpośrednio z biblioteki multimediów.
+
+30
+00:03:16,000 --> 00:03:25,000
+W przypadku większych plików wideo lepiej jest osadzić je za pomocą bloków YouTube lub wideo, ponieważ pozwala to zaoszczędzić miejsce w bibliotece multimediów i zapewnia lepszą wydajność.
+
+31
+00:03:29,000 --> 00:03:34,000
+Po otwarciu obrazka można dodać atrybuty, takie jak tekst alternatywny, tytuł, podpis i opis.
+
+32
+00:03:39,000 --> 00:03:42,000
+Ważne jest, aby zawsze dodawać tekst ALT do obrazka.
+
+33
+00:03:43,000 --> 00:03:52,000
+Tekst ALT to zwięzły opis obrazka dla użytkowników, którzy nie mogą go wyświetlić, a także jest przydatny dla SEO witryny lub optymalizacji witryny pod kątem wyszukiwarek.
+
+34
+00:03:54,000 --> 00:04:00,000
+Dodanie opisu również poprawia SEO i pozwala na lepszą organizację oraz zrozumienie celu lub treści obrazka.
+
+35
+00:04:04,000 --> 00:04:11,000
+Po kliknięciu opcji „Edytuj obrazek” można przyciąć obrazek, skalować go lub zmienić jego rozmiar w celu optymalizacji.
+
+36
+00:04:19,000 --> 00:04:23,000
+Wymiary aktualizują się automatycznie po zmianie wysokości lub szerokości.
+
+37
+00:04:25,000 --> 00:04:32,000
+Nie martw się – po wybraniu opcji „Przywróć oryginalny obrazek” można przywrócić obrazek do jego oryginalnego formatu.
+
+38
+00:04:35,000 --> 00:04:38,000
+Istnieje również możliwość obrócenia lub odwrócenia obrazka.
+
+39
+00:04:44,000 --> 00:04:47,000
+Na koniec omówimy pokrótce optymalizację obrazków.
+
+40
+00:04:50,000 --> 00:04:58,000
+Zaleca się optymalizację obrazków przed przesłaniem ich do biblioteki multimediów, aby poprawić szybkość wczytywania strony i zaoszczędzić miejsce na serwerze.
+
+41
+00:05:00,000 --> 00:05:07,000
+Można to osiągnąć za pomocą narzędzi internetowych, takich jak TinyPNG, Bulk Resize lub Squoosh.app - to tylko kilka z nich.
+
+42
+00:05:14,000 --> 00:05:20,000
+Pamiętaj, aby przed dodaniem obrazków do biblioteki multimediów zapisać je pod opisową i odpowiednią nazwą pliku.
+
+43
+00:05:21,000 --> 00:05:26,000
+Pomaga to wyszukiwarkom zrozumieć zawartość obrazka, co przyczynia się do poprawy SEO.
+
+44
+00:05:26,000 --> 00:05:32,000
+Wyszukiwarki mogą wykorzystywać nazwy plików jako czynnik podczas indeksowania i rankingu treści.
+
+45
+00:05:32,000 --> 00:05:35,000
+Inną opcją jest użycie wtyczki do optymalizacji obrazków.
+
+46
+00:05:37,000 --> 00:05:42,000
+W katalogu wtyczek dostępnych jest wiele różnych wtyczek do optymalizacji obrazków.
+
+47
+00:05:45,000 --> 00:05:51,000
+Po znalezieniu wtyczki, która odpowiada twoim potrzebom, możesz ją zainstalować, włączyć i wykonać niezbędne czynności.
+
+48
+00:05:52,000 --> 00:06:01,000
+Obie te metody, zarówno użycie narzędzia internetowego, jak i wtyczki, poprawiają ogólną wydajność poprzez kompresję obrazków bez utraty jakości wizualnej.
+
+49
+00:06:03,000 --> 00:06:09,000
+Życzymy powodzenia w korzystaniu z biblioteki multimediów, aby przenieść swoją witrynę na wyższy poziom.
+

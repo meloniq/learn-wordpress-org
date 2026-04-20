@@ -1,0 +1,556 @@
+1
+00:00:00,000 --> 00:00:03,000
+W tej lekcji zajmiemy się poprawą naszych rankingów SEO.
+
+2
+00:00:07,800 --> 00:00:09,600
+Ale czym jest SEO?
+
+3
+00:00:09,600 --> 00:00:13,900
+Optymalizacja pod kątem wyszukiwarek internetowych odnosi się do technik, które pomagają uzyskać wyższą
+
+4
+00:00:13,960 --> 00:00:15,760
+pozycję witryny w wynikach wyszukiwania.
+
+5
+00:00:15,760 --> 00:00:20,760
+Celem jest oczywiście pozyskanie większej liczby odwiedzających witrynę w sposób organiczny.
+
+6
+00:00:21,160 --> 00:00:26,160
+Wyszukiwarki wysyłają roboty do witryny, aby ją przeszukały i dowiedziały się, jaka jest jej zawartość
+
+7
+00:00:26,200 --> 00:00:28,200
+i gdzie znajdują się odnośniki.
+
+8
+00:00:28,480 --> 00:00:33,480
+Sprawdzają również, czego dotyczą obrazki, testują, czy witryna wczytuje się szybko, a także badają,
+
+9
+00:00:34,600 --> 00:00:37,600
+czy układ witryny jest dostępny i dostosowany do urządzeń mobilnych.
+
+10
+00:00:39,960 --> 00:00:44,960
+Po zakończeniu przeszukiwania roboty ustalają słowa kluczowe z witryny, a następnie
+
+11
+00:00:45,400 --> 00:00:48,400
+zapisują je w bazie danych wyszukiwarki.
+
+12
+00:00:49,400 --> 00:00:54,400
+Teraz, gdy ktoś rozpoczyna wyszukiwanie, wyszukiwarki dopasowują zapytanie użytkownika
+
+13
+00:00:56,040 --> 00:01:01,040
+do słów kluczowych w bazie danych, aby polecić strony, które są najbardziej dopasowane.
+
+14
+00:01:01,080 --> 00:01:04,080
+Przyjrzyjmy się kilku wskazówkom, które możemy wdrożyć.
+
+15
+00:01:04,360 --> 00:01:09,360
+Najpierw przejdź na stronę „Ustawienia”, następnie „Czytanie” i upewnij się, że odznaczyłeś
+
+16
+00:01:10,560 --> 00:01:13,560
+pole „Widoczność w wyszukiwarkach”.
+
+17
+00:01:13,880 --> 00:01:17,880
+Jeśli to pole jest zaznaczone, wyszukiwarki nie będą indeksować witryny,
+
+18
+00:01:18,760 --> 00:01:20,360
+a tego nie chcemy.
+
+19
+00:01:20,360 --> 00:01:25,360
+Ta opcja jest używana tylko wtedy, gdy witryna jest jeszcze w trakcie tworzenia.
+
+20
+00:01:25,400 --> 00:01:31,200
+Drugą rzeczą, na którą należy zwrócić uwagę, jest to, że wyszukiwarki internetowe preferują witryny z aktualnymi treściami,
+
+21
+00:01:31,280 --> 00:01:35,280
+dlatego należy jak najczęściej aktualizować swoją stronę o nowe treści.
+
+22
+00:01:36,360 --> 00:01:42,060
+Jeśli strona główna i inne strony rzadko ulegają zmianom, zaleca się utworzenie strony z blogiem lub aktualnościami
+
+23
+00:01:42,080 --> 00:01:46,080
+i regularne publikowanie wpisów dotyczących produktów, marki, klientów i
+
+24
+00:01:46,760 --> 00:01:48,760
+różnych innych tematów.
+
+25
+00:01:49,400 --> 00:01:54,400
+Trzecia wskazówka dotyczy zapewnienia wysokiej jakości treści w witrynie internetowej.
+
+26
+00:01:55,720 --> 00:02:01,220
+Firma Google opublikowała wytyczne E-A-T, które zasadniczo mówią, że wyszukiwarki internetowe zwracają
+
+27
+00:02:01,360 --> 00:02:04,360
+uwagę na wiedzę specjalistyczną, autorytet i wiarygodność.
+
+28
+00:02:05,480 --> 00:02:07,880
+Porozmawiajmy więc najpierw o wiedzy specjalistycznej.
+
+29
+00:02:07,880 --> 00:02:10,880
+Pisz o treściach, na których się znasz i które cię interesują.
+
+30
+00:02:12,440 --> 00:02:13,740
+A co z autorytetem?
+
+31
+00:02:13,760 --> 00:02:18,760
+Jeśli wykazałeś się wiedzą specjalistyczną, wyszukiwarki uznają cię za autorytet,
+
+32
+00:02:19,480 --> 00:02:24,980
+jeśli inni umieszczają odnośniki do twojej witryny, jeśli ludzie rozmawiają o niej w mediach społecznościowych
+
+33
+00:02:25,000 --> 00:02:28,200
+i jeśli w swoich treściach umieszczasz odnośniki do renomowanych witryn.
+
+34
+00:02:28,280 --> 00:02:31,280
+Na koniec „T” oznacza wiarygodność.
+
+35
+00:02:31,680 --> 00:02:36,680
+Upewnij się, że informacje, które udostępniasz, są wiarygodne i oparte na faktach.
+
+36
+00:02:37,840 --> 00:02:40,840
+Oto ważne pytanie, które możesz sobie zadać.
+
+37
+00:02:40,840 --> 00:02:42,940
+Czy twoje treści nadają się do udostępniania?
+
+38
+00:02:43,000 --> 00:02:44,200
+Kwestie do rozważenia:
+
+39
+00:02:44,240 --> 00:02:45,540
+Czy są zabawne?
+
+40
+00:02:45,560 --> 00:02:47,260
+Czy nie są zbyt długie?
+
+41
+00:02:47,280 --> 00:02:48,880
+Czy są w dobrym guście?
+
+42
+00:02:48,880 --> 00:02:50,880
+Czy są napisane prostym językiem?
+
+43
+00:02:50,880 --> 00:02:54,280
+Czy mają streszczenie, czy też są zbyt długie i nikt ich nie czyta?
+
+44
+00:02:54,320 --> 00:02:59,320
+Zasadniczo chodzi o to, aby upewnić się, że twoje treści są warte przeczytania i udostępnienia.
+
+45
+00:03:00,040 --> 00:03:03,040
+Następnie porozmawiajmy o słowach kluczowych.
+
+46
+00:03:04,200 --> 00:03:08,600
+Słowa kluczowe i frazy kluczowe w treści ułatwiają użytkownikom znalezienie twojej witryny
+
+47
+00:03:08,640 --> 00:03:10,240
+za pośrednictwem wyszukiwarek.
+
+48
+00:03:10,320 --> 00:03:14,320
+Dobrze zoptymalizowana witryna mówi tym samym językiem, co jej odbiorcy.
+
+49
+00:03:16,120 --> 00:03:20,120
+Dlatego musimy wiedzieć, czego szukają ludzie, i umieszczać te słowa lub frazy
+
+50
+00:03:21,360 --> 00:03:24,360
+na naszych stronach i w naszych wpisach.
+
+51
+00:03:25,160 --> 00:03:28,960
+Badanie słów kluczowych pomoże ci dowiedzieć się, jakich słów kluczowych używają ludzie,
+
+52
+00:03:28,960 --> 00:03:30,260
+szukając podobnych witryn.
+
+53
+00:03:30,280 --> 00:03:35,980
+Możesz skorzystać z bezpłatnych narzędzi, takich jak WordStream lub Google Keyword Planner, aby znaleźć słowa kluczowe,
+
+54
+00:03:36,040 --> 00:03:39,040
+które możesz wykorzystać w swoich treściach.
+
+55
+00:03:39,080 --> 00:03:42,080
+Aby znaleźć słowa kluczowe, należy wpisać nazwę domeny witryn
+
+56
+00:03:43,360 --> 00:03:46,260
+podobnych do twojej.
+
+57
+00:03:46,320 --> 00:03:51,320
+Dzięki temu dowiesz się, jakich słów używają użytkownicy, aby wyszukiwać treści na tej witrynie.
+
+58
+00:03:52,040 --> 00:03:56,040
+Po zidentyfikowaniu tych słów kluczowych, użyj ich w treści swojej witryny.
+
+59
+00:03:57,320 --> 00:04:02,320
+Wyszukiwarki internetowe przy ustalaniu słów kluczowych będą traktować priorytetowo tytuły treści.
+
+60
+00:04:03,120 --> 00:04:07,120
+Możesz jednak używać ich również w zajawkach, nagłówkach i treści.
+
+61
+00:04:08,160 --> 00:04:13,160
+Przedstawiony tutaj układ odpowiada ogólnie kolejności, w jakiej należy używać słów kluczowych.
+
+62
+00:04:14,280 --> 00:04:19,280
+Pamiętaj, aby używać słów kluczowych w naturalny sposób i unikać ich nadmiernego stosowania,
+
+63
+00:04:19,440 --> 00:04:23,440
+ponieważ może to negatywnie wpłynąć na pozycjonowanie twojej witryny.
+
+64
+00:04:23,520 --> 00:04:25,520
+Porozmawiajmy jeszcze trochę o linkowaniu.
+
+65
+00:04:25,680 --> 00:04:29,280
+Wyszukiwarki będą przeglądać twoje odnośniki, aby zrozumieć strukturę twojej witryny
+
+66
+00:04:29,360 --> 00:04:30,760
+i znaleźć więcej treści.
+
+67
+00:04:30,840 --> 00:04:36,240
+Umieszczaj odnośniki do innych wpisów, które już znajdują się w twojej witrynie, ponieważ wyszukiwarki uznają strony,
+
+68
+00:04:36,280 --> 00:04:39,280
+do których prowadzi wiele odnośników, za ważniejsze.
+
+69
+00:04:41,200 --> 00:04:47,200
+Pamiętaj również, aby umieszczać odnośniki zewnętrzne do renomowanych witryn o wysokim poziomie wiedzy,
+
+70
+00:04:47,440 --> 00:04:52,440
+autorytetu i wiarygodności (E-A-T), ponieważ dzięki temu twoja witryna również
+
+71
+00:04:52,760 --> 00:04:54,760
+zyska na wiarygodności.
+
+72
+00:04:54,840 --> 00:04:57,840
+Kolejnym tematem, który chcemy omówić, są metadane.
+
+73
+00:04:58,640 --> 00:05:02,640
+Metadane to tagi w treści twojej strony, które są widoczne dla wyszukiwarek.
+
+74
+00:05:03,760 --> 00:05:08,560
+Są one ukryte za kulisami, ale dostarczają wyszukiwarkom kluczowych informacji
+
+75
+00:05:08,640 --> 00:05:10,640
+o twojej witrynie.
+
+76
+00:05:11,240 --> 00:05:16,240
+Być może nie wiedziałeś o tym, ale metaopisy to informacje wyświetlane pod każdym
+
+77
+00:05:16,920 --> 00:05:19,920
+wynikiem wyszukiwania.
+
+78
+00:05:20,360 --> 00:05:25,360
+WordPress automatycznie tworzy metadane, więc nie jest łatwo je bezpośrednio edytować.
+
+79
+00:05:25,800 --> 00:05:30,800
+Jednak większość wtyczek SEO pozwala edytować i modyfikować metadane, aby były bardziej
+
+80
+00:05:31,600 --> 00:05:33,300
+dostosowane do treści.
+
+81
+00:05:33,360 --> 00:05:36,360
+Zazwyczaj nie więcej niż dwa zdania.
+
+82
+00:05:37,080 --> 00:05:43,080
+Jedną z rzeczy, które możesz zrobić, jest napisanie zajawki wpisu, ponieważ WordPress wykorzystuje
+
+83
+00:05:43,200 --> 00:05:45,900
+te zajawki do tworzenia metaopisów.
+
+84
+00:05:45,960 --> 00:05:49,960
+Zaleca się używanie słów kluczowych i ręczne pisanie tych zajawek;
+
+85
+00:05:50,480 --> 00:05:54,480
+w przeciwnym razie program po prostu pobierze pierwszy akapit z treści.
+
+86
+00:05:55,320 --> 00:05:58,320
+Następnie, szybkość działania strony jest bardzo ważna.
+
+87
+00:05:58,400 --> 00:06:01,700
+Wyszukiwarki internetowe zdecydowanie biorą pod uwagę szybkość działania witryny
+
+88
+00:06:01,760 --> 00:06:04,760
+podczas jej pozycjonowania, więc jest to ważny element SEO.
+
+89
+00:06:05,400 --> 00:06:09,400
+Oto kilka wskazówek, które pomogą ci poprawić szybkość działania strony.
+
+90
+00:06:10,480 --> 00:06:13,880
+Czy twój hosting ma wysoką pozycję pod względem szybkości działania witryny?
+
+91
+00:06:13,880 --> 00:06:18,880
+Czy twój hosting ma włączoną funkcję buforowania? Możesz również skorzystać z wtyczki buforującej.
+
+92
+00:06:19,160 --> 00:06:21,360
+Czy twój motyw WordPress szybko się wczytuje?
+
+93
+00:06:21,400 --> 00:06:25,800
+Niektóre bardzo efektowne motywy WordPress, które wykorzystują wiele wtyczek, mogą drastycznie zmienić
+
+94
+00:06:25,840 --> 00:06:26,840
+szybkość twojej witryny,
+
+95
+00:06:26,880 --> 00:06:28,380
+więc bądź ostrożny.
+
+96
+00:06:28,440 --> 00:06:31,240
+Czy zoptymalizowałeś obrazki i filmy?
+
+97
+00:06:31,320 --> 00:06:34,020
+Czy zainstalowałeś dobrze skonstruowane wtyczki?
+
+98
+00:06:34,040 --> 00:06:37,040
+Czy twój motyw i wtyczki dobrze ze sobą współpracują?
+
+99
+00:06:37,320 --> 00:06:43,320
+Możesz sprawdzić szybkość swojej witryny za pomocą narzędzi takich jak GTmetrix lub PageSpeed Insights.
+
+100
+00:06:46,040 --> 00:06:49,040
+Optymalizacja obrazków to kolejny element układanki SEO.
+
+101
+00:06:49,600 --> 00:06:55,600
+Najpierw przyjrzyjmy się kilku krokom, które możesz wykonać przed przesłaniem obrazków do swojej witryny.
+
+102
+00:06:56,160 --> 00:06:59,160
+Wybierz dobry format pliku, taki jak PNG, JPEG lub WebP.
+
+103
+00:07:03,720 --> 00:07:08,420
+W tym przykładzie używam otwartej witryny internetowej Squoosh, aby bezpłatnie zmienić
+
+104
+00:07:08,440 --> 00:07:09,440
+format pliku.
+
+105
+00:07:09,440 --> 00:07:13,440
+Zawiera ona również kilka innych ustawień, które warto sprawdzić.
+
+106
+00:07:13,640 --> 00:07:16,640
+Po drugie, zmniejsz rozmiar obrazków.
+
+107
+00:07:16,880 --> 00:07:21,580
+Zbyt duże obrazki zostaną zmniejszone, gdy pojawią się w przeglądarkach użytkowników,
+
+108
+00:07:21,640 --> 00:07:24,040
+co wpłynie na szybkość wczytywania twojej witryny.
+
+109
+00:07:24,040 --> 00:07:29,240
+Dlatego pamiętaj, aby zmniejszyć rozmiar bardzo dużych obrazków, ponieważ większość monitorów na świecie
+
+110
+00:07:29,320 --> 00:07:32,320
+ma rozdzielczość nie większą niż 1920 na 1080 pikseli.
+
+111
+00:07:35,520 --> 00:07:40,520
+Na szczęście WordPress tworzy trzy różne wersje rozmiaru podczas przesyłania obrazka,
+
+112
+00:07:40,560 --> 00:07:43,560
+ale duży obrazek nadal zajmuje miejsce na serwerze.
+
+113
+00:07:45,440 --> 00:07:48,440
+Po trzecie, zmniejsz rozmiar pliku obrazka.
+
+114
+00:07:48,800 --> 00:07:51,800
+Chcesz zmniejszyć rozmiar pliku obrazka bez utraty jakości.
+
+115
+00:07:53,320 --> 00:07:56,320
+Możesz użyć programów takich jak TinyPNG lub Squoosh.
+
+116
+00:07:58,480 --> 00:08:02,480
+Na koniec zmień nazwę pliku obrazka, aby wyjaśniała, co przedstawia obrazek.
+
+117
+00:08:04,960 --> 00:08:08,960
+Po przesłaniu obrazka do WordPressa zaleca się dodanie tekstu alternatywnego
+
+118
+00:08:10,080 --> 00:08:13,080
+lub tekstu ALT oraz opisu obrazka.
+
+119
+00:08:13,280 --> 00:08:18,080
+Wyszukiwarki internetowe przywiązują dużą wagę do tekstu ALT. Wykorzystują one te informacje,
+
+120
+00:08:18,120 --> 00:08:23,920
+aby zrozumieć kontekst obrazka, jego treść i cel.
+
+121
+00:08:24,000 --> 00:08:28,000
+Obrazki powinny również posiadać tekst alternatywny ze względu na dostępność.
+
+122
+00:08:28,400 --> 00:08:33,400
+Należy również upewnić się, że co najmniej jeden z obrazków zawiera słowo kluczowe
+
+123
+00:08:33,680 --> 00:08:36,480
+lub frazę kluczową jako część tagu ALT.
+
+124
+00:08:36,500 --> 00:08:39,500
+Przedostatnia wskazówka dotyczy tworzenia mapy witryny.
+
+125
+00:08:39,800 --> 00:08:42,000
+Jest to coś, z czego korzystają wyszukiwarki.
+
+126
+00:08:42,040 --> 00:08:47,040
+Przypomina mapę lub plan działania, który pomaga wyszukiwarkom ustalić, gdzie znajdują się
+
+127
+00:08:47,760 --> 00:08:49,860
+wszystkie treści w twojej witrynie.
+
+128
+00:08:49,880 --> 00:08:54,780
+Mapy witryn nie poprawiają pozycji w wynikach wyszukiwania, ale pomagają wyszukiwarkom poruszać się
+
+129
+00:08:54,800 --> 00:08:56,500
+po treściach w twojej witrynie.
+
+130
+00:08:56,560 --> 00:08:59,560
+Większość wtyczek SEO automatycznie generuje mapę witryny,
+
+131
+00:09:01,640 --> 00:09:04,640
+więc nie musisz jej kodować, jeśli nie potrafisz.
+
+132
+00:09:04,800 --> 00:09:12,000
+Na koniec porozmawiajmy o lokalnym SEO, które pozwala zoptymalizować witrynę tak, aby pojawiała się ona wyżej w lokalnych wynikach wyszukiwania,
+
+133
+00:09:12,040 --> 00:09:17,640
+zwłaszcza jeśli twoja baza klientów znajduje się głównie w tym samym mieście lub obszarze metropolitalnym.
+
+134
+00:09:17,720 --> 00:09:20,320
+Jest kilka rzeczy, które możesz zrobić.
+
+135
+00:09:20,320 --> 00:09:26,120
+Przeprowadź lokalne badania słów kluczowych SEO. Dodaj swoje dane kontaktowe w stopce lub na stronie kontaktowej,
+
+136
+00:09:26,120 --> 00:09:32,120
+publikuj zlokalizowane treści i zdobądź lokalne odnośniki zwrotne – czyli spraw, aby lokalne witryny odsyłały
+
+137
+00:09:33,880 --> 00:09:36,280
+lub posiadały odnośnik do twojej witryny.
+
+138
+00:09:36,280 --> 00:09:40,380
+Życzę powodzenia w działaniach mających na celu poprawę pozycji w wynikach wyszukiwania
+
+139
+00:09:40,400 --> 00:09:45,400
+i pamiętaj, aby zainstalować i włączyć wtyczkę SEO, która najlepiej spełnia twoje potrzeby.
+

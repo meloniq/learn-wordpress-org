@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:05,000
+Zapoznajmy się z edytorem witryny, który umożliwia projektowanie wszystkich elementów witryny
+
+2
+00:00:05,400 --> 00:00:08,400
+za pomocą bloków, od nagłówka po stopkę i wszystko pomiędzy.
+
+3
+00:00:10,360 --> 00:00:13,360
+Przejdźmy do sekcji „Wygląd” i kliknijmy „Edytor”.
+
+4
+00:00:14,520 --> 00:00:16,520
+Otworzy się edytor witryny.
+
+5
+00:00:17,040 --> 00:00:21,840
+Po lewej stronie znajduje się pasek boczny widoku witryny, to sprytne narzędzie pozwala zagłębić się
+
+6
+00:00:21,840 --> 00:00:26,840
+w kluczowe elementy witryny, w tym nawigację, style, strony, szablony i wzorce.
+
+7
+00:00:28,960 --> 00:00:31,960
+Celem tej lekcji jest dogłębne zrozumienie tych elementów.
+
+8
+00:00:33,840 --> 00:00:36,840
+Zacznijmy od góry, od nawigacji.
+
+9
+00:00:37,080 --> 00:00:39,880
+Tutaj możesz szybko przeglądać i dostosowywać wszystkie swoje menu.
+
+10
+00:00:40,040 --> 00:00:42,840
+o twoje centrum dowodzenia do zarządzania menu.
+
+11
+00:00:42,920 --> 00:00:45,920
+Możesz bezpośrednio wprowadzać proste zmiany,
+
+12
+00:00:46,800 --> 00:00:49,800
+takie jak zmiana kolejności.
+
+13
+00:00:53,040 --> 00:00:56,940
+Po kliknięciu trzech pionowych kropek obok nazwy pozycji menu możesz
+
+14
+00:00:57,000 --> 00:01:01,000
+zmienić nazwę, powielić lub usunąć pozycję zgodnie z potrzebami.
+
+15
+00:01:02,760 --> 00:01:07,760
+Po otwarciu w trybie edycji możesz wprowadzać pewne zmiany bez rozpraszania uwagi.
+
+16
+00:01:08,160 --> 00:01:10,660
+Aktualizacje zostaną zsynchronizowane w całej witrynie.
+
+17
+00:01:10,800 --> 00:01:14,800
+Możesz dodać nowe strony lub inne pozycje menu, klikając ikonkę plusa.
+
+18
+00:01:18,800 --> 00:01:21,800
+Zauważysz, że blok nawigacji jest zablokowany w tym obszarze.
+
+19
+00:01:22,640 --> 00:01:26,440
+Jeśli chcesz zmienić styl menu nawigacyjnego, musisz otworzyć szablon
+
+20
+00:01:26,480 --> 00:01:29,480
+lub część szablonu, której jest on częścią.
+
+21
+00:01:29,640 --> 00:01:31,640
+Następnie porozmawiajmy o stylach.
+
+22
+00:01:32,440 --> 00:01:36,440
+Po wybraniu opcji „Style” będziesz mógł przeglądać różne kombinacje stylów
+
+23
+00:01:37,440 --> 00:01:40,440
+dostępne w ramach wybranego motywu.
+
+24
+00:01:40,720 --> 00:01:44,720
+Po kliknięciu opcji „Edytuj style” możesz przeglądać style i zmieniać
+
+25
+00:01:46,200 --> 00:01:49,200
+typografię, kolory oraz układ swojej witryny.
+
+26
+00:01:49,320 --> 00:01:50,820
+Zobaczmy, jak to działa.
+
+27
+00:01:50,960 --> 00:01:55,760
+Po kliknięciu opcji „Typografia” możesz zarządzać ustawieniami typograficznymi tekstu,
+
+28
+00:01:55,800 --> 00:01:58,300
+odnośników, nagłówków, podpisów i przycisków.
+
+29
+00:01:58,480 --> 00:02:02,480
+Wspaniałą nowością jest to, że masz teraz dostęp do biblioteki krojów pisma.
+
+30
+00:02:04,360 --> 00:02:07,360
+W sekcji „Fonty” zobaczymy kroje pisma dodane do naszego motywu.
+
+31
+00:02:09,280 --> 00:02:14,680
+Po kliknięciu opcji „Zarządzaj krojem pisma” możemy instalować, usuwać i włączać lokalne kroje pisma
+
+32
+00:02:14,760 --> 00:02:18,760
+oraz Google Fonts w całej witrynie z dowolnym motywem blokowym.
+
+33
+00:02:18,960 --> 00:02:23,960
+Po kliknięciu opcji „Instaluj kroje pisma” można zainstalować dowolny font Google
+
+34
+00:02:24,320 --> 00:02:29,320
+w witrynie internetowej, a po kliknięciu opcji „Prześlij” można przesłać krój pisma z komputera.
+
+35
+00:02:30,080 --> 00:02:34,080
+Należy upewnić się, że ma się prawo do używania przesyłanych krojów pisma.
+
+36
+00:02:35,280 --> 00:02:37,280
+Pod opcją „Typografia” widoczne są kolory.
+
+37
+00:02:37,520 --> 00:02:42,520
+W tym miejscu można również zmienić kolory różnych globalnych elementów witryny.
+
+38
+00:02:43,880 --> 00:02:48,880
+Po przejściu do opcji „Układ” można zauważyć, że można nawet kontrolować elementy,
+
+39
+00:02:49,000 --> 00:02:52,000
+takie jak wypełnienie i odstępy między blokami.
+
+40
+00:02:53,040 --> 00:02:56,040
+Jeśli spojrzysz dalej w dół, możesz dostosować wygląd
+
+41
+00:02:57,080 --> 00:02:59,980
+poszczególnych bloków dla całej witryny.
+
+42
+00:03:00,000 --> 00:03:05,000
+Aby zobaczyć, jak te bloki zmienią się po edycji, przejdź do „Księga stylów” swojej witryny.
+
+43
+00:03:05,080 --> 00:03:08,080
+Zauważysz małe oko u góry.
+
+44
+00:03:08,960 --> 00:03:14,960
+Księga stylów pozwala użytkownikowi wyświetlić podgląd każdego bloku, który można wstawić do witryny.
+
+45
+00:03:15,000 --> 00:03:20,000
+Daje to możliwość podglądu tego, jak style globalne wpłyną na wyświetlane bloki,
+
+46
+00:03:20,720 --> 00:03:24,720
+bez konieczności wstawiania tych bloków do szablonu przez użytkownika.
+
+47
+00:03:25,840 --> 00:03:29,840
+Należy również pamiętać, że styl bloków można dostosować w księdze stylów.
+
+48
+00:03:31,200 --> 00:03:34,200
+Zaktualizujmy na przykład blok „Przyciski”,
+
+49
+00:03:34,920 --> 00:03:37,920
+zmieniając kolor tła i wielkość liter na wielkie.
+
+50
+00:03:48,240 --> 00:03:51,240
+Jeśli podoba ci się efekt, możesz kliknąć „Zapisz”.
+
+51
+00:03:52,440 --> 00:03:56,940
+Należy również pamiętać, że zmiana pojedynczego bloku w księdze stylów ma pierwszeństwo
+
+52
+00:03:57,080 --> 00:04:00,080
+przed globalnymi stylami, które zostały ustawione.
+
+53
+00:04:02,840 --> 00:04:05,840
+Skoro już tu jesteśmy, musimy również porozmawiać o zmianach stylów.
+
+54
+00:04:05,840 --> 00:04:08,840
+Kliknijmy na opcję „Wersje stylu” obok ikonki „Księga stylów”.
+
+55
+00:04:10,680 --> 00:04:13,680
+Zmiany stylów otworzą się podczas edycji szablonu w księdze stylów.
+
+56
+00:04:15,040 --> 00:04:19,540
+Funkcja zmian stylów umożliwia przeglądanie zmian stylów w czasie w sposób wizualny
+
+57
+00:04:19,960 --> 00:04:24,260
+i pozwala łatwo przywrócić poprzedni stan, jeśli znajdziesz styl, który bardziej ci odpowiada
+
+58
+00:04:24,320 --> 00:04:26,320
+lub chcesz przywrócić poprzednią wersję.
+
+59
+00:04:26,680 --> 00:04:29,680
+Wystarczy wybrać wersję, a następnie kliknąć „Zastosuj”.
+
+60
+00:04:31,720 --> 00:04:35,720
+W tym przykładzie edytuję szablon i postępuję zgodnie z tą samą procedurą.
+
+61
+00:04:35,760 --> 00:04:41,760
+Otwieram zmiany stylów, wybieram poprzedni styl, a następnie klikam „Zastosuj”, aby przywrócić poprzednią wersję.
+
+62
+00:04:45,000 --> 00:04:49,000
+Po kliknięciu trzech pionowych kropek obok stylów można zresetować
+
+63
+00:04:50,760 --> 00:04:53,760
+style i dodać dodatkowy kod CSS.
+
+64
+00:04:57,000 --> 00:05:01,000
+W sekcji „Style” możemy przejść do „Strony”, aby tworzyć i publikować strony.
+
+65
+00:05:02,200 --> 00:05:06,200
+Aby dodać nową stronę, kliknij ikonkę plusa obok stron i utwórz wersję roboczą.
+
+66
+00:05:07,400 --> 00:05:11,400
+Możesz oczywiście utworzyć nową stronę również w kokpicie, WP Admin.
+
+67
+00:05:13,160 --> 00:05:17,160
+Następnie otwórzmy jedną z naszych istniejących stron, moją stronę „O mnie”.
+
+68
+00:05:17,960 --> 00:05:21,960
+Po otwarciu strony należy pamiętać o dodaniu treści do bloku „Treść”.
+
+69
+00:05:23,040 --> 00:05:26,840
+Innymi słowy, blok „Treść” jest domem lub kontenerem dla wszystkich
+
+70
+00:05:26,920 --> 00:05:27,920
+treści.
+
+71
+00:05:28,080 --> 00:05:31,880
+Drugą rzeczą, o której należy pamiętać, jest to, że podczas edycji strony nie można
+
+72
+00:05:31,880 --> 00:05:33,380
+dostosowywać nagłówka i stopki.
+
+73
+00:05:33,440 --> 00:05:35,540
+Wszystko to jest częścią zarządzania szablonami.
+
+74
+00:05:35,600 --> 00:05:38,600
+Po kliknięciu nagłówka pojawi się komunikat „Edytuj szablon,
+
+75
+00:05:39,720 --> 00:05:41,120
+aby edytować ten blok”.
+
+76
+00:05:41,160 --> 00:05:44,960
+Jeśli chcesz zmodyfikować szablon przypisany do tej strony, możesz kliknąć opcję
+
+77
+00:05:45,040 --> 00:05:46,540
+„Edytuj szablon”.
+
+78
+00:05:46,800 --> 00:05:49,800
+W tym przykładzie spowoduje to przejście do szablonu strony.
+
+79
+00:05:50,000 --> 00:05:53,000
+Tutaj możesz zmodyfikować nagłówek i stopkę.
+
+80
+00:05:53,720 --> 00:05:56,720
+Nie będzie można dodawać treści do szablonu.
+
+81
+00:05:57,120 --> 00:06:00,120
+Treść jest oczywiście dodawana do wpisów i stron.
+
+82
+00:06:00,440 --> 00:06:03,440
+Blok treści jest w tym kontekście jedynie symbolem zastępczym.
+
+83
+00:06:04,680 --> 00:06:07,680
+To prowadzi nas do kolejnego tematu, a mianowicie szablonów.
+
+84
+00:06:08,000 --> 00:06:11,000
+Szablony określają strukturę wyświetlania treści.
+
+85
+00:06:11,680 --> 00:06:16,480
+Po wybraniu opcji szablonów zobaczysz szereg szablonów dostępnych w ramach motywu,
+
+86
+00:06:16,480 --> 00:06:17,780
+czyli szablonów wbudowanych.
+
+87
+00:06:17,800 --> 00:06:22,800
+Na przykład szablon strony wyświetlający pojedynczą stronę, szablon indeksu,
+
+88
+00:06:23,680 --> 00:06:29,680
+który jest szablonem rezerwowym, lub szablon pojedynczego wpisu wyświetlający układ pojedynczych wpisów.
+
+89
+00:06:29,920 --> 00:06:32,920
+Na samym dole zobaczymy wszystkie szablony niestandardowe.
+
+90
+00:06:33,840 --> 00:06:39,340
+Po kliknięciu ikonki plusa obok szablonów można dodać różne nowe szablony, nawet szablon niestandardowy,
+
+91
+00:06:39,400 --> 00:06:42,700
+który można zastosować do dowolnego wpisu lub strony.
+
+92
+00:06:42,720 --> 00:06:45,720
+Otwórzmy szablon strony, aby lepiej zrozumieć, jak działa szablon.
+
+93
+00:06:47,400 --> 00:06:49,400
+Szablon zapewnia strukturę.
+
+94
+00:06:49,440 --> 00:06:53,440
+Szablon zazwyczaj zawiera część szablonu nagłówka i część szablonu stopki.
+
+95
+00:06:54,520 --> 00:06:59,520
+Blok „Treść wpisu” pobiera treść ze strony lub wpisu przypisanego do szablonu.
+
+96
+00:07:00,880 --> 00:07:06,880
+Szablon służy więc wyłącznie do modyfikacji układu lub wyglądu strony, a mianowicie nagłówka, stopki,
+
+97
+00:07:07,000 --> 00:07:08,500
+a nawet paska bocznego.
+
+98
+00:07:08,720 --> 00:07:13,720
+Edytor witryny wprowadza zatem wyraźne rozróżnienie między edycją szablonu a edycją strony.
+
+99
+00:07:14,640 --> 00:07:17,640
+Możesz modyfikować nagłówek i stopkę w szablonie.
+
+100
+00:07:18,520 --> 00:07:23,320
+Jedną z dostępnych opcji jest kliknięcie trzech pionowych kropek i wybranie opcji
+
+101
+00:07:23,360 --> 00:07:24,360
+„Zastąp nagłówek”.
+
+102
+00:07:24,360 --> 00:07:28,360
+Następnie możesz zastąpić bieżący nagłówek jednym z istniejących elementów szablonu
+
+103
+00:07:28,400 --> 00:07:31,400
+nagłówka lub wzorców nagłówka dostarczonych wraz z motywem.
+
+104
+00:07:33,520 --> 00:07:37,120
+Inną opcją jest wybranie nagłówka, a następnie kliknięcie przycisku „Edytuj”.
+
+105
+00:07:37,160 --> 00:07:40,160
+Umożliwi to modyfikowanie nagłówka lub stopki w trybie edycji szablonu
+
+106
+00:07:41,420 --> 00:07:43,820
+bez żadnych innych zakłóceń.
+
+107
+00:07:43,880 --> 00:07:48,880
+Aby przypisać nowy szablon do strony lub wpisu, otwórz odpowiednią treść, w tym przypadku
+
+108
+00:07:49,000 --> 00:07:54,000
+moją stronę „O mnie”, a następnie otwórz ustawienia paska bocznego po prawej stronie.
+
+109
+00:07:54,480 --> 00:07:59,480
+Obok opcji „Szablon” kliknij nazwę szablonu, wybierz opcję „Zamień szablon”, a następnie
+
+110
+00:08:01,840 --> 00:08:05,840
+wybierz własny szablon, który chcesz przypisać do swojej strony lub wpisu.
+
+111
+00:08:07,760 --> 00:08:12,660
+Warto również wspomnieć, że po kliknięciu opcji „Zarządzaj wszystkimi szablonami”, a następnie
+
+112
+00:08:12,680 --> 00:08:17,680
+wybraniu opcji „Edycja zbiorcza”, można przeglądać i filtrować szablony w widoku tabeli
+
+113
+00:08:18,960 --> 00:08:20,960
+lub siatki.
+
+114
+00:08:21,120 --> 00:08:25,820
+Po ponownym wybraniu opcji „Edycja zbiorcza” dostępnych jest więcej opcji filtrowania.
+
+115
+00:08:25,880 --> 00:08:30,880
+Należy pamiętać, że w ten sam sposób można przeglądać i filtrować strony oraz części szablonów.
+
+116
+00:08:32,440 --> 00:08:35,440
+Na koniec porozmawiajmy o wzorcach.
+
+117
+00:08:37,480 --> 00:08:41,480
+W górnej części ekranu można wyświetlić wszystkie dostępne wzorce.
+
+118
+00:08:41,960 --> 00:08:47,560
+Po wybraniu opcji „Moje wzorce” można tworzyć własne wzorce zsynchronizowane i niezsynchronizowane
+
+119
+00:08:47,600 --> 00:08:48,600
+oraz zarządzać nimi.
+
+120
+00:08:48,600 --> 00:08:53,600
+Pod sekcją „Moje wzorce” możemy wyświetlić wszystkie nasze własne wzorce oraz wzorce dostarczane
+
+121
+00:08:53,600 --> 00:08:56,600
+wraz z naszym motywem w odpowiednich kategoriach.
+
+122
+00:08:57,680 --> 00:09:02,680
+Pod sekcją „Części szablonu” możemy również tworzyć nagłówki, stopki i ogólne części szablonu
+
+123
+00:09:03,000 --> 00:09:04,500
+oraz zarządzać nimi.
+
+124
+00:09:04,960 --> 00:09:07,760
+Części szablonu są zasadniczo wzorcami.
+
+125
+00:09:07,760 --> 00:09:12,760
+Są to zsynchronizowane komponenty wielokrotnego użytku, które można wykorzystać w całej witrynie.
+
+126
+00:09:12,960 --> 00:09:14,960
+Zacznijmy od sekcji „Moje wzorce”.
+
+127
+00:09:15,280 --> 00:09:20,280
+Aby utworzyć własny wzorzec, kliknij przycisk „Wstaw” obok wzorców, a następnie wybierz opcję
+
+128
+00:09:20,860 --> 00:09:22,360
+„Utwórz wzorzec”.
+
+129
+00:09:22,640 --> 00:09:27,640
+Po nadaniu nazwy możesz dodać wzorzec do odpowiedniej kategorii, a następnie zdecydować,
+
+130
+00:09:31,800 --> 00:09:33,800
+czy chcesz go zsynchronizować.
+
+131
+00:09:33,960 --> 00:09:39,860
+Zsynchronizowany wzorzec zostanie zsynchronizowany w całej witrynie, co oznacza, że jeśli zmienisz wzorzec
+
+132
+00:09:39,920 --> 00:09:44,320
+w jednym miejscu, zostanie on zaktualizowany wszędzie tam, gdzie jest używany.
+
+133
+00:09:44,360 --> 00:09:49,360
+Możesz również wyłączyć tę opcję, jeśli wolisz mieć wzorzec niesynchronizowany.
+
+134
+00:09:50,480 --> 00:09:55,480
+Wzorce niesynchronizowane to zwykłe wzorce, które można edytować niezależnie.
+
+135
+00:09:56,760 --> 00:10:01,360
+Po powrocie do obszaru własnych wzorców zauważysz, że wzorce zsynchronizowane mają
+
+136
+00:10:01,360 --> 00:10:04,360
+fioletową ikonę, a wzorce niesynchronizowane nie.
+
+137
+00:10:05,680 --> 00:10:09,680
+Następnie zauważysz, że wzorce dołączone do motywu są zablokowane
+
+138
+00:10:09,840 --> 00:10:12,840
+i nie można ich edytować.
+
+139
+00:10:14,080 --> 00:10:18,080
+Jednak po kliknięciu trzech pionowych kropek pod wzorcem można go
+
+140
+00:10:19,360 --> 00:10:21,860
+skopiować do obszaru „Moje wzorce”.
+
+141
+00:10:21,920 --> 00:10:27,920
+W dolnej części możemy tworzyć nagłówki, stopki i ogólne elementy szablonu oraz zarządzać nimi.
+
+142
+00:10:28,440 --> 00:10:29,940
+Masz tu dwie opcje.
+
+143
+00:10:30,200 --> 00:10:35,500
+Możesz tworzyć własne nagłówki i stopki lub dostosowywać wzorce fragmentu szablonu, które są dostarczane
+
+144
+00:10:35,520 --> 00:10:36,620
+wraz z motywem.
+
+145
+00:10:36,680 --> 00:10:41,680
+Aby utworzyć własny fragment szablonu, kliknij ikonkę plusa u góry obok wzorców
+
+146
+00:10:42,280 --> 00:10:45,080
+i wybierz opcję „Utwórz fragment szablonu”.
+
+147
+00:10:45,080 --> 00:10:49,180
+Dodając nowy fragment szablonu, możesz wybrać między ogólnymi fragmentami szablonu
+
+148
+00:10:49,240 --> 00:10:50,740
+nagłówka i stopki.
+
+149
+00:10:50,920 --> 00:10:54,920
+Ogólne fragmenty szablonu nie są powiązane z żadnym konkretnym obszarem,
+
+150
+00:10:55,200 --> 00:10:58,200
+więc pamiętaj, aby nadać im opisową nazwę.
+
+151
+00:10:58,240 --> 00:11:03,240
+Po otwarciu fragmentu szablonu w tym miejscu będziesz mógł modyfikować i edytować swój
+
+152
+00:11:04,560 --> 00:11:08,460
+fragment szablonu w trybie edycji szablonu bez żadnych zakłóceń.
+
+153
+00:11:08,520 --> 00:11:13,520
+Możesz również otworzyć odpowiedni szablon, w tym przypadku mój własny szablon,
+
+154
+00:11:16,280 --> 00:11:21,280
+a następnie zmodyfikować fragment szablonu nagłówka lub stopki z poziomu szablonu.
+
+155
+00:11:21,320 --> 00:11:26,320
+Jak pokazano wcześniej, możesz łatwo zastąpić jeden ze swoich nagłówków lub stopek wzorcem
+
+156
+00:11:28,440 --> 00:11:31,440
+lub istniejącym fragmentem szablonu z biblioteki.
+
+157
+00:11:32,800 --> 00:11:37,500
+Na koniec chciałbym również zwrócić uwagę na niezwykle pomocną funkcję o nazwie paleta poleceń,
+
+158
+00:11:37,560 --> 00:11:42,560
+która pozwoli ci zaoszczędzić mnóstwo czasu i pomoże ci efektywniej poruszać się po edytorze witryny.
+
+159
+00:11:42,800 --> 00:11:46,800
+Paleta poleceń umożliwia szybkie wykonywanie zadań i poruszanie się po edytorze
+
+160
+00:11:47,680 --> 00:11:48,680
+witryny.
+
+161
+00:11:49,120 --> 00:11:54,120
+Możesz na przykład wpisać „new”, aby utworzyć stronę lub szablon, lub po prostu nazwę obszaru,
+
+162
+00:11:55,560 --> 00:11:57,560
+do którego chcesz przejść.
+
+163
+00:11:57,720 --> 00:12:00,720
+Na przykład „pattern”, aby zarządzać wszystkimi moimi wzorcami.
+
+164
+00:12:04,800 --> 00:12:09,800
+Dostęp do palety poleceń można uzyskać za pomocą skrótu klawiszowego command+k na komputerze Mac
+
+165
+00:12:09,920 --> 00:12:11,920
+lub control+k w systemie Windows.
+
+166
+00:12:12,120 --> 00:12:15,120
+Znajdziesz ją również na pasku bocznym widoku witryny, klikając ikonkę wyszukiwania.
+
+167
+00:12:21,560 --> 00:12:24,560
+Możesz też po prostu kliknąć pasek tytułu.
+
+168
+00:12:26,480 --> 00:12:29,480
+To kończy nasz krótki przegląd możliwości edytora witryny.
+

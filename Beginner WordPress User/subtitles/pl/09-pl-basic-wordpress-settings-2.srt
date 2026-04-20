@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:03,000
+Omówmy kilka podstawowych ustawień WordPressa.
+
+2
+00:00:05,240 --> 00:00:10,140
+Rozpoczynając przygodę z witryną WordPress, odkryjesz szereg opcji znajdujących się
+
+3
+00:00:10,220 --> 00:00:13,220
+w sekcji „Ustawienia” w lewym dolnym rogu kokpitu.
+
+4
+00:00:13,740 --> 00:00:18,840
+Później zajmiemy się tymi opcjami bardziej szczegółowo, ale teraz skupmy się na kilku kluczowych ustawieniach,
+
+5
+00:00:18,920 --> 00:00:22,920
+które pozwolą ci uruchomić witrynę i zapewnić jej płynne działanie.
+
+6
+00:00:22,940 --> 00:00:27,940
+Efekty uczenia się obejmują ustawienie tytułu i sloganu witryny, aktualizację strefy czasowej
+
+7
+00:00:28,880 --> 00:00:31,880
+witryny oraz wybór wyświetlania strony głównej.
+
+8
+00:00:33,640 --> 00:00:36,640
+Na początek porozmawiajmy o tożsamości twojej witryny.
+
+9
+00:00:36,920 --> 00:00:39,920
+W menu „Ustawienia” znajdziesz opcję „Ogólne”.
+
+10
+00:00:40,120 --> 00:00:42,120
+Te elementy nie służą wyłącznie celom estetycznym.
+
+11
+00:00:42,240 --> 00:00:46,240
+Mają one kluczowe znaczenie dla tego, jak twoja witryna wyświetla się w wynikach wyszukiwania.
+
+12
+00:00:46,400 --> 00:00:48,300
+Co więc możesz zrobić?
+
+13
+00:00:48,320 --> 00:00:53,320
+Stwórz atrakcyjny tytuł i slogan, które nie tylko reprezentują twoją witrynę, ale także zachęcają
+
+14
+00:00:53,320 --> 00:00:57,320
+odwiedzających do jej otwarcia, gdy zobaczą ją w wynikach wyszukiwania
+
+15
+00:00:57,720 --> 00:00:59,720
+lub gdy ją odwiedzą.
+
+16
+00:00:59,960 --> 00:01:04,460
+Tytuł i slogan strony powinny informować odwiedzających, czym zajmuje się twoja witryna
+
+17
+00:01:04,880 --> 00:01:06,180
+i kogo chcesz przyciągnąć.
+
+18
+00:01:06,200 --> 00:01:10,200
+Często są to pierwsze elementy, które odwiedzający zauważają na twojej witrynie.
+
+19
+00:01:10,920 --> 00:01:15,920
+Tytuł to zazwyczaj nazwa twojej witryny, natomiast slogan to krótkie zdanie lub fraza,
+
+20
+00:01:16,800 --> 00:01:19,800
+które mają na celu przekazanie głównej tematyki strony.
+
+21
+00:01:20,960 --> 00:01:25,760
+Pamiętaj, że możesz zdecydować się nie wyświetlać swojego sloganu, ale jak już wspomniano,
+
+22
+00:01:25,840 --> 00:01:30,840
+wyszukiwarki zwracają uwagę na tytuły i slogany, co również pomoże ci poprawić SEO twojej witryny.
+
+23
+00:01:32,080 --> 00:01:36,280
+Dlatego pamiętaj, aby dodać swój slogan, nawet jeśli zdecydujesz się nie wyświetlać
+
+24
+00:01:36,360 --> 00:01:38,360
+go na stronie głównej swojej witryny.
+
+25
+00:01:38,880 --> 00:01:42,880
+Oto przykład z wyszukiwarki, w której nie widać sloganu na stronie,
+
+26
+00:01:43,400 --> 00:01:48,900
+ale po wyszukaniu hasła „Mantis Research” wyświetla się tytuł strony „Mantis Research” oraz część sloganu,
+
+27
+00:01:50,080 --> 00:01:54,080
+co pomaga marketerom publikować badania, które przyciągają uwagę.
+
+28
+00:01:54,080 --> 00:01:59,080
+Możesz zmienić tytuł i slogan swojej witryny w sekcji „Ustawienia ogólne”, jak pokazano
+
+29
+00:02:02,320 --> 00:02:03,320
+w przykładzie.
+
+30
+00:02:04,240 --> 00:02:07,240
+Możesz również zaktualizować tytuł i slogan witryny w edytorze witryny
+
+31
+00:02:09,920 --> 00:02:11,420
+podczas aktualizacji nagłówka.
+
+32
+00:02:11,600 --> 00:02:17,100
+Jeśli zaktualizujesz lub zmienisz blok „Tytuł witryny” lub blok „Slogan witryny”, zostanie on również
+
+33
+00:02:17,320 --> 00:02:20,320
+automatycznie zaktualizowany w sekcji „Ustawienia ogólne”.
+
+34
+00:02:20,320 --> 00:02:24,320
+Następnie omówimy ustawienia strefy czasowej w sekcji „Ogólne”.
+
+35
+00:02:26,480 --> 00:02:31,380
+Najlepiej, aby strefa czasowa twojej witryny była zgodna z ustawieniami strefy czasowej komputera lub
+
+36
+00:02:31,400 --> 00:02:32,400
+czasem lokalnym.
+
+37
+00:02:32,840 --> 00:02:37,840
+Dzięki temu zaplanowane wpisy będą publikowane we właściwym czasie, a jeśli opublikujesz treść
+
+38
+00:02:38,520 --> 00:02:42,520
+z wyprzedzeniem, będziesz dokładnie wiedzieć, kiedy zostanie ona opublikowana.
+
+39
+00:02:44,040 --> 00:02:47,040
+Masz również możliwość wyboru własnego formatu daty i godziny.
+
+40
+00:02:51,360 --> 00:02:55,360
+Możesz nawet zdecydować, kiedy chcesz, aby rozpoczynał się twój tydzień.
+
+41
+00:02:56,440 --> 00:02:59,440
+Skupmy się teraz na strukturze twojej witryny.
+
+42
+00:03:01,920 --> 00:03:05,920
+W sekcji „Czytanie” w ustawieniach możesz zdecydować, co zobaczą odwiedzający po
+
+43
+00:03:06,720 --> 00:03:07,720
+wejściu na twoją witrynę.
+
+44
+00:03:07,720 --> 00:03:12,720
+Czy chcesz mieć dynamiczną stronę główną prezentującą najnowsze wpisy, czy statyczną stronę?
+
+45
+00:03:14,000 --> 00:03:15,500
+Wybór należy do ciebie.
+
+46
+00:03:15,760 --> 00:03:19,760
+Domyślnie WordPress wyświetla listę wpisów na stronie głównej twojej witryny.
+
+47
+00:03:21,960 --> 00:03:25,960
+Lista ta jest automatycznie aktualizowana po opublikowaniu nowych wpisów.
+
+48
+00:03:27,360 --> 00:03:32,360
+Nie ma też potrzeby tworzenia żadnej strony, aby mieć stronę główną z najnowszymi wpisami.
+
+49
+00:03:35,040 --> 00:03:39,040
+Możesz zapytać, gdzie edytować tę stronę główną wyświetlającą najnowsze wpisy?
+
+50
+00:03:41,400 --> 00:03:45,400
+Ta strona główna jest wyświetlana za pomocą szablonu strony głównej bloga.
+
+51
+00:03:45,880 --> 00:03:49,880
+eśli więc wybrałeś najnowsze wpisy jako wyświetlane na stronie głównej, możesz
+
+52
+00:03:51,080 --> 00:03:53,080
+przejść do sekcji „Wygląd” i kliknąć „Edytor”.
+
+53
+00:03:53,960 --> 00:03:57,960
+Otworzy się edytor witryny, a domyślnie po prawej stronie pojawi się szablon
+
+54
+00:03:59,440 --> 00:04:00,440
+strony głównej bloga.
+
+55
+00:04:00,440 --> 00:04:06,440
+Aby go otworzyć, wystarczy na niego kliknąć, a następnie można rozpocząć edycję szablonu strony głównej,
+
+56
+00:04:06,560 --> 00:04:09,560
+który wyświetla wpisy za pomocą bloku „Pętla zapytania”.
+
+57
+00:04:11,000 --> 00:04:14,000
+Tutaj można edytować i dostosowywać stronę główną.
+
+58
+00:04:18,440 --> 00:04:22,440
+Jeśli jednak wolisz mieć statyczną stronę główną, możesz przejść do stron,
+
+59
+00:04:24,240 --> 00:04:29,240
+a następnie utworzyć stronę główną oraz stronę dla wpisów, w tym przypadku moją stronę blogową.
+
+60
+00:04:34,000 --> 00:04:39,000
+Następnie możesz utworzyć dowolne inne strony, które chcesz umieścić w swojej witrynie.
+
+61
+00:04:39,320 --> 00:04:44,320
+Możesz wrócić do kokpitu, wybrać „Ustawienia”, „Czytanie”, a następnie włączyć opcję
+
+62
+00:04:45,680 --> 00:04:48,680
+używania statycznej strony obok wyświetlanej strony głównej.
+
+63
+00:04:49,760 --> 00:04:54,760
+Następnie wybierz jedną ze stron, które utworzyłeś jako stronę główną lub stronę startową.
+
+64
+00:04:55,520 --> 00:05:01,520
+Poniżej możesz również wybrać inną stronę, na której będą wyświetlane np. dynamiczne wpisy lub blog.
+
+65
+00:05:02,800 --> 00:05:07,800
+Po wybraniu statycznej strony, twoja strona główna zostanie automatycznie przypisana do
+
+66
+00:05:07,920 --> 00:05:09,420
+domyślnego szablonu strony.
+
+67
+00:05:09,520 --> 00:05:12,520
+Przejdźmy do stron, aby zobaczyć to w praktyce.
+
+68
+00:05:14,400 --> 00:05:19,400
+Kiedy otwieram statyczną stronę główną, a następnie otwieram pasek boczny ustawień, zauważam,
+
+69
+00:05:21,360 --> 00:05:26,860
+że po prawej stronie, obok szablonu, znajduje się informacja, że ta strona została przypisana do szablonu strony
+
+70
+00:05:27,000 --> 00:05:30,000
+lub szablonu domyślnego.
+
+71
+00:05:30,640 --> 00:05:35,640
+Oznacza to, że statyczna strona główna i inne strony, które zostały przypisane do
+
+72
+00:05:35,760 --> 00:05:40,760
+tego domyślnego szablonu, będą miały ten sam szablon, czyli ten sam nagłówek i stopkę.
+
+73
+00:05:41,720 --> 00:05:44,720
+Jeśli chcesz zaktualizować nagłówek, stopkę i strukturę tej strony,
+
+74
+00:05:46,080 --> 00:05:48,080
+zrób to w szablonie.
+
+75
+00:05:48,440 --> 00:05:53,440
+Ale oczywiście wróć do strony głównej, aby rozpocząć dodawanie treści i budowanie
+
+76
+00:05:53,520 --> 00:05:56,520
+strony głównej za pomocą bloków.
+
+77
+00:05:59,560 --> 00:06:04,060
+Podczas edycji strony z wpisami zauważysz, że u góry znajduje się informacja,
+
+78
+00:06:04,480 --> 00:06:07,980
+że aktualnie edytujesz stronę, która wyświetla twoje najnowsze wpisy.
+
+79
+00:06:08,320 --> 00:06:13,320
+Należy pamiętać, że strona wpisów została przypisana do szablonu strony głównej bloga.
+
+80
+00:06:14,080 --> 00:06:17,080
+Całą stronę bloga zbudujesz w szablonie strony głównej bloga
+
+81
+00:06:19,600 --> 00:06:22,600
+i pozostawisz tę stronę pustą.
+
+82
+00:06:22,680 --> 00:06:27,480
+Prawidłowa konfiguracja podstawowych ustawień WordPressa ma kluczowe znaczenie dla funkcjonalności
+
+83
+00:06:27,560 --> 00:06:29,060
+i wyglądu twojej witryny.
+
+84
+00:06:29,200 --> 00:06:33,200
+Jak już wspomniano, w dalszej części omówimy więcej ustawień.
+

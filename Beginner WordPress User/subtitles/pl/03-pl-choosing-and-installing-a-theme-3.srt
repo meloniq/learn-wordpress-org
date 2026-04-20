@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:05,000
+Dzisiejsza sesja będzie poświęcona wyborowi i instalacji odpowiedniego motywu.
+
+2
+00:00:05,000 --> 00:00:08,000
+Oto cele edukacyjne tego warsztatu.
+
+3
+00:00:08,000 --> 00:00:11,000
+Rozróżnienie czterech różnych typów motywów,
+
+4
+00:00:12,000 --> 00:00:14,000
+wyszukiwanie i ocena motywów,
+
+5
+00:00:14,000 --> 00:00:19,000
+instalacja i aktualizacja motywu, a na koniec dostęp do pomocy technicznej dotyczącej motywu.
+
+6
+00:00:19,000 --> 00:00:20,000
+Zaczynamy.
+
+7
+00:00:20,000 --> 00:00:26,000
+Krótko mówiąc, motyw to po prostu szablon witryny internetowej o określonym układzie i wyglądzie.
+
+8
+00:00:27,000 --> 00:00:32,000
+Podczas korzystania z WordPressa treść jest całkowicie oddzielona od jej prezentacji.
+
+9
+00:00:32,000 --> 00:00:37,000
+Oznacza to, że wygląd i styl witryny można całkowicie zmienić, używając innego motywu,
+
+10
+00:00:37,000 --> 00:00:40,000
+podczas gdy treść pozostanie taka sama.
+
+11
+00:00:40,000 --> 00:00:42,000
+Spójrzmy na przykład.
+
+12
+00:00:42,000 --> 00:00:45,000
+Tutaj używam domyślnego motywu Twenty Twenty-Three.
+
+13
+00:00:46,000 --> 00:00:49,000
+W następnym przykładzie zainstalowałem i włączyłem motyw Bounce,
+
+14
+00:00:55,000 --> 00:00:58,000
+który ma zupełnie inny wygląd i styl.
+
+15
+00:00:58,000 --> 00:01:01,000
+Jednak treść pozostaje taka sama.
+
+16
+00:01:01,000 --> 00:01:10,000
+Należy również podkreślić, że twoja witryna nie będzie wyglądać tak samo jak miniatury lub przykładowe witryny motywu, który zainstalujesz i włączysz.
+
+17
+00:01:11,000 --> 00:01:18,000
+Jest to jedynie przykład tego, co można osiągnąć, a czasami wymaga instalacji określonych wtyczek, aby uzyskać początkowy wygląd.
+
+18
+00:01:20,000 --> 00:01:23,000
+W WordPressie dostępne są tysiące darmowych motywów,
+
+19
+00:01:24,000 --> 00:01:28,000
+ale motywy premium są dostępne poza repozytorium motywów.
+
+20
+00:01:29,000 --> 00:01:34,000
+Należy jednak pamiętać, że wiele darmowych wersji oferuje również pakiety premium.
+
+21
+00:01:34,000 --> 00:01:38,000
+Być może zadajesz sobie pytanie, jakie są rodzaje motywów?
+
+22
+00:01:39,000 --> 00:01:42,000
+Istnieją cztery rodzaje motywów, na które warto zwrócić uwagę.
+
+23
+00:01:42,000 --> 00:01:47,000
+Motywy blokowe, motywy klasyczne, motywy hybrydowe i motywy uniwersalne.
+
+24
+00:01:49,000 --> 00:01:54,000
+Warto wspomnieć, że motywy blokowe i motywy klasyczne są najczęściej używane,
+
+25
+00:01:54,000 --> 00:01:57,000
+a motywy blokowe stanowią przyszłość WordPressa.
+
+26
+00:01:57,000 --> 00:02:00,000
+Zacznijmy więc od przyjrzenia się motywom blokowym.
+
+27
+00:02:00,000 --> 00:02:04,000
+Motyw blokowy wykorzystuje bloki we wszystkich częściach witryny,
+
+28
+00:02:04,000 --> 00:02:08,000
+w tym w menu nawigacyjnych, nagłówkach, treściach i stopkach.
+
+29
+00:02:08,000 --> 00:02:14,000
+Motywy blokowe umożliwiają edycję i dostosowywanie wszystkich części witryny w edytorze witryny.
+
+30
+00:02:14,000 --> 00:02:17,000
+Zobaczmy, jak działa motyw blokowy.
+
+31
+00:02:18,000 --> 00:02:21,000
+Przejdę do sekcji „Wygląd” i kliknę „Motywy”.
+
+32
+00:02:22,000 --> 00:02:25,000
+Włączyłem motyw blokowy o nazwie Twenty Twenty-Three,
+
+33
+00:02:27,000 --> 00:02:30,000
+a na lewym pasku bocznym widać, że mamy dostęp do edytora.
+
+34
+00:02:33,000 --> 00:02:37,000
+Po kliknięciu na edytor zostaniemy przeniesieni do edytora witryny,
+
+35
+00:02:38,000 --> 00:02:41,000
+gdzie można tworzyć i edytować strony.
+
+36
+00:02:45,000 --> 00:02:50,000
+Można utworzyć stronę roboczą lub edytować jedną z istniejących stron.
+
+37
+00:02:50,000 --> 00:02:53,000
+Następnie możemy również zmienić style całej witryny
+
+38
+00:02:56,000 --> 00:03:00,000
+lub dostosować wygląd poszczególnych bloków dla całej witryny.
+
+39
+00:03:01,000 --> 00:03:05,000
+Edytor witryny umożliwia również konfigurowanie szablonów.
+
+40
+00:03:09,000 --> 00:03:14,000
+Możesz dodawać nowe szablony lub edytować szablony dostarczone wraz z motywem.
+
+41
+00:03:15,000 --> 00:03:18,000
+Ponadto możesz zarządzać różnymi wzorcami,
+
+42
+00:03:24,000 --> 00:03:29,000
+wzorcami stworzonymi samodzielnie lub wzorcami szablonów nagłówków i stopek,
+
+43
+00:03:29,000 --> 00:03:31,000
+które oczywiście dodajemy do szablonów.
+
+44
+00:03:31,000 --> 00:03:37,000
+Zdaję sobie sprawę, że niektórzy mogą nie znać terminów takich jak style, szablony itp.
+
+45
+00:03:37,000 --> 00:03:41,000
+Aby dowiedzieć się więcej, zapoznaj się z materiałami zamieszczonymi pod tym filmem.
+
+46
+00:03:41,000 --> 00:03:46,000
+Wspaniała nowa funkcja pozwala również na podgląd motywu blokowego przed zmianą.
+
+47
+00:03:47,000 --> 00:03:52,000
+Po najechaniu kursorem na motyw blokowy pojawi się przycisk podglądu na żywo.
+
+48
+00:03:52,000 --> 00:03:57,000
+Po kliknięciu przycisku „Podgląd” na żywo zostaniesz przeniesiony do edytora witryny.
+
+49
+00:03:58,000 --> 00:04:04,000
+Dzięki temu nie tylko możesz wyświetlić podgląd witryny, ale także zapoznać się z edytorem witryny.
+
+50
+00:04:06,000 --> 00:04:11,000
+Teraz możesz wprowadzać dowolne zmiany lub dostosowania według własnego uznania.
+
+51
+00:04:12,000 --> 00:04:15,000
+Na przykład zmienię styl i czcionkę tekstu.
+
+52
+00:04:21,000 --> 00:04:24,000
+Teraz możemy przeglądać nasze strony, szablony itp.
+
+53
+00:04:34,000 --> 00:04:40,000
+Jeśli podoba ci się to, co widzisz, możesz nawet aktywować i zapisać motyw oraz wprowadzone zmiany.
+
+54
+00:04:42,000 --> 00:04:48,000
+Klasyczny motyw nie wykorzystuje edytora bloków do zarządzania układem strony poza wpisami i stronami.
+
+55
+00:04:49,000 --> 00:04:55,000
+Wykorzystuje on narzędzie „Personalizacja”, menu i widżety do wprowadzania zmian w ustawieniach motywu.
+
+56
+00:04:55,000 --> 00:05:00,000
+Ponieważ klasyczne motywy istnieją najdłużej, jest ich znacznie więcej do wyboru.
+
+57
+00:05:01,000 --> 00:05:04,000
+Przyjrzyjmy się bliżej przykładowi klasycznego motywu.
+
+58
+00:05:04,000 --> 00:05:10,000
+Po przejściu do sekcji „Wygląd” i kliknięciu opcji „Motywy” zauważysz, że włączyłem motyw Twenty Sixteen.
+
+59
+00:05:11,000 --> 00:05:16,000
+W ustawieniach paska bocznego będziesz mieć dostęp do narzędzia dostosowywania i innych opcji.
+
+60
+00:05:16,000 --> 00:05:21,000
+Po otwarciu narzędzia dostosowywania będziesz mógł zmienić wszystkie ustawienia motywu.
+
+61
+00:05:25,000 --> 00:05:31,000
+Należy pamiętać, że motywy blokowe zapewniają większą elastyczność w projektowaniu i dostosowywaniu witryny internetowej.
+
+62
+00:05:31,000 --> 00:05:38,000
+Motyw hybrydowy to klasyczny motyw, który wykorzystuje niektóre funkcje edycji witryny, takie jak edytor szablonów.
+
+63
+00:05:39,000 --> 00:05:48,000
+Motyw hybrydowy, taki jak Eksell, nadal wykorzystuje narzędzie „Personalizacja” do wprowadzania zmian, a jednocześnie umożliwia tworzenie własnych szablonów.
+
+64
+00:05:49,000 --> 00:05:55,000
+Przejdźmy więc do stron, otwórz jedną ze stron i przejdź do ustawień paska bocznego po prawej stronie.
+
+65
+00:05:57,000 --> 00:06:03,000
+Kliknij „Szablony”, aby przypisać stronę do innego szablonu lub utworzyć szablon niestandardowy.
+
+66
+00:06:11,000 --> 00:06:18,000
+I wreszcie, motyw uniwersalny to motyw, który można skonfigurować całkowicie w dowolny sposób, jako motyw blokowy lub klasyczny.
+
+67
+00:06:19,000 --> 00:06:27,000
+W tym przykładzie zainstalowałem motyw uniwersalny Emulsion, jak można zauważyć, masz dostęp zarówno do narzędzia dostosowywania, jak i edytora.
+
+68
+00:06:29,000 --> 00:06:33,000
+Następnie porozmawiajmy o wyszukiwaniu i dodawaniu nowych motywów.
+
+69
+00:06:36,000 --> 00:06:42,000
+Aby dodać nowy motyw, przejdź do sekcji „Wygląd” i kliknij „Motywy”. U góry kliknij „Dodaj nowy”.
+
+70
+00:06:44,000 --> 00:06:50,000
+Możesz wyszukiwać najpopularniejsze motywy, najnowsze dodane motywy oraz motywy przeznaczone do bloków.
+
+71
+00:06:53,000 --> 00:06:57,000
+Po kliknięciu motywu wyświetlą się jego szczegóły oraz podgląd.
+
+72
+00:07:04,000 --> 00:07:10,000
+Po kliknięciu na filtr „Funkcje” będziesz mógł wyszukiwać motywy według tematu, funkcji i układu.
+
+73
+00:07:12,000 --> 00:07:15,000
+Co sprawia, że motyw jest dobry?
+
+74
+00:07:15,000 --> 00:07:22,000
+Aby przejrzeć motywy, przejdź do strony WordPress.org, najedź kursorem na opcję „Extend”, a następnie kliknij „Motywy”.
+
+75
+00:07:23,000 --> 00:07:26,000
+Tutaj możesz wyszukiwać różne motywy.
+
+76
+00:07:28,000 --> 00:07:34,000
+Po znalezieniu odpowiedniego motywu kliknij opcję „Więcej informacji”, aby dowiedzieć się więcej o konkretnym motywie.
+
+77
+00:07:34,000 --> 00:07:38,000
+Wszystkie informacje potrzebne do podjęcia świadomej decyzji znajdziesz po prawej stronie.
+
+78
+00:07:38,000 --> 00:07:47,000
+Po zapoznaniu się z aktualizacjami wersji, aktywnymi instalacjami i ocenami uzyskasz dobre wyobrażenie o ogólnych wrażeniach innych użytkowników z tego motywu.
+
+79
+00:07:48,000 --> 00:07:51,000
+Jak zainstalować motyw?
+
+80
+00:07:51,000 --> 00:07:57,000
+Aby zainstalować nowy motyw, przejdź do sekcji „Wygląd”, kliknij „Motywy” i wybierz „Dodaj nowy”.
+
+81
+00:07:59,000 --> 00:08:03,000
+Po znalezieniu odpowiedniego motywu kliknij „Zainstaluj”.
+
+82
+00:08:05,000 --> 00:08:08,000
+Po zainstalowaniu nie zapomnij kliknąć „Włącz”.
+
+83
+00:08:10,000 --> 00:08:14,000
+Jeśli masz motyw w postaci pliku zip, możesz zainstalować go ręcznie.
+
+84
+00:08:16,000 --> 00:08:20,000
+Kliknij „Dodaj nowy”, a następnie u góry wybierz „Prześlij motyw”.
+
+85
+00:08:21,000 --> 00:08:24,000
+Następnie możesz przesłać go ze swojego komputera.
+
+86
+00:08:26,000 --> 00:08:29,000
+A co z aktualizacjami?
+
+87
+00:08:30,000 --> 00:08:36,000
+Jeśli dostępne są aktualizacje, zostaniesz o tym poinformowany w górnym pasku menu i menu kokpitu.
+
+88
+00:08:36,000 --> 00:08:40,000
+Możesz przejść do strony aktualizacji i przewinąć ją w dół.
+
+89
+00:08:44,000 --> 00:08:48,000
+Znajdziesz tam pojedynczy motyw lub listę dostępnych aktualizacji.
+
+90
+00:08:49,000 --> 00:08:54,000
+Na tej stronie możesz wybrać aktualizację poszczególnych motywów lub wszystkich naraz.
+
+91
+00:08:54,000 --> 00:09:01,000
+Pamiętaj, aby przed dokonaniem jakichkolwiek aktualizacji wykonać kopię zapasową swojej witryny lub rozważyć użycie motywu potomnego.
+
+92
+00:09:01,000 --> 00:09:06,000
+Motyw potomny to motyw podrzędny, który dziedziczy wygląd i funkcje motywu głównego.
+
+93
+00:09:09,000 --> 00:09:15,000
+Korzystanie z motywu potomnego pozwala na aktualizację motywu nadrzędnego bez wpływu na dostosowania wprowadzone w witrynie.
+
+94
+00:09:15,000 --> 00:09:18,000
+Dostosowania są przechowywane oddzielnie od plików motywu głównego.
+
+95
+00:09:18,000 --> 00:09:21,000
+Dodam jednak odnośnik do tego w zasobach poniżej.
+
+96
+00:09:21,000 --> 00:09:28,000
+Inną opcją jest przejście do sekcji „Wygląd”, kliknięcie opcji „Motywy” i przejście do motywu, który wymaga aktualizacji.
+
+97
+00:09:29,000 --> 00:09:32,000
+U góry pojawi się opcja „Aktualizuj teraz”.
+
+98
+00:09:33,000 --> 00:09:38,000
+Można również kliknąć opcję „Szczegóły motywu”, a następnie u góry również aktualizować.
+
+99
+00:09:38,000 --> 00:09:43,000
+Na koniec można również włączyć automatyczne aktualizacje dla tego konkretnego motywu.
+
+100
+00:09:44,000 --> 00:09:47,000
+Jak usunąć motyw?
+
+101
+00:09:47,000 --> 00:09:52,000
+Aby usunąć motyw, wybierz odpowiedni motyw; w prawym dolnym rogu możesz go usunąć.
+
+102
+00:09:56,000 --> 00:09:59,000
+I na koniec, jak uzyskać pomoc techniczną?
+
+103
+00:10:00,000 --> 00:10:07,000
+Aby uzyskać pomoc techniczną, przejdź do katalogu motywów, wybierz odpowiedni motyw i przewiń w dół do sekcji pomocy technicznej.
+
+104
+00:10:07,000 --> 00:10:16,000
+Najlepszym sposobem uzyskania pomocy dotyczącej motywu jest przejście do forum pomocy technicznej związanego z motywem, aby zadać pytania lub przejrzeć inne zgłoszenia.
+
+105
+00:10:16,000 --> 00:10:21,000
+Jestem przekonany, że znajdziesz odpowiedni motyw, który spełni wszystkie twoje potrzeby.
+

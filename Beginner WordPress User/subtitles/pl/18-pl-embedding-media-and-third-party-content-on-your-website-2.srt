@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:06,000
+W tej lekcji pokażemy, jak szybko osadzić multimedia i treści stron trzecich na swojej witrynie internetowej.
+
+2
+00:00:07,000 --> 00:00:16,000
+Osadzanie to sposób na wyświetlanie zewnętrznych multimediów lub treści na swojej witrynie internetowej bez konieczności ich bezpośredniego przesyłania lub hostowania.
+
+3
+00:00:16,000 --> 00:00:24,000
+Osadzanie pozwala na płynne włączanie różnych rodzajów treści, takich jak filmy, wpisy w mediach społecznościowych, mapy, klipy audio i inne.
+
+4
+00:00:27,000 --> 00:00:32,000
+Możesz na przykład wyświetlać podcasty ze Spotify na swojej witrynie internetowej.
+
+5
+00:00:33,000 --> 00:00:39,000
+Lub wpisy z konta Tumblr, które wyświetliłem w kolumnach za pomocą bloku „Kolumny” i zmieniając kolor tła.
+
+6
+00:00:41,000 --> 00:00:47,000
+Najpopularniejszym osadzaniem jest prawdopodobnie osadzanie filmów z YouTube, Vimeo lub innych serwisów.
+
+7
+00:00:47,000 --> 00:00:51,000
+Możesz nawet dodać ankietę do swojej witryny za pomocą CrowdSignal.
+
+8
+00:00:53,000 --> 00:00:57,000
+Możesz też zdecydować się na dodanie wpisów z X do swojej witryny.
+
+9
+00:01:02,000 --> 00:01:05,000
+I wreszcie, możesz nawet wyświetlać muzykę z SoundCloud.
+
+10
+00:01:08,000 --> 00:01:14,000
+Aby dodać blok „Osadzona treść”, kliknij na „Wybierak” w lewym górnym rogu i przewiń w dół do „Osadzone treści”.
+
+11
+00:01:15,000 --> 00:01:18,000
+Tutaj zobaczysz wszystkie dostępne bloki osadzania.
+
+12
+00:01:20,000 --> 00:01:23,000
+Pierwszym z nich jest sam blok osadzania.
+
+13
+00:01:23,000 --> 00:01:27,000
+Po wybraniu bloku osadzania można wyświetlać treści z innych witryn.
+
+14
+00:01:28,000 --> 00:01:34,000
+Po wybraniu bloku pojawia się komunikat, aby wkleić odnośnik do treści, którą chcesz wyświetlić w swojej witrynie.
+
+15
+00:01:35,000 --> 00:01:40,000
+Wybrałem już adres URL jednego z moich postów na X, który wkleję i kliknę „Osadź”.
+
+16
+00:01:42,000 --> 00:01:46,000
+Następnie zobaczymy, że wpis wyświetla się w naszej witrynie.
+
+17
+00:01:47,000 --> 00:01:56,000
+Możesz również używać bloków osadzania stworzonych dla konkretnych usług stron trzecich, takich jak X, YouTube, WordPress, Vimeo, CrowdSignal, PocketCasts itp.,
+
+18
+00:02:01,000 --> 00:02:04,000
+ jak widać na liście po lewej stronie.
+
+19
+00:02:04,000 --> 00:02:10,000
+Zamiast używać ogólnego bloku osadzania, mogliśmy użyć bloku osadzania X, aby osiągnąć ten sam rezultat.
+
+20
+00:02:14,000 --> 00:02:21,000
+W następnym przykładzie nie zamierzam klikać na przycisk „Wstaw” w lewym górnym rogu, ale raczej wpisać ukośnik i nazwę bloku.
+
+21
+00:02:23,000 --> 00:02:31,000
+Chciałbym dodać film z YouTube do mojej witryny, więc wpiszę ukośnik YouTube, zaznaczę blok, a następnie dodam adres URL filmu i kliknę „Osadź”.
+
+22
+00:02:41,000 --> 00:02:46,000
+Jednak WordPress jeszcze bardziej ułatwił dodawanie treści stron trzecich do witryny.
+
+23
+00:02:46,000 --> 00:02:49,000
+Technicznie rzecz biorąc, nie musisz nawet dodawać bloku.
+
+24
+00:02:49,000 --> 00:02:53,000
+Wystarczy wkleić adres URL bezpośrednio na swoją stronę lub do wpisu.
+
+25
+00:02:55,000 --> 00:02:57,000
+Spójrzmy na inny przykład.
+
+26
+00:02:57,000 --> 00:03:03,000
+Zamiast wstawiać blok osadzania Spotify, wkleję adres URL podcastu Spotify bezpośrednio do mojej strony.
+
+27
+00:03:09,000 --> 00:03:14,000
+Czy wiesz, że możesz przekształcić osadzony element w blok „Kolumny” lub „Grupa”?
+
+28
+00:03:14,000 --> 00:03:19,000
+Przekształcenie go w jeden z tych bloków pozwoli ci zmienić kolor tła i układ.
+
+29
+00:03:19,000 --> 00:03:25,000
+Chciałbym dodać wykład TED, więc wpiszę ukośnik TED, zaznaczę blok, a następnie wkleję adres URL wykładu.
+
+30
+00:03:30,000 --> 00:03:35,000
+Gdy to zrobię, wybieram pasek narzędzi bloku i przekształcam ten blok w blok „Kolumny”.
+
+31
+00:03:37,000 --> 00:03:42,000
+Następnie otwieram ustawienia paska bocznego i zmieniam układ z jednej kolumny na dwie kolumny.
+
+32
+00:03:44,000 --> 00:03:51,000
+Następnie dodaję kolejny blok osadzony TED do prawej kolumny, wklejam adres URL drugiego filmu, a następnie klikam opcję „Osadź”.
+
+33
+00:03:56,000 --> 00:04:02,000
+Wybiorę blok „Kolumny” lub blok kontenera, a następnie na pasku narzędzi bloku zmienię wyrównanie na szerokie.
+
+34
+00:04:06,000 --> 00:04:11,000
+Następnie można przejść do sekcji „Style”, zmienić kolor tła bloku, zmienić dopełnienie itp.
+
+35
+00:04:22,000 --> 00:04:25,000
+Ale co się stanie, jeśli bloki osadzania nie będą działać?
+
+36
+00:04:26,000 --> 00:04:29,000
+Cóż, możemy użyć bloku HTML.
+
+37
+00:04:29,000 --> 00:04:34,000
+Na przykład blok osadzania nie działa w przypadku wpisów na Facebooku lub Instagramie.
+
+38
+00:04:34,000 --> 00:04:43,000
+Przejdźmy do jednego z naszych wpisów na Facebooku. Kliknij trzy pionowe kropki, kliknij „osadź”, skopiuj kod HTML, wróć do swojej witryny, wpisz ukośnik HTML, a następnie wybierz blok „Własny HTML”.
+
+39
+00:04:58,000 --> 00:05:01,000
+Następnie możemy wkleić kod.
+
+40
+00:05:01,000 --> 00:05:06,000
+Możemy kliknąć podgląd na pasku narzędzi bloku, aby zobaczyć, jak będzie wyświetlany wpis.
+
+41
+00:05:09,000 --> 00:05:15,000
+Mam nadzieję, że masz teraz wszystkie narzędzia potrzebne do osadzania treści stron trzecich w swojej witrynie.
+

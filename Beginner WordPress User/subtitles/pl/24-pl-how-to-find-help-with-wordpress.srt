@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:04,000
+Co należy zrobić, gdy napotkasz przeszkodę podczas pracy z WordPressem?
+
+2
+00:00:05,000 --> 00:00:10,000
+W tej lekcji pokażę ci, jak znaleźć pomoc, gdy jej najbardziej potrzebujesz.
+
+3
+00:00:10,000 --> 00:00:15,000
+Jeśli napotkasz problem, taki jak błąd formatowania, nieprawidłowe działanie wtyczki lub inne utrudnienie,
+
+4
+00:00:15,000 --> 00:00:19,000
+możesz zacząć od odwiedzenia strony WordPress.org/support/forums,
+
+5
+00:00:20,000 --> 00:00:24,000
+aby sprawdzić, czy istnieje już wątek dotyczący twojego problemu.
+
+6
+00:00:24,000 --> 00:00:27,000
+Być może znajdziesz tam odpowiedź na swoje pytanie.
+
+7
+00:00:27,000 --> 00:00:30,000
+Przejdźmy do praktycznej demonstracji.
+
+8
+00:00:30,000 --> 00:00:34,000
+Przejdź na stronę WordPress.org, kliknij „Learn”, a następnie wybierz „Fora”.
+
+9
+00:00:36,000 --> 00:00:39,000
+W prawym górnym rogu możesz wyszukać istniejące pytania.
+
+10
+00:00:41,000 --> 00:00:44,000
+W tym przypadku wpiszę „Witryna wolno się wczytuje”,
+
+11
+00:00:46,000 --> 00:00:49,000
+a następnie wyświetlę listę wyników.
+
+12
+00:00:50,000 --> 00:00:53,000
+Mam nadzieję, że wśród nich znajdę odpowiedź.
+
+13
+00:00:55,000 --> 00:00:58,000
+Jeśli nie możesz znaleźć wątku, który zawiera rozwiązanie twojego problemu,
+
+14
+00:00:58,000 --> 00:01:02,000
+możemy wrócić do witryny forum wsparcia i zamieścić zapytanie na jednym z forów,
+
+15
+00:01:05,000 --> 00:01:08,000
+takich jak „Naprawa WordPressa” lub „Wszystko inne dotyczące WordPressa”.
+
+16
+00:01:08,000 --> 00:01:11,000
+Otwórzmy forum naprawy WordPressa.
+
+17
+00:01:12,000 --> 00:01:16,000
+W prawym górnym rogu nad listą tematów możesz utworzyć własny temat,
+
+18
+00:01:16,000 --> 00:01:20,000
+a następnie wypełnić wszystkie istotne szczegóły dotyczące swojego pytania.
+
+19
+00:01:21,000 --> 00:01:25,000
+Jeśli napotkasz problem związany z konkretną wtyczką lub motywem,
+
+20
+00:01:25,000 --> 00:01:29,000
+zalecamy skontaktowanie się bezpośrednio z forum wsparcia lub stroną wsparcia.
+
+21
+00:01:29,000 --> 00:01:33,000
+Pragnę również podkreślić, że osoby z ogólnych forów wsparcia
+
+22
+00:01:33,000 --> 00:01:38,000
+często kierują użytkowników do tych platform, jeśli problem dotyczy motywu lub wtyczki.
+
+23
+00:01:38,000 --> 00:01:43,000
+Aby znaleźć forum wsparcia konkretnej wtyczki lub motywu, przejdź do strony forów
+
+24
+00:01:44,000 --> 00:01:47,000
+i przewiń w dół do sekcji „Motywy i wtyczki”.
+
+25
+00:01:48,000 --> 00:01:51,000
+Wybierz odpowiednią opcję, w tym przypadku wtyczki,
+
+26
+00:01:52,000 --> 00:01:55,000
+a następnie wyszukaj odpowiednią wtyczkę.
+
+27
+00:01:56,000 --> 00:01:59,000
+W tym przykładzie wybieram wtyczkę Jetpack.
+
+28
+00:02:00,000 --> 00:02:04,000
+Następnie klikam zakładkę „Wsparcie” poniżej przycisku pobierania.
+
+29
+00:02:04,000 --> 00:02:07,000
+Otworzy się forum wsparcia dla wtyczki Jetpack,
+
+30
+00:02:08,000 --> 00:02:12,000
+na którym można przeszukiwać stare pytania lub tworzyć nowe tematy.
+
+31
+00:02:13,000 --> 00:02:19,000
+Jeśli jesteś na swojej witrynie, możesz uzyskać dostęp do wsparcia z poziomu kokpitu, na stronie wtyczek.
+
+32
+00:02:19,000 --> 00:02:24,000
+Jeśli korzystasz z motywu lub wtyczki premium, zawsze możesz odwiedzić ich witrynę internetową
+
+33
+00:02:24,000 --> 00:02:27,000
+i skontaktować się z zespołem wsparcia.
+
+34
+00:02:27,000 --> 00:02:32,000
+Na koniec, na stronie WordPress.org można uzyskać dostęp do dwóch fantastycznych zasobów,
+
+35
+00:02:32,000 --> 00:02:37,000
+które zawierają pomoc i wskazówki dotyczące korzystania z WordPressa i tworzenia na jego bazie.
+
+36
+00:02:37,000 --> 00:02:40,000
+Po pierwsze, dokumentacja WordPressa.
+
+37
+00:02:40,000 --> 00:02:43,000
+Dostęp do dokumentacji można uzyskać ze strony forum
+
+38
+00:02:44,000 --> 00:02:48,000
+lub klikając opcję „Learn”, a następnie wybierając „Dokumentacja”.
+
+39
+00:02:50,000 --> 00:02:53,000
+Strona dokumentacji jest skarbnicą przewodników
+
+40
+00:02:54,000 --> 00:02:57,000
+i artykułów obejmujących szeroki zakres tematów.
+
+41
+00:02:57,000 --> 00:03:04,000
+Możesz użyć pola wyszukiwania, aby znaleźć interesujący cię temat, lub skorzystać z poniższych odnośników, aby zawęzić wyniki wyszukiwania.
+
+42
+00:03:04,000 --> 00:03:09,000
+Być może chcesz dowiedzieć się więcej o zmianie lub dostosowywaniu wyglądu swojej witryny,
+
+43
+00:03:09,000 --> 00:03:12,000
+więc w sekcji „Dostosowywanie” wybierz opcję „Wygląd”,
+
+44
+00:03:15,000 --> 00:03:17,000
+a następnie wybierz interesujący cię temat.
+
+45
+00:03:17,000 --> 00:03:21,000
+Być może chcesz dowiedzieć się więcej na przykład o motywach blokowych.
+
+46
+00:03:24,000 --> 00:03:27,000
+Na koniec porozmawiajmy o Learn.WordPress.org.
+
+47
+00:03:29,000 --> 00:03:33,000
+Aby otworzyć stronę, kliknij zakładkę „Learn” i wybierz „Learn WordPress”.
+
+48
+00:03:35,000 --> 00:03:40,000
+Learn WordPress to platforma edukacyjna i źródło informacji, które oferuje różne materiały,
+
+49
+00:03:40,000 --> 00:03:45,000
+w tym lekcje wideo, warsztaty online i kursy mające na celu pomoc osobom indywidualnym w nauce
+
+50
+00:03:45,000 --> 00:03:50,000
+i doskonaleniu umiejętności korzystania z WordPressa oraz tworzenia witryn w tym systemie.
+
+51
+00:03:50,000 --> 00:03:53,000
+Wierzę, że te platformy pomogą ci znaleźć potrzebne odpowiedzi lub zasoby.
+
+52
+00:03:55,000 --> 00:03:58,000
+Dodam również odnośniki w opisie poniżej.
+

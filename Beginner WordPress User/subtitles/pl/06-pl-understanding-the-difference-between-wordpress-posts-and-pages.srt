@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:03,000
+Witamy ponownie w kursie Learn WordPress.
+
+2
+00:00:04,000 --> 00:00:07,000
+W tej lekcji zajmiemy się podstawowym aspektem WordPressa,
+
+3
+00:00:08,000 --> 00:00:11,000
+czyli zrozumieniem różnicy między wpisami a stronami.
+
+4
+00:00:12,000 --> 00:00:15,000
+Oto efekty nauczania dla tej lekcji.
+
+5
+00:00:15,000 --> 00:00:18,000
+Nauczymy się rozróżniać wpisy od stron,
+
+6
+00:00:18,000 --> 00:00:21,000
+tworzyć wpisy i strony, stosować kategorie i tagi do wpisów
+
+7
+00:00:22,000 --> 00:00:25,000
+oraz tworzyć i edytować strony w edytorze witryny.
+
+8
+00:00:26,000 --> 00:00:29,000
+Zanim przejdziemy do szczegółów,
+
+9
+00:00:29,000 --> 00:00:31,000
+zacznijmy od ogólnego omówienia.
+
+10
+00:00:31,000 --> 00:00:34,000
+Zarówno wpisy, jak i strony w WordPressie są typami treści,
+
+11
+00:00:37,000 --> 00:00:40,000
+ale służą różnym celom.
+
+12
+00:00:40,000 --> 00:00:45,000
+Krótko mówiąc, wpisy są używane do treści dynamicznych, takich jak wpisy na blogu,
+
+13
+00:00:45,000 --> 00:00:48,000
+artykuły informacyjne, przepisy kulinarne itp.
+
+14
+00:00:49,000 --> 00:00:54,000
+Natomiast strony są treściami statycznymi, takimi jak na przykład strona kontaktowa.
+
+15
+00:00:55,000 --> 00:00:59,000
+Jesteśmy w kokpicie WordPressa. Aby utworzyć nowy wpis lub stronę,
+
+16
+00:00:59,000 --> 00:01:02,000
+przejdź do sekcji wpisów lub stron w menu po lewej stronie.
+
+17
+00:01:05,000 --> 00:01:08,000
+Jeśli chcesz utworzyć nowy wpis lub stronę,
+
+18
+00:01:08,000 --> 00:01:11,000
+po prostu kliknij „Dodaj wpis” lub „Dodaj stronę”.
+
+19
+00:01:12,000 --> 00:01:15,000
+Zacznijmy od wpisów.
+
+20
+00:01:15,000 --> 00:01:19,000
+Wpisy służą do tworzenia dynamicznych, regularnie aktualizowanych treści,
+
+21
+00:01:20,000 --> 00:01:23,000
+które są wyświetlane w odwrotnej kolejności chronologicznej.
+
+22
+00:01:24,000 --> 00:01:27,000
+Doskonale nadają się do regularnie aktualizowanych treści,
+
+23
+00:01:28,000 --> 00:01:31,000
+takich jak artykuły na blogu,
+
+24
+00:01:32,000 --> 00:01:35,000
+strony z aktualnościami,
+
+25
+00:01:38,000 --> 00:01:41,000
+a nawet recenzje.
+
+26
+00:01:43,000 --> 00:01:46,000
+Wyobraź sobie, że prowadzisz bloga kulinarnego
+
+27
+00:01:46,000 --> 00:01:49,000
+i chcesz podzielić się swoim najnowszym przepisem.
+
+28
+00:01:50,000 --> 00:01:53,000
+W tym celu utworzyłbyś nowy wpis.
+
+29
+00:01:53,000 --> 00:01:56,000
+Jak widać na tym przykładzie, utworzyłem już dwa różne wpisy
+
+30
+00:01:58,000 --> 00:02:01,000
+i dodałem kategorie oraz tagi.
+
+31
+00:02:02,000 --> 00:02:05,000
+Kategorie i tagi są niezbędne dla wpisów.
+
+32
+00:02:05,000 --> 00:02:08,000
+Kategorie są jak spis treści twojego bloga,
+
+33
+00:02:08,000 --> 00:02:10,000
+grupując podobne wpisy razem.
+
+34
+00:02:10,000 --> 00:02:13,000
+Tagi natomiast są bardziej szczegółowymi słowami kluczowymi,
+
+35
+00:02:13,000 --> 00:02:16,000
+które opisują treść bardziej szczegółowo.
+
+36
+00:02:16,000 --> 00:02:20,000
+Tak więc dla mojego bloga kulinarnego stworzyłem już dwie kategorie,
+
+37
+00:02:20,000 --> 00:02:23,000
+„Dania główne” i „Śniadania”,
+
+38
+00:02:23,000 --> 00:02:26,000
+a tagi opisują bardziej szczegółowo przepis.
+
+39
+00:02:26,000 --> 00:02:29,000
+Przejdźmy więc do tworzenia nowego wpisu.
+
+40
+00:02:31,000 --> 00:02:34,000
+Przepis na ciasto czekoladowe.
+
+41
+00:02:34,000 --> 00:02:38,000
+Należy jednak pamiętać, że utworzyłem już kategorię o nazwie „Desery”
+
+42
+00:02:40,000 --> 00:02:43,000
+oraz dwa tagi: „Ciasta i babeczki” oraz „Czekolada”.
+
+43
+00:02:47,000 --> 00:02:52,000
+Przejdziemy więc do wszystkich wpisów, a następnie klikniemy „Dodaj nowy wpis”.
+
+44
+00:02:52,000 --> 00:02:55,000
+Najpierw dodam tytuł wpisu na blogu,
+
+45
+00:02:57,000 --> 00:03:00,000
+a następnie przepis.
+
+46
+00:03:04,000 --> 00:03:07,000
+Po dodaniu przepisu otworzę ustawienia paska bocznego
+
+47
+00:03:09,000 --> 00:03:12,000
+i przewinę w dół do kategorii i tagów.
+
+48
+00:03:13,000 --> 00:03:16,000
+Następnie wybieram kategorię „Desery”
+
+49
+00:03:20,000 --> 00:03:23,000
+i dodaję tagi „Czekolada” i „Babeczki”.
+
+50
+00:03:28,000 --> 00:03:31,000
+Następnie dodaję również obrazek wyróżniający wpis
+
+51
+00:03:32,000 --> 00:03:36,000
+lub miniaturę wpisu i wybieram obrazek z mojej biblioteki multimediów.
+
+52
+00:03:39,000 --> 00:03:42,000
+Następnie możemy zapisać to jako wersję roboczą,
+
+53
+00:03:42,000 --> 00:03:45,000
+lub jeśli przewiniemy w górę ustawienia paska bocznego,
+
+54
+00:03:46,000 --> 00:03:49,000
+możemy kliknąć datę obok opcji publikacji
+
+55
+00:03:49,000 --> 00:03:52,000
+i zdecydować, czy opublikować to teraz,
+
+56
+00:03:53,000 --> 00:03:56,000
+czy zaplanować publikację na później.
+
+57
+00:03:57,000 --> 00:04:00,000
+Opublikuję to teraz,
+
+58
+00:04:00,000 --> 00:04:04,000
+a następnie zobaczymy, jak nasze wpisy wyglądają na stronie głównej.
+
+59
+00:04:05,000 --> 00:04:09,000
+Tutaj możemy zobaczyć nasze trzy przepisy na stronie naszego bloga
+
+60
+00:04:09,000 --> 00:04:12,000
+i otworzyć jeden z nich,
+
+61
+00:04:13,000 --> 00:04:16,000
+aby zobaczyć wynik.
+
+62
+00:04:18,000 --> 00:04:20,000
+Porozmawiajmy teraz o stronach.
+
+63
+00:04:20,000 --> 00:04:24,000
+Strony to statyczne, ponadczasowe treści, które nie zmieniają się często.
+
+64
+00:04:25,000 --> 00:04:28,000
+Przykłady obejmują stronę główną witryny, stronę „Usługi”,
+
+65
+00:04:29,000 --> 00:04:32,000
+stronę „O nas” i stronę „Kontakt”.
+
+66
+00:04:33,000 --> 00:04:37,000
+Jeśli chcesz utworzyć dedykowaną sekcję „O nas” dla swojej witryny,
+
+67
+00:04:37,000 --> 00:04:40,000
+użyj strony.
+
+68
+00:04:40,000 --> 00:04:44,000
+W przeciwieństwie do wpisów, strony nie mają kategorii ani tagów.
+
+69
+00:04:44,000 --> 00:04:47,000
+Są to samodzielne elementy treści,
+
+70
+00:04:47,000 --> 00:04:50,000
+więc dodajmy nową stronę
+
+71
+00:04:51,000 --> 00:04:54,000
+i nazwijmy ją „O nas”,
+
+72
+00:04:55,000 --> 00:04:58,000
+a następnie dodajmy do niej treść.
+
+73
+00:05:00,000 --> 00:05:04,000
+Po opublikowaniu możemy ją wyświetlić w interfejsie użytkownika.
+
+74
+00:05:04,000 --> 00:05:08,000
+Zauważysz również, że strona „O nas” jest teraz częścią menu nawigacyjnego.
+
+75
+00:05:12,000 --> 00:05:16,000
+Czy wiesz, że w edytorze witryny można również tworzyć i edytować strony?
+
+76
+00:05:17,000 --> 00:05:20,000
+Przejdźmy więc do edytora,
+
+77
+00:05:20,000 --> 00:05:23,000
+który przeniesie nas do edytora witryny.
+
+78
+00:05:25,000 --> 00:05:29,000
+Następnie przejdźmy do stron, gdzie można utworzyć nową stronę
+
+79
+00:05:33,000 --> 00:05:36,000
+lub edytować istniejącą.
+
+80
+00:05:38,000 --> 00:05:43,000
+Ogromną zaletą edytora witryny jest możliwość płynnego przechodzenia między stronami,
+
+81
+00:05:49,000 --> 00:05:52,000
+stylami, szablonami, wzorcami itp.
+
+82
+00:05:54,000 --> 00:05:55,000
+I gotowe.
+
+83
+00:05:55,000 --> 00:06:00,000
+Pamiętaj, że wpisy służą do publikowania dynamicznych, regularnie aktualizowanych treści,
+
+84
+00:06:00,000 --> 00:06:05,000
+natomiast strony służą do publikowania statycznych, ponadczasowych informacji.
+

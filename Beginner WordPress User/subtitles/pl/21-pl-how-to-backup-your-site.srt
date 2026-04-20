@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:04,000
+W tej lekcji omówimy istotną część zarządzania witryną WordPress.
+
+2
+00:00:06,000 --> 00:00:08,000
+Tworzenie kopii zapasowych cennych danych.
+
+3
+00:00:08,000 --> 00:00:14,000
+Wypadki się zdarzają, dlatego ważne jest, aby mieć kopię zapasową witryny na wypadek, gdyby coś poszło nie tak.
+
+4
+00:00:14,000 --> 00:00:20,000
+Zaleca się również tworzenie kopii zapasowej witryny przed aktualizacją WordPress, motywów lub wtyczek,
+
+5
+00:00:20,000 --> 00:00:27,000
+przed zainstalowaniem nowych wtyczek lub motywów, przed migracją lub przeniesieniem witryny oraz po znaczących aktualizacjach treści.
+
+6
+00:00:29,000 --> 00:00:32,000
+Omówimy dwie metody tworzenia kopii zapasowej witryny WordPress.
+
+7
+00:00:32,000 --> 00:00:38,000
+Po pierwsze, skorzystaj z usług firmy hostingowej, a po drugie, użyj wtyczki do tworzenia kopii zapasowych.
+
+8
+00:00:38,000 --> 00:00:43,000
+Istnieje również ręczny sposób tworzenia kopii zapasowej witryny, ale omówimy go pokrótce na końcu.
+
+9
+00:00:44,000 --> 00:00:49,000
+Najłatwiejszym sposobem jest skorzystanie z usług firmy hostingowej w celu wykonania kopii zapasowej.
+
+10
+00:00:49,000 --> 00:00:54,000
+Różne firmy hostingowe mają różne interfejsy lub sposoby tworzenia kopii zapasowych witryn.
+
+11
+00:00:54,000 --> 00:01:00,000
+Można się tego nauczyć, przechodząc do strony kopii zapasowych i przywracania w panelu sterowania firmy hostingowej.
+
+12
+00:01:02,000 --> 00:01:08,000
+Aby wyjaśnić, jak działa ten proces, posłużę się moją witryną internetową Pressable, ponieważ tam mam konto hostingowe.
+
+13
+00:01:08,000 --> 00:01:14,000
+Po zalogowaniu się do panelu sterowania przejdę do sekcji tworzenia kopii zapasowych i przywracania danych.
+
+14
+00:01:14,000 --> 00:01:17,000
+U góry zobaczymy dostępne aktualizacje systemu plików
+
+15
+00:01:22,000 --> 00:01:25,000
+i bazy danych.
+
+16
+00:01:25,000 --> 00:01:28,000
+Moja firma hostingowa automatycznie dokonuje tych aktualizacji.
+
+17
+00:01:30,000 --> 00:01:35,000
+Być może zadajesz sobie pytanie, jaka jest różnica między systemem plików a bazą danych?
+
+18
+00:01:35,000 --> 00:01:43,000
+Mówiąc o tworzeniu kopii zapasowej systemu plików, mamy na myśli tworzenie kopii zapasowej plików i folderów, które składają się na twoją witrynę.
+
+19
+00:01:43,000 --> 00:01:51,000
+Pliki te obejmują pliki samego WordPressa, motywy, wtyczki, przesłane multimedia i wszelkie inne pliki związane z twoją witryną internetową.
+
+20
+00:01:53,000 --> 00:01:59,000
+Z kolei kopia zapasowa bazy danych skupia się na tworzeniu kopii zapasowej danych przechowywanych w bazie danych twojej witryny.
+
+21
+00:01:59,000 --> 00:02:07,000
+W WordPressie baza danych jest miejscem, w którym przechowywane są wszystkie treści tekstowe, ustawienia, informacje o użytkownikach i inne dane dynamiczne.
+
+22
+00:02:07,000 --> 00:02:10,000
+Obejmuje ona wpisy, strony, komentarze, profile użytkowników itp.
+
+23
+00:02:12,000 --> 00:02:17,000
+Jak już wspomniałem, moja firma hostingowa automatycznie aktualizuje moją witrynę.
+
+24
+00:02:18,000 --> 00:02:27,000
+Jednak poniżej automatycznych aktualizacji można zauważyć, że mogę również wybrać opcję utworzenia kopii zapasowej mojej witryny w dowolnym momencie, co nazywa się kopią zapasową na żądanie.
+
+25
+00:02:28,000 --> 00:02:31,000
+Zaktualizujmy więc mój system plików i bazę danych na żądanie.
+
+26
+00:02:34,000 --> 00:02:40,000
+Teraz możemy zobaczyć naszą najnowszą kopię zapasową systemu plików i bazy danych wykonaną na żądanie.
+
+27
+00:02:47,000 --> 00:02:53,000
+Kopie zapasowe te pojawią się również na liście dostępnych kopii zapasowych systemu plików i bazy danych.
+
+28
+00:02:59,000 --> 00:03:06,000
+Jeśli więc coś pójdzie nie tak i trzeba będzie przywrócić poprzednią wersję witryny, wystarczy wybrać kopię zapasową,
+
+29
+00:03:16,000 --> 00:03:18,000
+a następnie kliknąć „Przywróć”.
+
+30
+00:03:18,000 --> 00:03:22,000
+Jeśli więc masz kopie zapasowe swojej witryny, nie musisz się martwić.
+
+31
+00:03:23,000 --> 00:03:32,000
+Następnie przyjrzymy się bliżej korzystaniu z wtyczki, jeśli jest to preferowana opcja lub jeśli nie masz takiej możliwości u swojego dostawcy usług hostingowych.
+
+32
+00:03:33,000 --> 00:03:38,000
+W katalogu wtyczek dostępne są różne wtyczki, takie jak Updraft Plus, Jetpack, Duplicator itp.
+
+33
+00:03:42,000 --> 00:03:45,000
+W tym demo zainstalujemy i włączymy wtyczkę Updraft Plus.
+
+34
+00:03:50,000 --> 00:03:53,000
+Po włączeniu możemy przejść do ustawień.
+
+35
+00:03:54,000 --> 00:04:00,000
+Pod zakładką „Kopia zapasowa i przywracanie” zobaczymy następne zaplanowane i istniejące kopie zapasowe.
+
+36
+00:04:02,000 --> 00:04:11,000
+W prawym górnym rogu zauważymy duże wezwanie do działania lub przyciski „Utwórz kopię zapasową teraz”, które umożliwiają wykonanie kopii zapasowej systemu plików i bazy danych na żądanie.
+
+37
+00:04:14,000 --> 00:04:17,000
+Teraz utworzę kopię zapasową mojej witryny.
+
+38
+00:04:19,000 --> 00:04:25,000
+Następnie zobaczysz również opcje konfiguracji kopii zapasowych dla bazy danych, systemu plików lub obu tych elementów.
+
+39
+00:04:25,000 --> 00:04:28,000
+Następnie możemy wybrać opcję „Utwórz kopię zapasową teraz”.
+
+40
+00:04:31,000 --> 00:04:37,000
+Po utworzeniu kopii zapasowej zauważymy, że ta kopia zapasowa na żądanie wyświetla istniejące kopie zapasowe poniżej.
+
+41
+00:04:38,000 --> 00:04:43,000
+Jeśli coś pójdzie nie tak, możesz po prostu przywrócić swoją witrynę internetową używając poniższych funkcji.
+
+42
+00:04:43,000 --> 00:04:49,000
+Po przejściu do ustawień możesz skonfigurować harmonogram tworzenia kopii zapasowych dla swojej witryny internetowej.
+
+43
+00:04:50,000 --> 00:04:55,000
+W tym przykładzie powiem, że chcę, aby moja witryna była aktualizowana codziennie.
+
+44
+00:05:00,000 --> 00:05:06,000
+Po prawej stronie możesz wybrać, ile kopii zapasowych chcesz, aby wtyczka zachowała lub przechowywała.
+
+45
+00:05:06,000 --> 00:05:10,000
+Poniżej można wybrać miejsce przechowywania kopii zapasowych.
+
+46
+00:05:12,000 --> 00:05:20,000
+Istnieje więcej opcji, które warto sprawdzić, ale po skonfigurowaniu wtyczki można mieć pewność, że w razie potrzeby kopia zapasowa będzie dostępna.
+
+47
+00:05:22,000 --> 00:05:28,000
+Na tym etapie warto zwrócić uwagę na najlepszą praktykę dotyczącą tworzenia kopii zapasowych witryny.
+
+48
+00:05:28,000 --> 00:05:32,000
+Kopię zapasową należy przechowywać w miejscu innym niż serwer internetowy.
+
+49
+00:05:32,000 --> 00:05:37,000
+Dobrym rozwiązaniem są usługi przechowywania danych w chmurze, takie jak Dropbox, Google Drive itp.
+
+50
+00:05:37,000 --> 00:05:42,000
+Dzięki temu kopie zapasowe pozostaną bezpieczne nawet w przypadku problemów z serwerem.
+
+51
+00:05:43,000 --> 00:05:52,000
+Wreszcie, masz również możliwość ręcznej aktualizacji bazy danych za pomocą phpMyAdmin oraz systemu plików poprzez serwer swojej witryny, korzystając z klienta FTP lub menedżera plików w panelu sterowania hostingu.
+
+52
+00:05:56,000 --> 00:06:02,000
+Metody te są bardziej techniczne, dlatego dodamy odnośniki do innych zasobów, jeśli chcesz dowiedzieć się więcej.
+
+53
+00:06:03,000 --> 00:06:11,000
+Nie ma znaczenia, którą metodę wybierzesz, ale ważne jest, aby regularnie wykonywać kopie zapasowe w celu ochrony swojej witryny i jej cennych danych.
+

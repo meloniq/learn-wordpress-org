@@ -1,0 +1,192 @@
+1
+00:00:00,000 --> 00:00:05,000
+W tej lekcji dowiesz się, jak używać nagłówków, żeby poprawić dostępność i SEO.
+
+2
+00:00:06,000 --> 00:00:15,000
+Czy wiesz, że używanie nagłówków w witrynach internetowych, w wpisach i na stronach może mieć wpływ na to, czy ludzie będą chcieli zostać na twojej witrynie, czy raczej ją opuszczą i poszukają innej?
+
+3
+00:00:17,000 --> 00:00:23,000
+W tym przykładzie mamy artykuł bez nagłówków, co sprawia, że czytelnikowi trudno się po nim poruszać.
+
+4
+00:00:26,000 --> 00:00:34,000
+W kolejnym przykładzie dodaliśmy odpowiednie nagłówki, aby pomóc czytelnikowi zrozumieć treść i dowiedzieć się, o czym jest artykuł, zanim go przeczyta.
+
+5
+00:00:39,000 --> 00:00:44,000
+Nagłówki porządkują treść i ułatwiają czytelnikowi nawigację oraz wyszukiwanie informacji.
+
+6
+00:00:46,000 --> 00:00:53,000
+Co najważniejsze, są one niezbędnym narzędziem zapewniającym dostępność i optymalizację pod kątem wyszukiwarek internetowych.
+
+7
+00:00:53,000 --> 00:01:00,000
+Pod koniec tej lekcji będziemy potrafili prawidłowo używać nagłówków w celu poprawy czytelności, dostępności i SEO.
+
+8
+00:01:01,000 --> 00:01:05,000
+Po pierwsze, dlaczego tak ważne jest strukturyzowanie treści za pomocą nagłówków?
+
+9
+00:01:05,000 --> 00:01:08,000
+Cóż, wprowadzają one nowe tematy lub sekcje.
+
+10
+00:01:09,000 --> 00:01:11,000
+Prowadzą czytelnika.
+
+11
+00:01:11,000 --> 00:01:13,000
+Pozwalają mu przeglądać treść.
+
+12
+00:01:13,000 --> 00:01:21,000
+Dają również czytelnikowi wyobrażenie o tym, czego może się spodziewać, a na koniec dzielą tematy na łatwiejsze do przyswojenia fragmenty informacji.
+
+13
+00:01:21,000 --> 00:01:24,000
+Nagłówki służą również do wskazania hierarchii informacji.
+
+14
+00:01:25,000 --> 00:01:31,000
+Twoje strony i wpisy zostaną podzielone na podnagłówki, takie jak nagłówek 2 lub H2, H3, aż do H6.
+
+15
+00:01:36,000 --> 00:01:41,000
+Po dodaniu pierwszego bloku nagłówka zauważysz, że automatycznie zostanie wybrany nagłówek H2.
+
+16
+00:01:41,000 --> 00:01:46,000
+Dzieje się tak, ponieważ tytuł strony lub wpisu jest pierwszym głównym nagłówkiem.
+
+17
+00:01:47,000 --> 00:01:52,000
+Po dodaniu nagłówka możesz zmienić jego typ, wybierając odpowiedni nagłówek w widoku listy.
+
+18
+00:01:54,000 --> 00:01:59,000
+Następnie wybierz opcję H2 na pasku narzędzi bloku, a stamtąd możesz wybrać między H1 a H6,
+
+19
+00:02:02,000 --> 00:02:06,000
+aby upewnić się, że nagłówki są w prawidłowej kolejności i hierarchii.
+
+20
+00:02:07,000 --> 00:02:12,000
+Czy wiesz, że możesz użyć funkcji konspektu w widoku listy, aby szybko sprawdzić nagłówki?
+
+21
+00:02:13,000 --> 00:02:17,000
+Sprawdź, czy nagłówek H2 odnosi się do nagłówka H1, a H3 do H2 itd.
+
+22
+00:02:20,000 --> 00:02:28,000
+WordPress powiadomi cię również w tej sekcji konspektu, jeśli przypadkowo pominiesz poziom nagłówka, pomagając ci upewnić się, że są one w porządku chronologicznym.
+
+23
+00:02:28,000 --> 00:02:34,000
+Możesz sprawdzić swoje strony pod kątem błędów, aby szybko je poprawić, zamiast przeszukiwać je blok po bloku.
+
+24
+00:02:34,000 --> 00:02:39,000
+W tym przykładzie chcę upewnić się, że wszystkie rodzaje sushi są wymienione jako H4.
+
+25
+00:02:40,000 --> 00:02:43,000
+Nagłówki są również ważne dla dostępności.
+
+26
+00:02:44,000 --> 00:02:49,000
+Nieprawidłowe ich użycie oznacza, że wiele osób nie będzie miało dostępu do informacji zawartych w twojej witrynie.
+
+27
+00:02:49,000 --> 00:02:57,000
+Kiedy używasz nagłówków dla dostępności, umożliwia to czytnikom ekranowym lepszą nawigację po stronie i szybkie znalezienie odpowiednich informacji.
+
+28
+00:02:57,000 --> 00:03:03,000
+Ponadto użytkownicy korzystający wyłącznie z klawiatury mogą szybko przejść do odpowiedniej sekcji za pomocą jednego kliknięcia.
+
+29
+00:03:03,000 --> 00:03:09,000
+Bez nagłówków czytnik ekranowy, w tym przykładzie, musi odczytać na głos cały fragment tekstu.
+
+30
+00:03:10,000 --> 00:03:13,000
+Nie ma nagłówków, które pozwoliłyby użytkownikom przejść dalej.
+
+31
+00:03:13,000 --> 00:03:20,000
+Jeśli dodam nagłówki, czytnik ekranu lub klawiatura umożliwią użytkownikom szybkie przejście do sekcji, która jest dla nich istotna.
+
+32
+00:03:22,000 --> 00:03:28,000
+Nagłówki pomagają również użytkownikom z wadami wzroku zachować strukturę strony po jej powiększeniu.
+
+33
+00:03:28,000 --> 00:03:36,000
+Gdy użytkownik z wadą wzroku powiększa stronę, różne rozmiary tekstu pozwalają mu śledzić, gdzie się znajduje w witrynie internetowej.
+
+34
+00:03:39,000 --> 00:03:42,000
+Pamiętaj, aby podzielić nagłówki na logiczne fragmenty.
+
+35
+00:03:43,000 --> 00:03:47,000
+Na przykład ten wpis dotyczy papug, co jest tytułem, nagłówkiem H1.
+
+36
+00:03:48,000 --> 00:03:53,000
+Artykuł rozpocząłem od omówienia zdrowia papug i w tym celu użyłem nagłówka H2.
+
+37
+00:03:55,000 --> 00:04:01,000
+Kolejnym podtematem dotyczącym zdrowia papug jest ich odżywianie, a następnie możemy przejść do kolejnego podtytułu.
+
+38
+00:04:03,000 --> 00:04:08,000
+Każdy podtemat powinien odnosić się do powyższego tematu, podobnie jak w artykule w czasopiśmie.
+
+39
+00:04:10,000 --> 00:04:16,000
+Na koniec porozmawiajmy o nagłówkach i optymalizacji pod kątem wyszukiwarek internetowych, czyli SEO.
+
+40
+00:04:16,000 --> 00:04:22,000
+Możesz przemyślanie umieszczać słowa kluczowe w nagłówkach, aby poprawić pozycję swojej witryny w wyszukiwarce.
+
+41
+00:04:22,000 --> 00:04:26,000
+Nagłówki powinny stanowić jasne i zwięzłe podsumowanie poniższej treści.
+
+42
+00:04:26,000 --> 00:04:29,000
+Powinny one dokładnie odzwierciedlać treść danej sekcji.
+
+43
+00:04:31,000 --> 00:04:36,000
+W edytorze witryny możesz kliknąć opcję „Style” i otworzyć swoją „Księgę stylów”.
+
+44
+00:04:37,000 --> 00:04:43,000
+W tym miejscu można globalnie stylizować nagłówki, korzystając z ustawień paska bocznego po prawej stronie.
+
+45
+00:04:44,000 --> 00:04:51,000
+Aby uzyskać jednolity wygląd i styl, zaleca się stosowanie tej samej hierarchii nagłówków i stylizacji w całej witrynie.
+
+46
+00:04:51,000 --> 00:04:55,000
+Ostatnia wskazówka: nigdy nie używaj bloku „Nagłówek” do stylizacji tekstu.
+
+47
+00:04:56,000 --> 00:05:05,000
+eśli chcesz nadać tekstowi stylowy wygląd, użyj dodatkowego bloku, takiego jak blok „Cytat”, lub przekształć nagłówek w blok „Akapit” i użyj ustawień „Style” po prawej stronie, aby odpowiednio zmodyfikować tekst.
+
+48
+00:05:12,000 --> 00:05:20,000
+Jestem przekonany, że zaczniesz stosować nagłówki, aby poprawić komfort użytkowania swojej witryny, a także jej pozycjonowanie w wyszukiwarkach.
+

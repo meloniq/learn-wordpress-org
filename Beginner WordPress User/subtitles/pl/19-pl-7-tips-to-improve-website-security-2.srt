@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:06,000
+Witamy w Learn WordPress. Porozmawiajmy o 7 wskazówkach dotyczących poprawy bezpieczeństwa witryn internetowych.
+
+2
+00:00:06,000 --> 00:00:10,000
+Numer 1. Korzystaj z menedżera haseł i zabezpieczaj hasła do logowania.
+
+3
+00:00:11,000 --> 00:00:15,000
+Warto zapoznać się z menedżerami haseł, takimi jak 1Password i Bitwarden.
+
+4
+00:00:16,000 --> 00:00:21,000
+Niestety jednym z najczęstszych obszarów zagrożeń bezpieczeństwa jest czynnik ludzki.
+
+5
+00:00:22,000 --> 00:00:27,000
+Żadne hasła nie powinny się powtarzać. Upewnij się, że hasła mają co najmniej 10–12 znaków
+
+6
+00:00:28,000 --> 00:00:31,000
+i zawierają cyfry oraz symbole.
+
+7
+00:00:31,000 --> 00:00:35,000
+Pamiętaj, aby nigdy nie używać nazwy „admin” jako nazwy użytkownika.
+
+8
+00:00:36,000 --> 00:00:42,000
+Menedżery haseł bezpiecznie przechowują twoje hasła i umożliwiają generowanie unikalnych, bezpiecznych haseł
+
+9
+00:00:42,000 --> 00:00:46,000
+dla każdego logowania bez konieczności zapamiętywania każdego z nich.
+
+10
+00:00:46,000 --> 00:00:49,000
+Numer 2. Używaj uwierzytelniania dwuskładnikowego.
+
+11
+00:00:49,000 --> 00:00:54,000
+Uwierzytelnianie dwuskładnikowe może znacznie zwiększyć bezpieczeństwo twojej witryny WordPress,
+
+12
+00:00:54,000 --> 00:00:57,000
+dodając dodatkową warstwę ochrony do procesu logowania.
+
+13
+00:00:58,000 --> 00:01:05,000
+Dzięki temu nawet jeśli ktoś inny zdobędzie twoje hasło, nadal nie będzie mógł zalogować się na twoje konto bez drugiego składnika.
+
+14
+00:01:05,000 --> 00:01:11,000
+Uwierzytelnianie dwuskładnikowe może wydawać się niewielkim krokiem, ale może znacznie poprawić bezpieczeństwo twojego
+
+15
+00:01:11,000 --> 00:01:14,000
+konta internetowego i pomóc chronić twoje dane osobowe.
+
+16
+00:01:14,000 --> 00:01:18,000
+Możesz poszukać wtyczki do uwierzytelniania dwuskładnikowego, takiej jak WP2FA,
+
+17
+00:01:20,000 --> 00:01:24,000
+Two Factor Authentication lub Mini-orange’s Google Authenticator.
+
+18
+00:01:25,000 --> 00:01:29,000
+Niektóre wtyczki zabezpieczające również zawierają funkcję uwierzytelniania
+
+19
+00:01:29,000 --> 00:01:33,000
+dwuskładnikowego, ale o wtyczkach zabezpieczających porozmawiamy za chwilę.
+
+20
+00:01:33,000 --> 00:01:41,000
+Numer 3. Zawsze sprawdzaj swoją bazę użytkowników, usuwaj niepotrzebnych użytkowników i bądź bardzo selektywny w wyborze użytkowników administracyjnych.
+
+21
+00:01:41,000 --> 00:01:44,000
+Przejdźmy do sekcji „Użytkownicy” w kokpicie.
+
+22
+00:01:44,000 --> 00:01:49,000
+Należy monitorować role użytkowników, takie jak redaktorzy, autorzy i współpracownicy.
+
+23
+00:01:49,000 --> 00:01:53,000
+Zazwyczaj rola administracyjna jest zarezerwowana dla właściciela witryny internetowej.
+
+24
+00:01:53,000 --> 00:02:00,000
+Usunięcie niepotrzebnych użytkowników zminimalizuje potencjalną powierzchnię ataku lub punkty wejścia, które mogą wykorzystać atakujący.
+
+25
+00:02:02,000 --> 00:02:08,000
+Numer 4. Instaluj tylko wtyczki i motywy od zaufanych twórców i odinstaluj te, których nie używasz.
+
+26
+00:02:10,000 --> 00:02:14,000
+Aby ocenić niezawodność motywu lub wtyczki, należy sprawdzić kilka rzeczy.
+
+27
+00:02:16,000 --> 00:02:19,000
+Sprawdź opinie i recenzje użytkowników.
+
+28
+00:02:19,000 --> 00:02:22,000
+Zwróć uwagę, kiedy motyw lub wtyczka zostały ostatnio zaktualizowane.
+
+29
+00:02:22,000 --> 00:02:27,000
+Sprawdź liczbę aktywnych instalacji, zapoznaj się z pomocą techniczną, dokumentacją
+
+30
+00:02:30,000 --> 00:02:35,000
+oraz upewnij się, że motyw lub wtyczka są kompatybilne z najnowszą wersją WordPressa.
+
+31
+00:02:35,000 --> 00:02:41,000
+Numer 5. Aktualizuj wtyczki i motywy oraz pamiętaj o tworzeniu kopii zapasowej witryny przed aktualizacją.
+
+32
+00:02:43,000 --> 00:02:46,000
+Być może zastanawiasz się, dlaczego.
+
+33
+00:02:46,000 --> 00:02:53,000
+Aktualizowanie motywów i wtyczek WordPress jest ważne dla utrzymania bezpieczeństwa, stabilności i kompatybilności witryny.
+
+34
+00:02:55,000 --> 00:03:00,000
+Aktualizacje często zawierają poprawki bezpieczeństwa, które naprawiają luki w oprogramowaniu
+
+35
+00:03:00,000 --> 00:03:04,000
+i błędy, które mogą powodować nieprawidłowe działanie lub awarie witryny.
+
+36
+00:03:04,000 --> 00:03:09,000
+Atakujący mogą również wykorzystać te błędy, aby uzyskać nieautoryzowany dostęp do witryny.
+
+37
+00:03:11,000 --> 00:03:16,000
+Aktualizując witrynę, można zapewnić jej ochronę przed najnowszymi zagrożeniami bezpieczeństwa
+
+38
+00:03:17,000 --> 00:03:21,000
+i sprawne działanie dzięki najnowszym technologiom internetowym.
+
+39
+00:03:24,000 --> 00:03:29,000
+Numer 6. Zainstaluj wtyczkę zabezpieczającą, taką jak WordFence, Jetpack Security lub i-Themes,
+
+40
+00:03:30,000 --> 00:03:34,000
+aby przeskanować swoją witrynę pod kątem zgłoszonych luk w zabezpieczeniach.
+
+41
+00:03:34,000 --> 00:03:38,000
+W katalogu wtyczek dostępnych jest również wiele innych wtyczek,
+
+42
+00:03:39,000 --> 00:03:42,000
+takich jak PatchStack czy All-in-One Security.
+
+43
+00:03:45,000 --> 00:03:50,000
+Wtyczka zabezpieczająca witrynę internetową może pomóc chronić ją przed typowymi cyberzagrożeniami,
+
+44
+00:03:50,000 --> 00:03:55,000
+blokować złośliwy ruch i ostrzegać o potencjalnych problemach związanych z bezpieczeństwem.
+
+45
+00:03:55,000 --> 00:04:01,000
+Zasadniczo wtyczka zabezpieczająca pomoże ci zachować bezpieczeństwo i integralność twojej witryny internetowej.
+
+46
+00:04:02,000 --> 00:04:05,000
+Numer 7. Coś dla bardziej zaawansowanych użytkowników.
+
+47
+00:04:07,000 --> 00:04:13,000
+Obserwuj blogi poświęcone bezpieczeństwu, takie jak PatchStack, WPScan lub Sucuri, które informują o nowych lukach w zabezpieczeniach,
+
+48
+00:04:13,000 --> 00:04:18,000
+dla których dostępne są aktualizacje, oraz o pojawiających się zagrożeniach internetowych.
+
+49
+00:04:18,000 --> 00:04:21,000
+Warto również rozważyć kilka innych kroków.
+
+50
+00:04:21,000 --> 00:04:24,000
+Po pierwsze, wybór niezawodnego dostawcy usług hostingowych.
+
+51
+00:04:24,000 --> 00:04:29,000
+Po drugie, zainstalowanie certyfikatu SSL, jeśli dostawca jeszcze tego nie zrobił,
+
+52
+00:04:30,000 --> 00:04:36,000
+pozwoli na włączenie protokołu HTTPS, który gwarantuje, że żadne informacje nie będą przesyłane w postaci zwykłego tekstu.
+
+53
+00:04:36,000 --> 00:04:42,000
+Po trzecie, warto używać wykrywacza spamu, zwłaszcza jeśli prowadzisz bloga lub zezwalasz na komentowanie wpisów.
+
+54
+00:04:43,000 --> 00:04:46,000
+Życzę powodzenia w dbaniu o bezpieczeństwo twojej witryny.
+

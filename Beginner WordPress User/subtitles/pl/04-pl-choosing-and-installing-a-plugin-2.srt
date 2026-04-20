@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:06,000
+Jedną z największych zalet korzystania z WordPressa jest możliwość wyboru i instalacji wtyczek
+
+2
+00:00:06,360 --> 00:00:09,360
+rozszerzających funkcjonalność witryny.
+
+3
+00:00:09,440 --> 00:00:13,440
+Różne wtyczki mogą służyć do dodawania dodatkowych funkcji związanych z
+
+4
+00:00:14,280 --> 00:00:19,280
+mediami społecznościowymi, analityką, bezpieczeństwem, marketingiem, członkostwem i subskrypcjami,
+
+5
+00:00:20,040 --> 00:00:23,040
+optymalizacją wydajności, SEO i tak dalej.
+
+6
+00:00:23,440 --> 00:00:28,440
+Wtyczki te mogą pomóc w lepszym wykorzystaniu witryny i uczynieniu jej bardziej dynamiczną.
+
+7
+00:00:29,040 --> 00:00:34,040
+Być może chcesz dodać mapę lub formularz kontaktowy, aby uruchomić wielojęzyczną witrynę internetową,
+
+8
+00:00:35,920 --> 00:00:40,920
+zbudować witrynę e-commerce lub zwiększyć szybkość działania swojej witryny dzięki buforowaniu.
+
+9
+00:00:41,080 --> 00:00:44,080
+Wszystko to można osiągnąć dzięki odpowiednim wtyczkom.
+
+10
+00:00:44,720 --> 00:00:48,720
+Możesz przejrzeć wszystkie, tysiące dostępnych wtyczek, odwiedzając stronę WordPress.org
+
+11
+00:00:49,000 --> 00:00:51,000
+i przeglądając katalog wtyczek.
+
+12
+00:00:51,400 --> 00:00:55,200
+Chociaż wszystkie wymienione wtyczki są bezpłatne i dostępne w repozytorium wtyczek
+
+13
+00:00:55,280 --> 00:01:00,280
+WordPress.org, mogą one mieć również wersje premium dostępne za opłatą, które zapewniają większą funkcjonalność.
+
+14
+00:01:02,720 --> 00:01:07,720
+Aby dodać wtyczkę, przejdź do sekcji „Wtyczki” w kokpicie WordPressa i wybierz opcję „Dodaj nową”.
+
+15
+00:01:08,600 --> 00:01:13,100
+Otworzy się strona polecanych wtyczek, na której możesz przeglądać najpopularniejsze
+
+16
+00:01:13,120 --> 00:01:16,120
+wtyczki, polecane wtyczki oraz zakładkę ulubionych.
+
+17
+00:01:17,920 --> 00:01:21,920
+Gdy znajdziesz odpowiednią wtyczkę, skorzystaj z funkcji wyszukiwania w prawym górnym rogu
+
+18
+00:01:22,120 --> 00:01:23,120
+strony.
+
+19
+00:01:23,200 --> 00:01:27,200
+Jeśli wpiszesz na przykład „SEO”, repozytorium wyświetli listę wtyczek pasujących
+
+20
+00:01:28,200 --> 00:01:29,200
+do twojego wyszukiwania.
+
+21
+00:01:29,200 --> 00:01:32,200
+Omówmy teraz, na co należy zwrócić uwagę przy wyborze wtyczki.
+
+22
+00:01:33,680 --> 00:01:35,680
+Porównajmy trzy najlepsze wtyczki.
+
+23
+00:01:36,360 --> 00:01:38,360
+Należy zwrócić uwagę na cztery ważne kwestie.
+
+24
+00:01:38,880 --> 00:01:40,380
+Po pierwsze, ocena gwiazdkowa.
+
+25
+00:01:40,560 --> 00:01:43,560
+Odnosi się ona do opinii klientów, którzy zainstalowali wtyczkę.
+
+26
+00:01:44,000 --> 00:01:46,000
+Po drugie, data ostatniej aktualizacji,
+
+27
+00:01:46,760 --> 00:01:49,760
+wskazuje że wtyczka jest aktywnie wspierana i rozwijana.
+
+28
+00:01:50,200 --> 00:01:54,200
+Sugerowałbym unikanie wtyczek, które nie były aktualizowane od dłuższego czasu.
+
+29
+00:01:55,080 --> 00:01:57,080
+Po trzecie, aktywne instalacje.
+
+30
+00:01:58,000 --> 00:02:01,000
+Wskazuje to na popularność i dobre wsparcie techniczne wtyczki.
+
+31
+00:02:01,600 --> 00:02:03,600
+Na koniec kompatybilność.
+
+32
+00:02:03,840 --> 00:02:07,840
+Upewnij się, że wtyczka jest kompatybilna z najnowszą wersją WordPressa.
+
+33
+00:02:09,040 --> 00:02:13,040
+Po kliknięciu na „więcej szczegółów” będziesz mógł sprawdzić, jak dobrze obsługiwana
+
+34
+00:02:13,200 --> 00:02:14,200
+jest dana wtyczka.
+
+35
+00:02:14,200 --> 00:02:19,700
+Znajduje się tam również sekcja z często zadawanymi pytaniami oraz miejsce, gdzie można przeczytać recenzje.
+
+36
+00:02:20,160 --> 00:02:24,160
+Poszukajmy innej wtyczki jako przykładu instalacji i włączania wtyczki.
+
+37
+00:02:25,600 --> 00:02:27,600
+Poszukamy wtyczki formularzy.
+
+38
+00:02:28,080 --> 00:02:32,080
+Istnieje wiele opcji, na przykład Contact Form 7, Contact Form by WP Forms i
+
+39
+00:02:33,840 --> 00:02:34,840
+Ninja Forms.
+
+40
+00:02:34,840 --> 00:02:39,840
+Zainstaluję Contact Form by WP Forms, a po zainstalowaniu należy
+
+41
+00:02:40,640 --> 00:02:42,640
+kliknąć „Włącz”.
+
+42
+00:02:42,880 --> 00:02:44,880
+Następnie należy skonfigurować wtyczkę.
+
+43
+00:02:45,680 --> 00:02:49,680
+Po skonfigurowaniu wtyczki wystarczy użyć katalogu bloków, aby dodać
+
+44
+00:02:50,560 --> 00:02:53,560
+formularz w dowolnym miejscu.
+
+45
+00:02:55,920 --> 00:03:00,920
+Należy pamiętać, że można również łatwo dodać nową wtyczkę, przesyłając archiwum zip
+
+46
+00:03:01,020 --> 00:03:03,020
+wtyczki z lokalnego komputera.
+
+47
+00:03:03,560 --> 00:03:07,560
+Wiele wtyczek premium można pobrać poza katalogiem wtyczek WordPress.
+
+48
+00:03:08,480 --> 00:03:12,480
+Jeśli chcesz przestać korzystać z wtyczki, przejdź do sekcji wtyczek i kliknij
+
+49
+00:03:12,640 --> 00:03:13,640
+opcję „Wyłącz”.
+
+50
+00:03:14,320 --> 00:03:17,320
+Po wyłączeniu będziesz mieć możliwość trwałego usunięcia wtyczki.
+
+51
+00:03:23,920 --> 00:03:26,920
+Ale co się stanie, jeśli wystąpi konflikt wtyczek?
+
+52
+00:03:27,920 --> 00:03:31,420
+Istnieją dwa główne sposoby identyfikacji konfliktów wtyczek w witrynie.
+
+53
+00:03:31,800 --> 00:03:36,800
+Numer 1: ręcznie wyłącz wtyczki, a następnie przetestuj je pojedynczo, aby znaleźć
+
+54
+00:03:36,920 --> 00:03:38,420
+wtyczkę powodującą problem.
+
+55
+00:03:38,600 --> 00:03:44,600
+Numer 2: użyj wtyczki do rozwiązywania problemów, na przykład Health Check and Troubleshooting.
+
+56
+00:03:45,520 --> 00:03:51,520
+Pamiętaj jednak, aby instalować dobrze skonstruowane wtyczki i stosować cztery kryteria, które omówiliśmy wcześniej.
+
+57
+00:03:51,640 --> 00:03:55,640
+Wtyczki to niesamowite narzędzia, które pozwalają rozszerzyć funkcjonalność twojej witryny.
+
+58
+00:03:55,920 --> 00:03:59,920
+Jestem przekonany, że znajdziesz te, które najlepiej odpowiadają twoim potrzebom.
+

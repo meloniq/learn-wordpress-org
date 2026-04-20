@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:05,000
+Spróbujemy odpowiedzieć na pytanie, czym różni się edytor bloków od edytora witryny.
+
+2
+00:00:07,000 --> 00:00:12,000
+Porównamy edytor bloków i edytor witryny, a także zapoznamy się z narzędziami edytora witryny.
+
+3
+00:00:13,000 --> 00:00:19,000
+Na koniec będziemy czuli się pewnie, korzystając z obu tych narzędzi do tworzenia całego układu naszej witryny.
+
+4
+00:00:20,000 --> 00:00:23,000
+Bez dalszych wstępów, zaczynajmy.
+
+5
+00:00:23,000 --> 00:00:31,000
+Edycja witryny daje ci swobodę tworzenia każdego aspektu witryny WordPress, od nagłówka po stopkę, dzięki możliwościom funkcji edytora witryny.
+
+6
+00:00:35,000 --> 00:00:37,000
+Ale czym jest edytor witryny?
+
+7
+00:00:37,000 --> 00:00:40,000
+Czym różni się od edytora bloków, do którego jesteśmy przyzwyczajeni?
+
+8
+00:00:40,000 --> 00:00:45,000
+Jak możemy wykorzystać szablony w edytorze witryny do stworzenia ogólnej struktury?
+
+9
+00:00:46,000 --> 00:00:51,000
+Przejrzyjmy nasz kokpit, aby odpowiedzieć na te palące pytania i porównać obie opcje.
+
+10
+00:00:52,000 --> 00:00:57,000
+Edytor bloków stanowi podstawę treści twojej witryny i służy do dodawania treści do stron i wpisów.
+
+11
+00:01:00,000 --> 00:01:03,000
+Przypomnijmy sobie, jak dodawać treści do stron i wpisów.
+
+12
+00:01:04,000 --> 00:01:12,000
+W kokpicie przejdź do stron, jeśli tworzysz stronę statyczną, lub do wpisów, jeśli tworzysz treści dynamiczne, takie jak wpisy na blogu.
+
+13
+00:01:15,000 --> 00:01:19,000
+Po kliknięciu opcji „Dodaj nowy” tworzysz treść dla tej strony lub wpisu.
+
+14
+00:01:23,000 --> 00:01:27,000
+Co dokładnie pozwala nam zrobić edytor witryny w porównaniu z tym?
+
+15
+00:01:28,000 --> 00:01:32,000
+Edytor witryny pozwala nam edytować naszą witrynę w spójny sposób.
+
+16
+00:01:33,000 --> 00:01:38,000
+Strony i wpisy służą wyłącznie do dodawania statycznej lub dynamicznej treści za pomocą bloków.
+
+17
+00:01:39,000 --> 00:01:46,000
+Z drugiej strony, edytor witryny wykorzystuje bloki do tworzenia ogólnego wyglądu i stylu witryny za pomocą szablonów.
+
+18
+00:01:46,000 --> 00:01:51,000
+Pozwala nam również dodawać i edytować strony, zapewniając płynną edycję witryny.
+
+19
+00:01:53,000 --> 00:02:01,000
+Jeśli zainstalowałeś motyw blokowy, taki jak Twenty Twenty-Four, przejdź do edytora witryny poprzez opcję „Wygląd”, a następnie kliknij „Edytor”.
+
+20
+00:02:01,000 --> 00:02:04,000
+Edytor witryny wczytuje stronę główną witryny do edycji.
+
+21
+00:02:06,000 --> 00:02:09,000
+Po lewej stronie znajduje się pasek boczny widoku witryny.
+
+22
+00:02:09,000 --> 00:02:16,000
+To narzędzie umożliwia przełączanie się między kluczowymi częściami witryny, nawigacją, stylami, stronami, szablonami i wzorcami.
+
+23
+00:02:17,000 --> 00:02:19,000
+Zacznijmy od nawigacji.
+
+24
+00:02:19,000 --> 00:02:23,000
+Tutaj możesz szybko przeglądać i dostosowywać wszystkie menu.
+
+25
+00:02:23,000 --> 00:02:27,000
+Możesz zmieniać ich nazwy, zmieniać kolejność pozycji menu itp.
+
+26
+00:02:32,000 --> 00:02:37,000
+Po kliknięciu opcji „Style” możesz zmienić kombinację stylów swojego motywu.
+
+27
+00:02:39,000 --> 00:02:44,000
+Po kliknięciu opcji „Edytuj style” możesz zmienić typografię, kolory i układ całej witryny.
+
+28
+00:02:53,000 --> 00:02:59,000
+Jeśli spojrzysz dalej w dół, zobaczysz również opcję dostosowania wyglądu poszczególnych bloków w całej witrynie.
+
+29
+00:03:00,000 --> 00:03:05,000
+Aby zobaczyć, jak te bloki zmienią się po edycji, przejdź do sekcji „Księga stylów” swojej witryny.
+
+30
+00:03:05,000 --> 00:03:09,000
+Jak wspomniano, możesz tutaj wyświetlić podgląd wszystkich wprowadzonych zmian.
+
+31
+00:03:09,000 --> 00:03:13,000
+Na poniższych stronach można tworzyć i edytować strony, tak samo jak w kokpicie.
+
+32
+00:03:23,000 --> 00:03:28,000
+Ta funkcja pozwala pozostać w edytorze witryny podczas edycji witryny lub treści na stronie.
+
+33
+00:03:30,000 --> 00:03:34,000
+Podczas pracy w edytorze witryny dodajemy treść do bloku treści.
+
+34
+00:03:37,000 --> 00:03:40,000
+Następnie przejdziemy do wzorców.
+
+35
+00:03:43,000 --> 00:03:46,000
+Pod wzorcami mamy dostęp do biblioteki wzorców.
+
+36
+00:03:50,000 --> 00:03:53,000
+Będziemy mogli tworzyć własne wzorce i zarządzać nimi.
+
+37
+00:03:54,000 --> 00:03:57,000
+Możemy przeglądać wzorce dostarczone przez nasz motyw.
+
+38
+00:03:59,000 --> 00:04:03,000
+Następnie możemy również tworzyć części szablonów i zarządzać nimi.
+
+39
+00:04:03,000 --> 00:04:06,000
+Krótka uwaga na temat części szablonów.
+
+40
+00:04:06,000 --> 00:04:14,000
+Są to grupy bloków wielokrotnego użytku, których można używać do tworzenia powtarzających się części szablonu, takich jak nagłówek i stopka.
+
+41
+00:04:14,000 --> 00:04:17,000
+Skupmy się teraz na szablonach.
+
+42
+00:04:18,000 --> 00:04:24,000
+Po otwarciu szablonów spójrzmy na górne menu i sprawdźmy, jakie możliwości dają nam poszczególne elementy.
+
+43
+00:04:25,000 --> 00:04:32,000
+Ikonka plusa lub narzędzie „Wybierak” w lewym górnym rogu pozwala dodać dowolny blok lub wzór bloków do szablonu, nad którym pracujesz.
+
+44
+00:04:35,000 --> 00:04:38,000
+Obok „Wybieraka” znajdują się przyciski cofania i ponawiania czynności.
+
+45
+00:04:42,000 --> 00:04:49,000
+Następny jest widok listy. Jest to bardzo przydatne narzędzie, które pozwala wyświetlić listę wszystkich bloków znajdujących się na stronie.
+
+46
+00:04:49,000 --> 00:04:55,000
+Świetnie nadaje się do przeglądania struktury strony oraz edytowania, przenoszenia i usuwania bloków.
+
+47
+00:04:56,000 --> 00:04:59,000
+W środkowej części u góry znajduje się nazwa szablonu.
+
+48
+00:05:02,000 --> 00:05:08,000
+Po kliknięciu przycisku podglądu będziesz mógł zobaczyć, jak twoja witryna będzie wyglądać po wprowadzeniu zmian
+
+49
+00:05:10,000 --> 00:05:13,000
+na komputerze stacjonarnym, tablecie lub telefonie komórkowym.
+
+50
+00:05:13,000 --> 00:05:16,000
+Następnie, klikając przycisk „Zapisz”, możesz zapisać zmiany.
+
+51
+00:05:17,000 --> 00:05:22,000
+Kolejna zakładka ustawień pozwala wyświetlić lub ukryć pasek boczny szablonu i ustawień bloków.
+
+52
+00:05:25,000 --> 00:05:30,000
+Na przykład, możesz użyć paska bocznego ustawień, aby dalej stylizować blok po jego wybraniu.
+
+53
+00:05:35,000 --> 00:05:42,000
+Obok zakładki ustawień znajduje się zakładka style, która jest kolejnym miejscem, w którym można uzyskać dostęp do ustawień stylu.
+
+54
+00:05:42,000 --> 00:05:49,000
+Na koniec, po kliknięciu trzech pionowych kropek uzyskasz dostęp do dodatkowych opcji, takich jak wybór trybu „podświetlania” itp.
+
+55
+00:05:51,000 --> 00:05:54,000
+Teraz omówiliśmy pokrótce opcje menu.
+
+56
+00:05:55,000 --> 00:05:58,000
+Przyjrzyjmy się bliżej szablonom.
+
+57
+00:05:58,000 --> 00:06:03,000
+W górnej części znajduje się napis „Wyraź układ swojej witryny za pomocą szablonów”.
+
+58
+00:06:03,000 --> 00:06:10,000
+Szablony wykorzystują bloki do tworzenia ogólnego projektu witryny poprzez dodanie nagłówka, stopki, a nawet paska bocznego.
+
+59
+00:06:10,000 --> 00:06:14,000
+Wszystkie trzy elementy możemy zobaczyć po otwarciu strony szablonu paska bocznego.
+
+60
+00:06:14,000 --> 00:06:18,000
+Widzimy strukturę zapewnianą przez nagłówek, pasek boczny i stopkę.
+
+61
+00:06:20,000 --> 00:06:24,000
+Należy pamiętać, że szablony można zastosować do jednej lub wielu stron.
+
+62
+00:06:29,000 --> 00:06:35,000
+Mając to na uwadze, załóżmy, że chcemy dodać szablon, który jest zastosowany na naszych stronach.
+
+63
+00:06:35,000 --> 00:06:41,000
+Nasz motyw oferuje tutaj kilka opcji, na przykład domyślny szablon strony lub strona z szerokim obrazkiem.
+
+64
+00:06:43,000 --> 00:06:46,000
+Wybierzmy jednak stronę bez tytułu.
+
+65
+00:06:47,000 --> 00:06:52,000
+Po wczytaniu szablonu zobaczysz przykładowy wygląd szablonu bez żadnej treści.
+
+66
+00:06:55,000 --> 00:07:02,000
+W tym miejscu bardzo przydatny jest widok listy. Pasek boczny po lewej stronie pokazuje strukturę bloków tworzących ten szablon.
+
+67
+00:07:02,000 --> 00:07:10,000
+Tutaj możesz zobaczyć elementy składające się na ten szablon strony. Nagłówek, podobnie jak stopka, jest wyraźnie zaznaczony po kliknięciu.
+
+68
+00:07:11,000 --> 00:07:16,000
+W środkowej części zobaczysz blok grupy zawierający blok treści wpisu. Jest to bardzo ważne.
+
+69
+00:07:18,000 --> 00:07:22,000
+Blok treści pozwala na wyświetlenie treści strony lub wpisu w tym szablonie.
+
+70
+00:07:24,000 --> 00:07:29,000
+Pomyśl o tym bloku jako o kontenerze dla wszystkiego, co napisałeś w sekcji stron lub wpisów.
+
+71
+00:07:30,000 --> 00:07:37,000
+Bez kontenera treść strony nie będzie miała gdzie się wyświetlać. Pamiętaj więc, że nie dodajemy treści do szablonów.
+
+72
+00:07:38,000 --> 00:07:41,000
+Modyfikujemy tylko nagłówek, stopkę lub pasek boczny.
+
+73
+00:07:43,000 --> 00:07:48,000
+Zastąpmy ten nagłówek innym wzorem nagłówka, który jest dostępny w naszym motywie.
+
+74
+00:07:51,000 --> 00:07:54,000
+Możemy przewijać dostępne opcje.
+
+75
+00:07:54,000 --> 00:07:57,000
+Następnie wybierz nagłówek wyśrodkowany z wzorcem logo.
+
+76
+00:08:00,000 --> 00:08:05,000
+Wybiorę również jedno z moich istniejących menu nawigacyjnych o nazwie „Lifestyle”.
+
+77
+00:08:07,000 --> 00:08:10,000
+Po dokonaniu wyboru możemy zapisać zmiany.
+
+78
+00:08:18,000 --> 00:08:23,000
+Świetnie, szablon strony został zapisany. Ale jak dodać ten szablon do strony?
+
+79
+00:08:24,000 --> 00:08:28,000
+Możemy wrócić do naszego głównego kokpitu i przejść do stron.
+
+80
+00:08:30,000 --> 00:08:37,000
+Następnie kliknij stronę, do której chcesz zastosować ten szablon. W pasku bocznym po prawej stronie zobaczysz nagłówek szablonu.
+
+81
+00:08:39,000 --> 00:08:45,000
+Kliknij na niego. To menu rozwijane zawiera listę wszystkich szablonów, które obecnie masz zapisane.
+
+82
+00:08:47,000 --> 00:08:51,000
+W tym przypadku wybierzmy „Strona bez tytułu”. Następnie możemy zaktualizować.
+
+83
+00:08:53,000 --> 00:08:56,000
+Oto jak wygląda strona z domyślnym szablonem strony.
+
+84
+00:08:59,000 --> 00:09:02,000
+A oto strona z zastosowanym szablonem bez tytułu.
+
+85
+00:09:06,000 --> 00:09:10,000
+Możesz powtórzyć tę czynność dla dowolnej liczby stron; to samo dotyczy wpisów.
+
+86
+00:09:13,000 --> 00:09:17,000
+Jak widać, edytor bloków i edytor witryny działają w ścisłej współpracy.
+
+87
+00:09:17,000 --> 00:09:20,000
+Edytor bloków pozwala nam jedynie dodawać treści do stron i wpisów.
+
+88
+00:09:22,000 --> 00:09:25,000
+Natomiast edytor witryny umożliwia spójną edycję witryny.
+
+89
+00:09:26,000 --> 00:09:31,000
+Można edytować wygląd i styl, modyfikować szablony oraz dodawać treści do stron.
+

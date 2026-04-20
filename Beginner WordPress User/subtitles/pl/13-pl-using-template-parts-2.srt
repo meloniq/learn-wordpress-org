@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:04,000
+W tej lekcji przyjrzymy się bliżej wykorzystaniu fragmentów szablonów.
+
+2
+00:00:05,000 --> 00:00:13,000
+Po zakończeniu tej lekcji będziesz w stanie opisać, czym są fragmenty szablonu i jak działają, edytować fragment szablonu i zastąpić go w szablonie.
+
+3
+00:00:17,000 --> 00:00:24,000
+Jeśli odwiedzisz dobrze zaprojektowaną witrynę internetową, zauważysz, że jedną z jej mocnych stron jest spójność.
+
+4
+00:00:24,000 --> 00:00:33,000
+Nagłówki, stopki i paski boczne często mają tę samą lub podobną treść, aby ułatwić użytkownikom znalezienie informacji, których szukają, niezależnie od tego, gdzie się znajdują w witrynie.
+
+5
+00:00:37,000 --> 00:00:44,000
+Czy aby uzyskać ten efekt, projektanci witryn internetowych muszą tworzyć nagłówki, stopki i paski boczne od podstaw na każdej stronie?
+
+6
+00:00:45,000 --> 00:00:47,000
+Krótka odpowiedź brzmi: nie.
+
+7
+00:00:47,000 --> 00:00:50,000
+Dzięki motywom blokowym WordPressa można korzystać z funkcji znanej jako fragment szablonu.
+
+8
+00:00:53,000 --> 00:00:56,000
+Po pierwsze, czym są fragmenty szablonu?
+
+9
+00:00:56,000 --> 00:01:04,000
+Fragmenty szablonu to grupy bloków, których można używać do tworzenia powtarzających się fragmentów szablonu, takich jak nagłówek, stopka i pasek boczny.
+
+10
+00:01:06,000 --> 00:01:12,000
+Zobaczmy, jak to działa. Gdy jesteś w kokpicie WordPress, przejdź do sekcji „Wygląd”, a następnie kliknij „Edytor”.
+
+11
+00:01:13,000 --> 00:01:21,000
+Spowoduje to przejście do edytora witryny, a następnie otworzymy jeden z naszych szablonów, w tym przypadku szablon strony głównej bloga.
+
+12
+00:01:21,000 --> 00:01:25,000
+Tworzymy i modyfikujemy nasze szablony nagłówków i stopek w ramach szablonu.
+
+13
+00:01:29,000 --> 00:01:38,000
+Niektóre motywy blokowe oferują więcej lub mniej opcji, ale prawie wszystkie są dostarczane z gotowymi nagłówkami i stopkami, tak jak widać tutaj w ramach motywu Twenty Twenty-Four.
+
+14
+00:01:41,000 --> 00:01:48,000
+WordPress jeszcze bardziej uprościł tę czynność, udostępniając gotowe do użycia i modyfikacji wzorce nagłówków i stopek.
+
+15
+00:01:48,000 --> 00:01:55,000
+Po kliknięciu trzech pionowych kropek szablonu nagłówka i wybraniu opcji „Zastąp nagłówek” najpierw zobaczysz istniejące fragmenty szablonu.
+
+16
+00:01:59,000 --> 00:02:02,000
+Są to fragmenty szablonu, które już utworzyłem.
+
+17
+00:02:03,000 --> 00:02:06,000
+Poniżej znajdują się wzorce szablonów nagłówków.
+
+18
+00:02:08,000 --> 00:02:11,000
+Możesz wybrać dowolny wzorzec dostępny w twoim motywie.
+
+19
+00:02:14,000 --> 00:02:18,000
+Jak wspomniano, niektóre motywy mogą oferować więcej, a inne mniej.
+
+20
+00:02:19,000 --> 00:02:22,000
+Działa to dokładnie tak samo w przypadku stopek.
+
+21
+00:02:24,000 --> 00:02:27,000
+Zacznijmy od edycji szablonu nagłówka.
+
+22
+00:02:27,000 --> 00:02:35,000
+Po kliknięciu opcji „Edytuj” na pasku narzędzi bloga możesz pracować nad szablonem nagłówka w trybie edycji bez żadnych innych zakłóceń.
+
+23
+00:02:36,000 --> 00:02:41,000
+Najpierw otwórzmy widok listy. Następnie dodam logo mojej witryny do szablonu nagłówka.
+
+24
+00:02:45,000 --> 00:02:50,000
+Po wybraniu bloku „Logo witryny” mogę przesłać obrazek z biblioteki multimediów lub komputera.
+
+25
+00:02:53,000 --> 00:02:57,000
+Następnie zaznaczę blok „Tytuł witryny” i dodam tytuł tej witryny.
+
+26
+00:03:02,000 --> 00:03:07,000
+Potem zapiszę fragment szablonu nagłówka i wrócę do szablonu strony głównej bloga.
+
+27
+00:03:09,000 --> 00:03:15,000
+Przypominam: fragmenty szablonu są synchronizowane i będą aktualizowane wszędzie tam, gdzie zostały użyte.
+
+28
+00:03:16,000 --> 00:03:20,000
+Zauważysz, że kolor fioletowy wskazuje, kiedy wzorzec jest zsynchronizowany.
+
+29
+00:03:22,000 --> 00:03:25,000
+Zobaczmy to w praktyce na jednym z naszych innych szablonów.
+
+30
+00:03:26,000 --> 00:03:31,000
+Kiedy otworzymy nasz szablon strony, zobaczymy, że nagłówek jest dokładnie taki sam.
+
+31
+00:03:32,000 --> 00:03:39,000
+Kiedy otworzymy nasz szablon 404, zobaczymy, że zmiany zostały zastosowane również tutaj, ponieważ fragmenty szablonu są synchronizowane.
+
+32
+00:03:42,000 --> 00:03:48,000
+A co, jeśli chcesz mieć inny nagłówek na stronie głównej, ale reszta witryny ma mieć standardowy nagłówek?
+
+33
+00:03:50,000 --> 00:03:58,000
+W takim przypadku należy utworzyć nowy szablon nagłówka lub zastąpić nagłówek wzorcem i dodać go do szablonu strony głównej bloga lub strony głównej.
+
+34
+00:04:01,000 --> 00:04:07,000
+Zmodyfikuję szablon strony głównej bloga, ponieważ jako stronę główną wybrałem stronę z wpisami.
+
+35
+00:04:09,000 --> 00:04:15,000
+Wybieram więc nagłówek, klikam trzy pionowe kropki, a następnie wybieram opcję „Zastąp nagłówek”.
+
+36
+00:04:15,000 --> 00:04:20,000
+Teraz możesz zastąpić nagłówek strony głównej wzorcem lub istniejącym fragmentem szablonu.
+
+37
+00:04:21,000 --> 00:04:27,000
+Zastąpię nagłówek istniejącym fragmentem szablonu nagłówka, który już utworzyłem i nazwałem „Nagłówek banera”.
+
+38
+00:04:30,000 --> 00:04:34,000
+Teraz moja strona główna będzie miała swój własny, unikalny nagłówek.
+
+39
+00:04:35,000 --> 00:04:40,000
+Po zapisaniu możemy przejrzeć inne szablony, aby sprawdzić, czy nadal mają standardowy nagłówek.
+
+40
+00:04:51,000 --> 00:04:54,000
+Na koniec omówimy tworzenie fragmentu szablonu od podstaw.
+
+41
+00:04:55,000 --> 00:04:59,000
+Przejdź do sekcji „Wzorce”, a następnie przewiń w dół do fragmentów szablonu.
+
+42
+00:05:03,000 --> 00:05:08,000
+Tutaj możesz wyświetlić wszystkie istniejące nagłówki, stopki i ogólne fragmenty szablonu.
+
+43
+00:05:12,000 --> 00:05:18,000
+Aby utworzyć nowy fragment szablonu, kliknij ikonkę plusa obok wzorców i wybierz opcję „Utwórz fragment szablonu”.
+
+44
+00:05:22,000 --> 00:05:31,000
+W tym miejscu możesz wybrać ogólny fragment szablonu, który nie jest powiązany z żadnym konkretnym obszarem, fragment szablonu nagłówka lub fragment szablonu stopki.
+
+45
+00:05:31,000 --> 00:05:34,000
+W tym przypadku utworzymy fragment szablonu stopki.
+
+46
+00:05:35,000 --> 00:05:38,000
+Najpierw musimy nadać mu odpowiednią nazwę.
+
+47
+00:05:38,000 --> 00:05:43,000
+W tym przypadku będzie to „Czterokolumnowa stopka”, a następnie możemy kliknąć „Utwórz”.
+
+48
+00:05:43,000 --> 00:05:48,000
+Spowoduje to ponowne przejście do trybu podświetlania; stąd możemy zacząć budować od podstaw.
+
+49
+00:05:49,000 --> 00:05:52,000
+Skorzystam ze skrótu i pobiorę wzorzec z katalogu wzorców.
+
+50
+00:05:54,000 --> 00:05:58,000
+Przejdź do strony wordpress.org, kliknij „Extend” i wybierz „Wzorce”.
+
+51
+00:06:00,000 --> 00:06:03,000
+Stąd możesz wybierać spośród tysięcy wzorców.
+
+52
+00:06:05,000 --> 00:06:11,000
+Wybiorę opcję „Wkład społeczności”, kliknę „Stopki”, a następnie można wyszukać odpowiedni wzorzec.
+
+53
+00:06:16,000 --> 00:06:22,000
+Po znalezieniu wzorca, który ci się podoba, możesz go skopiować, wrócić do swojej witryny i wkleić.
+
+54
+00:06:26,000 --> 00:06:30,000
+Teraz możesz zacząć modyfikować go zgodnie ze swoimi potrzebami.
+
+55
+00:06:31,000 --> 00:06:40,000
+Po aktualizacji możemy wrócić do obszaru wzorców i zauważysz, że nowa stopka jest częścią istniejących elementów szablonu. Możesz dodać go do dowolnego szablonu.
+
+56
+00:06:43,000 --> 00:06:50,000
+Po wybraniu opcji Zarządzaj wszystkimi fragmentami szablonu możesz zmienić nazwę i usunąć niestandardowe fragmenty szablonu
+
+57
+00:06:52,000 --> 00:06:56,000
+lub wyczyścić dostosowania fragmentu szablonu dostarczonych przez motyw.
+
+58
+00:06:58,000 --> 00:07:05,000
+Mam nadzieję, że teraz czujesz się komfortowo, edytując szablony i tworząc nagłówek i stopkę dla swojej witryny.
+

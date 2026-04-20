@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:03,000
+W tej lekcji stworzymy i dostosujemy nagłówek oraz stopkę.
+
+2
+00:00:04,860 --> 00:00:08,860
+Motywy blokowe pozwalają nam budować całą witrynę przy użyciu bloków,
+
+3
+00:00:08,860 --> 00:00:11,860
+w tym stron, wpisów, szablonów i fragmentów szablonów.
+
+4
+00:00:12,700 --> 00:00:16,600
+Omówiliśmy już zagnieżdżanie bloków i korzystanie z wzorców bloków.
+
+5
+00:00:16,600 --> 00:00:20,600
+W tej sesji utworzę i dostosuję nagłówek i stopkę mojej witryny,
+
+6
+00:00:21,100 --> 00:00:24,000
+korzystając z wzorców dostarczonych wraz z moim motywem.
+
+7
+00:00:24,000 --> 00:00:27,000
+Wzorce nagłówków i stopek stanowią solidną podstawę do pracy,
+
+8
+00:00:27,960 --> 00:00:30,960
+a większość układu została już przygotowana.
+
+9
+00:00:32,300 --> 00:00:37,300
+Zanim zaczniemy, chciałbym zaznaczyć, że używam motywu blokowego Twenty Twenty-Four,
+
+10
+00:00:38,360 --> 00:00:42,360
+a jeśli przejdę do „Ustawienia”, a następnie „Czytanie”, zauważysz, że ustawiłem
+
+11
+00:00:43,860 --> 00:00:46,860
+statyczną stronę główną i stronę wpisów.
+
+12
+00:00:47,360 --> 00:00:51,360
+Dzięki temu, jeśli przejdziemy do stron i otworzymy naszą stronę główną,
+
+13
+00:00:53,200 --> 00:00:57,200
+zauważymy, że została ona przypisana do domyślnego szablonu strony,
+
+14
+00:00:58,380 --> 00:01:01,380
+takiego samego jak inne strony w moim menu nawigacyjnym.
+
+15
+00:01:03,240 --> 00:01:06,240
+Zacznijmy więc.
+
+16
+00:01:06,280 --> 00:01:11,280
+Przejdziemy do edytora witryny, gdzie możemy edytować i aktualizować nasze szablony.
+
+17
+00:01:11,980 --> 00:01:16,880
+Należy pamiętać, że na tym etapie wszystkie nasze szablony mają ten sam nagłówek i stopkę.
+
+18
+00:01:16,960 --> 00:01:19,960
+Jeśli więc otworzymy na przykład szablon stron,
+
+19
+00:01:20,760 --> 00:01:24,760
+zauważymy, że jest on taki sam jak szablon 404 i szablon pojedynczych wpisów.
+
+20
+00:01:31,440 --> 00:01:32,940
+Co to oznacza?
+
+21
+00:01:33,160 --> 00:01:37,560
+Oznacza to, że jeśli dostosujemy aktualny fragment szablonu nagłówka i stopki, automatycznie
+
+22
+00:01:37,600 --> 00:01:40,600
+zaktualizuje się on we wszystkich szablonach, w których się znajduje.
+
+23
+00:01:40,640 --> 00:01:45,340
+Jeśli jednak zastąpię nagłówek lub stopkę w jednym szablonie, będę musiał ręcznie zastąpić je
+
+24
+00:01:45,360 --> 00:01:49,360
+we wszystkich innych szablonach, w których zamierzam ich używać.
+
+25
+00:01:49,800 --> 00:01:53,800
+Bez dalszych wstępów otworzę szablon strony i zacznę dostosowywać
+
+26
+00:01:53,960 --> 00:01:55,960
+nagłówek i stopkę.
+
+27
+00:01:56,200 --> 00:01:59,200
+Zacznijmy od nagłówka i otwórzmy widok listy.
+
+28
+00:02:01,200 --> 00:02:05,200
+Chcę zastąpić nagłówek, więc kliknę trzy pionowe kropki, a następnie wybieram opcję
+
+29
+00:02:05,240 --> 00:02:07,140
+„Zastąp nagłówek”.
+
+30
+00:02:07,160 --> 00:02:11,160
+Teraz mogę wybierać spośród wielu wzorców dostępnych w moim motywie.
+
+31
+00:02:11,320 --> 00:02:14,320
+Wybiorę nagłówek wewnątrz obrazka tła o pełnej szerokości.
+
+32
+00:02:16,640 --> 00:02:19,640
+Po wybraniu zacznę modyfikować.
+
+33
+00:02:20,440 --> 00:02:25,440
+Upewnię się, że zaznaczyłem blok „Okładka”, a następnie zastąpię obrazek tła obrazkiem,
+
+34
+00:02:26,760 --> 00:02:29,760
+który już przesłałem do mojej biblioteki multimediów.
+
+35
+00:02:31,080 --> 00:02:36,080
+Następnie zaznaczę blok „Logo witryny” i prześlę przezroczysty obrazek, który zapisałem
+
+36
+00:02:39,360 --> 00:02:42,360
+jako logo w mojej bibliotece multimediów.
+
+37
+00:02:42,920 --> 00:02:47,920
+Następnie ponownie wybieram blok „Okładka”, otwieram „Style” i zmieniam krycie na zero,
+
+38
+00:02:49,200 --> 00:02:52,200
+ponieważ wybrałem jasny obrazek.
+
+39
+00:02:52,240 --> 00:02:57,240
+Po zakończeniu wybieram blok „Tytuł witryny” i wybieram ciemniejszy kolor tekstu.
+
+40
+00:03:00,240 --> 00:03:04,240
+Następnie klikam trzy pionowe kropki obok opcji „Typografia”, wybieram „Fonty”
+
+41
+00:03:06,200 --> 00:03:09,200
+i wybieram nowy krój pisma.
+
+42
+00:03:10,200 --> 00:03:14,200
+Chcę również powiększyć tytuł witryny, więc ustawiam niestandardowy rozmiar.
+
+43
+00:03:19,160 --> 00:03:22,160
+Następnie możemy przejść do bloku „Nawigacja”.
+
+44
+00:03:22,840 --> 00:03:26,840
+Po wybraniu bloku „Nawigacja” otworzę „Style”, zmienię kolor tekstu,
+
+45
+00:03:30,520 --> 00:03:33,520
+zmienię rodzinę kroju pisma i powiększę menu nawigacyjne,
+
+46
+00:03:40,160 --> 00:03:43,160
+ustawiając niestandardowy rozmiar.
+
+47
+00:03:45,840 --> 00:03:48,840
+Ostatnim krokiem jest dodanie wypełnienia wokół bloku „Wiersz”.
+
+48
+00:03:49,440 --> 00:03:53,440
+Otworzę więc style i wymiary poniżej i dodam więcej wypełnienia, aby stworzyć
+
+49
+00:03:54,240 --> 00:03:57,240
+więcej miejsca wokół tekstu.
+
+50
+00:03:57,520 --> 00:04:00,520
+I gotowe, nasz nowy nagłówek jest gotowy.
+
+51
+00:04:03,080 --> 00:04:08,080
+Następnym krokiem jest zapisanie, a następnie aktualizacja innych szablonów za pomocą nowego
+
+52
+00:04:09,600 --> 00:04:12,600
+nagłówka, który utworzyłem przy użyciu wzorców.
+
+53
+00:04:15,320 --> 00:04:18,320
+Na przykład otwórzmy szablon 404 i zastąpmy nagłówek.
+
+54
+00:04:26,520 --> 00:04:29,520
+Teraz zobaczysz to poniżej „fragmenty szablonu”.
+
+55
+00:04:32,440 --> 00:04:38,440
+Możemy zapisać, a następnie wykonać tę samą procedurę dla wszystkich innych odpowiednich szablonów.
+
+56
+00:04:39,520 --> 00:04:43,520
+Teraz możemy wrócić do naszego szablonu strony i przejść do stopki.
+
+57
+00:04:44,560 --> 00:04:49,560
+W tym przypadku nie zamierzam zastępować stopki; zamierzam jedynie zaktualizować istniejący
+
+58
+00:04:50,320 --> 00:04:55,320
+wzorzec, a następnie zostanie on automatycznie zaktualizowany we wszystkich innych szablonach.
+
+59
+00:04:55,560 --> 00:05:00,560
+Najpierw powiększę blok „Logo witryny” i dodam slogan mojej witryny do
+
+60
+00:05:07,840 --> 00:05:10,840
+bloku „Slogan witryny” poniżej tytułu witryny.
+
+61
+00:05:12,200 --> 00:05:15,200
+Teraz możemy przejść do trzech kolumn po prawej stronie.
+
+62
+00:05:16,200 --> 00:05:20,200
+Wybiorę tytuł środkowego bloku i zmienię go na „Szybkie odnośniki”.
+
+63
+00:05:26,240 --> 00:05:30,240
+Następnie wybiorę blok „Nawigacja”, który został dodany z treścią zastępczą.
+
+64
+00:05:32,120 --> 00:05:36,120
+W ustawieniach paska bocznego obok menu kliknę trzy pionowe kropki i wybiorę
+
+65
+00:05:38,600 --> 00:05:40,600
+nawigację nagłówka.
+
+66
+00:05:40,640 --> 00:05:44,640
+Otworzę również zakładkę ustawień i sprawdzę, czy orientacja jest pionowa.
+
+67
+00:05:47,600 --> 00:05:51,600
+Teraz możemy przejść do następnej kolumny; tym razem zastąpię treść zastępczą
+
+68
+00:05:55,160 --> 00:05:57,160
+nowym menu nawigacyjnym.
+
+69
+00:05:57,560 --> 00:06:02,560
+Kliknę więc opcję „Utwórz nowe menu”, a następnie wybiorę stronę z polityką prywatności,
+
+70
+00:06:06,960 --> 00:06:09,960
+którą już utworzyłem, oraz stronę z warunkami użytkowania.
+
+71
+00:06:18,320 --> 00:06:24,320
+W ostatniej kolumnie upewnię się, że zaktualizowałem odnośniki do moich platform społecznościowych.
+
+72
+00:06:24,680 --> 00:06:28,680
+Obecnie znajduje się tam zawartość zastępcza, dlatego zastąpię hashtag
+
+73
+00:06:29,760 --> 00:06:31,760
+prawidłowym odnośnikiem.
+
+74
+00:06:32,320 --> 00:06:37,320
+Teraz moja stopka jest gotowa, ale oczywiście mogę wprowadzić dalsze modyfikacje.
+
+75
+00:06:38,320 --> 00:06:42,320
+Po zapisaniu możemy przejść do innych szablonów, na przykład szablonu 404,
+
+76
+00:06:45,880 --> 00:06:49,880
+i zobaczymy, że stopka została automatycznie zaktualizowana.
+
+77
+00:06:52,000 --> 00:06:56,000
+Oto widok interfejsu użytkownika, gdy odwiedzam moją stronę kontaktową.
+
+78
+00:07:00,560 --> 00:07:04,860
+Wierzę, że wzorce nagłówków i stopek będą dla ciebie inspiracją i zapewnią solidną
+
+79
+00:07:04,920 --> 00:07:07,920
+podstawę do projektowania nagłówków i stopek.
+

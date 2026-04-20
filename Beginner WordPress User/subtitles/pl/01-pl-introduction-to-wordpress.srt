@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:03,000
+Witaj w tym wprowadzeniu do WordPressa.
+
+2
+00:00:04,000 --> 00:00:07,000
+W tej lekcji zagłębimy się w podstawy,
+
+3
+00:00:07,000 --> 00:00:13,000
+pomagając ci zrozumieć, co możesz osiągnąć dzięki WordPressowi, nawet jeśli jesteś początkującym użytkownikiem.
+
+4
+00:00:13,000 --> 00:00:18,000
+Efekty kształcenia dla tej sesji obejmują zdefiniowanie WordPressa,
+
+5
+00:00:18,000 --> 00:00:20,000
+omówienie możliwości WordPressa,
+
+6
+00:00:20,000 --> 00:00:24,000
+zapoznanie się z przykładami witryn na WordPressie, wyjaśnienie znaczenia terminu „open source”
+
+7
+00:00:24,000 --> 00:00:27,000
+oraz krótkie omówienie znaczenia motywów i wtyczek.
+
+8
+00:00:28,000 --> 00:00:31,000
+WordPress umożliwia tworzenie własnych witryn internetowych
+
+9
+00:00:34,000 --> 00:00:36,000
+lub blogów.
+
+10
+00:00:36,000 --> 00:00:39,000
+Miliony witryn internetowych zostały zbudowane przy użyciu WordPressa,
+
+11
+00:00:43,000 --> 00:00:49,000
+od sklepów internetowych i małych firm po renomowane podmioty, takie jak NASA, Walt Disney Company
+
+12
+00:00:50,000 --> 00:00:52,000
+i Facebook Newsroom.
+
+13
+00:00:52,000 --> 00:00:55,000
+Ale po pierwsze, WordPress to CMS, czyli system zarządzania treścią.
+
+14
+00:00:57,000 --> 00:01:06,000
+Mówiąc prościej, jest to darmowe narzędzie lub platforma, która pomaga tworzyć, edytować i zarządzać własną witryną internetową lub blogiem bez konieczności nauki kodowania.
+
+15
+00:01:08,000 --> 00:01:14,000
+Niezależnie od tego, czy jesteś właścicielem małej firmy, zapalonym blogerem, czy początkującym przedsiębiorcą,
+
+16
+00:01:16,000 --> 00:01:22,000
+WordPress stanowi idealną platformę do prezentowania światu swoich pomysłów, produktów i usług.
+
+17
+00:01:23,000 --> 00:01:29,000
+Czy wiesz, że ponad 40% wszystkich witryn internetowych na świecie jest tworzonych przy użyciu WordPressa?
+
+18
+00:01:31,000 --> 00:01:37,000
+Dzięki temu możesz mieć pewność, że jest to niezwykle niezawodna, bezpieczna i stabilna platforma.
+
+19
+00:01:38,000 --> 00:01:44,000
+Przyjrzyjmy się kilku przykładom, aby zobaczyć, jakie rodzaje witryn internetowych zostały stworzone przy użyciu WordPressa.
+
+20
+00:01:44,000 --> 00:01:47,000
+Na początek mamy Art Gallery of Ballarat, która znajduje się w Australii.
+
+21
+00:01:50,000 --> 00:01:56,000
+Posiada bogatą kolekcję dzieł sztuki, organizuje wystawy, a także sprzedaje biżuterię, upominki i akcesoria.
+
+22
+00:01:57,000 --> 00:02:03,000
+Kolejny przykład to witryna internetowa firmy hydraulicznej z siedzibą w Kapsztadzie.
+
+23
+00:02:03,000 --> 00:02:06,000
+Jak można zauważyć, strona główna zawiera wiele przydatnych informacji.
+
+24
+00:02:08,000 --> 00:02:14,000
+Możemy zapoznać się z ofertą usług, przeczytać opinie klientów, dowiedzieć się, gdzie znajduje się firma i jak się z nią skontaktować.
+
+25
+00:02:18,000 --> 00:02:27,000
+Trzecim przykładem jest blog kulinarny o nazwieMinimalist Baker, na którym można znaleźć proste przepisy, kupić przybory kuchenne,
+
+26
+00:02:27,000 --> 00:02:30,000
+a także dowiedzieć się więcej o pieczeniu i gotowaniu.
+
+27
+00:02:32,000 --> 00:02:37,000
+Ostatnim przykładem jest witryna internetowa o nazwie Mrs. O. Around the World.
+
+28
+00:02:37,000 --> 00:02:43,000
+jest to luksusowy blog podróżniczy pełen porad dotyczących podróży, przewodników i nie tylko.
+
+29
+00:02:46,000 --> 00:02:50,000
+Warto również wspomnieć, że WordPress jest oprogramowaniem typu open source.
+
+30
+00:02:50,000 --> 00:02:56,000
+Oznacza to, że jest to darmowe oprogramowanie, które każdy może pobrać i używać.
+
+31
+00:02:56,000 --> 00:03:02,000
+Oznacza to również, że każdy może wnieść swój wkład w kod lub inne obszary WordPressa, aby pomóc w jego ulepszaniu.
+
+32
+00:03:03,000 --> 00:03:06,000
+Nawet ty możesz się zaangażować.
+
+33
+00:03:07,000 --> 00:03:13,000
+Rozpoczynając tworzenie witryny WordPress, należy pamiętać o dwóch ważnych elementach: motywach i wtyczkach.
+
+34
+00:03:14,000 --> 00:03:17,000
+Potrzebny będzie motyw, który określi wygląd i styl witryny.
+
+35
+00:03:18,000 --> 00:03:21,000
+Do wyboru są tysiące darmowych i płatnych motywów.
+
+36
+00:03:23,000 --> 00:03:29,000
+Po drugie, WordPress umożliwia instalowanie wtyczek, które dodają dodatkowe funkcje do witryny.
+
+37
+00:03:30,000 --> 00:03:39,000
+Wtyczki można na przykład dodać, jeśli chcesz sprzedawać produkty w swojej witrynie, poprawić jej bezpieczeństwo lub szybkość działania, dodać formularze itp.
+
+38
+00:03:39,000 --> 00:03:44,000
+Należy pamiętać, że przedstawione tutaj motywy i wtyczki są jedynie przykładami.
+
+39
+00:03:45,000 --> 00:03:53,000
+Podsumowując, WordPress to darmowe narzędzie, które pozwala stworzyć witrynę internetową bez znajomości kodowania.
+
+40
+00:03:53,000 --> 00:03:59,000
+Z WordPressa korzystają zarówno osoby prywatne, takie jak blogerzy, właściciele małych firm itp.,
+
+41
+00:03:59,000 --> 00:04:02,000
+jak i duże przedsiębiorstwa, a nawet agencje rządowe.
+
+42
+00:04:03,000 --> 00:04:06,000
+WordPress jest naprawdę dla każdego.
+
+43
+00:04:06,000 --> 00:04:09,000
+Być może zastanawiasz się, co dzieje się po pobraniu WordPressa?
+
+44
+00:04:11,000 --> 00:04:20,000
+To doskonałe pytanie, na które odpowiemy w kolejnym filmie, ponieważ będziesz potrzebować nazwy domeny i miejsca na hostingu dla swojej witryny.
+
+45
+00:04:20,000 --> 00:04:25,000
+Życzymy powodzenia na początku twojej przygody z WordPressem.
+
