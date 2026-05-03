@@ -1,0 +1,192 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we will explore how to use headings for accessibility and SEO.
+
+2
+00:00:06,000 --> 00:00:09,000
+Did you know that using headings on your websites, posts and pages can be the difference between connecting with your websites, audience, or resulting in bouncing away to find a different website?
+
+3
+00:00:17,000 --> 00:00:20,000
+In this example, we have an article with no headings, which will make it quite difficult for a reader to navigate.
+
+4
+00:00:26,000 --> 00:00:29,000
+In the next example, we have added the appropriate headings to help a reader make sense of the content, and to find out what the article is about before actually having to read it.
+
+5
+00:00:39,000 --> 00:00:42,000
+Headings organize content and make it easier for the reader to navigate and locate information.
+
+6
+00:00:46,000 --> 00:00:49,000
+Most importantly, they are essential tools for accessibility and search engine optimization.
+
+7
+00:00:53,000 --> 00:00:56,000
+By the end of this tutorial, we will be able to use headings correctly for readability, accessibility, and SEO.
+
+8
+00:01:01,000 --> 00:01:04,000
+Firstly, why is it important to structure content using headings?
+
+9
+00:01:05,000 --> 00:01:08,000
+Well, it introduces new topics or sections.
+
+10
+00:01:09,000 --> 00:01:12,000
+It guides a reader.
+
+11
+00:01:11,000 --> 00:01:14,000
+It lets a reader skim content.
+
+12
+00:01:13,000 --> 00:01:16,000
+It also gives the reader an idea of what to expect, and then lastly, it breaks topics into more digestible pieces of information.
+
+13
+00:01:21,000 --> 00:01:24,000
+Headings are also used to indicate the hierarchy of information.
+
+14
+00:01:25,000 --> 00:01:28,000
+Your pages and posts will be broken up into subheadings, such as heading 2 or H2, H3, and all the way to H6.
+
+15
+00:01:36,000 --> 00:01:39,000
+You will notice when you add your first Heading block, H2 is automatically selected.
+
+16
+00:01:41,000 --> 00:01:44,000
+That's because your page or post title is your first primary heading.
+
+17
+00:01:47,000 --> 00:01:50,000
+Once you have added a heading, you can change the type of heading you are using by selecting the relevant heading in the List View.
+
+18
+00:01:54,000 --> 00:01:57,000
+Then selecting the option that says H2 in your block toolbar, and from there you can select between H1 to H6
+
+19
+00:02:02,000 --> 00:02:05,000
+to ensure your headings are in the correct order and hierarchy.
+
+20
+00:02:07,000 --> 00:02:10,000
+Did you know you can use the Outline feature under your List View to quickly check your headings?
+
+21
+00:02:13,000 --> 00:02:16,000
+Double check if your H2 heading relates to your H1 heading and your H3 to your H2 etc.
+
+22
+00:02:20,000 --> 00:02:23,000
+WordPress will also alert you in this outline section if you accidentally skip a heading level, helping you to ensure that they are in chronological order.
+
+23
+00:02:28,000 --> 00:02:31,000
+You can check your pages for any errors to correct them quickly, rather than searching block by block.
+
+24
+00:02:34,000 --> 00:02:37,000
+In this example, I want to ensure that all the types of sushi are listed as H4.
+
+25
+00:02:40,000 --> 00:02:43,000
+Headings are also important for accessibility.
+
+26
+00:02:44,000 --> 00:02:47,000
+Using them incorrectly means many people cannot access the information on your website.
+
+27
+00:02:49,000 --> 00:02:52,000
+When you use headings for accessibility, this allows screen readers to better navigate the page and quickly find relevant information.
+
+28
+00:02:57,000 --> 00:03:00,000
+Also, keyboard only users can quickly skip to the right section with a click of a button.
+
+29
+00:03:03,000 --> 00:03:06,000
+Without headings, the screen reader in this example has to read this entire chunk of text out loud.
+
+30
+00:03:10,000 --> 00:03:13,000
+There are no headings to allow users to jump ahead.
+
+31
+00:03:13,000 --> 00:03:16,000
+If I add headings, the screen reader or keyboard can allow its users to navigate to the section that is relevant to them quickly.
+
+32
+00:03:22,000 --> 00:03:25,000
+Headings also help users with low vision to maintain the structure of a page when zoomed in.
+
+33
+00:03:28,000 --> 00:03:31,000
+As a user with low vision zooms into a page, the different text sizes allow them to keep track of where they are on a website.
+
+34
+00:03:39,000 --> 00:03:42,000
+Remember to structure your headings into logical chunks.
+
+35
+00:03:43,000 --> 00:03:46,000
+For example, this post is about parrots, which is the title, the H1.
+
+36
+00:03:48,000 --> 00:03:51,000
+I decided to start my article by writing about parrot health, and for that I used an H2.
+
+37
+00:03:55,000 --> 00:03:58,000
+Another subtopic of parrot health is parrot nutrition, and then we can keep drilling down to the next subheading.
+
+38
+00:04:03,000 --> 00:04:06,000
+Each subtopic should relate to the topic above it, similar to a magazine article.
+
+39
+00:04:10,000 --> 00:04:13,000
+Lastly, let's talk about headings and search engine optimization, or SEO.
+
+40
+00:04:16,000 --> 00:04:19,000
+You can thoughtfully embed keywords into headings to boost your website's rank in a search engine.
+
+41
+00:04:22,000 --> 00:04:25,000
+Your headings should provide a clear and concise summary of the content that follows.
+
+42
+00:04:26,000 --> 00:04:29,000
+They should accurately reflect the content of a section.
+
+43
+00:04:31,000 --> 00:04:34,000
+When you are in the Site Editor, you can click on Styles and then open up your Style Book.
+
+44
+00:04:37,000 --> 00:04:40,000
+Here you are able to globally style your headings, using your sidebar settings on the right.
+
+45
+00:04:44,000 --> 00:04:47,000
+It is advised to use the same heading hierarchy and styling throughout your site to create a uniform look and feel.
+
+46
+00:04:51,000 --> 00:04:54,000
+One last tip, never use the Heading block to style text.
+
+47
+00:04:56,000 --> 00:04:59,000
+If you are looking for a stylistic flair, use an additional block, such as the Quote block, or transform the heading to a Paragraph block and use the Styles setting on the right to modify your text accordingly.
+
+48
+00:05:12,000 --> 00:05:15,000
+I trust that you will start using headings to improve the user experience on your site as well as search engine optimization.
+

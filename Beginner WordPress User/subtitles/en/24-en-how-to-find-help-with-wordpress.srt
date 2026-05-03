@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:03,000
+If you stumble over a roadblock on your WordPress journey, what should you do?
+
+2
+00:00:05,000 --> 00:00:08,000
+In this lesson, I will guide you on how to find help when you need it the most.
+
+3
+00:00:10,000 --> 00:00:13,000
+If you are facing an issue such as a formatting problem, a plugin acting up or any other hiccup,
+
+4
+00:00:15,000 --> 00:00:18,000
+you can start by visiting WordPress.org/support/forums
+
+5
+00:00:20,000 --> 00:00:23,000
+to see if there's an existing thread that relates to the problem you have.
+
+6
+00:00:24,000 --> 00:00:27,000
+The answer to your question might already be there.
+
+7
+00:00:27,000 --> 00:00:30,000
+Let's go ahead and see this in action.
+
+8
+00:00:30,000 --> 00:00:33,000
+Make your way to WordPress.org, click on Learn and then select Forums.
+
+9
+00:00:36,000 --> 00:00:39,000
+At the top right, you will be able to search for existing questions.
+
+10
+00:00:41,000 --> 00:00:44,000
+So in this case, I'm going to type in Website loading slowly
+
+11
+00:00:46,000 --> 00:00:49,000
+and then I will see a list of results.
+
+12
+00:00:50,000 --> 00:00:53,000
+And hopefully, I will find the answer amongst these.
+
+13
+00:00:55,000 --> 00:00:58,000
+If you can't find a thread that provides a solution to your problem,
+
+14
+00:00:58,000 --> 00:01:01,000
+we can return to the supports forum page and then post a query in one of the support forums,
+
+15
+00:01:05,000 --> 00:01:08,000
+such as Fixing WordPress or Everything else WordPress.
+
+16
+00:01:08,000 --> 00:01:11,000
+Let's go ahead and open up the fixing WordPress forum.
+
+17
+00:01:12,000 --> 00:01:15,000
+At the top right above the list of topics, you can create your own topic
+
+18
+00:01:16,000 --> 00:01:19,000
+and then fill in all the relevant details about your question.
+
+19
+00:01:21,000 --> 00:01:24,000
+If you are facing a problem due to a specific plugin or theme,
+
+20
+00:01:25,000 --> 00:01:28,000
+it is advised to contact their support forum or support page directly.
+
+21
+00:01:29,000 --> 00:01:32,000
+I also want to highlight that someone from the general support forums
+
+22
+00:01:33,000 --> 00:01:36,000
+will often refer you to these platforms if the issue is from a theme or plugin.
+
+23
+00:01:38,000 --> 00:01:41,000
+To find the support forum of a specific plugin or theme, go to the forums page
+
+24
+00:01:44,000 --> 00:01:47,000
+and scroll down to Themes and Plugins.
+
+25
+00:01:48,000 --> 00:01:51,000
+Select which one applies, in this case, let's go for plugins
+
+26
+00:01:52,000 --> 00:01:55,000
+and then search for the relevant plugin.
+
+27
+00:01:56,000 --> 00:01:59,000
+For this example, I will select the Jetpack plugin.
+
+28
+00:02:00,000 --> 00:02:03,000
+And then below the download button, I will click on the support tab.
+
+29
+00:02:04,000 --> 00:02:07,000
+And this will open the support forum for the Jetpack plugin,
+
+30
+00:02:08,000 --> 00:02:11,000
+where you can search through old questions or create a new topic.
+
+31
+00:02:13,000 --> 00:02:16,000
+And if you are on your site, you can of course access support via the plugins dashboard.
+
+32
+00:02:19,000 --> 00:02:22,000
+If you are using a premium theme or plugin, you can always visit their website
+
+33
+00:02:24,000 --> 00:02:27,000
+and contact their support team.
+
+34
+00:02:27,000 --> 00:02:30,000
+Lastly, you can access two fantastic resources on the WordPress.org site
+
+35
+00:02:32,000 --> 00:02:35,000
+that provide help and guidance to use and develop with WordPress.
+
+36
+00:02:37,000 --> 00:02:40,000
+Firstly, WordPress documentation.
+
+37
+00:02:40,000 --> 00:02:43,000
+You can access documentation from within the forums page,
+
+38
+00:02:44,000 --> 00:02:47,000
+or if you click on Learn, and then select Documentation.
+
+39
+00:02:50,000 --> 00:02:53,000
+The documentation page is a treasure trove of guides and articles
+
+40
+00:02:54,000 --> 00:02:57,000
+that cover a wide range of topics.
+
+41
+00:02:57,000 --> 00:03:00,000
+You can use the search block to search for a topic or the links below to narrow down your search.
+
+42
+00:03:04,000 --> 00:03:07,000
+You might want to learn more about changing or customizing the appearance of your site,
+
+43
+00:03:09,000 --> 00:03:12,000
+so below customization, we can select Appearance,
+
+44
+00:03:15,000 --> 00:03:18,000
+and then choose a topic.
+
+45
+00:03:17,000 --> 00:03:20,000
+We might want to learn more about block themes, for example.
+
+46
+00:03:24,000 --> 00:03:27,000
+Finally, let's talk about Learn.WordPress.org.
+
+47
+00:03:29,000 --> 00:03:32,000
+To open the site, click on the Learn tab and then select Learn WordPress.
+
+48
+00:03:35,000 --> 00:03:38,000
+Learn WordPress is an educational platform and resource that offers a variety of materials,
+
+49
+00:03:40,000 --> 00:03:43,000
+including video lessons, online workshops, and courses designed to help individuals
+
+50
+00:03:45,000 --> 00:03:48,000
+learn and enhance their skills in using and developing with WordPress.
+
+51
+00:03:50,000 --> 00:03:53,000
+I trust these platforms will help you find the necessary answers or resources.
+
+52
+00:03:55,000 --> 00:03:58,000
+I will also add the links in the description below.
+

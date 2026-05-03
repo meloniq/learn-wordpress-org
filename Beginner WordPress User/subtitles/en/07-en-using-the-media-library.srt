@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we will delve deeper into the media library.
+
+2
+00:00:04,000 --> 00:00:07,000
+We will learn to navigate and manage the media library, add ALT text and also understand the importance of optimizing images.
+
+3
+00:00:13,000 --> 00:00:16,000
+Media consists of the images, video recordings and files that you upload and use in your site.
+
+4
+00:00:19,000 --> 00:00:22,000
+And of course, media is inserted into pages and posts.
+
+5
+00:00:25,000 --> 00:00:28,000
+I also think you'll agree, media plays a crucial role in enhancing the overall experience and effectiveness of a website.
+
+6
+00:00:34,000 --> 00:00:37,000
+You can add various types of media to your library, from photos, screenshots, audio, PDF documents, spreadsheets, PowerPoint presentations and more.
+
+7
+00:00:45,000 --> 00:00:48,000
+When you open your media library, it will open to the default grid view.
+
+8
+00:00:51,000 --> 00:00:54,000
+And in the grid view, thumbnails of images, audio icons etc are all arranged in grid structure.
+
+9
+00:00:58,000 --> 00:01:01,000
+And here you are able to filter through your media to find what you are looking for.
+
+10
+00:01:03,000 --> 00:01:06,000
+At the top, next to the grid view icon, you can filter your media by media type and date.
+
+11
+00:01:11,000 --> 00:01:14,000
+The All media items drop down allows you to select by the types of media, such as images, audio, video, documents and even spreadsheets.
+
+12
+00:01:21,000 --> 00:01:24,000
+You can also view any media that is unattached to any posts or pages.
+
+13
+00:01:26,000 --> 00:01:29,000
+And this means the media is in your media library, but you haven't used it anywhere on your site.
+
+14
+00:01:32,000 --> 00:01:35,000
+Let's use the filtering option, for example, to only see audio files.
+
+15
+00:01:38,000 --> 00:01:41,000
+Or documents, like a PDF.
+
+16
+00:01:42,000 --> 00:01:45,000
+Or even spreadsheets.
+
+17
+00:01:47,000 --> 00:01:50,000
+And then of course, you can just go back to seeing all media items.
+
+18
+00:01:53,000 --> 00:01:56,000
+Next, the All dates drop down allows you to view images based on their upload dates.
+
+19
+00:01:59,000 --> 00:02:02,000
+You can quickly find media you have uploaded in a specific month, or you may choose to view all.
+
+20
+00:02:06,000 --> 00:02:09,000
+When you click on Bulk select, you can delete media simultaneously.
+
+21
+00:02:13,000 --> 00:02:16,000
+You can also search for media using the search block top right, by for example using words from the description or file name.
+
+22
+00:02:22,000 --> 00:02:25,000
+In this case, I would like to see all my shoe related images, all done with a simple search.
+
+23
+00:02:29,000 --> 00:02:32,000
+You can also view your media in List View.
+
+24
+00:02:33,000 --> 00:02:36,000
+In List View, all your media will be listed below each other, as the name implies.
+
+25
+00:02:38,000 --> 00:02:41,000
+And you will also be able to see the file name and what type of file it is, for example a PDF or JPEG.
+
+26
+00:02:45,000 --> 00:02:48,000
+To add media to your library, click on Add new media file in the sidebar or at the top.
+
+27
+00:02:51,000 --> 00:02:54,000
+Once selected, you will be able to drag and drop single or multiple files into the page, or use the select files option.
+
+28
+00:03:00,000 --> 00:03:03,000
+When you add media to a page or a post using the Image block or the Gallery block for example,
+
+29
+00:03:05,000 --> 00:03:08,000
+you will be able to upload images directly from your computer into your post or page and media library, or directly from your media library.
+
+30
+00:03:16,000 --> 00:03:19,000
+When it comes to larger videos, it's better to embed them via the YouTube block or the Video block, as it will save space in your media library and for better performance.
+
+31
+00:03:29,000 --> 00:03:32,000
+When you open an image, you will be able to add attributes such as alternative text, the title, a caption and a description.
+
+32
+00:03:39,000 --> 00:03:42,000
+It is important to always add ALT text to an image.
+
+33
+00:03:43,000 --> 00:03:46,000
+The ALT text is a concise description of an image for users who can't view the image, and it's also good for your site's SEO or your site's search engine optimization.
+
+34
+00:03:54,000 --> 00:03:57,000
+Adding a description also enhances SEO and allows for better organization and understanding of the image's purpose or content.
+
+35
+00:04:04,000 --> 00:04:07,000
+When you click on Edit image, you will be able to crop the image as well as scaling it or resizing it for image optimization.
+
+36
+00:04:19,000 --> 00:04:22,000
+The dimensions update automatically once you change the height or the width.
+
+37
+00:04:25,000 --> 00:04:28,000
+And don't be concerned, when you select Restore original image, you can restore the image to its original format.
+
+38
+00:04:35,000 --> 00:04:38,000
+You also have the option to rotate or to flip the image.
+
+39
+00:04:44,000 --> 00:04:47,000
+To end off, let's briefly talk about image optimization.
+
+40
+00:04:50,000 --> 00:04:53,000
+It is advised to optimize images before uploading them to your media library, to improve page load speed and save service space.
+
+41
+00:05:00,000 --> 00:05:03,000
+You can use web-based tools to achieve this, for example sites like TinyPNG, Bulk Resize or Squoosh.app to only name a few.
+
+42
+00:05:14,000 --> 00:05:17,000
+Remember to save images with a descriptive and relevant file name before adding it to your media library.
+
+43
+00:05:21,000 --> 00:05:24,000
+It helps search engines understand the content of the image, contributing to better SEO.
+
+44
+00:05:26,000 --> 00:05:29,000
+Search engines may use file names as a factor when indexing and ranking content.
+
+45
+00:05:32,000 --> 00:05:35,000
+Another option is to use an image optimization plugin.
+
+46
+00:05:37,000 --> 00:05:40,000
+There are various image optimization plugins available to choose from when you search the plugins directory.
+
+47
+00:05:45,000 --> 00:05:48,000
+When you find the plugin that suits your needs, you can install and activate and follow the necessary steps.
+
+48
+00:05:52,000 --> 00:05:55,000
+Both of these methods, using a web-based tool or plugin, improve overall performance by compressing images without compromising visual quality.
+
+49
+00:06:03,000 --> 00:06:06,000
+All the best as you use the media library to elevate your site to the next level.
+

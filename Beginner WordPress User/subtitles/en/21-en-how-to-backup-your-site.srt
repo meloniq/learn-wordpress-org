@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we are going to talk about an essential part of managing your WordPress website.
+
+2
+00:00:06,000 --> 00:00:09,000
+Backing up your valuable data.
+
+3
+00:00:08,000 --> 00:00:11,000
+Accidents can happen and it's crucial to have a backup of your site in case anything goes wrong.
+
+4
+00:00:14,000 --> 00:00:17,000
+It is also advised to backup your site before updating WordPress core, themes or plugins,
+
+5
+00:00:20,000 --> 00:00:23,000
+before installing new plugins or themes, before migrating or moving your site and after significant content updates.
+
+6
+00:00:29,000 --> 00:00:32,000
+We'll explore two methods to backup your WordPress site.
+
+7
+00:00:32,000 --> 00:00:35,000
+Number one, using your hosting company or number two, using a backup plugin.
+
+8
+00:00:38,000 --> 00:00:41,000
+There is also a manual way of backing up your site, but we will briefly touch on that at the end.
+
+9
+00:00:44,000 --> 00:00:47,000
+The method of using your hosting company for backups is probably the easiest way.
+
+10
+00:00:49,000 --> 00:00:52,000
+Different hosting companies have different interfaces or ways of backing up your site.
+
+11
+00:00:54,000 --> 00:00:57,000
+But you can learn how that works if you make your way to the backup and restore page of the control panel of your hosting company.
+
+12
+00:01:02,000 --> 00:01:05,000
+I will use my Pressable website to explain how the process works as this is where I have a hosting account.
+
+13
+00:01:08,000 --> 00:01:11,000
+Once I have logged into my control panel, I will make my way to backups and restores.
+
+14
+00:01:14,000 --> 00:01:17,000
+At the top, we will see available updates for the file system
+
+15
+00:01:22,000 --> 00:01:25,000
+as well as the database.
+
+16
+00:01:25,000 --> 00:01:28,000
+And these updates are done automatically by my hosting company.
+
+17
+00:01:30,000 --> 00:01:33,000
+You might be asking, what is the difference between the file system and the database?
+
+18
+00:01:35,000 --> 00:01:38,000
+When we talk about the file system backup, we are referring to backing up the files and folders that make up your website.
+
+19
+00:01:43,000 --> 00:01:46,000
+These files include your WordPress core files, themes, plugins, media uploads and any other files associated with your website.
+
+20
+00:01:53,000 --> 00:01:56,000
+On the other hand, database backup focuses on backing up the data stored in your website's database.
+
+21
+00:01:59,000 --> 00:02:02,000
+In WordPress, the database is where all the textual content, settings, user information and other dynamic data are stored.
+
+22
+00:02:07,000 --> 00:02:10,000
+It includes posts, pages, comments, user profiles and much more.
+
+23
+00:02:12,000 --> 00:02:15,000
+As mentioned, my hosting company automatically makes updates of my site.
+
+24
+00:02:18,000 --> 00:02:21,000
+But below the automatic updates, you will notice I can also choose to backup my site right now, which is called on-demand.
+
+25
+00:02:28,000 --> 00:02:31,000
+Let's go ahead and update my file system and database on-demand.
+
+26
+00:02:34,000 --> 00:02:37,000
+Now we can see our most recent on-demand file system backup as well as database backup.
+
+27
+00:02:47,000 --> 00:02:50,000
+Now these backups will also appear in the list of available file system backups as well as available database backups.
+
+28
+00:02:59,000 --> 00:03:02,000
+So if something goes wrong and you need to backup your site to a previous version, you can merely select the backup
+
+29
+00:03:16,000 --> 00:03:19,000
+and then click Restore.
+
+30
+00:03:18,000 --> 00:03:21,000
+So if you have backups of your site, you never have to panic.
+
+31
+00:03:23,000 --> 00:03:26,000
+Next, we are going to take a closer look at using a plugin if this is the option you prefer or if you don't have the option with your hosting company.
+
+32
+00:03:33,000 --> 00:03:36,000
+There are various plugins available in the Plugins Directory such as Updraft Plus, Jetpack, Duplicator etc.
+
+33
+00:03:42,000 --> 00:03:45,000
+For this demo, we will go ahead and install and activate the Updraft pPlus plugin.
+
+34
+00:03:50,000 --> 00:03:53,000
+Once activated, we can make our way to settings.
+
+35
+00:03:54,000 --> 00:03:57,000
+Below the backup and restore tab, we will see the next scheduled backups as well as existing backups.
+
+36
+00:04:02,000 --> 00:04:05,000
+And at the top right, we will notice the large call to action or buttons block backup now, which will allow you to make an on-demand backup of your file system as well as your database.
+
+37
+00:04:14,000 --> 00:04:17,000
+I am going to go ahead and make a backup of my site right now.
+
+38
+00:04:19,000 --> 00:04:22,000
+Then you will also see options to configure backups for your database, your file system or both.
+
+39
+00:04:25,000 --> 00:04:28,000
+And then we can select backup now.
+
+40
+00:04:31,000 --> 00:04:34,000
+Once backed up, we will notice that this on-demand backup displays below existing backups.
+
+41
+00:04:38,000 --> 00:04:41,000
+And if anything goes wrong, you can merely restore your website below actions.
+
+42
+00:04:43,000 --> 00:04:46,000
+When you go to settings, you will be able to set up a backup schedule for your website.
+
+43
+00:04:50,000 --> 00:04:53,000
+And for this example, I am going to say I want my site to be updated on a daily basis.
+
+44
+00:05:00,000 --> 00:05:03,000
+And on the right, you can choose how many backups you want your plugin to retain or store.
+
+45
+00:05:06,000 --> 00:05:09,000
+And below that, you can select where you want your backups to be stored.
+
+46
+00:05:12,000 --> 00:05:15,000
+There are more options worth exploring, but once you have set up your plugin, you can be rest assured that you have a backup in place if the need ever arises.
+
+47
+00:05:22,000 --> 00:05:25,000
+At this stage, it's also worth highlighting a best practice when backing up your site.
+
+48
+00:05:28,000 --> 00:05:31,000
+Store a copy of your backups in a location separate from your web server.
+
+49
+00:05:32,000 --> 00:05:35,000
+Cloud storage services like Dropbox, Google Drive, etc. are good options.
+
+50
+00:05:37,000 --> 00:05:40,000
+This ensures that your backups remain safe even if your server experiences issues.
+
+51
+00:05:43,000 --> 00:05:46,000
+Finally, you also have the option to manually update your database via PHPMyAdimin, and your file system via your website's server using an FTP client or a file manager in your hosting control panel.
+
+52
+00:05:56,000 --> 00:05:59,000
+These methods are more technical and therefore we will add links to other resources if you would like to learn more.
+
+53
+00:06:03,000 --> 00:06:06,000
+It does not matter which method you choose, but it's crucial to regularly perform backups to protect your website and its valuable data.
+

@@ -1,0 +1,556 @@
+1
+00:00:00,000 --> 00:00:03,000
+In today's session we are going to look at how we can improve our SEO rankings.
+
+2
+00:00:07,800 --> 00:00:10,800
+But what is SEO?
+
+3
+00:00:09,600 --> 00:00:12,600
+Search engine optimization refers to techniques that help you make your website rank higher
+
+4
+00:00:13,960 --> 00:00:16,960
+in search engine results.
+
+5
+00:00:15,760 --> 00:00:18,760
+The aim is of course to get more visitors to your site organically.
+
+6
+00:00:21,160 --> 00:00:24,160
+Search engines send bots to a site, to crawl through it and find out what the content is
+
+7
+00:00:26,200 --> 00:00:29,200
+about and where the site links to.
+
+8
+00:00:28,480 --> 00:00:31,480
+They also check out what the images are about, test if the site loads quickly and also investigates
+
+9
+00:00:34,600 --> 00:00:37,600
+if the layout of the site is accessible and good for mobile devices.
+
+10
+00:00:39,960 --> 00:00:42,960
+Once they are done crawling, bots figure out keywords from your site and then record
+
+11
+00:00:45,400 --> 00:00:48,400
+these keywords in the search engine database.
+
+12
+00:00:49,400 --> 00:00:52,400
+So now when anybody starts a search, search engines match a user's search query with
+
+13
+00:00:56,040 --> 00:00:59,040
+the keywords in the database to recommend sites that are a close match.
+
+14
+00:01:01,080 --> 00:01:04,080
+Let's look at some tips that we can implement.
+
+15
+00:01:04,360 --> 00:01:07,360
+Firstly, make your way to Settings, click on Reading and ensure that you have deselected
+
+16
+00:01:10,560 --> 00:01:13,560
+the search engine visibility box.
+
+17
+00:01:13,880 --> 00:01:16,880
+If this box is ticked, it will discourage search engines from indexing this site and
+
+18
+00:01:18,760 --> 00:01:21,760
+we don't want that.
+
+19
+00:01:20,360 --> 00:01:23,360
+This option is only used when a site is still being created.
+
+20
+00:01:25,400 --> 00:01:28,400
+The second thing to take note of is that search engines love sites with fresh content.
+
+21
+00:01:31,280 --> 00:01:34,280
+So keep your site up to date with new content as much as possible.
+
+22
+00:01:36,360 --> 00:01:39,360
+If your homepage and other pages really change, it is advised to have a blog page or news page
+
+23
+00:01:42,080 --> 00:01:45,080
+and ensure that you frequently post about your products, your brand, your clients and
+
+24
+00:01:46,760 --> 00:01:49,760
+various other topics.
+
+25
+00:01:49,400 --> 00:01:52,400
+The third tip is to make sure you have quality content on your website.
+
+26
+00:01:55,720 --> 00:01:58,720
+Google has published an EAT guideline which basically says that search engines look at
+
+27
+00:02:01,360 --> 00:02:04,360
+expertise, authority and trustworthiness.
+
+28
+00:02:05,480 --> 00:02:08,480
+So let's first talk about expertise.
+
+29
+00:02:07,880 --> 00:02:10,880
+Write about content you are knowledgeable and passionate about.
+
+30
+00:02:12,440 --> 00:02:15,440
+What about authority?
+
+31
+00:02:13,760 --> 00:02:16,760
+Well, if you have shown expertise, it will be viewed by search engines as authoritative
+
+32
+00:02:19,480 --> 00:02:22,480
+if others link to your site, if people talk about your site in social media and if you
+
+33
+00:02:25,000 --> 00:02:28,000
+link to repeatable sites in your content.
+
+34
+00:02:28,280 --> 00:02:31,280
+Lastly, the T stands for trustworthiness.
+
+35
+00:02:31,680 --> 00:02:34,680
+So make sure information that you share is trustworthy and factual.
+
+36
+00:02:37,840 --> 00:02:40,840
+Here is an important question you can ask yourself.
+
+37
+00:02:40,840 --> 00:02:43,840
+Is your content shareable?
+
+38
+00:02:43,000 --> 00:02:46,000
+Things to consider.
+
+39
+00:02:44,240 --> 00:02:47,240
+Is it funny?
+
+40
+00:02:45,560 --> 00:02:48,560
+Is it maybe too long?
+
+41
+00:02:47,280 --> 00:02:50,280
+Does it have good taste?
+
+42
+00:02:48,880 --> 00:02:51,880
+Does it use plain language?
+
+43
+00:02:50,880 --> 00:02:53,880
+Does it have a summary or TL:DR at the top?
+
+44
+00:02:54,320 --> 00:02:57,320
+It basically comes down to making sure your content is worth reading and worth sharing.
+
+45
+00:03:00,040 --> 00:03:03,040
+Next, let's talk about keywords.
+
+46
+00:03:04,200 --> 00:03:07,200
+Keywords and keyword phrases in your content make it easier for people to find your site
+
+47
+00:03:08,640 --> 00:03:11,640
+via search engines.
+
+48
+00:03:10,320 --> 00:03:13,320
+A well-optimized site speaks the same language as their audience, so to speak.
+
+49
+00:03:16,120 --> 00:03:19,120
+We therefore need to know what folks are searching for and include those words or phrases on
+
+50
+00:03:21,360 --> 00:03:24,360
+our pages and in our posts.
+
+51
+00:03:25,160 --> 00:03:28,160
+Keyword research will help you know what keywords people search for when looking for
+
+52
+00:03:28,960 --> 00:03:31,960
+similar sites.
+
+53
+00:03:30,280 --> 00:03:33,280
+You can use free tools such as WordStream or Google Keyword Planner to find those keywords
+
+54
+00:03:36,040 --> 00:03:39,040
+that you can use in your content.
+
+55
+00:03:39,080 --> 00:03:42,080
+The way you would go about finding keywords is to type the domain name of sites that are
+
+56
+00:03:43,360 --> 00:03:46,360
+similar to yours.
+
+57
+00:03:46,320 --> 00:03:49,320
+This will give you a hint of what words people use to search content on that site.
+
+58
+00:03:52,040 --> 00:03:55,040
+Once you have identified these keywords, use them in your site's content.
+
+59
+00:03:57,320 --> 00:04:00,320
+Search engines will prioritize what your content is titled when they decide keywords, but you
+
+60
+00:04:03,120 --> 00:04:06,120
+can also use them in excerpts, headings and content.
+
+61
+00:04:08,160 --> 00:04:11,160
+The way it is laid out here is generally the priority in which you want to use keywords.
+
+62
+00:04:14,280 --> 00:04:17,280
+Remember to use keywords naturally and to avoid keyword stuffing or overusing keywords
+
+63
+00:04:19,440 --> 00:04:22,440
+as this will damage your SEO.
+
+64
+00:04:23,520 --> 00:04:26,520
+Let's talk some more about linking.
+
+65
+00:04:25,680 --> 00:04:28,680
+Search engines will travel through your links to understand your site structure and to look
+
+66
+00:04:29,360 --> 00:04:32,360
+for more content.
+
+67
+00:04:30,840 --> 00:04:33,840
+So link to other posts already on your site as pages that are linked multiple times are
+
+68
+00:04:36,280 --> 00:04:39,280
+considered more important by search engines.
+
+69
+00:04:41,200 --> 00:04:44,200
+Also remember to set external links to sites that are reputable and also have good EAT,
+
+70
+00:04:47,440 --> 00:04:50,440
+expertise, authority and trustworthiness as this will make your site more credible as
+
+71
+00:04:52,760 --> 00:04:55,760
+well.
+
+72
+00:04:54,840 --> 00:04:57,840
+The next topic that we want to discuss is metadata.
+
+73
+00:04:58,640 --> 00:05:01,640
+Metadata are tags in your page content that are visible to search engines.
+
+74
+00:05:03,760 --> 00:05:06,760
+It is hidden behind the scenes but it does give critical information about your site
+
+75
+00:05:08,640 --> 00:05:11,640
+to search engines.
+
+76
+00:05:11,240 --> 00:05:14,240
+You might not have known this but meta descriptions is the information shown below each individual
+
+77
+00:05:16,920 --> 00:05:19,920
+search result.
+
+78
+00:05:20,360 --> 00:05:23,360
+Metadata is automatically created by WordPress so it's not easy to edit directly.
+
+79
+00:05:25,800 --> 00:05:28,800
+But most SEO plugins allow you to edit and modify the metadata to be more geared to
+
+80
+00:05:31,600 --> 00:05:34,600
+your content.
+
+81
+00:05:33,360 --> 00:05:36,360
+Usually no more than two sentences.
+
+82
+00:05:37,080 --> 00:05:40,080
+One of the things you can do is write an excerpt for post as WordPress uses these excerpts to
+
+83
+00:05:43,200 --> 00:05:46,200
+create meta descriptions.
+
+84
+00:05:45,960 --> 00:05:48,960
+So it is advised to use your keywords and hand write these excerpts.
+
+85
+00:05:50,480 --> 00:05:53,480
+Otherwise it just takes the top paragraph from your content.
+
+86
+00:05:55,320 --> 00:05:58,320
+Next, site speed is important.
+
+87
+00:05:58,400 --> 00:06:01,400
+Search engines definitely look at site speed when ranking sites.
+
+88
+00:06:01,760 --> 00:06:04,760
+So this is an important part of SEO.
+
+89
+00:06:05,400 --> 00:06:08,400
+Here are a few considerations that will help you to improve your site speed.
+
+90
+00:06:10,480 --> 00:06:13,480
+Does your host rank high with regard to site speed?
+
+91
+00:06:13,880 --> 00:06:16,880
+Does your host have caching enabled although you can also use a caching plugin?
+
+92
+00:06:19,160 --> 00:06:22,160
+Is your WordPress theme quick to load?
+
+93
+00:06:21,400 --> 00:06:24,400
+Some very snazzy WordPress themes that uses a lot of plugins can drastically change your
+
+94
+00:06:25,840 --> 00:06:28,840
+site speed.
+
+95
+00:06:26,880 --> 00:06:29,880
+So be careful.
+
+96
+00:06:28,440 --> 00:06:31,440
+Have you optimized images and videos?
+
+97
+00:06:31,320 --> 00:06:34,320
+Have you installed well-built plugins?
+
+98
+00:06:34,040 --> 00:06:37,040
+And does your theme and plugins work well together?
+
+99
+00:06:37,320 --> 00:06:40,320
+You can investigate your site speed by using tools such as GTmetrics or PageSpeed Insights.
+
+100
+00:06:46,040 --> 00:06:49,040
+Image optimization is another piece of the SEO puzzle.
+
+101
+00:06:49,600 --> 00:06:52,600
+Let's first look at a few steps that you can take before uploading images to your site.
+
+102
+00:06:56,160 --> 00:06:59,160
+Number one, choose a good file format such as PNG, JPEG or WebP.
+
+103
+00:07:03,720 --> 00:07:06,720
+In this example I am using the open source website Squoosh to change the file format for
+
+104
+00:07:08,440 --> 00:07:11,440
+free.
+
+105
+00:07:09,440 --> 00:07:12,440
+It also has some other settings worth exploring.
+
+106
+00:07:13,640 --> 00:07:16,640
+Number two, scale the image dimensions.
+
+107
+00:07:16,880 --> 00:07:19,880
+Images that are too large will be resized when it shows up on people's browser and will
+
+108
+00:07:21,640 --> 00:07:24,640
+affect the loading speed of your site.
+
+109
+00:07:24,040 --> 00:07:27,040
+So make sure you shrink the dimensions of very large images as most monitors in the world
+
+110
+00:07:29,320 --> 00:07:32,320
+are no bigger than 1920 by 1080 pixels in size.
+
+111
+00:07:35,520 --> 00:07:38,520
+Luckily WordPress does make three different size variations when you upload an image but
+
+112
+00:07:40,560 --> 00:07:43,560
+that large image still takes space up on your server.
+
+113
+00:07:45,440 --> 00:07:48,440
+Number three, reduce the image file size.
+
+114
+00:07:48,800 --> 00:07:51,800
+You want to reduce the file size of images without reducing the quality.
+
+115
+00:07:53,320 --> 00:07:56,320
+You can use programs such as TinyPNG or also Squoosh.
+
+116
+00:07:58,480 --> 00:08:01,480
+And lastly, rename the image files so that it explains what the image is about.
+
+117
+00:08:04,960 --> 00:08:07,960
+When an image has been uploaded to WordPress it is advised to add alternative text or ALT
+
+118
+00:08:10,080 --> 00:08:13,080
+text and a description of the image.
+
+119
+00:08:13,280 --> 00:08:16,280
+Search engines place a high value on ALT text and they use this information to understand
+
+120
+00:08:18,120 --> 00:08:21,120
+the context of an image, what the image is about and the purpose of the image.
+
+121
+00:08:24,000 --> 00:08:27,000
+Images should also have ALT text for accessibility purposes.
+
+122
+00:08:28,400 --> 00:08:31,400
+You also want to ensure that at least one of your images has your key word or key phrase
+
+123
+00:08:33,680 --> 00:08:36,680
+as part of the ALT tag.
+
+124
+00:08:36,500 --> 00:08:39,500
+The second last tip is about creating a sitemap.
+
+125
+00:08:39,800 --> 00:08:42,800
+It is something search engines use.
+
+126
+00:08:42,040 --> 00:08:45,040
+It is like a map or road map that helps search engines to figure out where all content is
+
+127
+00:08:47,760 --> 00:08:50,760
+on your website.
+
+128
+00:08:49,880 --> 00:08:52,880
+Sitemaps don't boost search ranking but it does help search engines navigate the content
+
+129
+00:08:54,800 --> 00:08:57,800
+on your site.
+
+130
+00:08:56,560 --> 00:08:59,560
+Most SEO plugins will generate a sitemap for your site automatically so it is not
+
+131
+00:09:01,640 --> 00:09:04,640
+something you have to code if you are not able to.
+
+132
+00:09:04,800 --> 00:09:07,800
+Finally, let's talk about local SEO to optimize your site to show higher in local search results.
+
+133
+00:09:12,040 --> 00:09:15,040
+Especially if your customer base is primarily located in the same city or metropolitan area.
+
+134
+00:09:17,720 --> 00:09:20,720
+There are a few things that you can do.
+
+135
+00:09:20,320 --> 00:09:23,320
+Do some local SEO keyword research, add your contact information in your footer or contact
+
+136
+00:09:26,120 --> 00:09:29,120
+page, post localized content and get local backlinks meaning get local sites to refer
+
+137
+00:09:33,880 --> 00:09:36,880
+or link to your site.
+
+138
+00:09:36,280 --> 00:09:39,280
+All the best as you endeavour to improve your own SEO rankings.
+
+139
+00:09:40,400 --> 00:09:43,400
+And don't forget to install and activate an SEO plugin that works best for you.
+

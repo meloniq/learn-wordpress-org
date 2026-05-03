@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson we will take a closer look at using template parts.
+
+2
+00:00:05,000 --> 00:00:08,000
+By the end of this tutorial you'll be able to describe what template parts are and how they work, edit a template part and replace a template part on a template.
+
+3
+00:00:17,000 --> 00:00:20,000
+If you visit a well designed website you'll notice that one of its strengths is its consistency.
+
+4
+00:00:24,000 --> 00:00:27,000
+Its headers, footers and sidebars often have the same or very similar content to make it easy for viewers to find the information they are looking for, no matter where they are on a website.
+
+5
+00:00:37,000 --> 00:00:40,000
+To get this effect, do web designers have to build their headers, footers and sidebars from scratch on every page in their website?
+
+6
+00:00:45,000 --> 00:00:48,000
+The short answer is no.
+
+7
+00:00:47,000 --> 00:00:50,000
+With WordPress block themes you will use a feature known as template parts.
+
+8
+00:00:53,000 --> 00:00:56,000
+Firstly, what are template parts?
+
+9
+00:00:56,000 --> 00:00:59,000
+Template parts are groups of blocks that you can use to create repeated parts of your template, like the header, footer and the sidebar.
+
+10
+00:01:06,000 --> 00:01:09,000
+Let's see this in action when you're in your WordPress dashboard, make your way to Appearance and then click on Editor.
+
+11
+00:01:13,000 --> 00:01:16,000
+This will take us to the Site Editor and then we'll open up one of our templates, in this case the blog home template.
+
+12
+00:01:21,000 --> 00:01:24,000
+And within a template we create and modify our header and footer template part.
+
+13
+00:01:29,000 --> 00:01:32,000
+Some block themes provide more or fewer options, but almost all come pre-packaged with the header and footer like you see here as part of the Twenty Twenty-Four theme.
+
+14
+00:01:41,000 --> 00:01:44,000
+WordPress has made it even more simple by providing header and footer patterns that are ready to be used and modified.
+
+15
+00:01:48,000 --> 00:01:51,000
+So when you click on the three vertical dots of the header template part and select Replace header, you will notice at the top existing template parts.
+
+16
+00:01:59,000 --> 00:02:02,000
+And these are template parts that I've already created.
+
+17
+00:02:03,000 --> 00:02:06,000
+And then below that we will find header template part patterns.
+
+18
+00:02:08,000 --> 00:02:11,000
+And now of course you will be able to select any of these patterns that come with your theme.
+
+19
+00:02:14,000 --> 00:02:17,000
+And as mentioned some themes might provide more, some less.
+
+20
+00:02:19,000 --> 00:02:22,000
+And this works exactly the same for footers.
+
+21
+00:02:24,000 --> 00:02:27,000
+Let's start by editing a header template part.
+
+22
+00:02:27,000 --> 00:02:30,000
+When you click on Edit in the blog toolbar, you can work on your header template part in editing mode without any other distractions.
+
+23
+00:02:36,000 --> 00:02:39,000
+Firstly, let's open our List View. And then I'll go ahead and add my site logo to my header template part.
+
+24
+00:02:45,000 --> 00:02:48,000
+So once I select the Site Logo block, I can upload an image from my media library or from my computer.
+
+25
+00:02:53,000 --> 00:02:56,000
+Next, I'll select the Site Title block and add the site title for this website.
+
+26
+00:03:02,000 --> 00:03:05,000
+Then I will save my header template part and return to my blog home template.
+
+27
+00:03:09,000 --> 00:03:12,000
+Just a reminder, template parts are synced and will update everywhere it has been used.
+
+28
+00:03:16,000 --> 00:03:19,000
+You will notice that the color purple indicates when a pattern is synced.
+
+29
+00:03:22,000 --> 00:03:25,000
+Let's go to one of our other templates to see this in practice.
+
+30
+00:03:26,000 --> 00:03:29,000
+So when we open our page template for example, we'll see the header is exactly the same.
+
+31
+00:03:32,000 --> 00:03:35,000
+Or when we open up our 404 template, we'll see that the changes have also applied here because template parts are synced.
+
+32
+00:03:42,000 --> 00:03:45,000
+What if you wanted a different header on say your home page for example, but you would like the rest of your website to have a standard header?
+
+33
+00:03:50,000 --> 00:03:53,000
+In this case, you would want to create a new header template part or replace the header with a pattern and add it to your blog home template or your front page template.
+
+34
+00:04:01,000 --> 00:04:04,000
+I'm going to modify my blog home template as I've selected my posts page as my home page display.
+
+35
+00:04:09,000 --> 00:04:12,000
+So I'll make sure I select my header, click on the three vertical dots and then select Replace header.
+
+36
+00:04:15,000 --> 00:04:18,000
+And now you can replace your home page header by using a pattern or an existing template part.
+
+37
+00:04:21,000 --> 00:04:24,000
+I will replace the header with an existing header template part which I've already created called Banner header.
+
+38
+00:04:30,000 --> 00:04:33,000
+And now my home page will have its own unique header.
+
+39
+00:04:35,000 --> 00:04:38,000
+And once I've saved, we can view our other templates to double check that they still have the standard header in place.
+
+40
+00:04:51,000 --> 00:04:54,000
+Lastly, let's talk about creating a template part from scratch.
+
+41
+00:04:55,000 --> 00:04:58,000
+Make your way to patterns and then scroll down to template parts.
+
+42
+00:05:03,000 --> 00:05:06,000
+Here you can view all your existing headers, footers and general template parts.
+
+43
+00:05:12,000 --> 00:05:15,000
+To create a new template part, click on the plus icon next to patterns and then select Create template part.
+
+44
+00:05:22,000 --> 00:05:25,000
+And from here, you can select a general template part which is not tied to any particular area, a header template part or a footer template part.
+
+45
+00:05:31,000 --> 00:05:34,000
+In this case, we are going to create a footer template part.
+
+46
+00:05:35,000 --> 00:05:38,000
+So firstly, we need to name it appropriately.
+
+47
+00:05:38,000 --> 00:05:41,000
+In this case, a Four-column footer and then we can click Create.
+
+48
+00:05:43,000 --> 00:05:46,000
+And this will take us into focus mode again and from here we can start building from scratch.
+
+49
+00:05:49,000 --> 00:05:52,000
+I'm going to take a shortcut and actually grab a pattern from the Patterns Directory.
+
+50
+00:05:54,000 --> 00:05:57,000
+So make your way to wordpress.org, click on Extend and select Patterns.
+
+51
+00:06:00,000 --> 00:06:03,000
+And from here, you can select from thousands of patterns.
+
+52
+00:06:05,000 --> 00:06:08,000
+I will select community contributions, click on Footers and then you can search for the right pattern.
+
+53
+00:06:16,000 --> 00:06:19,000
+Once you find a pattern that appeals to you, you can copy the pattern, return to your website and paste.
+
+54
+00:06:26,000 --> 00:06:29,000
+And now you can start modifying it to meet your needs.
+
+55
+00:06:31,000 --> 00:06:34,000
+And once updated, we can return to the patterns area and you will notice that your new footer is part of your existing template parts and you can add it to any template.
+
+56
+00:06:43,000 --> 00:06:46,000
+When you select manage all template parts, you will be able to rename and delete custom template parts
+
+57
+00:06:52,000 --> 00:06:55,000
+or clear the customizations of template parts that were provided by your theme.
+
+58
+00:06:58,000 --> 00:07:01,000
+I trust you now feel comfortable editing your templates and creating a header and footer for your site.
+

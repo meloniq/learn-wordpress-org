@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:03,000
+Let's get acquainted with the WordPress dashboard.
+
+2
+00:00:04,000 --> 00:00:07,000
+To log into your site into the following in a web browser address bar,
+
+3
+00:00:08,000 --> 00:00:11,000
+fill in your details and click on "Log In".
+
+4
+00:00:12,000 --> 00:00:15,000
+Once we log into the dashboard, we can see the main admin bar at the top.
+
+5
+00:00:17,000 --> 00:00:20,000
+Let's start with the home icon for your site and clicking on this takes you to the public facing home page of your site or the front end of your site.
+
+6
+00:00:25,000 --> 00:00:28,000
+And when you click on it again, it takes you back to your dashboard.
+
+7
+00:00:30,000 --> 00:00:33,000
+Then there are two notification icons. New comments and updates will appear here.
+
+8
+00:00:35,000 --> 00:00:38,000
+Hovering over "New" brings up a menu of links to create new items such as posts, media items, pages or even adding new users.
+
+9
+00:00:45,000 --> 00:00:48,000
+And the actual contents of this list depend on the user role.
+
+10
+00:00:49,000 --> 00:00:52,000
+And all the way in the right corner of the admin bar, you'll see your username and avatar.
+
+11
+00:00:55,000 --> 00:00:58,000
+And from this menu, clicking on either your name or edit profile, it will take you to the edit profile page.
+
+12
+00:01:03,000 --> 00:01:06,000
+Just below the dark grey admin bar are two tabs, the screen options tab and the help tab.
+
+13
+00:01:10,000 --> 00:01:13,000
+The screen options tab appears on most administrative pages and it allows you to control the elements that appear on that page.
+
+14
+00:01:18,000 --> 00:01:21,000
+If you deselect a widget, it disappears.
+
+15
+00:01:22,000 --> 00:01:25,000
+In the body of the dashboard, you'll find a number of administrative widgets or panels and you've seen how these can be shown or hidden using the checkboxes in the screen options tab.
+
+16
+00:01:32,000 --> 00:01:35,000
+And their position can also be changed simply by dragging and dropping them where you want.
+
+17
+00:01:38,000 --> 00:01:41,000
+As a side note, this is just one of the possible WordPress dashboard configurations.
+
+18
+00:01:43,000 --> 00:01:46,000
+The dashboard view will change based on what plugins you have active and your hosting company, and how you personally configure it.
+
+19
+00:01:50,000 --> 00:01:53,000
+When using the quick draft widget, anything entered into this forum will be saved as a draft post.
+
+20
+00:01:56,000 --> 00:01:59,000
+That is, it will be saved but not published on your site.
+
+21
+00:02:00,000 --> 00:02:03,000
+This is very handy for jotting down quick ideas for posts that you would like to come back to and finish later.
+
+22
+00:02:07,000 --> 00:02:10,000
+The At a glance widget gives you a quick total for the number of pages, posts and comments that are currently on your site.
+
+23
+00:02:14,000 --> 00:02:17,000
+It also displays the current theme and the version of WordPress that you're using.
+
+24
+00:02:19,000 --> 00:02:22,000
+Activity shows your most recent posts and comments.
+
+25
+00:02:24,000 --> 00:02:27,000
+And the WordPress Events and News panel is a great way to get involved with the WordPress community.
+
+26
+00:02:30,000 --> 00:02:33,000
+Based on your location, you'll see a list of different WordPress related events and meetups.
+
+27
+00:02:36,000 --> 00:02:39,000
+Now the most common way of moving around the admin area is by using the navigation links in the left sidebar.
+
+28
+00:02:42,000 --> 00:02:45,000
+Some of these are used much more frequently than others, particularly posts, pages and comments.
+
+29
+00:02:48,000 --> 00:02:51,000
+With that in mind, you'll notice that more of the content-focused menu items are located in the top section.
+
+30
+00:02:54,000 --> 00:02:57,000
+Whereas menu items focused on functionality, appearance and other settings are grouped together down at the bottom.
+
+31
+00:03:02,000 --> 00:03:05,000
+Next up, let's talk about posts.
+
+32
+00:03:05,000 --> 00:03:08,000
+Posts are for dynamic content, such as a blog post or a book review.
+
+33
+00:03:10,000 --> 00:03:13,000
+They are individual pieces of content on your blog page or news page, for example.
+
+34
+00:03:16,000 --> 00:03:19,000
+When you publish a post, it will generally appear in reverse chronological order on your posts page.
+
+35
+00:03:22,000 --> 00:03:25,000
+So when visitors come to your site, they will always be presented with the latest posts.
+
+36
+00:03:27,000 --> 00:03:30,000
+And posts will change over time as you add new content.
+
+37
+00:03:31,000 --> 00:03:34,000
+Pages on the other hand are for more static content.
+
+38
+00:03:35,000 --> 00:03:38,000
+When you click on Quick Edit, you can quickly change categories, tags and several other items.
+
+39
+00:03:41,000 --> 00:03:44,000
+Trash moves the post to the trash folder and you can recover anything that you've put into the trash for up to 30 days.
+
+40
+00:03:49,000 --> 00:03:52,000
+You can use checkboxes next to the posts to perform actions on multiple items, like editing or trashing.
+
+41
+00:03:58,000 --> 00:04:01,000
+You can also filter the list of posts by date, month and year and categories.
+
+42
+00:04:05,000 --> 00:04:08,000
+Lastly, you can search for words or phrases that may be contained in your posts.
+
+43
+00:04:11,000 --> 00:04:14,000
+Before we look at media, let's talk about pages.
+
+44
+00:04:14,000 --> 00:04:17,000
+So a page is for static content.
+
+45
+00:04:18,000 --> 00:04:21,000
+And the page generally will always stay the same.
+
+46
+00:04:21,000 --> 00:04:24,000
+Though just like a post, you can update it whenever you want.
+
+47
+00:04:25,000 --> 00:04:28,000
+Pages are useful things, like an About page, Contact page or even something like the history of your site or company.
+
+48
+00:04:33,000 --> 00:04:36,000
+Next, let's talk about media.
+
+49
+00:04:36,000 --> 00:04:39,000
+The media library contains all your media files.
+
+50
+00:04:40,000 --> 00:04:43,000
+From images, audio files, Excel spreadsheets and even PDF documents.
+
+51
+00:04:46,000 --> 00:04:49,000
+You can display items in the grid view or list view.
+
+52
+00:04:52,000 --> 00:04:55,000
+When you select Add New and click on Select Files, you can upload media from your computer or drag and drop multiple files at the top.
+
+53
+00:05:01,000 --> 00:05:04,000
+The only bulk action for the media library is to delete media items permanently.
+
+54
+00:05:07,000 --> 00:05:10,000
+Next up, we are going to talk about comments.
+
+55
+00:05:10,000 --> 00:05:13,000
+Comments are of course the messages that visitors to your site leave below posts.
+
+56
+00:05:16,000 --> 00:05:19,000
+When you click on comments, you will see a list of all the comments on your site.
+
+57
+00:05:21,000 --> 00:05:24,000
+As you hover over each comment, you can see the different options that are available to you, such as approve, unapprove, reply, quick edit, edit,
+
+58
+00:05:30,000 --> 00:05:33,000
+spam and trash.
+
+59
+00:05:32,000 --> 00:05:35,000
+To the left, you can see the comment has information, like their name, their gravatar and their email address.
+
+60
+00:05:39,000 --> 00:05:42,000
+As you move your cursor to the right, you can also see which post or page this comment was left on.
+
+61
+00:05:45,000 --> 00:05:48,000
+And all the way to the right, you'll find the date and the time that the comment was submitted.
+
+62
+00:05:51,000 --> 00:05:54,000
+Next, let's discuss appearance.
+
+63
+00:05:54,000 --> 00:05:57,000
+In the appearance section, you can change your site's theme. If you are using a block-based theme, you will have access to the Site Editor,
+
+64
+00:06:02,000 --> 00:06:05,000
+which will allow you to create overall site structure and to edit your site cohesively from one place.
+
+65
+00:06:10,000 --> 00:06:13,000
+But if you are using a classic theme, you will have access to the Customizer, widgets and so forth.
+
+66
+00:06:17,000 --> 00:06:20,000
+Next up, plugins.
+
+67
+00:06:21,000 --> 00:06:24,000
+When you open the plugins menu and click on add new, you will be able to install, manage and uninstall plugins for your site.
+
+68
+00:06:30,000 --> 00:06:33,000
+Lastly, let's touch on users.
+
+69
+00:06:33,000 --> 00:06:36,000
+Under the users menu, you can manage users on your site.
+
+70
+00:06:39,000 --> 00:06:42,000
+The different roles are subscriber, contributor, author, editor and administrator.
+
+71
+00:06:47,000 --> 00:06:50,000
+We will learn more about these and the settings below in later lessons.
+
+72
+00:06:52,000 --> 00:06:55,000
+I trust you now have a better grasp on navigating your way through the dashboard.
+

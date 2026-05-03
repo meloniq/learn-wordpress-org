@@ -1,0 +1,428 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we will delve deeper into templates.
+
+2
+00:00:04,000 --> 00:00:07,000
+At the end of this tutorial, we want to be able to differentiate between pages and templates,
+
+3
+00:00:11,000 --> 00:00:14,000
+know how to modify one of our base templates, how to add a new template,
+
+4
+00:00:17,000 --> 00:00:20,000
+and lastly, how to assign a custom template to a page or post.
+
+5
+00:00:22,000 --> 00:00:25,000
+A template provides the structure for how a page is displayed.
+
+6
+00:00:27,000 --> 00:00:30,000
+That usually includes a header template part, a content area, and a footer template part.
+
+7
+00:00:37,000 --> 00:00:40,000
+I think it is important to clarify the following information from the start.
+
+8
+00:00:43,000 --> 00:00:46,000
+Templates are not for posting content, and templates for a post or page
+
+9
+00:00:47,000 --> 00:00:50,000
+display your content with the Post Content block.
+
+10
+00:00:51,000 --> 00:00:54,000
+Templates are, as the name implies, design templates that can be applied to single or multiple pages
+
+11
+00:00:56,000 --> 00:00:59,000
+and posts.
+
+12
+00:00:58,000 --> 00:01:01,000
+To access templates, make your way to Appearance and click on Editor.
+
+13
+00:01:03,000 --> 00:01:06,000
+This will take you to your Site Editor.
+
+14
+00:01:06,000 --> 00:01:09,000
+The Editor can be used to customize the styles of your entire site,
+
+15
+00:01:12,000 --> 00:01:15,000
+edit pages,
+
+16
+00:01:16,000 --> 00:01:19,000
+modify templates,
+
+17
+00:01:24,000 --> 00:01:27,000
+as well as manage all the different patterns on your site.
+
+18
+00:01:28,000 --> 00:01:31,000
+When you start building a new website, you can edit existing templates or add new ones,
+
+19
+00:01:37,000 --> 00:01:40,000
+and the theme you are using will determine which existing or built-in templates are available to use.
+
+20
+00:01:42,000 --> 00:01:45,000
+So first up is the page template,
+
+21
+00:01:45,000 --> 00:01:48,000
+which creates the structure for how individual pages will be displayed.
+
+22
+00:01:52,000 --> 00:01:55,000
+Next is the single post template,
+
+23
+00:01:56,000 --> 00:01:59,000
+which displays a single blog post.
+
+24
+00:02:00,000 --> 00:02:03,000
+The index template displays posts,
+
+25
+00:02:08,000 --> 00:02:11,000
+and the 404 template displays when no content is found.
+
+26
+00:02:14,000 --> 00:02:17,000
+And these templates can of course all be modified as you please.
+
+27
+00:02:19,000 --> 00:02:22,000
+Then there are also other built-in templates worth exploring,
+
+28
+00:02:23,000 --> 00:02:26,000
+for example, a blank template.
+
+29
+00:02:27,000 --> 00:02:30,000
+To add a new template, click on the Inserter or plus icon next to templates.
+
+30
+00:02:33,000 --> 00:02:36,000
+A modal appears where you can choose between different template options.
+
+31
+00:02:37,000 --> 00:02:40,000
+You can, for example, create a template for a specific page,
+
+32
+00:02:41,000 --> 00:02:44,000
+or a template for all your post categories, or an individual category.
+
+33
+00:02:46,000 --> 00:02:49,000
+You can even create your own custom template that can be applied to any post or page.
+
+34
+00:02:52,000 --> 00:02:55,000
+When you create a new template, in this case a custom template,
+
+35
+00:02:57,000 --> 00:03:00,000
+and after you have named it,
+
+36
+00:03:00,000 --> 00:03:03,000
+you will be asked if you would like to select a pattern,
+
+37
+00:03:06,000 --> 00:03:09,000
+and if you want to start blank, merely select Skip.
+
+38
+00:03:12,000 --> 00:03:15,000
+Next, how do we edit templates? After selecting the relevant template,
+
+39
+00:03:17,000 --> 00:03:20,000
+you can click on the Edit icon in the sidebar next to pages,
+
+40
+00:03:22,000 --> 00:03:25,000
+or on the template screen on the right.
+
+41
+00:03:26,000 --> 00:03:29,000
+Once your template opens up, you can start editing your header and footer template parts.
+
+42
+00:03:32,000 --> 00:03:35,000
+Let's pause to reflect for a moment. When you edit a template,
+
+43
+00:03:36,000 --> 00:03:39,000
+you need to remember to separate the dynamic parts and the static parts.
+
+44
+00:03:40,000 --> 00:03:43,000
+The dynamic part is the content part that will change for every page or post that uses the template.
+
+45
+00:03:46,000 --> 00:03:49,000
+And as you can see in this example, the content from your page or post will be displayed where the Post Content block has been added in your template.
+
+46
+00:03:55,000 --> 00:03:58,000
+The static parts are the reusable parts of the template that will stay the same, like the header and the footer.
+
+47
+00:04:01,000 --> 00:04:04,000
+We therefore don't add any content to the template.
+
+48
+00:04:06,000 --> 00:04:09,000
+The Site Editor therefore makes a clear distinction between editing a page's content and its template,
+
+49
+00:04:12,000 --> 00:04:15,000
+making it easier for you to switch between the two modes and view them in the appropriate context.
+
+50
+00:04:18,000 --> 00:04:21,000
+Let's see this in action.
+
+51
+00:04:20,000 --> 00:04:23,000
+So let's go ahead and open up one of our pages.
+
+52
+00:04:25,000 --> 00:04:28,000
+And in this case, my sample page.
+
+53
+00:04:29,000 --> 00:04:32,000
+Once we open up our page, we can also go ahead and open up the list view.
+
+54
+00:04:34,000 --> 00:04:37,000
+And when we select the Post Content block, we will notice that all our content that we've added has been added to the post content block.
+
+55
+00:04:43,000 --> 00:04:46,000
+You will also see this in the settings sidebar on the right.
+
+56
+00:04:49,000 --> 00:04:52,000
+But what will happen now if I try to edit my header and my footer?
+
+57
+00:04:54,000 --> 00:04:57,000
+Let's go ahead and click on the header to try and modify this.
+
+58
+00:04:58,000 --> 00:05:01,000
+You will see a message that pops up and it says edit your template to edit this block.
+
+59
+00:05:04,000 --> 00:05:07,000
+And the same goes for our footer.
+
+60
+00:05:07,000 --> 00:05:10,000
+If we try and edit our footer, we will be prompted to make our way to the template.
+
+61
+00:05:15,000 --> 00:05:18,000
+So to do this, we can click on edit template in the settings sidebar on the right at the bottom.
+
+62
+00:05:24,000 --> 00:05:27,000
+This will take you to the template that has been assigned to the relevant page.
+
+63
+00:05:28,000 --> 00:05:31,000
+And now we can go ahead and update our header and our footer.
+
+64
+00:05:33,000 --> 00:05:36,000
+And we will notice that the post content block is only a placeholder.
+
+65
+00:05:39,000 --> 00:05:42,000
+We cannot add any content here.
+
+66
+00:05:42,000 --> 00:05:45,000
+Next, I'm going to select my footer, click on the three vertical dots,
+
+67
+00:05:48,000 --> 00:05:51,000
+and then replace this footer with one of my existing footer template parts.
+
+68
+00:05:54,000 --> 00:05:57,000
+And when I'm done, I'm going to click save, and now I have updated my page template.
+
+69
+00:06:04,000 --> 00:06:07,000
+If you would like to return to the page, click on back on your toolbar.
+
+70
+00:06:10,000 --> 00:06:13,000
+And this will take you back to the page so that you can modify your content.
+
+71
+00:06:15,000 --> 00:06:18,000
+And of course, you can edit your template separately.
+
+72
+00:06:18,000 --> 00:06:21,000
+When we make our way back to templates in the side view sidebar,
+
+73
+00:06:24,000 --> 00:06:27,000
+we will notice right at the bottom there's an option to manage all templates.
+
+74
+00:06:30,000 --> 00:06:33,000
+And when you select this, you will be able to rename and delete custom templates you have created,
+
+75
+00:06:37,000 --> 00:06:40,000
+or you can clear the customizations of built-in templates you have modified.
+
+76
+00:06:43,000 --> 00:06:46,000
+In the next section, we are going to discuss assigning a different template to a page or post.
+
+77
+00:06:51,000 --> 00:06:54,000
+Now, at the moment, we are on the front end of my sample page,
+
+78
+00:06:55,000 --> 00:06:58,000
+and we have assigned this page to the page template.
+
+79
+00:06:58,000 --> 00:07:01,000
+I've gone ahead and created a custom template with a new header and a new footer.
+
+80
+00:07:04,000 --> 00:07:07,000
+To assign the new custom template, we can click on edit page at the top,
+
+81
+00:07:10,000 --> 00:07:13,000
+or we can make our way to the dashboard, open up pages,
+
+82
+00:07:14,000 --> 00:07:17,000
+select the relevant page, in this case the sample page.
+
+83
+00:07:18,000 --> 00:07:21,000
+And then once we open up the page, we will see our content, but when we open up our sidebar settings,
+
+84
+00:07:25,000 --> 00:07:28,000
+on the right, we will see that this page has been assigned to the page template, the default template.
+
+85
+00:07:31,000 --> 00:07:34,000
+If you click on the name, you will notice you are able to add a new template from here.
+
+86
+00:07:39,000 --> 00:07:42,000
+You can edit the template assigned to the page,
+
+87
+00:07:43,000 --> 00:07:46,000
+or if you click on the drop-down, you can select or assign a new template to this page.
+
+88
+00:07:50,000 --> 00:07:53,000
+I'm going to go ahead and select the custom template which I have created.
+
+89
+00:07:55,000 --> 00:07:58,000
+And once I've done that, I will update.
+
+90
+00:07:59,000 --> 00:08:02,000
+We can preview the page in a new tab,
+
+91
+00:08:05,000 --> 00:08:08,000
+and now we will see that this page has a new header and a new footer due to the custom template which I have assigned to this page.
+
+92
+00:08:15,000 --> 00:08:18,000
+Lastly, let's briefly talk about header and footer template parts which we use to set up our templates.
+
+93
+00:08:23,000 --> 00:08:26,000
+You can edit a header or footer template part right within a template.
+
+94
+00:08:29,000 --> 00:08:32,000
+In this example, I am editing my header template part, and I'm stacking my Site Title and my Site Tagline block together in a stacked Group block.
+
+95
+00:08:39,000 --> 00:08:42,000
+Then I'll also make sure that I open up my setting sidebar, and I will remove some spacing between the two blocks.
+
+96
+00:08:47,000 --> 00:08:50,000
+When you select a header or footer template part, you will see an option that says "Edit".
+
+97
+00:08:56,000 --> 00:08:59,000
+When you select "Edit", you will be able to edit the template part in template editing mode without any distractions.
+
+98
+00:09:04,000 --> 00:09:07,000
+Another option is to make your way to patterns in your site view sidebar.
+
+99
+00:09:12,000 --> 00:09:15,000
+When you select patterns, you can scroll to the bottom and here you are able to view and modify your header, footer and general template parts.
+
+100
+00:09:24,000 --> 00:09:27,000
+To add a new template part, click on the plus icon next to "Patterns" and select "Create Template Part".
+
+101
+00:09:30,000 --> 00:09:33,000
+You have an option between General, Header and Footer Template Parts.
+
+102
+00:09:35,000 --> 00:09:38,000
+General template parts are not tied to any particular area, and remember to give your template part a descriptive name.
+
+103
+00:09:42,000 --> 00:09:45,000
+When you click on the three horizontal dots below a template part, you will be able to rename, duplicate or delete it.
+
+104
+00:09:50,000 --> 00:09:53,000
+And when you select the template part, you will be able to modify it in editing mode without any distractions as shown before.
+
+105
+00:09:58,000 --> 00:10:01,000
+We hope you now have a better understanding of how templates work.
+
+106
+00:10:03,000 --> 00:10:06,000
+To review, a template provides the structure for how your content is displayed, and this is usually accomplished by header and footer template parts.
+
+107
+00:10:12,000 --> 00:10:15,000
+And templates can be assigned to single or multiple pages.
+

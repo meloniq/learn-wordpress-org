@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:03,000
+Let's talk about managing spam on your website.
+
+2
+00:00:05,400 --> 00:00:08,400
+Allowing comments on your website is a great way to connect with your readers or clients
+
+3
+00:00:09,360 --> 00:00:12,360
+and build a community.
+
+4
+00:00:11,320 --> 00:00:14,320
+Unfortunately allowing comments also opens the door for spammers.
+
+5
+00:00:15,560 --> 00:00:18,560
+We have all received messages to become rich overnight or purchase unwanted products.
+
+6
+00:00:21,280 --> 00:00:24,280
+Comment spam happens when a spammer posts comments to your website via the blog or context page.
+
+7
+00:00:27,640 --> 00:00:30,640
+In this lesson we will look at how you can manage and avoid spam on your website by using the
+
+8
+00:00:32,800 --> 00:00:35,800
+built-in features of WordPress and using an anti-spam plugin.
+
+9
+00:00:37,840 --> 00:00:40,840
+Let's start with the built-in features.
+
+10
+00:00:40,360 --> 00:00:43,360
+By default WordPress comes with some built-in features to help you prevent spam on your
+
+11
+00:00:44,240 --> 00:00:47,240
+site which can be found in the settings discussion page in your dashboard.
+
+12
+00:00:52,040 --> 00:00:55,040
+Number 1.
+
+13
+00:00:53,040 --> 00:00:56,040
+Limiting the number of links allowed.
+
+14
+00:00:55,320 --> 00:00:58,320
+Since spam comments work through backlinks and encourage visitors to the spammer's site,
+
+15
+00:01:00,040 --> 00:01:03,040
+many spam comments will include a high number of links.
+
+16
+00:01:03,120 --> 00:01:06,120
+You may be able to catch some spam comments on your site by setting a limit to the number
+
+17
+00:01:07,680 --> 00:01:10,680
+of links allowed before it will be held for moderation or for an admin to approve.
+
+18
+00:01:13,160 --> 00:01:16,160
+Just something to take note of.
+
+19
+00:01:15,000 --> 00:01:18,000
+The link limit is set to two links by default but you can lower it to one link per comment.
+
+20
+00:01:20,240 --> 00:01:23,240
+It is not recommended to set the limit to zero otherwise all comments will be held for
+
+21
+00:01:24,440 --> 00:01:27,440
+moderation.
+
+22
+00:01:26,120 --> 00:01:29,120
+The second step you can take is to change the comment moderation settings.
+
+23
+00:01:30,520 --> 00:01:33,520
+In addition to limiting the number of links in a comment, you can also apply specified
+
+24
+00:01:35,040 --> 00:01:38,040
+words, phrases, usernames, emails etc. in the comment moderation text field to automatically
+
+25
+00:01:41,560 --> 00:01:44,560
+hold comments containing these elements in the moderation queue.
+
+26
+00:01:46,400 --> 00:01:49,400
+As you will see I have selected words like gambling, insurance, win and a link to a cryptocurrency
+
+27
+00:01:51,440 --> 00:01:54,440
+website.
+
+28
+00:01:52,560 --> 00:01:55,560
+As these are things you will often see in spam comments but you are welcome to look at previous
+
+29
+00:01:56,640 --> 00:01:59,640
+comments to flag certain words.
+
+30
+00:01:59,880 --> 00:02:02,880
+Next you can also disallow comment keys or to put it differently you can have comments
+
+31
+00:02:05,600 --> 00:02:08,600
+with specified words or elements automatically deleted.
+
+32
+00:02:10,400 --> 00:02:13,400
+It is like the comment moderation setting but here you can specify words, phrases, usernames,
+
+33
+00:02:16,280 --> 00:02:19,280
+IP addresses and so forth to automatically place a comment in the trash.
+
+34
+00:02:21,800 --> 00:02:24,800
+This means you do not need to manually move the comment to the trash from the moderation
+
+35
+00:02:26,040 --> 00:02:29,040
+queue.
+
+36
+00:02:27,680 --> 00:02:30,680
+The fourth step you can take is to disable trackbacks.
+
+37
+00:02:31,520 --> 00:02:34,520
+A large part of spam is trackbacks.
+
+38
+00:02:34,000 --> 00:02:37,000
+Trackbacks and pingbacks notify you that another blog has linked to your content and
+
+39
+00:02:39,560 --> 00:02:42,560
+vice versa.
+
+40
+00:02:40,560 --> 00:02:43,560
+However, spammers often abuse this feature by sending trackbacks and pings from spam websites.
+
+41
+00:02:48,680 --> 00:02:51,680
+The last step you can take in the discussion page is to select all comments to be moderated.
+
+42
+00:02:54,840 --> 00:02:57,840
+You can do this by selecting Comment must be manually approved.
+
+43
+00:02:59,000 --> 00:03:02,000
+Or you can of course choose not to receive any comments at all by deselecting Allow people
+
+44
+00:03:05,360 --> 00:03:08,360
+to submit comments.
+
+45
+00:03:09,160 --> 00:03:12,160
+Before we move on to plugins let's look at how to mark a comment as spam.
+
+46
+00:03:13,840 --> 00:03:16,840
+Go to comments and as you will see we have two spam comments here.
+
+47
+00:03:18,320 --> 00:03:21,320
+Click on both.
+
+48
+00:03:19,320 --> 00:03:22,320
+Cryptocurrency Mania and Win Big.
+
+49
+00:03:24,360 --> 00:03:27,360
+Go to the bulk action, mark as spam and then apply.
+
+50
+00:03:30,160 --> 00:03:33,160
+Next, another effective way to manage and stop spam is by using an anti-spam plugin.
+
+51
+00:03:37,720 --> 00:03:40,720
+There are many free and paid plugins that offer spam protection for your website which
+
+52
+00:03:42,560 --> 00:03:45,560
+you can find through the WordPress.org Plugin Directory.
+
+53
+00:03:46,520 --> 00:03:49,520
+Some plugins worth mentioning are Anti-spam Bee, Clean Talk or a Akismet.
+
+54
+00:03:54,760 --> 00:03:57,760
+There are multiple plugins to choose from in the Plugins Directory so find the one that
+
+55
+00:03:58,440 --> 00:04:01,440
+meets your needs.
+
+56
+00:04:00,560 --> 00:04:03,560
+In this example I am going to install and activate Akismet.
+
+57
+00:04:04,800 --> 00:04:07,800
+Make your way to plugins and click on Add new.
+
+58
+00:04:08,760 --> 00:04:11,760
+Select Akismet and then click on Install Now.
+
+59
+00:04:12,760 --> 00:04:15,760
+Wait a moment for installation to complete and then click on Activate.
+
+60
+00:04:17,640 --> 00:04:20,640
+Once you click activate you will be redirected to a page requesting that you set up an account
+
+61
+00:04:22,440 --> 00:04:25,440
+with Akismet.
+
+62
+00:04:23,840 --> 00:04:26,840
+Akismet is free for personal use so you can select what to pay even if it is $0.
+
+63
+00:04:29,360 --> 00:04:32,360
+So I will go ahead and drag the bar on the right to $0 and continue with a personal subscription.
+
+64
+00:04:35,840 --> 00:04:38,840
+And once activated there are a number of settings you can change for how you would like the
+
+65
+00:04:40,600 --> 00:04:43,600
+plugin to manage spam on your site.
+
+66
+00:04:44,000 --> 00:04:47,000
+Let's look at a few more security plugins to consider.
+
+67
+00:04:48,080 --> 00:04:51,080
+CAPTCHA is a technology used to tell robots and humans apart.
+
+68
+00:04:52,600 --> 00:04:55,600
+Find the right CAPTCHA plugin as this makes it very hard for spam bots to infiltrate your
+
+69
+00:04:57,360 --> 00:05:00,360
+website.
+
+70
+00:04:58,360 --> 00:05:01,360
+Lastly, spam plugins can stop and delete a lot of spam comments but it can't stop spammers
+
+71
+00:05:04,120 --> 00:05:07,120
+from accessing your website.
+
+72
+00:05:06,240 --> 00:05:09,240
+Too many requests from spammers to submit comments can slow down your site and negatively affect
+
+73
+00:05:11,720 --> 00:05:14,720
+performance.
+
+74
+00:05:13,560 --> 00:05:16,560
+A firewall plugin such as All in one WordPress Security and Firewall, WordFence, Sucuri
+
+75
+00:05:20,040 --> 00:05:23,040
+or Jetpack will help you block unwanted requests before they even reach your site.
+
+76
+00:05:25,800 --> 00:05:28,800
+These plugins will ward off automated bots and scripts from trying to leave comments.
+
+77
+00:05:31,000 --> 00:05:34,000
+I trust these steps will help you secure your site and intercept spammers.
+

@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:03,000
+We are going to try and answer the question, what is the difference between the block editor and the Site Editor?
+
+2
+00:00:07,000 --> 00:00:10,000
+We will compare the block editor and the Site Editor as well as explore the Site Editor tools.
+
+3
+00:00:13,000 --> 00:00:16,000
+And by the end, we'll feel confident in using both things together to create our entire site layout.
+
+4
+00:00:20,000 --> 00:00:23,000
+Without further ado, let's begin.
+
+5
+00:00:23,000 --> 00:00:26,000
+Site editing allows you the freedom to build every aspect of your WordPress site, from the header all the way down to the footer, using the power of blocks within the Site Editor feature.
+
+6
+00:00:35,000 --> 00:00:38,000
+But what is the Site Editor?
+
+7
+00:00:37,000 --> 00:00:40,000
+How does it differ from the block editor that we are used to?
+
+8
+00:00:40,000 --> 00:00:43,000
+How can we use templates in the Site Editor to create our overall structure?
+
+9
+00:00:46,000 --> 00:00:49,000
+To answer these burning questions, let's take a trip through our dashboard and compare the two.
+
+10
+00:00:52,000 --> 00:00:55,000
+The block editor is the foundation of your site's content and is used to add content to pages and posts.
+
+11
+00:01:00,000 --> 00:01:03,000
+Let's refresh ourselves on how to add page and post content.
+
+12
+00:01:04,000 --> 00:01:07,000
+In your dashboard, head to pages if you are creating a static page, or go to posts for dynamic content such as a blog post.
+
+13
+00:01:15,000 --> 00:01:18,000
+When you click on "Add New", you will create content for that specific page or post.
+
+14
+00:01:23,000 --> 00:01:26,000
+Compared to this, what does the Site Editor allow us to do exactly?
+
+15
+00:01:28,000 --> 00:01:31,000
+The Site Editor allows us to edit our site cohesively.
+
+16
+00:01:33,000 --> 00:01:36,000
+Pages and posts are only used to add static or dynamic content using blocks.
+
+17
+00:01:39,000 --> 00:01:42,000
+On the other hand, the Site Editor uses blocks to create the overall look and feel of your site using templates.
+
+18
+00:01:46,000 --> 00:01:49,000
+But it also allows us to add and edit pages to ensure a seamless site editing experience.
+
+19
+00:01:53,000 --> 00:01:56,000
+If you've installed the block theme like Twenty Twenty-Four, access the Site Editor via Appearance and then click on "Editor".
+
+20
+00:02:01,000 --> 00:02:04,000
+The Site Editor loads your site's front page for editing.
+
+21
+00:02:06,000 --> 00:02:09,000
+On the left, there's the site view sidebar.
+
+22
+00:02:09,000 --> 00:02:12,000
+This tool lets you toggle between the key parts of your site, navigation, styles, pages, templates and patterns.
+
+23
+00:02:17,000 --> 00:02:20,000
+Let's start with navigation.
+
+24
+00:02:19,000 --> 00:02:22,000
+Here you can quickly see and tweak all your menus.
+
+25
+00:02:23,000 --> 00:02:26,000
+You can rename them, rearrange menu items etc.
+
+26
+00:02:32,000 --> 00:02:35,000
+When you click on Styles, you have the ability to change the style combination of your theme.
+
+27
+00:02:39,000 --> 00:02:42,000
+And when you click on Edit Styles, you can change your entire site's typography, colors and layout.
+
+28
+00:02:53,000 --> 00:02:56,000
+If you look down further below, you also have the option to customize the appearance of specific blocks for your whole site.
+
+29
+00:03:00,000 --> 00:03:03,000
+To see how these blocks will change if you edit them, go to your site's Style Book.
+
+30
+00:03:05,000 --> 00:03:08,000
+As mentioned, here you can preview any changes made.
+
+31
+00:03:09,000 --> 00:03:12,000
+Below pages, you also have the option to create and edit pages, the same as when you are in the dashboard.
+
+32
+00:03:23,000 --> 00:03:26,000
+This feature allows you to stay in the Site Editor when editing your site or content on a page.
+
+33
+00:03:30,000 --> 00:03:33,000
+When working inside a page in the Site Editor, we add content to the Content block.
+
+34
+00:03:37,000 --> 00:03:40,000
+Next, we'll make our way to patterns.
+
+35
+00:03:43,000 --> 00:03:46,000
+Below patterns, we have access to a library of patterns.
+
+36
+00:03:50,000 --> 00:03:53,000
+We will be able to create and manage our own patterns.
+
+37
+00:03:54,000 --> 00:03:57,000
+We can view the patterns provided by our theme.
+
+38
+00:03:59,000 --> 00:04:02,000
+And then we can also create and manage template parts.
+
+39
+00:04:03,000 --> 00:04:06,000
+A quick note on template parts.
+
+40
+00:04:06,000 --> 00:04:09,000
+These are reusable groups of blocks that you can use to create repeated parts of your template, like the header and footer.
+
+41
+00:04:14,000 --> 00:04:17,000
+But now, let's focus on templates.
+
+42
+00:04:18,000 --> 00:04:21,000
+When we open templates, let's take a look at the top menu and run through what these elements allow you to do.
+
+43
+00:04:25,000 --> 00:04:28,000
+The plus icon or Inserter top left allows you to add any block or a pattern of blocks to any template you are working on.
+
+44
+00:04:35,000 --> 00:04:38,000
+Next to your Inserter, you have the undo and the redo button.
+
+45
+00:04:42,000 --> 00:04:45,000
+Next is the list view. This is a super useful tool that allows you to see a list of all the blocks that are on your page.
+
+46
+00:04:49,000 --> 00:04:52,000
+This is great for seeing your page's structure, as well as editing, moving and removing blocks.
+
+47
+00:04:56,000 --> 00:04:59,000
+In the middle at the top is the name of the template.
+
+48
+00:05:02,000 --> 00:05:05,000
+When you click on the preview button, you will be able to see what your site will look like with the changes applied.
+
+49
+00:05:10,000 --> 00:05:13,000
+On desktop, tablet or mobile.
+
+50
+00:05:13,000 --> 00:05:16,000
+And then, if you click on save, you can save changes.
+
+51
+00:05:17,000 --> 00:05:20,000
+Next, the settings tab lets you display or hide the template and block settings sidebar.
+
+52
+00:05:25,000 --> 00:05:28,000
+So, when you select a block for example, you can use the settings sidebar to style the block further.
+
+53
+00:05:35,000 --> 00:05:38,000
+Next to the settings tab, you've got the styles tab, which is another place where you can access your style settings.
+
+54
+00:05:42,000 --> 00:05:45,000
+And finally, if you click on the three vertical dots, you've got access to more options, such as selecting the spotlight mode, etc.
+
+55
+00:05:51,000 --> 00:05:54,000
+Now we've had a brief rundown of the menu options.
+
+56
+00:05:55,000 --> 00:05:58,000
+Let's take a closer look at templates.
+
+57
+00:05:58,000 --> 00:06:01,000
+At the top, it says "Express the layout of your site with templates".
+
+58
+00:06:03,000 --> 00:06:06,000
+Templates use blocks in order to create the overall design of your site by adding a header, footer or even sidebar.
+
+59
+00:06:10,000 --> 00:06:13,000
+We can see all three at play when we open the page of the sidebar template.
+
+60
+00:06:14,000 --> 00:06:17,000
+We can see the structure being provided by the header, the sidebar and the footer.
+
+61
+00:06:20,000 --> 00:06:23,000
+Please also note, templates can be applied to a single page or multiple pages.
+
+62
+00:06:29,000 --> 00:06:32,000
+With that in mind, let's say we want to add the template that's applied to our pages, for example.
+
+63
+00:06:35,000 --> 00:06:38,000
+There are a few options provided by our theme here, for example the default page template or the page with wide image.
+
+64
+00:06:43,000 --> 00:06:46,000
+But let's choose the page with no title.
+
+65
+00:06:47,000 --> 00:06:50,000
+When the template loads, you'll see an example of what this template looks like without any content.
+
+66
+00:06:55,000 --> 00:06:58,000
+Here is where the list view comes in really handy. The sidebar on the left will show you how the blocks that make up this template are structured.
+
+67
+00:07:02,000 --> 00:07:05,000
+Here you can see the components that make up this page template. The header is clearly marked when you click on it, as is the footer.
+
+68
+00:07:11,000 --> 00:07:14,000
+In the middle, you'll see a Group block that contains a Post Content block within it. This is super important.
+
+69
+00:07:18,000 --> 00:07:21,000
+The Content block is what allows the content of your page or post to appear in this template.
+
+70
+00:07:24,000 --> 00:07:27,000
+Think of this block as the container for whatever you wrote in your pages or posts section.
+
+71
+00:07:30,000 --> 00:07:33,000
+Without a container, your page content won't have anywhere to be displayed. So remember, we don't add content to templates.
+
+72
+00:07:38,000 --> 00:07:41,000
+We only modify our header and footer or sidebar.
+
+73
+00:07:43,000 --> 00:07:46,000
+Let's go ahead and replace this header with a different header pattern that comes with our theme.
+
+74
+00:07:51,000 --> 00:07:54,000
+We can scroll through the available options.
+
+75
+00:07:54,000 --> 00:07:57,000
+Then I will go ahead and select the centered header with logo pattern.
+
+76
+00:08:00,000 --> 00:08:03,000
+I will also select one of my existing navigation menus named Lifestyle.
+
+77
+00:08:07,000 --> 00:08:10,000
+Once selected, we can go ahead and save.
+
+78
+00:08:18,000 --> 00:08:21,000
+Awesome, the page template is saved. But how do we add this template to a page?
+
+79
+00:08:24,000 --> 00:08:27,000
+For that, we can navigate back to our main dashboard and go to pages.
+
+80
+00:08:30,000 --> 00:08:33,000
+Then, click on the page you'd like to apply this template to. In your sidebar to the right, you'll see a template header.
+
+81
+00:08:39,000 --> 00:08:42,000
+Go ahead and click on that. This drop-down menu lists all of the templates you currently have saved.
+
+82
+00:08:47,000 --> 00:08:50,000
+In this case, let's select page with no title. And then we can update.
+
+83
+00:08:53,000 --> 00:08:56,000
+Here's how the page looks like with the default page template.
+
+84
+00:08:59,000 --> 00:09:02,000
+And here it is with the page with no title template applied.
+
+85
+00:09:06,000 --> 00:09:09,000
+You can repeat this for as many pages as you like and the same applies to your posts.
+
+86
+00:09:13,000 --> 00:09:16,000
+As you have seen, the block editor and the Site Editor work hand in hand.
+
+87
+00:09:17,000 --> 00:09:20,000
+The block editor only allows us to add content to pages and posts.
+
+88
+00:09:22,000 --> 00:09:25,000
+But the Site Editor gives you the ability to edit your site cohesively.
+
+89
+00:09:26,000 --> 00:09:29,000
+You can edit the look and feel, modify templates as well as add content to pages.
+

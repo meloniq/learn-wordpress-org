@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:03,000
+Creating posts and pages with the WordPress block editor.
+
+2
+00:00:04,000 --> 00:00:07,000
+Today we're diving into the heart of content creation,
+
+3
+00:00:08,000 --> 00:00:11,000
+using the powerful WordPress block editor.
+
+4
+00:00:11,000 --> 00:00:14,000
+The learning outcomes for this lesson are defining the block editor,
+
+5
+00:00:15,000 --> 00:00:18,000
+navigating the block editor interface,
+
+6
+00:00:18,000 --> 00:00:21,000
+differentiating between the content editing area and the setting sidebar,
+
+7
+00:00:22,000 --> 00:00:25,000
+creating a page and post, and lastly, using blocks, patterns and the List View.
+
+8
+00:00:28,000 --> 00:00:31,000
+The WordPress block editor allows you to build your site with blocks, no code required.
+
+9
+00:00:37,000 --> 00:00:40,000
+As seen before, to create a post or page, log into your WordPress dashboard.
+
+10
+00:00:43,000 --> 00:00:46,000
+From the dashboard, navigate to either posts or pages in the left-hand menu.
+
+11
+00:00:49,000 --> 00:00:52,000
+Let's create a new page to take a closer look at the block editor interface.
+
+12
+00:00:55,000 --> 00:00:58,000
+Once we add a new page, we can also provide a suitable title for the page.
+
+13
+00:01:03,000 --> 00:01:06,000
+When you click on the Inserter, you will be able to add a range of different blocks to build your page.
+
+14
+00:01:09,000 --> 00:01:12,000
+Blocks can be anything from paragraphs, images, columns, galleries, pricing tables and more.
+
+15
+00:01:16,000 --> 00:01:19,000
+Block patterns is another great feature.
+
+16
+00:01:19,000 --> 00:01:22,000
+These are set groups of blocks or pre-designed blocks that you can quickly add to build entire sections
+
+17
+00:01:25,000 --> 00:01:28,000
+and then modify it to meet your needs.
+
+18
+00:01:28,000 --> 00:01:31,000
+And on the right, next to patterns, we can add media.
+
+19
+00:01:34,000 --> 00:01:37,000
+Firstly, from our Media Library, or from Openverse,
+
+20
+00:01:40,000 --> 00:01:43,000
+they provide openly licensed media that is available to use for free.
+
+21
+00:01:46,000 --> 00:01:49,000
+There are multiple ways to add a block.
+
+22
+00:01:49,000 --> 00:01:52,000
+Firstly, you can click on the Inserter top left or on the Inserter within the page.
+
+23
+00:01:55,000 --> 00:01:58,000
+The six blocks that appear below Search will be your most recently used blocks.
+
+24
+00:02:00,000 --> 00:02:03,000
+Or you can use the forward slash command.
+
+25
+00:02:03,000 --> 00:02:06,000
+So let's say forward slash image and add an image from our Media Library which I've already uploaded.
+
+26
+00:02:14,000 --> 00:02:17,000
+Next, I will press Enter and then add some text to my Paragraph block.
+
+27
+00:02:19,000 --> 00:02:22,000
+And then add another paragraph.
+
+28
+00:02:23,000 --> 00:02:26,000
+The interface is divided into three main sections.
+
+29
+00:02:29,000 --> 00:02:32,000
+The Content Editing Area, the left sidebar for selecting blocks or the List View,
+
+30
+00:02:34,000 --> 00:02:37,000
+which we will talk about in a moment, and the Settings sidebar on the right.
+
+31
+00:02:42,000 --> 00:02:45,000
+The Settings sidebar on the right provides additional settings and options for the selected block,
+
+32
+00:02:48,000 --> 00:02:51,000
+allowing you to style the block further.
+
+33
+00:02:51,000 --> 00:02:54,000
+Each block, of course, will have different settings available.
+
+34
+00:02:55,000 --> 00:02:58,000
+When you select a block, you will also see the block toolbar related to the specific block.
+
+35
+00:03:05,000 --> 00:03:08,000
+In this case, the Paragraph block.
+
+36
+00:03:09,000 --> 00:03:12,000
+And starting from the left, the block toolbar allows you to transform this block to a different type of block,
+
+37
+00:03:16,000 --> 00:03:19,000
+drag and drop a block to a new location, or use arrows to relocate a block,
+
+38
+00:03:23,000 --> 00:03:26,000
+change the alignment of the text,
+
+39
+00:03:28,000 --> 00:03:31,000
+select bold, italics, or allow you to add a link.
+
+40
+00:03:35,000 --> 00:03:38,000
+The drop down arrow allows highlighting, adding footnotes and other styling options.
+
+41
+00:03:42,000 --> 00:03:45,000
+And when you click on the three vertical dots, you will see more options.
+
+42
+00:03:48,000 --> 00:03:51,000
+Next, it is also important to highlight the List View.
+
+43
+00:03:53,000 --> 00:03:56,000
+In this example, you will notice that I have built an entire page using a variety of blocks.
+
+44
+00:04:00,000 --> 00:04:03,000
+And if we scroll up, we can open up the List View, top left.
+
+45
+00:04:12,000 --> 00:04:15,000
+The List View helps you navigate between layers of content and nested blocks.
+
+46
+00:04:17,000 --> 00:04:20,000
+It is an indispensable feature of the WordPress editor that makes it easy for you to work with the blocks on your site.
+
+47
+00:04:24,000 --> 00:04:27,000
+You can view the exact order and structure of every block on the page, which is especially helpful if you have a page with a lot of content.
+
+48
+00:04:32,000 --> 00:04:35,000
+You can select blocks that have other blocks nested inside them.
+
+49
+00:04:36,000 --> 00:04:39,000
+You can click and drag blocks to move them to a different part of the page.
+
+50
+00:04:40,000 --> 00:04:43,000
+And when you click on the ellipsis, the three dots next to any block in the List View, there are a variety of helpful options.
+
+51
+00:04:49,000 --> 00:04:52,000
+Let's return to our original page and continue building the page using blocks to see the block editor in action.
+
+52
+00:04:58,000 --> 00:05:01,000
+Firstly, let's add a Gallery block and then select three images from our Media Library.
+
+53
+00:05:13,000 --> 00:05:16,000
+Once inserted, I'll select the Gallery block, click on the three vertical dots and select Add after.
+
+54
+00:05:20,000 --> 00:05:23,000
+Then I will click on the Inserter top left and add a pattern, a pre-designed group of blocks.
+
+55
+00:05:29,000 --> 00:05:32,000
+And I will select one of the featured patterns to schedule a visit.
+
+56
+00:05:36,000 --> 00:05:39,000
+Then I will open up my List View, select the Group block and change the alignment of the text.
+
+57
+00:05:44,000 --> 00:05:47,000
+Next, let's look at the sidebar settings.
+
+58
+00:05:49,000 --> 00:05:52,000
+Once we select a block, we can use the sidebar settings to style the block further.
+
+59
+00:05:55,000 --> 00:05:58,000
+In this case, we can add a rounded effect to our image.
+
+60
+00:06:00,000 --> 00:06:03,000
+I'll select my second paragraph and use the block toolbar to change the text to bold.
+
+61
+00:06:09,000 --> 00:06:12,000
+Then I will select my List View to ensure that I select my parent Gallery block.
+
+62
+00:06:14,000 --> 00:06:17,000
+And in the sidebar settings, I will change it from having three columns to two.
+
+63
+00:06:21,000 --> 00:06:24,000
+And then finally, I will select my Buttons block and change the background color to green.
+
+64
+00:06:30,000 --> 00:06:33,000
+I trust you now see how the puzzle pieces of the block editor fit together, using blocks to add content,
+
+65
+00:06:43,000 --> 00:06:46,000
+using the Settings sidebar to style and edit your content and using the List View to navigate your content.
+
+66
+00:06:52,000 --> 00:06:55,000
+Please note, you can also create and edit pages in the Site Editor.
+
+67
+00:06:57,000 --> 00:07:00,000
+So let's make our way to Appearance and click on Editor.
+
+68
+00:07:00,000 --> 00:07:03,000
+And this will of course take us into the Site Editor.
+
+69
+00:07:03,000 --> 00:07:06,000
+Then we can select pages and I will open up the Using the block editor page and then select Edit.
+
+70
+00:07:12,000 --> 00:07:15,000
+In the Site Editor, we add content to the Content block.
+
+71
+00:07:16,000 --> 00:07:19,000
+And then it works exactly the same and we can keep building our page using blocks.
+
+72
+00:07:22,000 --> 00:07:25,000
+In this case, I will add an embed YouTube block.
+
+73
+00:07:26,000 --> 00:07:29,000
+Add my URL and then embed the video into my page.
+
+74
+00:07:30,000 --> 00:07:33,000
+To end off, creating a post is exactly the same as creating a page.
+
+75
+00:07:39,000 --> 00:07:42,000
+We use blocks to build the structure of our content.
+
+76
+00:07:44,000 --> 00:07:47,000
+And please note, we cover adding categories, tags and a featured image in a different lesson.
+
+77
+00:07:51,000 --> 00:07:54,000
+I trust you now have a better understanding of navigating the block editor as well as using blocks, the Settings sidebar and the List View.
+

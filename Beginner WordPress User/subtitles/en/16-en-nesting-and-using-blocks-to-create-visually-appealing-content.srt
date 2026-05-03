@@ -1,0 +1,440 @@
+1
+00:00:00,000 --> 00:00:03,000
+As we have learned, blocks form the cornerstone of building your online home.
+
+2
+00:00:04,560 --> 00:00:07,560
+You can think of them as the literal building blocks of your website.
+
+3
+00:00:08,160 --> 00:00:11,160
+In this lesson, we are going to build on our knowledge of blocks.
+
+4
+00:00:11,640 --> 00:00:14,640
+Explore using various types of blocks,
+
+5
+00:00:14,200 --> 00:00:17,200
+as well as nest and group blocks together to create various layouts.
+
+6
+00:00:18,240 --> 00:00:21,240
+Nested blocks help you create more complex layouts by adding multiple blocks inside each other.
+
+7
+00:00:24,240 --> 00:00:27,240
+We typically use container blocks such as the Group block, Columns block, Cover block,
+
+8
+00:00:29,240 --> 00:00:32,240
+the Media and Text block or Row block to group content together.
+
+9
+00:00:33,560 --> 00:00:36,560
+As a reminder, when you open up the List View,
+
+10
+00:00:36,480 --> 00:00:39,480
+you can navigate between layers of content and nested blocks.
+
+11
+00:00:41,000 --> 00:00:44,000
+Let's look at the second section on this homepage to see this in action.
+
+12
+00:00:45,520 --> 00:00:48,520
+So I'll go ahead and select the Columns block.
+
+13
+00:00:49,080 --> 00:00:52,080
+And when we expand the Columns block, we will see all the blocks inside.
+
+14
+00:00:55,680 --> 00:00:58,680
+In the left column, we will notice a Heading block, a Separator block and a Paragraph block.
+
+15
+00:01:04,560 --> 00:01:07,560
+And in the right column, we will see a Gallery block with four different images.
+
+16
+00:01:11,560 --> 00:01:14,560
+Let's go ahead and create some examples together.
+
+17
+00:01:14,320 --> 00:01:17,320
+Firstly, I'm going to group some blocks together using a Group block.
+
+18
+00:01:18,600 --> 00:01:21,600
+But first, I'm going to add a Heading block.
+
+19
+00:01:24,440 --> 00:01:27,440
+And then name it appropriately.
+
+20
+00:01:26,360 --> 00:01:29,360
+In this case, laughter is the best medicine.
+
+21
+00:01:31,560 --> 00:01:34,560
+Then I'll press Enter and add a Columns block.
+
+22
+00:01:37,800 --> 00:01:40,800
+And select two equal columns.
+
+23
+00:01:41,600 --> 00:01:44,600
+And then add some text in the left column.
+
+24
+00:01:46,080 --> 00:01:49,080
+And in the right column.
+
+25
+00:01:50,040 --> 00:01:53,040
+Then I will select both of these blocks in my list view by holding in shift and clicking
+
+26
+00:01:55,920 --> 00:01:58,920
+on my mouse, which allows you to select multiple blocks and then use the block toolbar to
+
+27
+00:02:02,040 --> 00:02:05,040
+group them together in a Group block.
+
+28
+00:02:06,800 --> 00:02:09,800
+Next, I would like to change the width of the Group block to wide width.
+
+29
+00:02:11,080 --> 00:02:14,080
+But before I will be able to do that, I have to deselect Inner blocks use content width.
+
+30
+00:02:17,800 --> 00:02:20,800
+Only once I've deselected this option, the nested blocks will be able to use the content
+
+31
+00:02:23,360 --> 00:02:26,360
+width options, such as wide width and full width.
+
+32
+00:02:27,520 --> 00:02:30,520
+If I don't deselect this option, I won't be able to change the alignment to full width,
+
+33
+00:02:33,360 --> 00:02:36,360
+for example.
+
+34
+00:02:35,160 --> 00:02:38,160
+As you can see, nothing happens.
+
+35
+00:02:38,600 --> 00:02:41,600
+So once deselected, I can return to the block toolbar and change the width to wide width
+
+36
+00:02:44,680 --> 00:02:47,680
+without the constraints set by the theme.
+
+37
+00:02:47,040 --> 00:02:50,040
+Next, we can open up the Styles tab to style our block further.
+
+38
+00:02:51,000 --> 00:02:54,000
+The first thing I want to do is change the background color of the Group block.
+
+39
+00:02:55,960 --> 00:02:58,960
+And then please also note, you can add a background image to a Group block if you wanted to.
+
+40
+00:03:01,840 --> 00:03:04,840
+And click on the three vertical dots next to Typography to see all the options available.
+
+41
+00:03:08,120 --> 00:03:11,120
+Next, I will go ahead and add some padding to create more space around the content of
+
+42
+00:03:13,920 --> 00:03:16,920
+my block.
+
+43
+00:03:14,480 --> 00:03:17,480
+And there you have it.
+
+44
+00:03:19,240 --> 00:03:22,240
+And of course, you may decide to style your Group block even further.
+
+45
+00:03:24,800 --> 00:03:27,800
+When you have multiple layers of content on a page, you can use the Group block to rename
+
+46
+00:03:30,560 --> 00:03:33,560
+sections.
+
+47
+00:03:31,560 --> 00:03:34,560
+So, in the top example, we will see the first section is called Our story and now I can select
+
+48
+00:03:37,920 --> 00:03:40,920
+the Group block below and rename it.
+
+49
+00:03:41,040 --> 00:03:44,040
+In this case, Testimonial.
+
+50
+00:03:45,160 --> 00:03:48,160
+So this feature of the Group block will allow you to structure and organize your content.
+
+51
+00:03:52,040 --> 00:03:55,040
+In the next example, let's use the Media and Text block to group blocks together.
+
+52
+00:03:57,320 --> 00:04:00,320
+So let's go ahead and add the Media and Text block.
+
+53
+00:04:01,040 --> 00:04:04,040
+And then on the left, we can add an image from our media library.
+
+54
+00:04:08,320 --> 00:04:11,320
+And on the right, we can start adding content.
+
+55
+00:04:11,560 --> 00:04:14,560
+At the top, I will add a heading and name it Sushi is art.
+
+56
+00:04:19,360 --> 00:04:22,360
+Press enter and then add some text.
+
+57
+00:04:22,760 --> 00:04:25,760
+At the bottom, I want to add a call to action or in this case, a Buttons block.
+
+58
+00:04:30,320 --> 00:04:33,320
+And then I'll say Learn more.
+
+59
+00:04:33,920 --> 00:04:36,920
+And I'll use the block toolbar to make the text bold and also to add the relevant URL.
+
+60
+00:04:42,120 --> 00:04:45,120
+Then I will select the parent block in the List View and change the alignment to wide
+
+61
+00:04:48,320 --> 00:04:51,320
+width.
+
+62
+00:04:50,680 --> 00:04:53,680
+You can also use the block toolbar if you wanted to change and show the image on the
+
+63
+00:04:55,800 --> 00:04:58,800
+right.
+
+64
+00:04:57,640 --> 00:05:00,640
+And then below Settings, I will change the media width to 40.
+
+65
+00:05:06,280 --> 00:05:09,280
+Then I will open up the Styles tab and add some padding around the content.
+
+66
+00:05:13,640 --> 00:05:16,640
+And then finally, I will change the vertical alignment of the image to align bottom.
+
+67
+00:05:23,040 --> 00:05:26,040
+And that's it.
+
+68
+00:05:25,240 --> 00:05:28,240
+Our Media and Text block is done.
+
+69
+00:05:28,440 --> 00:05:31,440
+In the next example, we are going to use the Columns block.
+
+70
+00:05:31,440 --> 00:05:34,440
+The Columns block is one of the most effective blocks to use to create complex layouts or
+
+71
+00:05:35,560 --> 00:05:38,560
+various designs.
+
+72
+00:05:37,040 --> 00:05:40,040
+So let's go ahead and add a Columns block and then select three equal columns.
+
+73
+00:05:44,440 --> 00:05:47,440
+And then in the left column, I'm going to go ahead and add some text and name it Platters,
+
+74
+00:05:52,520 --> 00:05:55,520
+press enter and then add a paragraph.
+
+75
+00:05:57,120 --> 00:06:00,120
+Below that, I'm going to add an Image block and select an image from my media library.
+
+76
+00:06:08,440 --> 00:06:11,440
+Then I will select the text at the top, make it bold and also enlarge the size followed
+
+77
+00:06:16,960 --> 00:06:19,960
+by centering the text of both paragraphs.
+
+78
+00:06:22,880 --> 00:06:25,880
+And once it's aligned center, I will select the Image block and change the aspect ratio
+
+79
+00:06:28,080 --> 00:06:31,080
+to square.
+
+80
+00:06:32,040 --> 00:06:35,040
+Then I will select the main Columns block or the parent block and change the alignment
+
+81
+00:06:37,320 --> 00:06:40,320
+to wide width.
+
+82
+00:06:39,840 --> 00:06:42,840
+Then I will make my way to Styles and add some padding around the content of the block,
+
+83
+00:06:47,080 --> 00:06:50,080
+as well as block spacing between the three columns.
+
+84
+00:06:53,560 --> 00:06:56,560
+When I'm done with styling the block, I'm going to select the left column and duplicate
+
+85
+00:06:59,760 --> 00:07:02,760
+it twice.
+
+86
+00:07:05,400 --> 00:07:08,400
+And once duplicated, we can delete the empty columns.
+
+87
+00:07:13,600 --> 00:07:16,600
+And then we can go ahead and modify the content as we please.
+
+88
+00:07:20,360 --> 00:07:23,360
+In the last example, we are going to use a Cover block.
+
+89
+00:07:23,640 --> 00:07:26,640
+The Cover block allows you to display text and other content on top of an image or video.
+
+90
+00:07:28,760 --> 00:07:31,760
+It is a great block to use for headers and banner style displays.
+
+91
+00:07:32,840 --> 00:07:35,840
+So let's go ahead and add our Cover block.
+
+92
+00:07:36,120 --> 00:07:39,120
+Then you will see that you can select a color overlay.
+
+93
+00:07:41,480 --> 00:07:44,480
+But I'm going to go ahead and add an image from my media library as background.
+
+94
+00:07:47,920 --> 00:07:50,920
+Then I will add some text followed by a Buttons block.
+
+95
+00:07:56,880 --> 00:07:59,880
+Then I will write Order now and then change the background color and the text color of
+
+96
+00:08:03,880 --> 00:08:06,880
+my call to action.
+
+97
+00:08:11,400 --> 00:08:14,400
+Then I will select both of the blocks and stack them together using a Stack block.
+
+98
+00:08:19,400 --> 00:08:22,400
+This allows me to customize the blocks simultaneously.
+
+99
+00:08:23,160 --> 00:08:26,160
+Then I will justify the Stack block to center, select the Cover block and change the alignment
+
+100
+00:08:32,120 --> 00:08:35,120
+to wide width.
+
+101
+00:08:34,600 --> 00:08:37,600
+And don't forget to deselect Inner blocks use content width.
+
+102
+00:08:39,800 --> 00:08:42,800
+Now we can make further modifications.
+
+103
+00:08:42,120 --> 00:08:45,120
+I will enlarge the text, enjoy 20% off as well as the Buttons block.
+
+104
+00:08:53,120 --> 00:08:56,120
+I also want to make the text of the Buttons block bold and don't forget to add your URL.
+
+105
+00:09:03,880 --> 00:09:06,880
+Then I will select the Cover block and please note in the block toolbar you have the option
+
+106
+00:09:09,160 --> 00:09:12,160
+to toggle the block to full height.
+
+107
+00:09:12,720 --> 00:09:15,720
+But then we can also manually decrease or increase the size.
+
+108
+00:09:19,720 --> 00:09:22,720
+Then I will open up the Styles tab and change the overlay opacity to 30 to make it lighter.
+
+109
+00:09:30,440 --> 00:09:33,440
+And then my cover block is ready to go.
+
+110
+00:09:35,480 --> 00:09:38,480
+I trust you now feel more confident nesting and grouping blocks together.
+

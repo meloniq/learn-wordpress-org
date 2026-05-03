@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we are going to apply what we've learned thus far by setting up our pages,
+
+2
+00:00:06,400 --> 00:00:09,400
+posts, site logo and navigation menu.
+
+3
+00:00:11,760 --> 00:00:14,760
+First up, let's create our pages.
+
+4
+00:00:13,600 --> 00:00:16,600
+I'll make my way to pages, click on Add New Page and then once I do that, I will be able
+
+5
+00:00:20,840 --> 00:00:23,840
+to add or select a pattern that comes with my theme and I'm using the Twenty Twenty-Four default theme.
+
+6
+00:00:27,000 --> 00:00:30,000
+So I'll go ahead and select a pattern that appeals to me and name it Home.
+
+7
+00:00:35,320 --> 00:00:38,320
+After publishing, I'll make my way back to pages and add my next page.
+
+8
+00:00:42,040 --> 00:00:45,040
+This time I'm not going to choose a pattern and I'll name this page Blog.
+
+9
+00:00:47,080 --> 00:00:50,080
+Next, I'm going to create an About page and select the relevant pattern.
+
+10
+00:00:53,240 --> 00:00:56,240
+And lastly, I will also create a Contact page without choosing a pattern.
+
+11
+00:01:04,440 --> 00:01:07,440
+Now I have my pages in place.
+
+12
+00:01:11,280 --> 00:01:14,280
+So next, I'm going to make my way to Settings and click on Reading.
+
+13
+00:01:16,840 --> 00:01:19,840
+And for my home page display, I will select a static page and set my Home page as my static
+
+14
+00:01:25,040 --> 00:01:28,040
+home page and my Blog page as my posts page.
+
+15
+00:01:31,820 --> 00:01:34,820
+Just a reminder, if you have selected your latest posts for your home page display, you
+
+16
+00:01:37,200 --> 00:01:40,200
+will modify the blog home template for this home page or front page as no page has been
+
+17
+00:01:43,160 --> 00:01:46,160
+created.
+
+18
+00:01:46,120 --> 00:01:49,120
+Please note, when we open up our static home page and open the settings sidebar, we will
+
+19
+00:01:54,400 --> 00:01:57,400
+notice that this page has been assigned to the page template or the default page template
+
+20
+00:02:02,480 --> 00:02:05,480
+and my blog page or posts page has been assigned to the blog home template and this cannot
+
+21
+00:02:08,160 --> 00:02:11,160
+be changed.
+
+22
+00:02:11,000 --> 00:02:14,000
+And then we'll also notice that my other pages have also been assigned to the general
+
+23
+00:02:15,800 --> 00:02:18,800
+or default page template, the same as my Home page.
+
+24
+00:02:24,560 --> 00:02:27,560
+Next let's shift our attention to posts and as you will notice, I've already created two
+
+25
+00:02:29,080 --> 00:02:32,080
+posts as well as categories and tags.
+
+26
+00:02:37,840 --> 00:02:40,840
+Just a reminder, categories are used to classify content into main topics or sections and tags
+
+27
+00:02:43,440 --> 00:02:46,440
+are like labels that give specific details about content.
+
+28
+00:02:48,360 --> 00:02:51,360
+As an example, I'm going to go ahead and add a new post.
+
+29
+00:02:53,500 --> 00:02:56,500
+The post is about New York and then I will add some dummy content.
+
+30
+00:02:59,960 --> 00:03:02,960
+Thereafter, I will open up the settings sidebar and select the relevant category, in this
+
+31
+00:03:06,360 --> 00:03:09,360
+case Travel and I will add a new tag, namely City.
+
+32
+00:03:16,480 --> 00:03:19,480
+Lastly, I will set the featured image or the post thumbnail.
+
+33
+00:03:20,800 --> 00:03:23,800
+The featured image is of course the representative image for your post and once set, we can hit
+
+34
+00:03:27,760 --> 00:03:30,760
+publish and then view our three posts with their relevant categories and tags.
+
+35
+00:03:37,000 --> 00:03:40,000
+Next, let's take a closer look at the navigation menu and make our way to Appearance and then
+
+36
+00:03:43,520 --> 00:03:46,520
+click on Editor.
+
+37
+00:03:45,000 --> 00:03:48,000
+This will open up the Site Editor and on the right, we will notice our Home page and if
+
+38
+00:03:51,000 --> 00:03:54,000
+we open up our Home page, we will see the dummy content or the pattern that we added when
+
+39
+00:03:56,840 --> 00:03:59,840
+we created the page.
+
+40
+00:03:58,800 --> 00:04:01,800
+And at the top, we see the header pattern provided by our theme.
+
+41
+00:04:03,400 --> 00:04:06,400
+And if we try to edit this header, we will see a message that says Edit your template
+
+42
+00:04:08,840 --> 00:04:11,840
+to edit this block.
+
+43
+00:04:09,920 --> 00:04:12,920
+So let's go ahead and click on Edit template.
+
+44
+00:04:13,560 --> 00:04:16,560
+And now we can edit the header for the Page template.
+
+45
+00:04:17,160 --> 00:04:20,160
+Please note, this header will also be found on the Blog Home template.
+
+46
+00:04:20,760 --> 00:04:23,760
+So if we make any changes to this header in the page template, it will also automatically
+
+47
+00:04:26,640 --> 00:04:29,640
+update in the blog home template.
+
+48
+00:04:30,120 --> 00:04:33,120
+As we can see, we have our navigation menu top right and the great thing is this navigation
+
+49
+00:04:35,320 --> 00:04:38,320
+menu was added automatically when we created our pages.
+
+50
+00:04:40,960 --> 00:04:43,960
+When we select our navigation menu and open up the List View, we will notice that the navigation
+
+51
+00:04:47,240 --> 00:04:50,240
+items are still part of a page list.
+
+52
+00:04:50,400 --> 00:04:53,400
+So to change this, click on Edit in your settings sidebar to detach the page list so
+
+53
+00:04:57,520 --> 00:05:00,520
+that you can manage navigation items individually.
+
+54
+00:05:01,560 --> 00:05:04,560
+Once detached, you can use the List View to reorder navigation items.
+
+55
+00:05:08,760 --> 00:05:11,760
+Or you can use the arrows of the navigation block toolbar to reposition items where you
+
+56
+00:05:14,720 --> 00:05:17,720
+want them.
+
+57
+00:05:16,760 --> 00:05:19,760
+Next, I've decided to add social links to my navigation menu.
+
+58
+00:05:22,320 --> 00:05:25,320
+So when I click on the Inserter of the Navigation block, I will insert a Social Icons block
+
+59
+00:05:28,600 --> 00:05:31,600
+and then select the relevant social media platforms.
+
+60
+00:05:32,520 --> 00:05:35,520
+In this case, X and Instagram.
+
+61
+00:05:37,640 --> 00:05:40,640
+And don't forget to add the relevant URLs.
+
+62
+00:05:44,400 --> 00:05:47,400
+When you select the Navigation block, you can click on the three vertical dots in your
+
+63
+00:05:48,640 --> 00:05:51,640
+settings sidebar to create a new menu or select one of your existing menus.
+
+64
+00:05:55,400 --> 00:05:58,400
+When you select Settings, you will be able to change the justification or alignment as
+
+65
+00:06:00,640 --> 00:06:03,640
+well as the orientation of your navigation menu.
+
+66
+00:06:04,440 --> 00:06:07,440
+Below that, you can also select a hamburger menu that will appear when your site is viewed
+
+67
+00:06:09,320 --> 00:06:12,320
+on a smaller device.
+
+68
+00:06:11,880 --> 00:06:14,880
+When you click on Styles, you have a variety of options to style your navigation menu
+
+69
+00:06:16,280 --> 00:06:19,280
+further.
+
+70
+00:06:17,440 --> 00:06:20,440
+Next, let's talk about the Site Logo block.
+
+71
+00:06:21,600 --> 00:06:24,600
+As you will notice, the header pattern that was provided by my theme includes a Site Logo
+
+72
+00:06:26,400 --> 00:06:29,400
+block.
+
+73
+00:06:27,520 --> 00:06:30,520
+Click on the Site Logo block to add a new image from your media library or to upload one
+
+74
+00:06:32,520 --> 00:06:35,520
+directly from your computer.
+
+75
+00:06:34,600 --> 00:06:37,600
+I will go ahead and upload a logo that I've already added to my desktop.
+
+76
+00:06:41,440 --> 00:06:44,440
+And then I will enlarge it slightly.
+
+77
+00:06:44,960 --> 00:06:47,960
+Next, I would also like to add my navigation menu to my footer.
+
+78
+00:06:50,600 --> 00:06:53,600
+So when we scroll down, we will notice that there are some dummy content below quick links,
+
+79
+00:06:56,920 --> 00:06:59,920
+which was part of my default footer pattern that came with my theme.
+
+80
+00:07:01,960 --> 00:07:04,960
+So when I open the List View and select the Navigation block, I can click on the three
+
+81
+00:07:06,600 --> 00:07:09,600
+vertical dots in my settings sidebar and then select the relevant navigation menu.
+
+82
+00:07:16,520 --> 00:07:19,520
+Now my navigation menus are in place in my header and footer.
+
+83
+00:07:20,920 --> 00:07:23,920
+And as mentioned before, if we make our way to the blog home template, which is the template
+
+84
+00:07:26,400 --> 00:07:29,400
+for my posts page, we will see that the header and the footer are the same.
+
+85
+00:07:36,160 --> 00:07:39,160
+Once we have all these elements in place, we want to decide on an overall style for
+
+86
+00:07:41,280 --> 00:07:44,280
+our website.
+
+87
+00:07:43,120 --> 00:07:46,120
+So when we make our way to Styles, you can customize the typography colors and layout
+
+88
+00:07:50,320 --> 00:07:53,320
+of your site.
+
+89
+00:07:51,320 --> 00:07:54,320
+Or if you click on Browse Styles, you'll be able to see a zoomed out view of all the
+
+90
+00:07:57,760 --> 00:08:00,760
+different style combinations that come with your theme.
+
+91
+00:08:05,360 --> 00:08:08,360
+I will go ahead and select the Rust style as an example.
+
+92
+00:08:15,920 --> 00:08:18,920
+Now that we have our pages, posts, navigation menu, site logo and style in place, we can
+
+93
+00:08:22,680 --> 00:08:25,680
+go ahead and start adding content to our pages and modifying some of the patterns that we've
+
+94
+00:08:29,120 --> 00:08:32,120
+added.
+
+95
+00:08:32,280 --> 00:08:35,280
+And for a page like our Contact page with no pattern, we can start building from scratch.
+
+96
+00:08:40,040 --> 00:08:43,040
+And to modify how we want our posts to be displayed, we need to make our way to the blog
+
+97
+00:08:45,920 --> 00:08:48,920
+home template.
+
+98
+00:08:49,280 --> 00:08:52,280
+And when we open up our blog home template, we can customize our blog page as well as
+
+99
+00:08:55,760 --> 00:08:58,760
+the Query Loop block to decide how we want our blog posts or dynamic content to be displayed.
+

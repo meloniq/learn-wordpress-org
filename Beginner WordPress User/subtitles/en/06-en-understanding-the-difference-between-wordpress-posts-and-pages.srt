@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:03,000
+Good day and welcome back to your Learn WordPress journey.
+
+2
+00:00:04,000 --> 00:00:07,000
+In this section we're going to dive into a fundamental aspect of WordPress,
+
+3
+00:00:08,000 --> 00:00:11,000
+understanding the difference between posts and pages.
+
+4
+00:00:12,000 --> 00:00:15,000
+Here are the learning outcomes for this lesson.
+
+5
+00:00:15,000 --> 00:00:18,000
+We will learn to differentiate between posts and pages,
+
+6
+00:00:18,000 --> 00:00:21,000
+create a post and page, apply categories and tags to posts,
+
+7
+00:00:22,000 --> 00:00:25,000
+and create and edit a page in the Site Editor.
+
+8
+00:00:26,000 --> 00:00:29,000
+Before we jump into the specifics,
+
+9
+00:00:29,000 --> 00:00:32,000
+let's start with an overview.
+
+10
+00:00:31,000 --> 00:00:34,000
+In WordPress, both posts and pages are content types,
+
+11
+00:00:37,000 --> 00:00:40,000
+but they serve different purposes.
+
+12
+00:00:40,000 --> 00:00:43,000
+In short, posts are used for dynamic content, such as blog posts,
+
+13
+00:00:45,000 --> 00:00:48,000
+news articles, recipes, etc.
+
+14
+00:00:49,000 --> 00:00:52,000
+Whereas pages are static type content, like a contact page, for example.
+
+15
+00:00:55,000 --> 00:00:58,000
+Here we are in the WordPress Dashboard. To create a new post or page,
+
+16
+00:00:59,000 --> 00:01:02,000
+you can navigate to the posts or pages section on the left-hand menu.
+
+17
+00:01:05,000 --> 00:01:08,000
+And if you want to create a new post or page,
+
+18
+00:01:08,000 --> 00:01:11,000
+merely click on Add New Post or Add New Page.
+
+19
+00:01:12,000 --> 00:01:15,000
+Let's start with posts.
+
+20
+00:01:15,000 --> 00:01:18,000
+Posts are for dynamic, regularly updated content entries
+
+21
+00:01:20,000 --> 00:01:23,000
+that are displayed in reverse chronological order.
+
+22
+00:01:24,000 --> 00:01:27,000
+They are perfect for content that you regularly update,
+
+23
+00:01:28,000 --> 00:01:31,000
+such as blog articles,
+
+24
+00:01:32,000 --> 00:01:35,000
+news pages,
+
+25
+00:01:38,000 --> 00:01:41,000
+or even reviews.
+
+26
+00:01:43,000 --> 00:01:46,000
+Imagine you have a cooking blog,
+
+27
+00:01:46,000 --> 00:01:49,000
+and you want to share your latest recipe.
+
+28
+00:01:50,000 --> 00:01:53,000
+You would create a new post for this content.
+
+29
+00:01:53,000 --> 00:01:56,000
+Now, as you can see in this example, I have already created two different posts,
+
+30
+00:01:58,000 --> 00:02:01,000
+and I've added categories and tags.
+
+31
+00:02:02,000 --> 00:02:05,000
+Categories and tags are essential for posts.
+
+32
+00:02:05,000 --> 00:02:08,000
+Categories are like the table of contents for your blog,
+
+33
+00:02:08,000 --> 00:02:11,000
+grouping similar posts together.
+
+34
+00:02:10,000 --> 00:02:13,000
+Tags, on the other hand, are more specific keywords
+
+35
+00:02:13,000 --> 00:02:16,000
+that describe the content in greater detail.
+
+36
+00:02:16,000 --> 00:02:19,000
+So for my food blog, I've created two categories already,
+
+37
+00:02:20,000 --> 00:02:23,000
+one called Mains and one called Breakfast,
+
+38
+00:02:23,000 --> 00:02:26,000
+and the tags describe more about the recipe.
+
+39
+00:02:26,000 --> 00:02:29,000
+So let's go ahead and create a new post.
+
+40
+00:02:31,000 --> 00:02:34,000
+A Chocolate Cake Recipe.
+
+41
+00:02:34,000 --> 00:02:37,000
+But please note, I've already created a category named Dessert
+
+42
+00:02:40,000 --> 00:02:43,000
+and two tags, namely Cakes and Cupcakes, and Chocolate.
+
+43
+00:02:47,000 --> 00:02:50,000
+So now we'll go ahead to all posts, and then click on Add New Post.
+
+44
+00:02:52,000 --> 00:02:55,000
+Firstly, I will add the title of the blog post,
+
+45
+00:02:57,000 --> 00:03:00,000
+and then the recipe.
+
+46
+00:03:04,000 --> 00:03:07,000
+Once I've added the recipe, I will open up the sidebar settings
+
+47
+00:03:09,000 --> 00:03:12,000
+and scroll down to categories and tags.
+
+48
+00:03:13,000 --> 00:03:16,000
+Then I will select the Dessert category,
+
+49
+00:03:20,000 --> 00:03:23,000
+and add the Chocolate and Caking Cupcakes tags.
+
+50
+00:03:28,000 --> 00:03:31,000
+Next, I will also add the post featured image,
+
+51
+00:03:32,000 --> 00:03:35,000
+or the post thumbnail, and select an image from my media library.
+
+52
+00:03:39,000 --> 00:03:42,000
+Next, we can decide to save this as a draft,
+
+53
+00:03:42,000 --> 00:03:45,000
+or if we scroll up in our sidebar settings,
+
+54
+00:03:46,000 --> 00:03:49,000
+we can click on the date next to publish,
+
+55
+00:03:49,000 --> 00:03:52,000
+and then decide to publish this now,
+
+56
+00:03:53,000 --> 00:03:56,000
+or schedule it to go live at a later stage.
+
+57
+00:03:57,000 --> 00:04:00,000
+I will go ahead and publish this now,
+
+58
+00:04:00,000 --> 00:04:03,000
+and then we can see what our posts look like on the front end.
+
+59
+00:04:05,000 --> 00:04:08,000
+Here we can see our three recipes on our blog page,
+
+60
+00:04:09,000 --> 00:04:12,000
+and we can also open up one of our individual recipes
+
+61
+00:04:13,000 --> 00:04:16,000
+to see the end result.
+
+62
+00:04:18,000 --> 00:04:21,000
+Now let's talk about pages.
+
+63
+00:04:20,000 --> 00:04:23,000
+Pages are static, timeless content that doesn't change frequently.
+
+64
+00:04:25,000 --> 00:04:28,000
+Examples include your site's Home page, a Services page,
+
+65
+00:04:29,000 --> 00:04:32,000
+an About page and a Contact page.
+
+66
+00:04:33,000 --> 00:04:36,000
+If you want to create a dedicated About Us section for your website,
+
+67
+00:04:37,000 --> 00:04:40,000
+you'd use a page.
+
+68
+00:04:40,000 --> 00:04:43,000
+Unlike posts, pages don't have categories or tags.
+
+69
+00:04:44,000 --> 00:04:47,000
+They are standalone pieces of content,
+
+70
+00:04:47,000 --> 00:04:50,000
+so let's go ahead and add a new page,
+
+71
+00:04:51,000 --> 00:04:54,000
+and call it "About",
+
+72
+00:04:55,000 --> 00:04:58,000
+and then add some content.
+
+73
+00:05:00,000 --> 00:05:03,000
+Once published, we can view it on the front end,
+
+74
+00:05:04,000 --> 00:05:07,000
+and you will also notice that the About page is now part of the navigation menu.
+
+75
+00:05:12,000 --> 00:05:15,000
+Did you know you can also create and edit pages in the Site Editor?
+
+76
+00:05:17,000 --> 00:05:20,000
+So let's make our way to Editor,
+
+77
+00:05:20,000 --> 00:05:23,000
+and this will take us into the Site Editor.
+
+78
+00:05:25,000 --> 00:05:28,000
+Then we can make our way to pages, and here, you are able to create a new page,
+
+79
+00:05:33,000 --> 00:05:36,000
+or you can edit an existing page.
+
+80
+00:05:38,000 --> 00:05:41,000
+The great thing about the Site Editor is that you can seamlessly move between pages,
+
+81
+00:05:49,000 --> 00:05:52,000
+styles, templates, patterns, etc.
+
+82
+00:05:54,000 --> 00:05:57,000
+And there we have it.
+
+83
+00:05:55,000 --> 00:05:58,000
+Remember, posts are for dynamic, regularly updated content,
+
+84
+00:06:00,000 --> 00:06:03,000
+while pages are for static timeless information.
+
