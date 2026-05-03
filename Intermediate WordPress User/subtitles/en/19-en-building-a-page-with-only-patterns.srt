@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, I'm going to show you how you can build an entire page only using patterns.
+
+2
+00:00:06,000 --> 00:00:09,000
+Block patterns are a collection of pre-designed blocks that you can insert into pages and posts
+
+3
+00:00:13,000 --> 00:00:16,000
+and then customize with your own content.
+
+4
+00:00:15,000 --> 00:00:18,000
+Using a block pattern is an easy way to create beautiful layouts that combine different blocks.
+
+5
+00:00:21,000 --> 00:00:24,000
+Patterns will not only save you time, but it will also inspire creativity.
+
+6
+00:00:27,000 --> 00:00:30,000
+To add a pattern that comes with your theme, click on the Inserter top left and make your way to Patterns.
+
+7
+00:00:34,000 --> 00:00:37,000
+And now you can browse the patterns by category and see a preview on the right.
+
+8
+00:00:40,000 --> 00:00:43,000
+If you can't find a pattern that you are looking for, you can make your way to the Pattern Directory
+
+9
+00:00:46,000 --> 00:00:49,000
+by going to WordPress.org, clicking on Extend and then selecting Patterns.
+
+10
+00:00:55,000 --> 00:00:58,000
+I would suggest going through all your patterns and liking the ones that appeal to you.
+
+11
+00:01:01,000 --> 00:01:04,000
+Once you click on the star, that pattern will be part of your list of favorite patterns.
+
+12
+00:01:07,000 --> 00:01:10,000
+And when you go to favorites, you'll be able to view all the patterns that suit your design needs.
+
+13
+00:01:14,000 --> 00:01:17,000
+Let me show you a Services page that I've created using patterns for a horse riding school.
+
+14
+00:01:21,000 --> 00:01:24,000
+At the top we have an introduction followed by a list of services we provide.
+
+15
+00:01:28,000 --> 00:01:31,000
+And then separate sections for each service.
+
+16
+00:01:34,000 --> 00:01:37,000
+First up, riding lessons with a list of prices, then horse trekking.
+
+17
+00:01:46,000 --> 00:01:49,000
+Followed by birthday parties.
+
+18
+00:01:53,000 --> 00:01:56,000
+And lastly, holiday programs.
+
+19
+00:01:57,000 --> 00:02:00,000
+Let's see how we can achieve this by only using patterns.
+
+20
+00:02:02,000 --> 00:02:05,000
+Firstly, I planned out my page in a working doc.
+
+21
+00:02:07,000 --> 00:02:10,000
+Then I went through all my patterns that I've marked as favorites.
+
+22
+00:02:14,000 --> 00:02:17,000
+Then I copied the URL of the pattern and I pasted it below the relevant section.
+
+23
+00:02:21,000 --> 00:02:24,000
+Now that the groundwork is done, we can go ahead and open each pattern one by one.
+
+24
+00:02:29,000 --> 00:02:32,000
+Then we will copy our pattern and once copied, we will make our way to our website and paste our first pattern.
+
+25
+00:02:42,000 --> 00:02:45,000
+Then we can copy and paste our services pattern and then of course make our way down the list.
+
+26
+00:02:54,000 --> 00:02:57,000
+And I am literally just using my computer shortcut for paste command V.
+
+27
+00:03:01,000 --> 00:03:04,000
+And now that I've added all my patterns to my page, we can start editing.
+
+28
+00:03:08,000 --> 00:03:11,000
+So as you can see, we now have our page structure in place.
+
+29
+00:03:14,000 --> 00:03:17,000
+Let's start with the first section and replace the relevant images.
+
+30
+00:03:21,000 --> 00:03:24,000
+And as you will see, I've already added all my images to my Media Library.
+
+31
+00:03:27,000 --> 00:03:30,000
+Then we can start changing the content on the right.
+
+32
+00:03:32,000 --> 00:03:35,000
+I'll update my heading.
+
+33
+00:03:37,000 --> 00:03:40,000
+And I also want to change the background color of my buttons block or call to action.
+
+34
+00:03:43,000 --> 00:03:46,000
+And the text at the top is not a heading, so I will change that to a paragraph.
+
+35
+00:03:50,000 --> 00:03:53,000
+And then change the wording as well as the color of the text.
+
+36
+00:04:00,000 --> 00:04:03,000
+That is our first section completed.
+
+37
+00:04:07,000 --> 00:04:10,000
+For my services section, I will change my Group block to full width and change the padding of the right and the left to 60 pixels, the same as the top and the bottom.
+
+38
+00:04:20,000 --> 00:04:23,000
+Then I'll change the background color to Tertiary and then we can add the services that we provide.
+
+39
+00:04:32,000 --> 00:04:35,000
+Riding lessons, horse trekking, birthday parties and holiday programs.
+
+40
+00:04:45,000 --> 00:04:48,000
+For the next section, I will change the Columns block to full width and then change the padding to 4 on the slider.
+
+41
+00:05:00,000 --> 00:05:03,000
+I'll replace the image and reset the font size of the text at the top and write Beginner to Advanced.
+
+42
+00:05:15,000 --> 00:05:18,000
+Then I will change the heading of the section to Riding Lessons and remove the bold.
+
+43
+00:05:30,000 --> 00:05:33,000
+Then I will also reset the font size of the dummy text and add some more text to the section.
+
+44
+00:05:38,000 --> 00:05:41,000
+And lastly, I will copy the style of my previous Buttons block or call to action
+
+45
+00:05:57,000 --> 00:06:00,000
+and paste the style of that Buttons block to this Buttons block.
+
+46
+00:06:03,000 --> 00:06:06,000
+Then I will change the call to action to say Book Now and then we're done.
+
+47
+00:06:10,000 --> 00:06:13,000
+For the pricing table, I will select full width for the Group Block and then change the background color to Tertiary.
+
+48
+00:06:20,000 --> 00:06:23,000
+And change the radius of the block to 0 pixels.
+
+49
+00:06:25,000 --> 00:06:28,000
+Then I will modify the heading and ensure it is Heading 2 and write Prices.
+
+50
+00:06:36,000 --> 00:06:39,000
+And remove the text below.
+
+51
+00:06:40,000 --> 00:06:43,000
+And then I will start adding my content to the table.
+
+52
+00:06:45,000 --> 00:06:48,000
+Now our pricing table is ready.
+
+53
+00:06:50,000 --> 00:06:53,000
+For the horse trekking section, I will update the content in the left column,
+
+54
+00:06:58,000 --> 00:07:01,000
+remove the image at the bottom and then replace the two images next to the content.
+
+55
+00:07:11,000 --> 00:07:14,000
+And lastly, changing the padding of the Columns block to 4.
+
+56
+00:07:20,000 --> 00:07:23,000
+And then this section is also completed.
+
+57
+00:07:24,000 --> 00:07:27,000
+Next is the birthday section. So once I replace the images, I will select the Columns block and change it to full width.
+
+58
+00:07:36,000 --> 00:07:39,000
+Change the padding to 4 using my slider.
+
+59
+00:07:46,000 --> 00:07:49,000
+And then removing the content in the right column and updating it with a header, dummy content and a call to action.
+
+60
+00:07:55,000 --> 00:07:58,000
+Lastly, I will change the background color of the Columns block to tertiary.
+
+61
+00:08:01,000 --> 00:08:04,000
+In the last section, I will change the Columns block to wide width in this case.
+
+62
+00:08:09,000 --> 00:08:12,000
+And then remove the content in the right column.
+
+63
+00:08:15,000 --> 00:08:18,000
+And add a new heading, content and call to action.
+
+64
+00:08:20,000 --> 00:08:23,000
+And finally, I will replace the images.
+
+65
+00:08:25,000 --> 00:08:28,000
+Once I have replaced all 4 images, my services page is done.
+
+66
+00:08:31,000 --> 00:08:34,000
+At the end, I will add alt text to all my images and also check my content, headings, styles and ensure that my page or website is mobile
+
+67
+00:08:43,000 --> 00:08:46,000
+responsive.
+

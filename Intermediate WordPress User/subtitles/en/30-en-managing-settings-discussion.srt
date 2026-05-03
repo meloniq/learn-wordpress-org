@@ -1,0 +1,292 @@
+1
+00:00:00,000 --> 00:00:03,000
+Are you tired of moderating spam comments on your website?
+
+2
+00:00:03,560 --> 00:00:06,560
+Let's explore the discussion settings so that you can personalize your site and make
+
+3
+00:00:07,640 --> 00:00:10,640
+comment moderation even easier.
+
+4
+00:00:09,640 --> 00:00:12,640
+I'll be navigating around my food blog, but feel free to pull up your own site and make
+
+5
+00:00:14,280 --> 00:00:17,280
+changes there as we go.
+
+6
+00:00:16,160 --> 00:00:19,160
+To start, we'll hover over settings on the left navigation bar and then click on Discussion.
+
+7
+00:00:22,680 --> 00:00:25,680
+The first thing you see here is default post settings.
+
+8
+00:00:26,080 --> 00:00:29,080
+I'm going to check that first option, which allows WordPress to notify linked sites if I
+
+9
+00:00:30,840 --> 00:00:33,840
+mention them in my posts.
+
+10
+00:00:32,760 --> 00:00:35,760
+I also want to be notified if another blog links to my post, so I'm going to check
+
+11
+00:00:36,840 --> 00:00:39,840
+the second box down also.
+
+12
+00:00:39,160 --> 00:00:42,160
+That allows for notifications of trackbacks or pingbacks.
+
+13
+00:00:43,320 --> 00:00:46,320
+The third box is pretty important in my opinion.
+
+14
+00:00:46,480 --> 00:00:49,480
+This is where I can enable or disable comments as a whole.
+
+15
+00:00:50,040 --> 00:00:53,040
+But in my case, or for my food blog, I love a good conversation, so I'm going to allow
+
+16
+00:00:54,480 --> 00:00:57,480
+comments by checking this box.
+
+17
+00:00:57,800 --> 00:01:00,800
+Now in my food blog, if I enable comments, you'll see them right below the post.
+
+18
+00:01:02,520 --> 00:01:05,520
+And if I disable comments, you'll see that there's no place to leave one.
+
+19
+00:01:07,200 --> 00:01:10,200
+You can also make these changes on a post by post basis.
+
+20
+00:01:11,000 --> 00:01:14,000
+Just scroll down to the discussion meta box and enable or disable comments right from there.
+
+21
+00:01:18,160 --> 00:01:21,160
+Other comment settings determine how WordPress will handle comments when they're posted.
+
+22
+00:01:23,000 --> 00:01:26,000
+The first option requires each commenter to leave a name and email address with each
+
+23
+00:01:28,200 --> 00:01:31,200
+comment.
+
+24
+00:01:29,200 --> 00:01:32,200
+The second option requires that commenter to be logged in.
+
+25
+00:01:33,120 --> 00:01:36,120
+The benefit of checking these boxes is that you're adding in some extra friction when
+
+26
+00:01:37,640 --> 00:01:40,640
+someone leaves a comment.
+
+27
+00:01:39,600 --> 00:01:42,600
+But the limitation is that you might actually turn away some visitors from commenting.
+
+28
+00:01:44,680 --> 00:01:47,680
+For my food blog, I'm going to check the first box, but also let unregistered visitors
+
+29
+00:01:49,160 --> 00:01:52,160
+comment too.
+
+30
+00:01:50,960 --> 00:01:53,960
+If I don't receive an unmanageable number of comments on my blog, I'm not going to check
+
+31
+00:01:55,080 --> 00:01:58,080
+that third box, which would turn comments off after a certain number of days.
+
+32
+00:02:00,360 --> 00:02:03,360
+Fourth option gives the comment author the option to opt in for cookies.
+
+33
+00:02:05,000 --> 00:02:08,000
+I'm a big fan of transparency, so I'm going to check that fourth box.
+
+34
+00:02:09,280 --> 00:02:12,280
+The next option allows other commenters to respond to a visitor.
+
+35
+00:02:13,840 --> 00:02:16,840
+I love this idea because it allows your visitors to have a conversation with each other.
+
+36
+00:02:18,760 --> 00:02:21,760
+The default is a nest of five comments deep.
+
+37
+00:02:22,000 --> 00:02:25,000
+When I activate this feature, now on my food blog, different visitors can continue the
+
+38
+00:02:26,640 --> 00:02:29,640
+conversation and reply to each other.
+
+39
+00:02:29,360 --> 00:02:32,360
+You can change that number to be less or more, depending on if you think it'll help
+
+40
+00:02:33,320 --> 00:02:36,320
+with moderation or add to the conversation.
+
+41
+00:02:36,960 --> 00:02:39,960
+And if you have a ton of comments on a post, you can use these options to moderate how many
+
+42
+00:02:41,620 --> 00:02:44,620
+show up at a time and the order.
+
+43
+00:02:45,720 --> 00:02:48,720
+If we move on to email me whenever, you'll see you have two options.
+
+44
+00:02:49,480 --> 00:02:52,480
+To get an email notification, if someone posts a comment, and to get an email notification
+
+45
+00:02:55,160 --> 00:02:58,160
+if a comment is held for moderation, feel free to check either one of those if you would
+
+46
+00:02:59,920 --> 00:03:02,920
+like to be notified via email.
+
+47
+00:03:02,720 --> 00:03:05,720
+Next, you'll see before a comment appears.
+
+48
+00:03:05,840 --> 00:03:08,840
+This allows you to moderate or approve comments before they even appear on your website.
+
+49
+00:03:11,000 --> 00:03:14,000
+You can also choose to automatically approve comments from authors who you've already previously
+
+50
+00:03:16,200 --> 00:03:19,200
+approved.
+
+51
+00:03:17,200 --> 00:03:20,200
+To help reduce spam comments, and since I don't receive a ton to begin with, I'm going
+
+52
+00:03:21,760 --> 00:03:24,760
+to choose to manually approve my comments.
+
+53
+00:03:24,520 --> 00:03:27,520
+I can always change this if it becomes too time consuming or delays the conversation in
+
+54
+00:03:29,840 --> 00:03:32,840
+the comments.
+
+55
+00:03:31,640 --> 00:03:34,640
+Comment moderation and comment blacklist allow you to target specific words, terms, and links
+
+56
+00:03:37,160 --> 00:03:40,160
+in comments.
+
+57
+00:03:38,440 --> 00:03:41,440
+When these targeted items are found in a comment, you can set that to be forced moderation or
+
+58
+00:03:43,720 --> 00:03:46,720
+to be blacklisted.
+
+59
+00:03:45,160 --> 00:03:48,160
+This can help identifying control spam.
+
+60
+00:03:47,720 --> 00:03:50,720
+So for instance, I can block certain words that often show up, like "sale" or even "try
+
+61
+00:03:54,120 --> 00:03:57,120
+this" or certain IP addresses.
+
+62
+00:03:56,760 --> 00:03:59,760
+I can later check my spam comments to make sure a real comment didn't get filtered out.
+
+63
+00:04:02,480 --> 00:04:05,480
+And onto the last part of discussion settings are avatars.
+
+64
+00:04:06,560 --> 00:04:09,560
+You can select whether or not to show a commenter's avatar when they comment on a post.
+
+65
+00:04:11,400 --> 00:04:14,400
+If you choose to display avatars, you can also control what type of avatar is displayed.
+
+66
+00:04:16,680 --> 00:04:19,680
+That includes the rating to make sure that it could be suitable for all audiences or
+
+67
+00:04:21,280 --> 00:04:24,280
+even more mature.
+
+68
+00:04:22,760 --> 00:04:25,760
+And then also what the avatar looks like.
+
+69
+00:04:24,880 --> 00:04:27,880
+I'm going to go ahead and pick that retro option because that's my favorite.
+
+70
+00:04:30,120 --> 00:04:33,120
+And now you can see what that retro avatar looks like when visitors leave a comment on
+
+71
+00:04:34,600 --> 00:04:37,600
+my blog.
+
+72
+00:04:35,600 --> 00:04:38,600
+Okay, that looks great, so I'm going to make sure I go back and hit save changes.
+
+73
+00:04:41,480 --> 00:04:44,480
+You've now gone through and personalized all of your discussion settings.
+

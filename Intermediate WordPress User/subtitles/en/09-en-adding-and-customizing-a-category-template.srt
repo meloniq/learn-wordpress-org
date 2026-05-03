@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson we will explore adding and customizing a category template.
+
+2
+00:00:05,000 --> 00:00:08,000
+In the previous lesson we learnt all about the various templates available.
+
+3
+00:00:09,000 --> 00:00:12,000
+And we mentioned that the All Archives template is the default template WordPress uses to display smaller groupings of posts,
+
+4
+00:00:17,000 --> 00:00:20,000
+such as categories, tags, authors, dates, etc.
+
+5
+00:00:22,000 --> 00:00:25,000
+Please note I am using the Twenty Twenty-Four default theme.
+
+6
+00:00:25,000 --> 00:00:28,000
+When we scroll down we will see how the All Archives template is currently structured,
+
+7
+00:00:30,000 --> 00:00:33,000
+and how posts within an archive will appear on the front end.
+
+8
+00:00:35,000 --> 00:00:38,000
+When I visit one of my blog posts and click on the relevant category in this case Art,
+
+9
+00:00:42,000 --> 00:00:45,000
+I will be able to view all my posts labeled with the Art category.
+
+10
+00:00:47,000 --> 00:00:50,000
+And of course as you can see, the structure for this page has been dictated by the All Archives template.
+
+11
+00:00:54,000 --> 00:00:57,000
+And as mentioned, all other categories and groupings of archives will display in the same way,
+
+12
+00:01:01,000 --> 00:01:04,000
+due to the fact that they have been assigned to the All Archives template.
+
+13
+00:01:05,000 --> 00:01:08,000
+This is where creating a custom category template comes into play.
+
+14
+00:01:09,000 --> 00:01:12,000
+Instead of using the generic archive template, you can design a template that suits your specific needs.
+
+15
+00:01:15,000 --> 00:01:18,000
+Let's see this in action.
+
+16
+00:01:18,000 --> 00:01:21,000
+I am going to go ahead and add a category template to change the display of posts within the Art category.
+
+17
+00:01:26,000 --> 00:01:29,000
+So I will make my way to templates and click on the plus icon or the Inserter next to templates.
+
+18
+00:01:34,000 --> 00:01:37,000
+And then I will add a category archives template.
+
+19
+00:01:38,000 --> 00:01:41,000
+Now you have two choices.
+
+20
+00:01:40,000 --> 00:01:43,000
+Firstly, you can create a single template for all your categories.
+
+21
+00:01:44,000 --> 00:01:47,000
+Or you may decide to create a template for each specific category.
+
+22
+00:01:49,000 --> 00:01:52,000
+I am going to select the second option as I want to create a specific template for the Art category.
+
+23
+00:01:57,000 --> 00:02:00,000
+Once selected, I will be able to choose a pattern that comes with the Twenty Twenty-Four theme.
+
+24
+00:02:03,000 --> 00:02:06,000
+But I will go ahead and select Skip to start blank.
+
+25
+00:02:11,000 --> 00:02:14,000
+Now I can start building my blank template.
+
+26
+00:02:14,000 --> 00:02:17,000
+And the first thing I will add is my new header.
+
+27
+00:02:19,000 --> 00:02:22,000
+A header which I have already created and named Art Header.
+
+28
+00:02:24,000 --> 00:02:27,000
+Once the unique header has been added to the template, I can click on the three vertical dots and select Add After.
+
+29
+00:02:33,000 --> 00:02:36,000
+And now we are going to add the Query Loop block.
+
+30
+00:02:43,000 --> 00:02:46,000
+And in this case, it will display all the Art posts.
+
+31
+00:02:46,000 --> 00:02:49,000
+Now we can go ahead and select a pattern for how we want the posts to display.
+
+32
+00:02:52,000 --> 00:02:55,000
+And once the pattern has been added, we can modify it even further.
+
+33
+00:02:59,000 --> 00:03:02,000
+So let's go ahead and open up the List view.
+
+34
+00:03:04,000 --> 00:03:07,000
+And then look at all the nested blocks within the Query Loop block.
+
+35
+00:03:08,000 --> 00:03:11,000
+We are after the Post Template block.
+
+36
+00:03:10,000 --> 00:03:13,000
+When we select the Post Template block, we will see we have three columns.
+
+37
+00:03:15,000 --> 00:03:18,000
+And we can change that to four.
+
+38
+00:03:18,000 --> 00:03:21,000
+But in this example, we will settle for two columns.
+
+39
+00:03:23,000 --> 00:03:26,000
+Next, I want to delete my Post Excerpt block.
+
+40
+00:03:26,000 --> 00:03:29,000
+So click on one of the posts, select the Post Excerpt block, click on the three vertical dots, and scroll down to the bottom and select Delete.
+
+41
+00:03:39,000 --> 00:03:42,000
+Then I will select the Group block and add some more padding around the content.
+
+42
+00:03:46,000 --> 00:03:49,000
+So I'll open up my Styles, go to padding and add some more padding on the left and right.
+
+43
+00:03:52,000 --> 00:03:55,000
+You are welcome to make further modifications, but for this example, I am done.
+
+44
+00:03:57,000 --> 00:04:00,000
+So the next step is to add a footer.
+
+45
+00:04:01,000 --> 00:04:04,000
+And I am just going to add the general footer that I've used on my other templates as well.
+
+46
+00:04:12,000 --> 00:04:15,000
+Now we can go ahead and see what our Art category will look like from the front end.
+
+47
+00:04:17,000 --> 00:04:20,000
+So if we select the relevant category now, namely Art, we will see the archives page for the Art category, with a unique header and modified content layout.
+
+48
+00:04:31,000 --> 00:04:34,000
+And this was of course achieved by adding and changing a category template for a specific item.
+
+49
+00:04:43,000 --> 00:04:46,000
+And if you wanted to go ahead and create a new template for a different category, you can click on the plus icon, next to templates, select category archives and then a category for a specific item.
+
+50
+00:04:56,000 --> 00:04:59,000
+And then I can create a unique template for my lifestyle category or for my sports category, for example.
+
+51
+00:05:03,000 --> 00:05:06,000
+I trust you now feel comfortable adding a category template for all categories or a specific category.
+

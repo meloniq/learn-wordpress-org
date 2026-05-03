@@ -1,0 +1,332 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hi, in this lesson we are going to explore user management.
+
+2
+00:00:05,760 --> 00:00:08,760
+In WordPress you can assign roles which was designed to give the site owner the ability
+
+3
+00:00:10,460 --> 00:00:13,460
+to control what users can and cannot do within the site.
+
+4
+00:00:14,800 --> 00:00:17,800
+There are different roles to explore and each role is allowed to perform a set of tasks.
+
+5
+00:00:20,200 --> 00:00:23,200
+Knowing the differences is important as it will help you keep your site protected and
+
+6
+00:00:24,680 --> 00:00:27,680
+ensure that your editors and contributors are informed about their abilities and the
+
+7
+00:00:28,920 --> 00:00:31,920
+part that they play.
+
+8
+00:00:31,640 --> 00:00:34,640
+In this video we will explain five roles and their capabilities and explore what the dashboard
+
+9
+00:00:36,560 --> 00:00:39,560
+looks like from the perspective of each role.
+
+10
+00:00:39,800 --> 00:00:42,800
+The five main roles you can assign are the administrator, editor, author, contributor
+
+11
+00:00:48,760 --> 00:00:51,760
+and subscriber.
+
+12
+00:00:49,760 --> 00:00:52,760
+Let's start with the administrator.
+
+13
+00:00:53,680 --> 00:00:56,680
+Upon installing WordPress an administrator role is automatically created and it is
+
+14
+00:00:58,760 --> 00:01:01,760
+somebody who has access to all the administration features within a single site.
+
+15
+00:01:03,680 --> 00:01:06,680
+For multi-site owners the super admin has these capabilities.
+
+16
+00:01:08,960 --> 00:01:11,960
+Next we have the editor.
+
+17
+00:01:10,640 --> 00:01:13,640
+The editor is somebody who can publish and manage posts including the posts of other
+
+18
+00:01:15,440 --> 00:01:18,440
+users.
+
+19
+00:01:17,160 --> 00:01:20,160
+An author on the other hand is somebody who can only publish and manage their own posts.
+
+20
+00:01:23,480 --> 00:01:26,480
+Then we move on to a contributor.
+
+21
+00:01:26,280 --> 00:01:29,280
+This is somebody who can write and manage their own posts but cannot publish them.
+
+22
+00:01:31,240 --> 00:01:34,240
+And lastly a subscriber is somebody who can only manage their profile and it is usually
+
+23
+00:01:36,000 --> 00:01:39,000
+made for subscription type websites.
+
+24
+00:01:39,000 --> 00:01:42,000
+The administrator is at the top of the WordPress ladder and there is usually only one per website.
+
+25
+00:01:44,880 --> 00:01:47,880
+As mentioned the administrator is somebody who has access to all the administration features
+
+26
+00:01:49,760 --> 00:01:52,760
+within a single site.
+
+27
+00:01:51,920 --> 00:01:54,920
+The administrator can publish, edit and delete posts and pages, edit code, they can manage
+
+28
+00:01:59,480 --> 00:02:02,480
+media, plugins, themes, other accounts and settings.
+
+29
+00:02:04,680 --> 00:02:07,680
+They basically have the keys to all the doors of the site.
+
+30
+00:02:08,640 --> 00:02:11,640
+The administrator can update their profile top right of their dashboard page or by making
+
+31
+00:02:15,120 --> 00:02:18,120
+their way to Users, clicking on profile and making the necessary updates there.
+
+32
+00:02:25,240 --> 00:02:28,240
+The administrator also has the power to create and manage other users.
+
+33
+00:02:31,320 --> 00:02:34,320
+To create a new user click on Add new.
+
+34
+00:02:35,040 --> 00:02:38,040
+On the Add new user page create a new user by assigning them a username, a valid email
+
+35
+00:02:40,480 --> 00:02:43,480
+address and any other optional details.
+
+36
+00:02:44,280 --> 00:02:47,280
+In the next section choose an appropriate role for this user.
+
+37
+00:02:48,160 --> 00:02:51,160
+And when you are ready click Add new user.
+
+38
+00:02:51,320 --> 00:02:54,320
+A new user will automatically be sent a welcome email by WordPress with their new logging
+
+39
+00:02:55,800 --> 00:02:58,800
+information including the generated password.
+
+40
+00:02:58,960 --> 00:03:01,960
+The user will be prompted to login and to change their password to one of their liking.
+
+41
+00:03:03,960 --> 00:03:06,960
+To change the role of an existing user you can select Edit, open the role drop down and
+
+42
+00:03:10,360 --> 00:03:13,360
+select a different role or no role for the site at all.
+
+43
+00:03:14,880 --> 00:03:17,880
+If you would like to change the role of multiple users you can use the check boxes to the left
+
+44
+00:03:19,600 --> 00:03:22,600
+of the user to make the changes simultaneously.
+
+45
+00:03:24,520 --> 00:03:27,520
+If you delete a user you have the option to delete all the content they have created or
+
+46
+00:03:32,000 --> 00:03:35,000
+to reassign it to a different user.
+
+47
+00:03:36,200 --> 00:03:39,200
+And once you have made your choice click on Confirm deletion.
+
+48
+00:03:40,480 --> 00:03:43,480
+To customize the view of the users table click on Screen options top right.
+
+49
+00:03:45,120 --> 00:03:48,120
+Yeah you can specify which columns you would like to view and the number of users you want
+
+50
+00:03:50,200 --> 00:03:53,200
+to view per page.
+
+51
+00:03:51,800 --> 00:03:54,800
+And once you are done click apply.
+
+52
+00:03:55,040 --> 00:03:58,040
+Editors have high level of access as they usually manage content.
+
+53
+00:03:59,600 --> 00:04:02,600
+Let's see what the dashboard looks like for an editor.
+
+54
+00:04:02,960 --> 00:04:05,960
+An editor is someone who can create, edit, publish and delete posts and pages including
+
+55
+00:04:08,720 --> 00:04:11,720
+the posts of other users.
+
+56
+00:04:11,000 --> 00:04:14,000
+They are also capable of managing media and comments.
+
+57
+00:04:14,600 --> 00:04:17,600
+So what can't they do?
+
+58
+00:04:17,000 --> 00:04:20,000
+Editors cannot install themes, plugins or approve any updates.
+
+59
+00:04:21,560 --> 00:04:24,560
+They also don't have access to any site settings.
+
+60
+00:04:24,400 --> 00:04:27,400
+Their role is to manage the work of other users and contributors.
+
+61
+00:04:28,760 --> 00:04:31,760
+The role of an author is in the name, their role is to provide content to the site and
+
+62
+00:04:33,280 --> 00:04:36,280
+nothing else.
+
+63
+00:04:34,600 --> 00:04:37,600
+They are therefore only able to publish and manage their own posts and not those of others.
+
+64
+00:04:40,200 --> 00:04:43,200
+As you will notice they can upload media and create, edit, publish and delete their own
+
+65
+00:04:46,560 --> 00:04:49,560
+posts.
+
+66
+00:04:47,760 --> 00:04:50,760
+Authors are therefore only in charge of adding content to a site and don't have any administrative
+
+67
+00:04:52,800 --> 00:04:55,800
+rights.
+
+68
+00:04:54,840 --> 00:04:57,840
+Let's say you have somebody who is willing to contribute content to your site as a once
+
+69
+00:04:58,720 --> 00:05:01,720
+off.
+
+70
+00:05:00,080 --> 00:05:03,080
+While in the role of contributor is perfect for that individual.
+
+71
+00:05:03,840 --> 00:05:06,840
+Seeing that they are not one of the authors, they will only be able to write and manage
+
+72
+00:05:07,520 --> 00:05:10,520
+their posts but cannot publish them.
+
+73
+00:05:10,200 --> 00:05:13,200
+A contributor cannot upload media files and when they publish content, it will first be
+
+74
+00:05:15,760 --> 00:05:18,760
+reviewed before publishing.
+
+75
+00:05:18,280 --> 00:05:21,280
+As you will notice it is almost the same as being an author but with a few more limitations.
+
+76
+00:05:23,880 --> 00:05:26,880
+The last role we will be looking at is the subscriber.
+
+77
+00:05:27,720 --> 00:05:30,720
+Subscribers only have access to managing their own profiles and nothing else.
+
+78
+00:05:32,200 --> 00:05:35,200
+If we are into the dashboard of a subscriber, we will see they can only read all the posts
+
+79
+00:05:37,500 --> 00:05:40,500
+on the site and change their profiles.
+
+80
+00:05:40,560 --> 00:05:43,560
+This is not a role that will be used on many sites, mostly subscription based websites.
+
+81
+00:05:46,640 --> 00:05:49,640
+And finally you may also decide to search and install a user role plugin to extend this
+
+82
+00:05:51,960 --> 00:05:54,960
+feature's functionality.
+
+83
+00:05:54,280 --> 00:05:57,280
+All the best managing the various user roles you wish to assign.
+

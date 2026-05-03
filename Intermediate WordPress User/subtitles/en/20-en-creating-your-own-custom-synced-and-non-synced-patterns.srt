@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we will learn to differentiate, create and manage synced and non-synced patterns.
+
+2
+00:00:07,000 --> 00:00:10,000
+When you have created a special design you want to keep and reuse, you can save it as a pattern and specify whether to sync it or not.
+
+3
+00:00:16,000 --> 00:00:19,000
+A synced pattern was previously referred to as a Reusable block, and changes to a synced pattern will apply to all parts of your site where the pattern has been added.
+
+4
+00:00:27,000 --> 00:00:30,000
+As we have seen in this example, when I updated the content in the one pattern, it automatically updated in the other, because they are of course synced.
+
+5
+00:00:38,000 --> 00:00:41,000
+Non-synced patterns are just regular patterns that can be edited independently.
+
+6
+00:00:44,000 --> 00:00:47,000
+A non-synced pattern can be used and changed over and over without changing or affecting the original pattern.
+
+7
+00:00:51,000 --> 00:00:54,000
+In this example, I have changed the image of a non-synced pattern, and because the patterns are not synced, the image in the original pattern did not change.
+
+8
+00:01:01,000 --> 00:01:04,000
+So let's say for example you found or created a special design and want to save it as a pattern.
+
+9
+00:01:07,000 --> 00:01:10,000
+Select the container block and click on the three vertical dots and then select Create pattern.
+
+10
+00:01:14,000 --> 00:01:17,000
+Then we can name it appropriately and add it to the relevant category.
+
+11
+00:01:24,000 --> 00:01:27,000
+And then we have a choice to save it as a synced or a non-synced pattern.
+
+12
+00:01:30,000 --> 00:01:33,000
+In this case, I'm going to save it as a synced pattern and then click Create.
+
+13
+00:01:37,000 --> 00:01:40,000
+When you click on the Inserter, top left and select Patterns, we will now see that this pattern has been added to the My patterns area, where you can find all your custom patterns.
+
+14
+00:01:53,000 --> 00:01:56,000
+You can also add, edit and manage your custom synced and non-synced patterns in the Site Editor.
+
+15
+00:02:00,000 --> 00:02:03,000
+So let's make our way to Appearance and click on Editor. And this will of course take us into our Site Editor.
+
+16
+00:02:08,000 --> 00:02:11,000
+And if we go to Patterns, we will be able to manage our custom patterns, the patterns provided by our theme, as well as header, footer and general template part patterns.
+
+17
+00:02:26,000 --> 00:02:29,000
+If we go to My patterns, we will see all our custom patterns that we have created.
+
+18
+00:02:33,000 --> 00:02:36,000
+Synced patterns have a purple icon and only the name for non-synced patterns will appear.
+
+19
+00:02:40,000 --> 00:02:43,000
+If you want to save one of the patterns that come with your theme as a synced or non-synced pattern, make your way to the relevant pattern, click on the three vertical dots and select Duplicate.
+
+20
+00:02:54,000 --> 00:02:57,000
+Then we can update the name and save it as a synced or non-synced pattern. In this case, I will save it as a non-synced pattern.
+
+21
+00:03:04,000 --> 00:03:07,000
+And then we can select Duplicate and when we return to our My patterns area, we will see that this pattern is now one of our custom patterns that we can modify and update as we please.
+
+22
+00:03:19,000 --> 00:03:22,000
+To create a custom pattern, click on the plus icon next to patterns and then select Create pattern.
+
+23
+00:03:28,000 --> 00:03:31,000
+After naming it, we can add it to the relevant category.
+
+24
+00:03:39,000 --> 00:03:42,000
+And in this case, I will save it as a non-synced pattern and then click Create.
+
+25
+00:03:46,000 --> 00:03:49,000
+And now we can go ahead and create our new pattern.
+
+26
+00:03:50,000 --> 00:03:53,000
+And once finished, we can hit save and when we return to our My patterns area, we can view our new non-synced pattern.
+
+27
+00:04:07,000 --> 00:04:10,000
+To end off, let's add this custom pattern to one of our pages. So let's make our way to Pages, select the relevant page, in this case my About page.
+
+28
+00:04:19,000 --> 00:04:22,000
+And then I will open up my List View and ensure that I add my content to the Post Content block.
+
+29
+00:04:25,000 --> 00:04:28,000
+And to add a non-synced pattern, I will click on the Inserter top left, go to patterns, click on My patterns and select the non-synced pattern of choice.
+
+30
+00:04:36,000 --> 00:04:39,000
+All the best as you create and manage your own custom templates.
+

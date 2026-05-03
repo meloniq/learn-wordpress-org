@@ -1,0 +1,220 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we are going to delve deeper into how to personalize your 404 template.
+
+2
+00:00:06,600 --> 00:00:09,600
+A 404 page is also known as an error page or page not found.
+
+3
+00:00:11,240 --> 00:00:14,240
+It is the content a user sees when they try to reach a non-existent page on your website.
+
+4
+00:00:17,080 --> 00:00:20,080
+Most people who land on a default 404 page will probably leave your site immediately.
+
+5
+00:00:22,120 --> 00:00:25,120
+An unattractive or unengaging 404 page leads to poor user experience.
+
+6
+00:00:26,840 --> 00:00:29,840
+It increases the bounce rate of your site and will therefore negatively impact your SEO.
+
+7
+00:00:32,640 --> 00:00:35,640
+The quicker you can lead a visitor to the right place, the better.
+
+8
+00:00:35,880 --> 00:00:38,880
+As this example, if you create an engaging 404 page, you will hopefully ensure that visitors
+
+9
+00:00:41,120 --> 00:00:44,120
+stay and delve deeper into your site.
+
+10
+00:00:44,840 --> 00:00:47,840
+It is therefore important to create a custom 404 page and think of ways you can draw a
+
+11
+00:00:49,560 --> 00:00:52,560
+visitor's attention or even use humor.
+
+12
+00:00:52,440 --> 00:00:55,440
+I love this example from Pixar as it just makes you smile.
+
+13
+00:00:56,360 --> 00:00:59,360
+I also think Tendrik got it right by using an attention grabbing image, humor and a go-to
+
+14
+00:01:02,560 --> 00:01:05,560
+home page button.
+
+15
+00:01:05,640 --> 00:01:08,640
+To personalize or customize your 404 template, make your way to the Site Editor, open templates
+
+16
+00:01:12,400 --> 00:01:15,400
+and click on Page 404.
+
+17
+00:01:14,960 --> 00:01:17,960
+I am using the Twenty Twenty-Four default theme but every theme will set up this page differently.
+
+18
+00:01:21,560 --> 00:01:24,560
+Let's go ahead and modify this template to meet our requirements.
+
+19
+00:01:26,280 --> 00:01:29,280
+I am going to keep my header but delete the Group and Footer blocks.
+
+20
+00:01:32,240 --> 00:01:35,240
+Once deleted, I am going to add a Cover block and select an image from my media library.
+
+21
+00:01:47,240 --> 00:01:50,240
+Then I will add a Columns block with two equal columns.
+
+22
+00:01:54,160 --> 00:01:57,160
+And on the left hand side, I will add some text and write Keep calm and check your oxygen
+
+23
+00:02:02,760 --> 00:02:05,760
+levels.
+
+24
+00:02:07,160 --> 00:02:10,160
+Then I will change the size of the text to extra large.
+
+25
+00:02:17,640 --> 00:02:20,640
+And below this, I am going to add a Buttons block or a call to action
+
+26
+00:02:24,200 --> 00:02:27,200
+to take visitors to my home page, if they are accidentally land on a page not found.
+
+27
+00:02:30,000 --> 00:02:33,000
+Then I will make the text bold and don't forget to add the home page link.
+
+28
+00:02:37,920 --> 00:02:40,920
+Then I will change the background color of the Buttons block to white and the text to
+
+29
+00:02:43,320 --> 00:02:46,320
+black.
+
+30
+00:02:46,280 --> 00:02:49,280
+We can also change the size of our Buttons block and in this case, I will go for medium.
+
+31
+00:02:54,000 --> 00:02:57,000
+Once I have done that, I will select the Cover block and then toggle the Cover block to full
+
+32
+00:02:59,440 --> 00:03:02,440
+height.
+
+33
+00:03:01,760 --> 00:03:04,760
+And I will choose for the text to be displayed bottom left.
+
+34
+00:03:07,280 --> 00:03:10,280
+Then I will make my way to Styles and add some padding or some space around the content
+
+35
+00:03:14,360 --> 00:03:17,360
+of my block.
+
+36
+00:03:19,760 --> 00:03:22,760
+I am also going to change the overlay opacity of my cover block to 30% to make it slightly
+
+37
+00:03:25,960 --> 00:03:28,960
+lighter.
+
+38
+00:03:27,120 --> 00:03:30,120
+Then we can make our way to settings and for better mobile viewing, I will change the focal
+
+39
+00:03:34,040 --> 00:03:37,040
+point of the image.
+
+40
+00:03:38,240 --> 00:03:41,240
+And that was the last step.
+
+41
+00:03:39,480 --> 00:03:42,480
+So now we can go ahead and click Save and once we close my List View and sidebar settings,
+
+42
+00:03:49,280 --> 00:03:52,280
+we can see our personalized 404 template.
+
+43
+00:03:54,960 --> 00:03:57,960
+And then we can also check it out on mobile.
+
+44
+00:04:05,520 --> 00:04:08,520
+Another option when customizing or personalizing your 404 template is to use a pattern.
+
+45
+00:04:10,240 --> 00:04:13,240
+So in the second example, I am going to actually delete my header, Group block and footer to
+
+46
+00:04:15,440 --> 00:04:18,440
+start blank.
+
+47
+00:04:18,680 --> 00:04:21,680
+Then I will make my way to the WordPress.org site and go to the Patterns Directory.
+
+48
+00:04:28,560 --> 00:04:31,560
+And then I will search for 404 patterns.
+
+49
+00:04:32,280 --> 00:04:35,280
+But when you find a pattern you like, you can copy and paste it into your template.
+
+50
+00:04:41,560 --> 00:04:44,560
+Now you can modify it to meet your needs.
+
+51
+00:04:46,480 --> 00:04:49,480
+As you will notice in my updated version, I have added a home page link or call to action
+
+52
+00:04:52,320 --> 00:04:55,320
+as well as a footer with a search bar and links to my social media platforms.
+
+53
+00:04:59,240 --> 00:05:02,240
+All the best creating your own eye-catching and creative 404 page.
+
+54
+00:05:04,520 --> 00:05:07,520
+If your theme doesn't have a 404 template, you can check out the handbook to learn how
+
+55
+00:05:09,120 --> 00:05:12,120
+to add your own.
+

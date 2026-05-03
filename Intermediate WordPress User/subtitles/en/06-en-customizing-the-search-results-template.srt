@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:03,000
+In this lesson, we will cover how to customize the search results template.
+
+2
+00:00:05,000 --> 00:00:08,000
+When visitors on your site search for content, they are taken to a search results page,
+
+3
+00:00:11,000 --> 00:00:14,000
+and the search results template determines how this page and the results are structured.
+
+4
+00:00:17,000 --> 00:00:20,000
+I am using the Twenty Twenty-Four theme and this is the default layout for results.
+
+5
+00:00:23,000 --> 00:00:26,000
+We can customize the search results page by editing the template.
+
+6
+00:00:28,000 --> 00:00:31,000
+So to do this, let's make our way to the dashboard, click on Appearance, and then open up the Site Editor.
+
+7
+00:00:37,000 --> 00:00:40,000
+Click on Templates, and then select the search results template.
+
+8
+00:00:43,000 --> 00:00:46,000
+You can add a unique header and footer to the template, or you may wish to change how results are displayed via the Query Loop block.
+
+9
+00:00:52,000 --> 00:00:55,000
+Let's open the List view to gain a better understanding of the page structure.
+
+10
+00:00:57,000 --> 00:01:00,000
+Firstly, you can decide if you want to keep or remove the Search Results title.
+
+11
+00:01:02,000 --> 00:01:05,000
+If you keep it, you have a choice to show the search term in the title or not.
+
+12
+00:01:10,000 --> 00:01:13,000
+And you may choose to style the block further.
+
+13
+00:01:16,000 --> 00:01:19,000
+In this example, I am going to customize how my searchresults are displayed.
+
+14
+00:01:22,000 --> 00:01:25,000
+So the first step is to select the Query Loop block, which is used to display results.
+
+15
+00:01:28,000 --> 00:01:31,000
+I am going to select a different pattern for my Query Loop block.
+
+16
+00:01:32,000 --> 00:01:35,000
+So to do this, I will use my Block Toolbar and click on Replace.
+
+17
+00:01:37,000 --> 00:01:40,000
+This allows you to select a different pattern.
+
+18
+00:01:43,000 --> 00:01:46,000
+And I am going to select the pattern called Small Image and Title.
+
+19
+00:01:51,000 --> 00:01:54,000
+Now I will go ahead and modify the Query Loop block further.
+
+20
+00:01:54,000 --> 00:01:57,000
+Firstly, let's change the alignment to Wide Width.
+
+21
+00:01:58,000 --> 00:02:01,000
+Next, I will add a Post Excerpt block below the title.
+
+22
+00:02:04,000 --> 00:02:07,000
+Once added, I will select the right column in the List View.
+
+23
+00:02:13,000 --> 00:02:16,000
+And then change the vertical alignment to align top.
+
+24
+00:02:20,000 --> 00:02:23,000
+As I want the title and the excerpt to align with the top of the image.
+
+25
+00:02:25,000 --> 00:02:28,000
+Next, I am going to select the post featured image.
+
+26
+00:02:30,000 --> 00:02:33,000
+Open Styles and then change the aspect ratio of the Post Featured Image block to 3x4
+
+27
+00:02:39,000 --> 00:02:42,000
+to ensure uniformity and that all the images are the same size.
+
+28
+00:02:48,000 --> 00:02:51,000
+Then we can hit Save and check out our new search results page on the front-end.
+
+29
+00:02:53,000 --> 00:02:56,000
+Once again, I will search for some content.
+
+30
+00:02:57,000 --> 00:03:00,000
+But this time, the results display in a new format due to modifying the search results template.
+
+31
+00:03:03,000 --> 00:03:06,000
+To undo the changes, click on the three vertical dots next to the name and select Clear Customizations.
+
+32
+00:03:14,000 --> 00:03:17,000
+And this will revert back to the original state of the template.
+
+33
+00:03:18,000 --> 00:03:21,000
+All the best as you decide how you want your search results to be displayed.
+
