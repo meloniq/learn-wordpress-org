@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:04,000
+This lesson is all about image optimization.
+
+2
+00:00:04,000 --> 00:00:09,000
+But you might be asking what is image optimization all about?
+
+3
+00:00:09,000 --> 00:00:15,000
+Image optimization maintains the balance of image quality while reducing file size.
+
+4
+00:00:15,000 --> 00:00:24,000
+It is the process of delivering high-quality images in the ideal format, size and resolution to increase user engagement.
+
+5
+00:00:24,000 --> 00:00:32,000
+It also involves accurately labeling images so search engines can read them and understand page content.
+
+6
+00:00:32,000 --> 00:00:37,000
+Before moving forward, let's briefly talk about the advantages of image optimization.
+
+7
+00:00:37,000 --> 00:00:48,000
+Image optimization will help you improve page loading speed, the user experience, SEO and it doesn't require any development skills.
+
+8
+00:00:48,000 --> 00:00:51,000
+Image optimization clearly has a domino effect.
+
+9
+00:00:51,000 --> 00:00:58,000
+If your images load quickly, it will increase user engagement and then lead to improved search engine rankings.
+
+10
+00:00:58,000 --> 00:01:01,000
+So how do we optimize images?
+
+11
+00:01:01,000 --> 00:01:07,000
+Firstly, we need to change the file name of an image before uploading and then add alternative text.
+
+12
+00:01:07,000 --> 00:01:11,000
+Secondly, make sure you choose the correct image type.
+
+13
+00:01:11,000 --> 00:01:18,000
+And then we can also scale or crop an image and lastly compress the image file.
+
+14
+00:01:18,000 --> 00:01:23,000
+So make sure you change the file name of an image before uploading it to your media library.
+
+15
+00:01:23,000 --> 00:01:25,000
+And remember to add the alt text.
+
+16
+00:01:25,000 --> 00:01:34,000
+When you add an image to your media library, you can open it up and top-right it says Alternative text.
+
+17
+00:01:34,000 --> 00:01:43,000
+The alt tag is simply a brief text description of an image, but it explains the content of images to website users when a graphic can't be loaded.
+
+18
+00:01:43,000 --> 00:01:52,000
+It also allows search engines to better crawl and rank your website and it also helps visually impaired users to understand the content of a page.
+
+19
+00:01:52,000 --> 00:01:56,000
+It is also important to note image SEO starts with the file name.
+
+20
+00:01:56,000 --> 00:02:00,000
+You want a search engine to know what the image is without even looking at it.
+
+21
+00:02:00,000 --> 00:02:02,000
+So use a focused key phrase.
+
+22
+00:02:02,000 --> 00:02:05,000
+WordPress lets you upload images in several formats.
+
+23
+00:02:05,000 --> 00:02:12,000
+Most commonly, images are saved as JPEG, PNG, WebP or AVIF.
+
+24
+00:02:12,000 --> 00:02:16,000
+JPEG is typically used for photographs and images of people and objects.
+
+25
+00:02:16,000 --> 00:02:27,000
+PNG is suitable for graphics, illustrations and images with transparency, while WebP and AVIF are excellent choices for optimizing website performance,
+
+26
+00:02:27,000 --> 00:02:34,000
+especially for non-vectorized assets like photos and animations due to their superior compression capabilities.
+
+27
+00:02:34,000 --> 00:02:41,000
+I would also recommend avoiding GIFs as they present accessibility challenges.
+
+28
+00:02:41,000 --> 00:02:45,000
+Lastly, we are going to look at three methods to optimize images.
+
+29
+00:02:45,000 --> 00:02:54,000
+Firstly, you can use a WordPress plugin or you may decide to use a web-based tool or an image editor.
+
+30
+00:02:54,000 --> 00:02:58,000
+Let's start with plugins.
+
+31
+00:02:58,000 --> 00:03:10,000
+To add a plugin, let's make our way to Plugins, click on Add New and then type "Image optimization" in the search block.
+
+32
+00:03:10,000 --> 00:03:14,000
+Now you will notice there are many different plugins to choose from.
+
+33
+00:03:14,000 --> 00:03:23,000
+Some plugins worth exploring are Modern Image Formats, Image Optimization by Optimal, Smush or Imagify.
+
+34
+00:03:23,000 --> 00:03:29,000
+Please note, depending on the plugin, some features might only be supported by the Pro version.
+
+35
+00:03:29,000 --> 00:03:35,000
+For new image uploads on your site, you might want to consider using modern image formats.
+
+36
+00:03:35,000 --> 00:03:39,000
+This plugin has been created and is managed by the WordPress performance team.
+
+37
+00:03:39,000 --> 00:03:46,000
+And basically converts images to more modern formats such as WebP or AVIF during upload.
+
+38
+00:03:46,000 --> 00:03:52,000
+In this example, I am going to install and activate the EWWW Image Optimizer plugin.
+
+39
+00:03:52,000 --> 00:03:59,000
+Once activated, we can go to Settings and we will see an option that says "Optimize Local Images".
+
+40
+00:03:59,000 --> 00:04:05,000
+And if you scroll down, you will see more options that come with the premium package.
+
+41
+00:04:05,000 --> 00:04:18,000
+But if we make our way to media, we can click on Bulk Optimize and then scan for unoptimized images.
+
+42
+00:04:18,000 --> 00:04:27,000
+And there we can see we have 184 images to optimize and there are some more options on the right.
+
+43
+00:04:27,000 --> 00:04:35,000
+Next, let's explore some web based tools where you can optimize the image before uploading it to your WordPress site.
+
+44
+00:04:35,000 --> 00:04:49,000
+Some options worth considering are tinypng.com, tinyimg.com, kraken.io and squoosh.app.
+
+45
+00:04:49,000 --> 00:04:51,000
+Let's see how Squoosh works.
+
+46
+00:04:51,000 --> 00:04:55,000
+It's open source and supports all image formats.
+
+47
+00:04:55,000 --> 00:05:01,000
+Once you add an image from your computer, you can edit or compress it.
+
+48
+00:05:01,000 --> 00:05:10,000
+Firstly, I will click on Resize and then change the height of the image and you will notice the width automatically updates.
+
+49
+00:05:10,000 --> 00:05:15,000
+Next, I will go to Compress and save the image as a WebP file.
+
+50
+00:05:15,000 --> 00:05:22,000
+And bottom right, we can see that this file size has been reduced by 97%.
+
+51
+00:05:22,000 --> 00:05:30,000
+Finally, you also have the option to use image editors such as Pixlr, Photopia, Gimp or Canva.
+
+52
+00:05:30,000 --> 00:05:35,000
+You might be asking what is an optimal size for use in WordPress?
+
+53
+00:05:35,000 --> 00:05:38,000
+Well, it depends on how you will use that image.
+
+54
+00:05:38,000 --> 00:05:43,000
+1200 by 628 pixels is a good size for header images.
+
+55
+00:05:43,000 --> 00:05:53,000
+For other images, an optimal size is at least 640 by 480 and up to around 1024 by 768 pixels.
+
+56
+00:05:53,000 --> 00:05:58,000
+I trust this information has been helpful and that you will find the right method that works for you.
+

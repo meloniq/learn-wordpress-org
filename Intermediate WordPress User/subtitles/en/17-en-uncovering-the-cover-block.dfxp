@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 17-en-uncovering-the-cover-block</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.001" end="00:00:02.480" region="bottomCenter">Today we are exploring the Cover block.</p>
+      <p xml:id="p2" begin="00:00:02.480" end="00:00:08.680" region="bottomCenter">An excellent tool for creating headers, banner-style displays, call-to-actions and much more.</p>
+      <p xml:id="p3" begin="00:00:08.680" end="00:00:14.120" region="bottomCenter">The Cover block allows you to display text and other content on top of an image or video.</p>
+      <p xml:id="p4" begin="00:00:14.120" end="00:00:17.240" region="bottomCenter">In this session we will create two different designs.</p>
+      <p xml:id="p5" begin="00:00:17.240" end="00:00:21.440" region="bottomCenter">But first, let's take a quick look at some of the key features and settings we need to</p>
+      <p xml:id="p6" begin="00:00:21.440" end="00:00:23.480" region="bottomCenter">know before continuing.</p>
+      <p xml:id="p7" begin="00:00:23.480" end="00:00:27.480" region="bottomCenter">The important thing to understand is that the Cover block is a container block that can</p>
+      <p xml:id="p8" begin="00:00:27.480" end="00:00:30.040" region="bottomCenter">hold other blocks within it.</p>
+      <p xml:id="p9" begin="00:00:30.040" end="00:00:34.240" region="bottomCenter">When you add a Cover block to your page, you have the option to upload an image or video</p>
+      <p xml:id="p10" begin="00:00:34.240" end="00:00:36.760" region="bottomCenter">from your computer or Media Library.</p>
+      <p xml:id="p11" begin="00:00:36.760" end="00:00:41.680" region="bottomCenter">You can also select the 'Use Featured Image' option to set the cover as the featured image</p>
+      <p xml:id="p12" begin="00:00:41.680" end="00:00:43.840" region="bottomCenter">of your page or post.</p>
+      <p xml:id="p13" begin="00:00:43.840" end="00:00:48.360" region="bottomCenter">And then you can click on the coloured circles to add an overlay colour to your Cover block</p>
+      <p xml:id="p14" begin="00:00:48.360" end="00:00:53.360" region="bottomCenter">which you can update later in the sidebar settings.</p>
+      <p xml:id="p15" begin="00:00:53.360" end="00:00:56.760" region="bottomCenter">Let's add an image from our Media Library.</p>
+      <p xml:id="p16" begin="00:00:56.760" end="00:01:02.480" region="bottomCenter">It is also worth noting that WordPress automatically adds an overlay colour that complements the</p>
+      <p xml:id="p17" begin="00:01:02.480" end="00:01:04.560" region="bottomCenter">image.</p>
+      <p xml:id="p18" begin="00:01:04.560" end="00:01:09.960" region="bottomCenter">Once inserted, select your Cover block in your List View and then use the block toolbar</p>
+      <p xml:id="p19" begin="00:01:09.960" end="00:01:14.720" region="bottomCenter">to change the alignment to full width.</p>
+      <p xml:id="p20" begin="00:01:14.720" end="00:01:20.240" region="bottomCenter">You can also change the content position to top left, middle left or elsewhere.</p>
+      <p xml:id="p21" begin="00:01:20.240" end="00:01:25.400" region="bottomCenter">Additionally, you can toggle your Cover block to full height and add a duotone filter if</p>
+      <p xml:id="p22" begin="00:01:25.400" end="00:01:27.240" region="bottomCenter">desired.</p>
+      <p xml:id="p23" begin="00:01:27.240" end="00:01:33.240" region="bottomCenter">In the sidebar settings, we have an option to select 'Fixed Background' which creates</p>
+      <p xml:id="p24" begin="00:01:33.240" end="00:01:39.760" region="bottomCenter">a parallax effect.</p>
+      <p xml:id="p25" begin="00:01:39.760" end="00:01:44.480" region="bottomCenter">The Repeat Background option is useful when an image isn't the size of the space it</p>
+      <p xml:id="p26" begin="00:01:44.480" end="00:01:45.960" region="bottomCenter">fills.</p>
+      <p xml:id="p27" begin="00:01:45.960" end="00:01:51.640" region="bottomCenter">The focal point picker allows you to identify the most important visual point of an image,</p>
+      <p xml:id="p28" begin="00:01:51.640" end="00:01:54.080" region="bottomCenter">especially for mobile viewing.</p>
+      <p xml:id="p29" begin="00:01:54.080" end="00:01:58.000" region="bottomCenter">Also remember to add alt text to describe the purpose of the image for screen readers</p>
+      <p xml:id="p30" begin="00:01:58.000" end="00:02:01.200" region="bottomCenter">and SEO.</p>
+      <p xml:id="p31" begin="00:02:01.200" end="00:02:08.720" region="bottomCenter">Below Styles, you can edit the colour overlay and change its opacity to make a darker or</p>
+      <p xml:id="p32" begin="00:02:08.720" end="00:02:10.440" region="bottomCenter">lighter.</p>
+      <p xml:id="p33" begin="00:02:10.440" end="00:02:16.760" region="bottomCenter">Next, you can also add padding to create more space around the content in your Cover block.</p>
+      <p xml:id="p34" begin="00:02:16.760" end="00:02:20.640" region="bottomCenter">Now we can move on to some examples.</p>
+      <p xml:id="p35" begin="00:02:20.640" end="00:02:25.640" region="bottomCenter">In the first example, I wanted to show you how I created the following banner.</p>
+      <p xml:id="p36" begin="00:02:25.640" end="00:02:34.040" region="bottomCenter">We can go ahead and add the Cover block and then select an image from our Media Library.</p>
+      <p xml:id="p37" begin="00:02:34.040" end="00:02:41.080" region="bottomCenter">Next I will ensure that I select the Cover block and then change the alignment to full</p>
+      <p xml:id="p38" begin="00:02:41.080" end="00:02:43.120" region="bottomCenter">width.</p>
+      <p xml:id="p39" begin="00:02:43.120" end="00:02:47.880" region="bottomCenter">And then I will change the content position to top middle.</p>
+      <p xml:id="p40" begin="00:02:47.880" end="00:02:50.240" region="bottomCenter">Then we can go ahead and add some text.</p>
+      <p xml:id="p41" begin="00:02:50.240" end="00:02:58.120" region="bottomCenter">In this case, I will write 'Explore the mountains' and then change the size of the text to a</p>
+      <p xml:id="p42" begin="00:02:58.120" end="00:03:00.440" region="bottomCenter">custom size.</p>
+      <p xml:id="p43" begin="00:03:00.440" end="00:03:04.200" region="bottomCenter">And for this example, we'll change it to '4 rem.'</p>
+      <p xml:id="p44" begin="00:03:04.200" end="00:03:10.920" region="bottomCenter">I'm also going to change the appearance of the text to 'medium'.</p>
+      <p xml:id="p45" begin="00:03:10.920" end="00:03:16.720" region="bottomCenter">To change the alignment of the text, I'm going to wrap the Paragraph block or the text</p>
+      <p xml:id="p46" begin="00:03:16.720" end="00:03:20.880" region="bottomCenter">in a Group block.</p>
+      <p xml:id="p47" begin="00:03:20.880" end="00:03:24.440" region="bottomCenter">And then, deselect 'Inner blocks use content width.'</p>
+      <p xml:id="p48" begin="00:03:24.440" end="00:03:29.000" region="bottomCenter">And once I've done that, I can go ahead and change the alignment of the Group block</p>
+      <p xml:id="p49" begin="00:03:29.000" end="00:03:31.000" region="bottomCenter">to full width.</p>
+      <p xml:id="p50" begin="00:03:31.000" end="00:03:37.360" region="bottomCenter">Then I will select the Cover block, open Styles.</p>
+      <p xml:id="p51" begin="00:03:37.360" end="00:03:44.440" region="bottomCenter">Then I will leave my overlay opacity at 50% and then we can add some padding or some</p>
+      <p xml:id="p52" begin="00:03:44.440" end="00:03:50.360" region="bottomCenter">space around the content of our block.</p>
+      <p xml:id="p53" begin="00:03:50.360" end="00:03:55.600" region="bottomCenter">Now we can close the List View in the sidebar settings and now that the design is finished,</p>
+      <p xml:id="p54" begin="00:03:55.600" end="00:04:01.000" region="bottomCenter">we can also check to see what it will look like on a mobile device.</p>
+      <p xml:id="p55" begin="00:04:01.000" end="00:04:05.440" region="bottomCenter">If you did not want your image to be cropped as we see here, you can change the aspect</p>
+      <p xml:id="p56" begin="00:04:05.440" end="00:04:06.940" region="bottomCenter">ratio.</p>
+      <p xml:id="p57" begin="00:04:06.940" end="00:04:13.680" region="bottomCenter">To do that, we can return to the page and open up Styles and then scroll down to aspect</p>
+      <p xml:id="p58" begin="00:04:13.680" end="00:04:15.480" region="bottomCenter">ratio.</p>
+      <p xml:id="p59" begin="00:04:15.480" end="00:04:23.160" region="bottomCenter">I will go ahead and select a Classic 3x2 aspect ratio.</p>
+      <p xml:id="p60" begin="00:04:23.160" end="00:04:31.680" region="bottomCenter">And now, if we view it on mobile, we will see the image is not cropped.</p>
+      <p xml:id="p61" begin="00:04:31.680" end="00:04:37.200" region="bottomCenter">The image scales appropriately and maintains its proportions.</p>
+      <p xml:id="p62" begin="00:04:37.200" end="00:04:42.080" region="bottomCenter">In the next example, I want to show you how I created this cool parallax effect, blending</p>
+      <p xml:id="p63" begin="00:04:42.080" end="00:04:45.840" region="bottomCenter">the two images together.</p>
+      <p xml:id="p64" begin="00:04:45.840" end="00:04:53.800" region="bottomCenter">To create this design, I added a Cover block and then selected an image from my Media Library.</p>
+      <p xml:id="p65" begin="00:04:53.800" end="00:04:59.160" region="bottomCenter">Once inserted, I selected the Cover block and changed the alignment to full width and</p>
+      <p xml:id="p66" begin="00:04:59.160" end="00:05:03.200" region="bottomCenter">I toggled the block to full height.</p>
+      <p xml:id="p67" begin="00:05:03.200" end="00:05:08.760" region="bottomCenter">Then I open the sidebar settings and selected Fixed Background to create the parallax</p>
+      <p xml:id="p68" begin="00:05:08.760" end="00:05:09.760" region="bottomCenter">effect.</p>
+      <p xml:id="p69" begin="00:05:09.760" end="00:05:14.400" region="bottomCenter">Then I will click on the three vertical dots of my block tool bar and duplicate.</p>
+      <p xml:id="p70" begin="00:05:14.400" end="00:05:20.920" region="bottomCenter">Once the block is duplicated, I will add a new image.</p>
+      <p xml:id="p71" begin="00:05:20.920" end="00:05:30.240" region="bottomCenter">Next I will open up my List View, select both Cover blocks and add them to a Group block.</p>
+      <p xml:id="p72" begin="00:05:30.240" end="00:05:34.580" region="bottomCenter">As I want to remove the space between the two images, then I will open up the Styles</p>
+      <p xml:id="p73" begin="00:05:34.580" end="00:05:40.600" region="bottomCenter">of the Group block, make my way to block spacing and change it to zero.</p>
+      <p xml:id="p74" begin="00:05:40.600" end="00:05:44.480" region="bottomCenter">Please note, if you don't see the block spacing setting, it might be because of the theme</p>
+      <p xml:id="p75" begin="00:05:44.480" end="00:05:46.160" region="bottomCenter">you are using.</p>
+      <p xml:id="p76" begin="00:05:46.160" end="00:05:54.080" region="bottomCenter">And then our design is done.</p>
+      <p xml:id="p77" begin="00:05:54.080" end="00:05:57.640" region="bottomCenter">And then we can also view it on a smaller screen.</p>
+      <p xml:id="p78" begin="00:05:57.640" end="00:06:03.880" region="bottomCenter">Finally, I want to show you some other designs I created using the Cover block.</p>
+      <p xml:id="p79" begin="00:06:03.880" end="00:06:10.400" region="bottomCenter">In this case, I used the Cover block to create this call-to-action for a portfolio website.</p>
+      <p xml:id="p80" begin="00:06:10.400" end="00:06:14.920" region="bottomCenter">Also, don't forget to go to the Patterns Directory to find awesome patterns that have</p>
+      <p xml:id="p81" begin="00:06:14.920" end="00:06:18.080" region="bottomCenter">been built with the Cover block.</p>
+      <p xml:id="p82" begin="00:06:18.080" end="00:06:24.640" region="bottomCenter">In the last example, I used one of those header patterns to create a header for my owl sanctuary</p>
+      <p xml:id="p83" begin="00:06:24.640" end="00:06:31.600" region="bottomCenter">website with the logo and site title top left and my navigation menu top right.</p>
+      <p xml:id="p84" begin="00:06:31.600" end="00:06:35.800" region="bottomCenter">And here we can also view it on mobile.</p>
+      <p xml:id="p85" begin="00:06:35.800" end="00:06:40.440" region="bottomCenter">Enjoy using the Cover block and always double check that your designs appear correctly</p>
+      <p xml:id="p86" begin="00:06:40.440" end="00:06:41.680" region="bottomCenter">on smaller screens.</p>
+    </div>
+  </body>
+</tt>

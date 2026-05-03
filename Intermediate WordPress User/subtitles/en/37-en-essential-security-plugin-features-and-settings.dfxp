@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for 37-en-essential-security-plugin-features-and-settings</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:00.001" end="00:00:09.500" region="bottomCenter">In this session, we will explore the importance of using a security plugin and better understand specific settings to help you fortify your site.</p>
+      <p xml:id="p2" begin="00:00:09.500" end="00:00:22.400" region="bottomCenter">The Plugin Directory contains many plugins worth exploring, such as WordFence, All-in-One Security and Firewall, Jetback, Sucuri, Solid Security, etc.</p>
+      <p xml:id="p3" begin="00:00:22.400" end="00:00:32.300" region="bottomCenter">It is important to note that some plugins offer more options or settings than others. Premium packages also unlock additional functionalities.</p>
+      <p xml:id="p4" begin="00:00:32.300" end="00:00:40.400" region="bottomCenter">Depending on the plugin you've chosen, here are a few features worth considering. Number one, audits and scans.</p>
+      <p xml:id="p5" begin="00:00:40.400" end="00:00:48.200" region="bottomCenter">It is advised to conduct regular security audits or scans to help identify potential vulnerabilities on your website.</p>
+      <p xml:id="p6" begin="00:00:48.200" end="00:00:55.000" region="bottomCenter">Using a security plugin makes this process straightforward and manageable, without technical expertise.</p>
+      <p xml:id="p7" begin="00:00:55.000" end="00:01:10.900" region="bottomCenter">Most plugins allow you to enable auto scans and regularly scans your WordPress site for security threats and performs automated backups to safeguard your website's data, providing comprehensive protection with easy one-click restores.</p>
+      <p xml:id="p8" begin="00:01:10.900" end="00:01:21.800" region="bottomCenter">Manual audits are also important. There's always a chance a security tool misses a malicious file dropped by an attacker or doesn't notice a suspicious user.</p>
+      <p xml:id="p9" begin="00:01:21.800" end="00:01:27.700" region="bottomCenter">Secondly, some plugins allow you to enable a web application firewall.</p>
+      <p xml:id="p10" begin="00:01:27.700" end="00:01:35.700" region="bottomCenter">A web application firewall adds an extra layer of security by monitoring and filtering incoming traffic to your website.</p>
+      <p xml:id="p11" begin="00:01:35.700" end="00:01:44.600" region="bottomCenter">It is like having a security guard for your website. It stands between your site and the internet, checking all the data that comes in and goes out.</p>
+      <p xml:id="p12" begin="00:01:44.600" end="00:01:49.600" region="bottomCenter">If it sees anything suspicious, it blocks it to keep your site safe.</p>
+      <p xml:id="p13" begin="00:01:49.600" end="00:01:53.800" region="bottomCenter">The next option worth setting up is IP address detection.</p>
+      <p xml:id="p14" begin="00:01:53.800" end="00:02:00.000" region="bottomCenter">IP address detection helps the plugin identify the IP addresses or visitors to your website.</p>
+      <p xml:id="p15" begin="00:02:00.000" end="00:02:08.400" region="bottomCenter">This is crucial for security features like blocking malicious users or limiting login attempts from specific IP addresses.</p>
+      <p xml:id="p16" begin="00:02:08.400" end="00:02:16.300" region="bottomCenter">If the plugin can't correctly detect IP addresses, it may not properly block harmful traffic or limit access we needed.</p>
+      <p xml:id="p17" begin="00:02:16.300" end="00:02:26.600" region="bottomCenter">By correctly detecting IP addresses, security tools can enforce access restrictions, block suspicious activity and safeguard the website's integrity.</p>
+      <p xml:id="p18" begin="00:02:26.600" end="00:02:31.200" region="bottomCenter">You can usually enter a list of IP addresses that should not be locked out.</p>
+      <p xml:id="p19" begin="00:02:31.200" end="00:02:36.200" region="bottomCenter">WordFence for example provides several options for detecting IP addresses.</p>
+      <p xml:id="p20" begin="00:02:36.200" end="00:02:39.800" region="bottomCenter">The first option is the default recommended option.</p>
+      <p xml:id="p21" begin="00:02:39.800" end="00:02:45.200" region="bottomCenter">The second option is to use PHP's built-in remote ADDR.</p>
+      <p xml:id="p22" begin="00:02:45.200" end="00:02:54.400" region="bottomCenter">Remote ADDR is a server variable that tells you the IP address of the computer or device that is accessing your website.</p>
+      <p xml:id="p23" begin="00:02:54.400" end="00:03:03.000" region="bottomCenter">If we look at a different plugin, we'll see using remote ADDR is the default option for the All-in-One Security and Firewall plugin,</p>
+      <p xml:id="p24" begin="00:03:03.000" end="00:03:10.000" region="bottomCenter">which is below Advanced settings and very secure, but it must be set up correctly to work.</p>
+      <p xml:id="p25" begin="00:03:10.000" end="00:03:14.800" region="bottomCenter">IP address detection always requires proper server configuration</p>
+      <p xml:id="p26" begin="00:03:14.800" end="00:03:20.100" region="bottomCenter">otherwise IP addresses can easily be spoofed or disguised.</p>
+      <p xml:id="p27" begin="00:03:20.100" end="00:03:31.300" region="bottomCenter">If you are behind any sort of proxy, for example a load balancer, the reliability of this method may be compromised as the PHP code cannot ascertain the server's configuration.</p>
+      <p xml:id="p28" begin="00:03:31.300" end="00:03:40.700" region="bottomCenter">An important step when setting up IP address detection is therefore proper server configuration, which needs hosting provider intervention.</p>
+      <p xml:id="p29" begin="00:03:40.700" end="00:03:49.500" region="bottomCenter">Ensure you contact your hosting provider to understand how your server is configured so that you can select the correct IP detection method.</p>
+      <p xml:id="p30" begin="00:03:49.500" end="00:03:54.900" region="bottomCenter">Next, some plugins also allow you to secure your WordPress configuration file.</p>
+      <p xml:id="p31" begin="00:03:54.900" end="00:04:06.300" region="bottomCenter">The wp-config.php file contains sensitive information such as database credentials, security keys and other configuration parameters.</p>
+      <p xml:id="p32" begin="00:04:06.300" end="00:04:12.300" region="bottomCenter">Securing this file can prevent unauthorized access and potential exploitation.</p>
+      <p xml:id="p33" begin="00:04:12.300" end="00:04:20.300" region="bottomCenter">When using the All-in-One Security plugin for example, you can set the recommended permissions when selecting File Security.</p>
+      <p xml:id="p34" begin="00:04:20.300" end="00:04:25.500" region="bottomCenter">Additionally, enabling brute force protection on your WordPress site is crucial.</p>
+      <p xml:id="p35" begin="00:04:25.500" end="00:04:36.900" region="bottomCenter">Brute force attacks are common methods hackers use to gain unauthorized access to your website by repeatedly trying different username and password combinations until they find the correct one.</p>
+      <p xml:id="p36" begin="00:04:36.900" end="00:04:51.300" region="bottomCenter">Brute force protection stops unauthorized users from accessing your site by limiting login attempts, blocking suspicious IP addresses and verifying that real people are logging in through captcha challenges.</p>
+      <p xml:id="p37" begin="00:04:51.300" end="00:04:57.100" region="bottomCenter">The settings for brute force attack protection may of course vary between security plugins.</p>
+      <p xml:id="p38" begin="00:04:57.100" end="00:05:04.300" region="bottomCenter">Lastly, setting up two-factor authentication to protect your site from brute force attacks is also advised.</p>
+      <p xml:id="p39" begin="00:05:04.300" end="00:05:12.700" region="bottomCenter">In addition to robust password management, enabling two-factor authentication is crucial for enhancing the security of your WordPress site.</p>
+      <p xml:id="p40" begin="00:05:12.700" end="00:05:27.300" region="bottomCenter">Two-factor authentication adds a layer of protection to your login process by requiring your password and a second verification form, such as a unique code sent to your mobile device or generated by an authentication app.</p>
+      <p xml:id="p41" begin="00:05:27.300" end="00:05:34.500" region="bottomCenter">This additional step significantly reduces the risk of unauthorized access, even if your password is compromised.</p>
+      <p xml:id="p42" begin="00:05:34.500" end="00:05:43.700" region="bottomCenter">Many security plugins, including Wordfence and All-in-One WordPress Security and Firewall, offer built-in support for two-factor authentication.</p>
+      <p xml:id="p43" begin="00:05:43.700" end="00:05:51.000" region="bottomCenter">Finally, it is also worth mentioning that good security should always be backed by a good backup strategy.</p>
+      <p xml:id="p44" begin="00:05:51.000" end="00:05:57.300" region="bottomCenter">In the event of an incident, this allows you to quickly recover and restore your data from backups.</p>
+      <p xml:id="p45" begin="00:05:57.300" end="00:06:01.500" region="bottomCenter">And get an SSL certificate if you don't have one.</p>
+      <p xml:id="p46" begin="00:06:01.500" end="00:06:12.400" region="bottomCenter">An SSL certificate, which stands for Secure Sockets Layer, secures your website by encrypting data between your site and visitors, protecting sensitive information from hackers.</p>
+      <p xml:id="p47" begin="00:06:12.400" end="00:06:25.300" region="bottomCenter">It also makes your site more trustworthy and can improve search engine rankings. You can buy an SSL certificate from a provider or use a free service like Let's Encrypt.</p>
+      <p xml:id="p48" begin="00:06:25.300" end="00:06:31.400" region="bottomCenter">Many web hosts automatically provide and install SSL certificates as part of their packages.</p>
+      <p xml:id="p49" begin="00:06:31.400" end="00:06:38.000" region="bottomCenter">So check with your host to enable it with just a few clicks in your hosting dashboard, if not activated.</p>
+      <p xml:id="p50" begin="00:06:38.000" end="00:06:46.000" region="bottomCenter">Implementing all these security measures we discussed can significantly enhance the protection of your site against more sophisticated threats.</p>
+    </div>
+  </body>
+</tt>
