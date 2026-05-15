@@ -1,0 +1,288 @@
+1
+00:00:00,001 --> 00:00:03,001
+Domain management and understanding DNS records.
+
+2
+00:00:03,760 --> 00:00:06,760
+In this lesson, we peek behind the curtains of the vast network of computers we call the internet.
+
+3
+00:00:09,700 --> 00:00:12,700
+We'll learn about domains, DNS, how it connects your domain name with your hosting provider's IP address, and how to manage these settings.
+
+4
+00:00:19,640 --> 00:00:22,640
+We will answer the following questions.
+
+5
+00:00:22,040 --> 00:00:25,040
+What is a domain?
+
+6
+00:00:23,520 --> 00:00:26,520
+What are DNS records and what do they do?
+
+7
+00:00:26,640 --> 00:00:29,640
+How do you edit them and how long does DNS propagation take?
+
+8
+00:00:31,600 --> 00:00:34,600
+Firstly, what is a domain?
+
+9
+00:00:34,200 --> 00:00:37,200
+A domain name is the unique address people use to access your website on the internet.
+
+10
+00:00:39,600 --> 00:00:42,600
+Like your actual address, anyone who wants to visit or send you a letter needs to know on which street you live and what's your house number.
+
+11
+00:00:47,880 --> 00:00:50,880
+The web works similarly.
+
+12
+00:00:49,800 --> 00:00:52,800
+People can type your domain into their web browser address bar or use a search engine.
+
+13
+00:00:55,800 --> 00:00:58,800
+Domains consist of two, sometimes three parts.
+
+14
+00:00:59,400 --> 00:01:02,400
+The name, the extension, and sometimes a prefix called subdomain.
+
+15
+00:01:04,520 --> 00:01:07,520
+Here is an example.
+
+16
+00:01:06,000 --> 00:01:09,000
+In the domain, WordPress.org.
+
+17
+00:01:09,000 --> 00:01:12,000
+WordPress is the unique name chosen by the website owner and .org is the domain extension, denoting the type of website or organization.
+
+18
+00:01:19,200 --> 00:01:22,200
+Meanwhile, in the domain learn.wordpress.org, learn is a subdomain associated with the primary organization that indicates the site's focus on educational content.
+
+19
+00:01:32,200 --> 00:01:35,200
+Unlike humans, devices and servers communicate using numerical IP addresses.
+
+20
+00:01:38,000 --> 00:01:41,000
+And that's where the domain name system or DNS comes in.
+
+21
+00:01:41,600 --> 00:01:44,600
+What is DNS?
+
+22
+00:01:43,600 --> 00:01:46,600
+The domain name system or DNS bridges the gap between humans and machines, translating human readable domain names such as www.example.com into machine readable IP addresses like 192.0.2.1.
+
+23
+00:02:01,600 --> 00:02:04,600
+Imagine a giant phone book that stores all the names and corresponding numbers of every active website and online service in special text files.
+
+24
+00:02:11,600 --> 00:02:14,600
+These files are called zone files and they contain the individual DNS records of each website on which server to find it, how to connect to it and more.
+
+25
+00:02:22,600 --> 00:02:25,600
+These DNS records, unique to every domain, are grouped in a DNS zone.
+
+26
+00:02:28,600 --> 00:02:31,600
+There are a few dozen DNS record types.
+
+27
+00:02:31,600 --> 00:02:34,600
+Let's review the five primary records that are essential for your website.
+
+28
+00:02:36,600 --> 00:02:39,600
+Number one, NS records, short form nameserver.
+
+29
+00:02:41,600 --> 00:02:44,600
+These records tell other computers which server manages the information about your website.
+
+30
+00:02:46,600 --> 00:02:49,600
+NS records direct the network traffic to where your website, mailbox and other online assets are stored.
+
+31
+00:02:53,600 --> 00:02:56,600
+Every domain must have NS records.
+
+32
+00:02:56,600 --> 00:02:59,600
+You'd usually have two of them, so if one nameserver is down, the domain lookup process can use the next NS indicated in the records.
+
+33
+00:03:05,600 --> 00:03:08,600
+Why would you need to edit your nameservers?
+
+34
+00:03:08,600 --> 00:03:11,600
+The most common scenario is when using one company to manage the domain and another to manage hosting.
+
+35
+00:03:15,600 --> 00:03:18,600
+If you've purchased your domain at registrar A and a hosting plan at provider B, you need to connect the domain to your hosting using NS records.
+
+36
+00:03:25,600 --> 00:03:28,600
+Here's how this usually works.
+
+37
+00:03:28,600 --> 00:03:31,600
+Firstly, you find provider B's nameserver.
+
+38
+00:03:32,600 --> 00:03:35,600
+It might look something like ns1.dns-parking.com.
+
+39
+00:03:37,600 --> 00:03:40,600
+You copy them.
+
+40
+00:03:38,600 --> 00:03:41,600
+Next, go to registrar A's control panel and find the DNS zone management section.
+
+41
+00:03:45,600 --> 00:03:48,600
+And then thirdly, remove the old NS records and add the new ones you copied in the first step.
+
+42
+00:03:52,600 --> 00:03:55,600
+Your domain will soon be connected to your hosting.
+
+43
+00:03:55,600 --> 00:03:58,600
+Next, let's talk about A records, short for address record.
+
+44
+00:04:01,600 --> 00:04:04,600
+It ensures that when somebody tries to visit your website from a browser, whether via a search engine or directly typing example.com, the browser would know which server manages this IP address.
+
+45
+00:04:13,600 --> 00:04:16,600
+Once it has this information, the browser can fetch the files and display the website.
+
+46
+00:04:19,600 --> 00:04:22,600
+If you're using your web host's nameserver, you probably won't need to set an A record.
+
+47
+00:04:24,600 --> 00:04:27,600
+Your web host will do this for you.
+
+48
+00:04:26,600 --> 00:04:29,600
+Thirdly, CNAME records.
+
+49
+00:04:29,600 --> 00:04:32,600
+Think of the canonical name records as shortcuts for your website.
+
+50
+00:04:34,600 --> 00:04:37,600
+These aliases let you point one domain name to another, which is how you would set up subdomains or direct traffic to a different web address.
+
+51
+00:04:44,600 --> 00:04:47,600
+The most common useful CNAME is www.
+
+52
+00:04:48,600 --> 00:04:51,600
+This record works like an email forwarder and ensures people can access the website whether they include the www or not.
+
+53
+00:04:56,600 --> 00:04:59,600
+Alternatively, you can use a CNAME to direct visitors to a separate website, like the example of learn.wordpress.org.
+
+54
+00:05:04,600 --> 00:05:07,600
+Next, MX records.
+
+55
+00:05:07,600 --> 00:05:10,600
+The mail exchanger records handle the mailboxes of your domain.
+
+56
+00:05:11,600 --> 00:05:14,600
+They specify which servers handle emails sent to and from your custom email addresses, including email forwarding.
+
+57
+00:05:19,600 --> 00:05:22,600
+If you want to use your domain to send and receive emails, for example the email account info@example.com, you need to set MX records.
+
+58
+00:05:29,600 --> 00:05:32,600
+Number 5. TXT records.
+
+59
+00:05:32,600 --> 00:05:35,600
+TXT records are like sticky notes attached to your domain.
+
+60
+00:05:36,600 --> 00:05:39,600
+They can contain all sorts of helpful information, like verifying your domain for analytics, services or optimizing email security.
+
+61
+00:05:44,600 --> 00:05:47,600
+Here's an example of the latter.
+
+62
+00:05:48,600 --> 00:05:51,600
+The next question is how do you edit these records?
+
+63
+00:05:52,600 --> 00:05:55,600
+You can manage all these different DNS records via your domain registrar or hosting providers control panel.
+
+64
+00:06:00,600 --> 00:06:03,600
+They interface changes from one company to another, but they all allow you to create, modify and delete DNS records and configure your domain according to your requirements.
+
+65
+00:06:12,600 --> 00:06:15,600
+You might be asking, how long does it take?
+
+66
+00:06:16,600 --> 00:06:19,600
+Whenever you make changes in your DNS zone, global DNS servers across the entire web need to update the records they have stored.
+
+67
+00:06:24,600 --> 00:06:27,600
+This process of DNS servers updating their records is called propagation.
+
+68
+00:06:29,600 --> 00:06:32,600
+Various factors affect the time it takes to complete this update, so expect anything from a couple of hours and up to 72 hours.
+
+69
+00:06:37,600 --> 00:06:40,600
+Take that into account when you make these changes.
+
+70
+00:06:41,600 --> 00:06:44,600
+You can check the status of DNS propagation on sites like DNS checker.
+
+71
+00:06:46,600 --> 00:06:49,600
+Type your domain, select the record and test it across hundreds of DNS servers worldwide.
+
+72
+00:06:53,600 --> 00:06:56,600
+We hope this short overview gives you a better understanding of domains and DNS management and helps you adjust some default settings to your needs.
+

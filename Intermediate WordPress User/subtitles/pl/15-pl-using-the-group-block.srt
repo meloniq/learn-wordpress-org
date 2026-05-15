@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:03,000
+Welcome to Using the group block. The<br />group block allows you to group and
+
+2
+00:00:04,170 --> 00:00:07,170
+style multiple blocks together,<br />simplifying content management and
+
+3
+00:00:08,730 --> 00:00:11,730
+design.
+
+4
+00:00:10,890 --> 00:00:13,890
+Learning Outcomes. How to set up a group<br />block and add blocks. How to rename and
+
+5
+00:00:15,480 --> 00:00:18,480
+organize the list view. How to customize<br />the group block using settings and
+
+6
+00:00:19,800 --> 00:00:22,800
+styles option. Find documentation about<br />the group block.
+
+7
+00:00:26,400 --> 00:00:29,400
+Here is an example page that I want to<br />go through first of some options of how
+
+8
+00:00:30,810 --> 00:00:33,810
+to use the group block. So the first<br />one, I use the group block with a
+
+9
+00:00:34,380 --> 00:00:37,380
+background image and a heading. I've<br />also added a border and radius. The
+
+10
+00:00:40,380 --> 00:00:43,380
+second one, I used a group block with an<br />image, heading and paragraph. Also added
+
+11
+00:00:47,970 --> 00:00:50,970
+a border around that. The third one,<br />example is a group block with a heading
+
+12
+00:00:56,550 --> 00:00:59,550
+and a gallery block to create the page.
+
+13
+00:01:00,180 --> 00:01:03,180
+I've opened up a page, and I'm turned on<br />my list view, which is the three slashes
+
+14
+00:01:06,262 --> 00:01:09,262
+over in the upper left hand corner. I<br />like to have my toolbar at the top. So
+
+15
+00:01:11,974 --> 00:01:14,974
+if you'd like to do this, you can click<br />on the three dots in the upper right
+
+16
+00:01:17,686 --> 00:01:20,686
+hand corner and go to top toolbar and<br />turn that on. We're going to add a group
+
+17
+00:01:23,546 --> 00:01:26,546
+block. So I'll type in group with the<br />slash. I'm just going to click on the
+
+18
+00:01:29,184 --> 00:01:32,184
+front the first one option, and then I'm<br />going to go over to my styling tools.
+
+19
+00:01:35,044 --> 00:01:38,044
+I'm going to add my background image,<br />open up my media library, make sure that
+
+20
+00:01:40,904 --> 00:01:43,904
+you've optimized your images before<br />uploading them, and then add alt text
+
+21
+00:01:46,394 --> 00:01:49,394
+for accessibility. Now we're going to go<br />and style our image so we have the group
+
+22
+00:01:52,476 --> 00:01:55,476
+block clicked. I'm going to go up into<br />my tools at the top and go to align, and
+
+23
+00:01:58,411 --> 00:02:01,411
+I'm going to do a full width on the<br />align. Okay, so now I'm going to go back
+
+24
+00:02:04,123 --> 00:02:07,123
+over to the right and go to the styles.<br />I'm going to scroll down to minimum
+
+25
+00:02:09,760 --> 00:02:12,760
+height, and I want to add probably about<br />644 let's try that maybe 645 because I
+
+26
+00:02:15,695 --> 00:02:18,695
+want to be able to get the hands in<br />there. So we'll start there and make
+
+27
+00:02:21,110 --> 00:02:24,110
+sure I click Update. And then another<br />tool that you can use is going back up
+
+28
+00:02:26,822 --> 00:02:29,822
+to the background, where you had the<br />background image, and go to size and
+
+29
+00:02:32,311 --> 00:02:35,311
+open that up. So this gives you the<br />option to take the main focus and adjust
+
+30
+00:02:38,023 --> 00:02:41,023
+that so I can adjust that so that the<br />hands are showing, and click update on
+
+31
+00:02:43,735 --> 00:02:46,735
+that. I'm going to then click on the<br />plus sign within the group block and add
+
+32
+00:02:49,521 --> 00:02:52,521
+a heading. We make this baking. I'm<br />going to click on the tools and go to
+
+33
+00:02:55,010 --> 00:02:58,010
+align text center. So we can't see the<br />the heading text very well. So I'm going
+
+34
+00:03:00,944 --> 00:03:03,944
+to do some styling on that. So I'm going<br />to go over to the styling tools and
+
+35
+00:03:06,656 --> 00:03:09,656
+click on background, and it opens up my<br />my colors, and I'm just going to pick
+
+36
+00:03:12,442 --> 00:03:15,442
+the green from here, and then I need to<br />add some padding. So I'm going to go
+
+37
+00:03:18,154 --> 00:03:21,154
+down to dimensions within the heading<br />block and turn on padding. I'm going to
+
+38
+00:03:23,940 --> 00:03:26,940
+do two clicks front and top and bottom,<br />and two clicks side to side. I'm also
+
+39
+00:03:29,726 --> 00:03:32,726
+going to go back up to the group block<br />do a little bit more styling there,
+
+40
+00:03:35,290 --> 00:03:38,290
+because I want a little bit of space<br />between the heading and the top. So I'm
+
+41
+00:03:41,002 --> 00:03:44,002
+going to go to styles, I'm going to add<br />some padding for the top and bottom so
+
+42
+00:03:46,862 --> 00:03:49,862
+that looks good. And then I'm going to<br />add my border. So I'm going to go down
+
+43
+00:03:52,648 --> 00:03:55,648
+to the border, I'm going to add that<br />same green, and then I'm going to add a
+
+44
+00:03:58,360 --> 00:04:01,360
+little bit of thickness to it. And then<br />I'm also going to use the radius to show
+
+45
+00:04:04,368 --> 00:04:07,368
+you how to use that. So we're just going<br />to click on radius, and I'm going to a
+
+46
+00:04:10,303 --> 00:04:13,303
+radius adds a curve to the corner. So<br />I'm just going to make it very dramatic
+
+47
+00:04:16,089 --> 00:04:19,089
+and go all the way to 100 and we're<br />going to click update, and we'll refresh
+
+48
+00:04:21,801 --> 00:04:24,801
+the page, and there's our first block.
+
+49
+00:04:24,600 --> 00:04:27,600
+For our second example, I'm going to<br />click on the three dots and do an add
+
+50
+00:04:28,890 --> 00:04:31,890
+after. This time, I'm not going to start<br />with a group block, because I want to
+
+51
+00:04:33,720 --> 00:04:36,720
+show you how to group blocks together.<br />So let's start with an image. And we're
+
+52
+00:04:44,820 --> 00:04:47,820
+going to make this one a cookie one, and<br />then I'll add a heading. And I'm going
+
+53
+00:05:01,230 --> 00:05:04,230
+to grab some text from my example, and I<br />use cupcake ipsum. It's a free site that
+
+54
+00:05:09,960 --> 00:05:12,960
+you can get filler text from, and this<br />one is just baking, so it's fun.
+
+55
+00:05:17,070 --> 00:05:20,070
+Alright, so we have our three blocks<br />over here in our list view, and we can
+
+56
+00:05:20,640 --> 00:05:23,640
+click on the first one and then hit<br />Shift and click on the last one. And
+
+57
+00:05:26,340 --> 00:05:29,340
+once we have those highlighted, we're<br />going to click on the three dots and we
+
+58
+00:05:29,580 --> 00:05:32,580
+can scroll down to the group. Okay, so<br />that was simple. Click Update, and then
+
+59
+00:05:36,660 --> 00:05:39,660
+we can go back on those three dots and<br />click rename, and keep our list view
+
+60
+00:05:45,810 --> 00:05:48,810
+organized. Okay, so let's go ahead and<br />stop do some styling of this one. This
+
+61
+00:05:52,110 --> 00:05:55,110
+one, I'm going to do a line to a wide<br />width. Okay, give it a little bit
+
+62
+00:05:56,820 --> 00:05:59,820
+different in the layout. I'm going to<br />turn off this just because I want the
+
+63
+00:06:01,830 --> 00:06:04,830
+text to be able to spread out a little<br />bit more. And we'll see when we get all
+
+64
+00:06:07,440 --> 00:06:10,440
+our styling done on that. I do want to<br />click on the image, because the image is
+
+65
+00:06:11,910 --> 00:06:14,910
+going to be a little bit big. It doesn't<br />auto with the original. So I'm going to
+
+66
+00:06:16,500 --> 00:06:19,500
+put in 568, because I want it a little<br />bit smaller. And then I want to align
+
+67
+00:06:23,220 --> 00:06:26,220
+this to this center. Okay, so we'll<br />click on that, click on the Update
+
+68
+00:06:29,130 --> 00:06:32,130
+button. And then I also want to add, go<br />back up to our group block, and I want
+
+69
+00:06:37,560 --> 00:06:40,560
+to add a border around this so I'm going<br />to click on the colors and open that up
+
+70
+00:06:45,240 --> 00:06:48,240
+and just do a small border there. Click<br />on Update. I'm going to go up and add
+
+71
+00:06:51,750 --> 00:06:54,750
+some padding. So on this one, I want to<br />add about four clicks of padding, and
+
+72
+00:06:56,910 --> 00:06:59,910
+then two on the side. Let's do that. And<br />then also, there's an option for this
+
+73
+00:07:02,700 --> 00:07:05,700
+block spacing. So I want to add a little<br />bit of space in between each of the
+
+74
+00:07:06,510 --> 00:07:09,510
+three blocks that I'm using. So we'll do<br />that. And I think I have everything.
+
+75
+00:07:12,960 --> 00:07:15,960
+Let's look at it on the front end. Click<br />and refresh. I forgot to align the text.
+
+76
+00:07:20,100 --> 00:07:23,100
+So let's go back to the header and we'll<br />align that to the center. There we go.
+
+77
+00:07:31,020 --> 00:07:34,020
+And we're good for that.
+
+78
+00:07:34,110 --> 00:07:37,110
+To add our last group block. I'm going<br />to click on the three dots from the
+
+79
+00:07:38,940 --> 00:07:41,940
+previous group and do an add after I'll<br />type in for a group block. I'll pick the
+
+80
+00:07:49,950 --> 00:07:52,950
+first option. I'm going to add a<br />heading, and I'll style my heading to
+
+81
+00:08:00,060 --> 00:08:03,060
+align text center from the toolbar at<br />the top, and then I would add my gallery
+
+82
+00:08:12,060 --> 00:08:15,060
+here like that, but there is the example<br />has Several different images. So to save
+
+83
+00:08:21,270 --> 00:08:24,270
+time, I'm going to do a quick back, back<br />up. And what I'm going to do is just do
+
+84
+00:08:29,400 --> 00:08:32,400
+a copy and paste instead of adding all<br />of the so I'm going to click on that
+
+85
+00:08:35,010 --> 00:08:38,010
+gallery, go to the three dots, and do a<br />copy so I can add my images quickly. If
+
+86
+00:08:43,050 --> 00:08:46,050
+I open up the gallery block, you see<br />that they're all individual images.
+
+87
+00:08:48,600 --> 00:08:51,600
+Okay, so we're going to go back up to<br />our group block. We would rename it. You
+
+88
+00:08:53,100 --> 00:08:56,100
+guys know how to do that. Now, on this<br />one, I'm going to make it a full width,
+
+89
+00:08:59,550 --> 00:09:02,550
+okay? And the other thing is to on my<br />layout for the group block. For this
+
+90
+00:09:04,410 --> 00:09:07,410
+one, I'm going to turn off this toggle,<br />and this is going to make the images
+
+91
+00:09:10,920 --> 00:09:13,920
+spread out a little bit more. So make<br />sure I click that update, because that's
+
+92
+00:09:14,580 --> 00:09:17,580
+a big update. I'm going to add a<br />background, so I'm going to click on the
+
+93
+00:09:18,300 --> 00:09:21,300
+styling, go to background and click on<br />the brown. I need a little bit of
+
+94
+00:09:23,850 --> 00:09:26,850
+padding here, so I'm going to go down to<br />padding under dimensions and do two
+
+95
+00:09:28,800 --> 00:09:31,800
+clicks on the top and bottom and two<br />clicks on the side. We'll click update
+
+96
+00:09:34,710 --> 00:09:37,710
+on that. Think everything looks good.<br />Fingers crossed everyone. We'll do a
+
+97
+00:09:40,470 --> 00:09:43,470
+refresh, and there we are.
+
+98
+00:09:44,620 --> 00:09:47,620
+See the resource section for the link to<br />documentation about the group block.
+
+99
+00:09:49,000 --> 00:09:52,000
+Have fun exploring all the ways to use<br />the group block. Thank you for watching.
+

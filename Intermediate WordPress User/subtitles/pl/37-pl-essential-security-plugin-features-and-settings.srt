@@ -1,0 +1,200 @@
+1
+00:00:00,001 --> 00:00:09,500
+In this session, we will explore the importance of using a security plugin and better understand specific settings to help you fortify your site.
+
+2
+00:00:09,500 --> 00:00:22,400
+The Plugin Directory contains many plugins worth exploring, such as WordFence, All-in-One Security and Firewall, Jetback, Sucuri, Solid Security, etc.
+
+3
+00:00:22,400 --> 00:00:32,300
+It is important to note that some plugins offer more options or settings than others. Premium packages also unlock additional functionalities.
+
+4
+00:00:32,300 --> 00:00:40,400
+Depending on the plugin you've chosen, here are a few features worth considering. Number one, audits and scans.
+
+5
+00:00:40,400 --> 00:00:48,200
+It is advised to conduct regular security audits or scans to help identify potential vulnerabilities on your website.
+
+6
+00:00:48,200 --> 00:00:55,000
+Using a security plugin makes this process straightforward and manageable, without technical expertise.
+
+7
+00:00:55,000 --> 00:01:10,900
+Most plugins allow you to enable auto scans and regularly scans your WordPress site for security threats and performs automated backups to safeguard your website's data, providing comprehensive protection with easy one-click restores.
+
+8
+00:01:10,900 --> 00:01:21,800
+Manual audits are also important. There's always a chance a security tool misses a malicious file dropped by an attacker or doesn't notice a suspicious user.
+
+9
+00:01:21,800 --> 00:01:27,700
+Secondly, some plugins allow you to enable a web application firewall.
+
+10
+00:01:27,700 --> 00:01:35,700
+A web application firewall adds an extra layer of security by monitoring and filtering incoming traffic to your website.
+
+11
+00:01:35,700 --> 00:01:44,600
+It is like having a security guard for your website. It stands between your site and the internet, checking all the data that comes in and goes out.
+
+12
+00:01:44,600 --> 00:01:49,600
+If it sees anything suspicious, it blocks it to keep your site safe.
+
+13
+00:01:49,600 --> 00:01:53,800
+The next option worth setting up is IP address detection.
+
+14
+00:01:53,800 --> 00:02:00,000
+IP address detection helps the plugin identify the IP addresses or visitors to your website.
+
+15
+00:02:00,000 --> 00:02:08,400
+This is crucial for security features like blocking malicious users or limiting login attempts from specific IP addresses.
+
+16
+00:02:08,400 --> 00:02:16,300
+If the plugin can't correctly detect IP addresses, it may not properly block harmful traffic or limit access we needed.
+
+17
+00:02:16,300 --> 00:02:26,600
+By correctly detecting IP addresses, security tools can enforce access restrictions, block suspicious activity and safeguard the website's integrity.
+
+18
+00:02:26,600 --> 00:02:31,200
+You can usually enter a list of IP addresses that should not be locked out.
+
+19
+00:02:31,200 --> 00:02:36,200
+WordFence for example provides several options for detecting IP addresses.
+
+20
+00:02:36,200 --> 00:02:39,800
+The first option is the default recommended option.
+
+21
+00:02:39,800 --> 00:02:45,200
+The second option is to use PHP's built-in remote ADDR.
+
+22
+00:02:45,200 --> 00:02:54,400
+Remote ADDR is a server variable that tells you the IP address of the computer or device that is accessing your website.
+
+23
+00:02:54,400 --> 00:03:03,000
+If we look at a different plugin, we'll see using remote ADDR is the default option for the All-in-One Security and Firewall plugin,
+
+24
+00:03:03,000 --> 00:03:10,000
+which is below Advanced settings and very secure, but it must be set up correctly to work.
+
+25
+00:03:10,000 --> 00:03:14,800
+IP address detection always requires proper server configuration
+
+26
+00:03:14,800 --> 00:03:20,100
+otherwise IP addresses can easily be spoofed or disguised.
+
+27
+00:03:20,100 --> 00:03:31,300
+If you are behind any sort of proxy, for example a load balancer, the reliability of this method may be compromised as the PHP code cannot ascertain the server's configuration.
+
+28
+00:03:31,300 --> 00:03:40,700
+An important step when setting up IP address detection is therefore proper server configuration, which needs hosting provider intervention.
+
+29
+00:03:40,700 --> 00:03:49,500
+Ensure you contact your hosting provider to understand how your server is configured so that you can select the correct IP detection method.
+
+30
+00:03:49,500 --> 00:03:54,900
+Next, some plugins also allow you to secure your WordPress configuration file.
+
+31
+00:03:54,900 --> 00:04:06,300
+The wp-config.php file contains sensitive information such as database credentials, security keys and other configuration parameters.
+
+32
+00:04:06,300 --> 00:04:12,300
+Securing this file can prevent unauthorized access and potential exploitation.
+
+33
+00:04:12,300 --> 00:04:20,300
+When using the All-in-One Security plugin for example, you can set the recommended permissions when selecting File Security.
+
+34
+00:04:20,300 --> 00:04:25,500
+Additionally, enabling brute force protection on your WordPress site is crucial.
+
+35
+00:04:25,500 --> 00:04:36,900
+Brute force attacks are common methods hackers use to gain unauthorized access to your website by repeatedly trying different username and password combinations until they find the correct one.
+
+36
+00:04:36,900 --> 00:04:51,300
+Brute force protection stops unauthorized users from accessing your site by limiting login attempts, blocking suspicious IP addresses and verifying that real people are logging in through captcha challenges.
+
+37
+00:04:51,300 --> 00:04:57,100
+The settings for brute force attack protection may of course vary between security plugins.
+
+38
+00:04:57,100 --> 00:05:04,300
+Lastly, setting up two-factor authentication to protect your site from brute force attacks is also advised.
+
+39
+00:05:04,300 --> 00:05:12,700
+In addition to robust password management, enabling two-factor authentication is crucial for enhancing the security of your WordPress site.
+
+40
+00:05:12,700 --> 00:05:27,300
+Two-factor authentication adds a layer of protection to your login process by requiring your password and a second verification form, such as a unique code sent to your mobile device or generated by an authentication app.
+
+41
+00:05:27,300 --> 00:05:34,500
+This additional step significantly reduces the risk of unauthorized access, even if your password is compromised.
+
+42
+00:05:34,500 --> 00:05:43,700
+Many security plugins, including Wordfence and All-in-One WordPress Security and Firewall, offer built-in support for two-factor authentication.
+
+43
+00:05:43,700 --> 00:05:51,000
+Finally, it is also worth mentioning that good security should always be backed by a good backup strategy.
+
+44
+00:05:51,000 --> 00:05:57,300
+In the event of an incident, this allows you to quickly recover and restore your data from backups.
+
+45
+00:05:57,300 --> 00:06:01,500
+And get an SSL certificate if you don't have one.
+
+46
+00:06:01,500 --> 00:06:12,400
+An SSL certificate, which stands for Secure Sockets Layer, secures your website by encrypting data between your site and visitors, protecting sensitive information from hackers.
+
+47
+00:06:12,400 --> 00:06:25,300
+It also makes your site more trustworthy and can improve search engine rankings. You can buy an SSL certificate from a provider or use a free service like Let's Encrypt.
+
+48
+00:06:25,300 --> 00:06:31,400
+Many web hosts automatically provide and install SSL certificates as part of their packages.
+
+49
+00:06:31,400 --> 00:06:38,000
+So check with your host to enable it with just a few clicks in your hosting dashboard, if not activated.
+
+50
+00:06:38,000 --> 00:06:46,000
+Implementing all these security measures we discussed can significantly enhance the protection of your site against more sophisticated threats.
+

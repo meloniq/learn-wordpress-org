@@ -1,0 +1,372 @@
+1
+00:00:00,001 --> 00:00:03,001
+Website Optimization
+
+2
+00:00:02,560 --> 00:00:05,560
+Numerous research and case studies have shown that the longer a site takes to respond,
+
+3
+00:00:07,360 --> 00:00:10,360
+the more visitors will abandon it.
+
+4
+00:00:09,600 --> 00:00:12,600
+No matter your site's focus, providing the best experience for your visitors is the main goal,
+
+5
+00:00:15,040 --> 00:00:18,040
+so optimizing it for speed is critical.
+
+6
+00:00:18,080 --> 00:00:21,080
+In this lesson, you will learn what website optimization means,
+
+7
+00:00:22,160 --> 00:00:25,160
+which elements can impact performance, how to test your site's speed, and how to improve it.
+
+8
+00:00:28,320 --> 00:00:31,320
+Web performance pertains to the user experience of low time and runtime.
+
+9
+00:00:34,160 --> 00:00:37,160
+As a practice, web performance involves measurable factors,
+
+10
+00:00:38,320 --> 00:00:41,320
+such as a page's loading time and the time it takes to become interactive,
+
+11
+00:00:43,120 --> 00:00:46,120
+as well as the user's perception of how long it took.
+
+12
+00:00:47,520 --> 00:00:50,520
+What affects performance?
+
+13
+00:00:50,000 --> 00:00:53,000
+Multiple components determine a site's speed,
+
+14
+00:00:52,960 --> 00:00:55,960
+software, network conditions, hardware, each calculated by standard metric.
+
+15
+00:00:59,520 --> 00:01:02,520
+The way to achieve high performance scores is to optimize each of these moving parts.
+
+16
+00:01:05,040 --> 00:01:08,040
+Let's start with software, which covers code and content.
+
+17
+00:01:09,920 --> 00:01:12,920
+WordPress themes define the pages' content structure.
+
+18
+00:01:13,840 --> 00:01:16,840
+Some design elements, like colors, have no effect on performance,
+
+19
+00:01:16,960 --> 00:01:19,960
+whereas others, from fonts and graphic assets to carousels and pop-ups,
+
+20
+00:01:22,640 --> 00:01:25,640
+could tank your site's speed.
+
+21
+00:01:24,720 --> 00:01:27,720
+Selecting newer, more performant file formats is a good practice when dealing with media and fonts.
+
+22
+00:01:31,200 --> 00:01:34,200
+Images especially play a key role in website optimization.
+
+23
+00:01:35,920 --> 00:01:38,920
+We will thoroughly cover the topic in another lesson dedicated to image optimization strategies.
+
+24
+00:01:42,720 --> 00:01:45,720
+While minimizing the number of assets is useful,
+
+25
+00:01:46,160 --> 00:01:49,160
+how they are loaded is just as important.
+
+26
+00:01:48,880 --> 00:01:51,880
+From this perspective, a well-coded theme makes all the difference.
+
+27
+00:01:53,040 --> 00:01:56,040
+Themes and plugins.
+
+28
+00:01:56,240 --> 00:01:59,240
+Bloated themes that load too many assets are among the biggest culprits of poor performance scores.
+
+29
+00:02:01,600 --> 00:02:04,600
+Similarly, the quality of the plugins you use influences how fast your site will perform,
+
+30
+00:02:07,680 --> 00:02:10,680
+both objectively and perceivably.
+
+31
+00:02:10,640 --> 00:02:13,640
+Plugins that perform excessive requests to external services,
+
+32
+00:02:15,840 --> 00:02:18,840
+load multiple assets and constantly perform database queries will bog down even the best
+
+33
+00:02:21,600 --> 00:02:24,600
+configured server. Embedded content and third-party elements.
+
+34
+00:02:26,000 --> 00:02:29,000
+Ads, analytics, social media widgets, alternative comments plugins,
+
+35
+00:02:32,320 --> 00:02:35,320
+and externally hosted assets delay loading, slow down response times,
+
+36
+00:02:36,960 --> 00:02:39,960
+hog bandwidth and may trigger higher bounce rates.
+
+37
+00:02:40,400 --> 00:02:43,400
+Think twice before adding it into your site and be vigilant about the performance cost.
+
+38
+00:02:46,640 --> 00:02:49,640
+How performance is measured?
+
+39
+00:02:48,240 --> 00:02:51,240
+You can measure performance in two ways.
+
+40
+00:02:51,760 --> 00:02:54,760
+Synthetic and real user monitoring or RUM.
+
+41
+00:02:55,280 --> 00:02:58,280
+Both happens in the browser, but synthetic means running tests in the lab,
+
+42
+00:03:01,280 --> 00:03:04,280
+under predefined conditions and preset variables.
+
+43
+00:03:04,080 --> 00:03:07,080
+While RUM or RUM renders findings generated in the field, collecting data from actual site
+
+44
+00:03:12,320 --> 00:03:15,320
+visitors. In either case, the tests would likely be based on a set of three metrics,
+
+45
+00:03:18,480 --> 00:03:21,480
+outlined by Google and adopted across the industry as quality signals that are essential
+
+46
+00:03:24,240 --> 00:03:27,240
+to delivering a great user experience on the web. They are known as core web vitals.
+
+47
+00:03:30,720 --> 00:03:33,720
+So number one, LCP or largest contentful paint measures when the largest element on the page
+
+48
+00:03:38,000 --> 00:03:41,000
+becomes visible. Number two, CLS or cumulative layout shift, measures how much the elements on the page
+
+49
+00:03:46,400 --> 00:03:49,400
+shift while the page is loading. And number three, INP, Interaction to Next Paint.
+
+50
+00:03:53,440 --> 00:03:56,440
+A new addition to the list that measures how long it takes for the page to respond to user
+
+51
+00:03:59,280 --> 00:04:02,280
+interactions. For example, clicks, taps and keyboard inputs.
+
+52
+00:04:04,640 --> 00:04:07,640
+How to test your site? Testing helps you identify performance bottlenecks.
+
+53
+00:04:09,600 --> 00:04:12,600
+You can do that using various tools, including page speed insights and web page test.
+
+54
+00:04:15,760 --> 00:04:18,760
+Maintained by Google, PageSpeed Insights presents synthetic results alongside the company's
+
+55
+00:04:21,840 --> 00:04:24,840
+version of RUM, the Chrome User Experience Report or CRUX. It will test the page on mobile and
+
+56
+00:04:28,880 --> 00:04:31,880
+desktop devices and provides suggestions for improvements. Web Page Test is a more elaborate
+
+57
+00:04:35,840 --> 00:04:38,840
+testing platform. It adds a bunch of helpful features on top of Google's metrics, including
+
+58
+00:04:41,680 --> 00:04:44,680
+an environmental impact report, image analysis, a detailed breakdown of optimization opportunities
+
+59
+00:04:48,560 --> 00:04:51,560
+and an option to select different locations, browsers and connection speeds.
+
+60
+00:04:54,000 --> 00:04:57,000
+Running Web Page Test for the first time might be daunting, but it's an invaluable tool for
+
+61
+00:04:59,520 --> 00:05:02,520
+testing and analyzing your site's overall performance. When testing, you'll encounter
+
+62
+00:05:05,120 --> 00:05:08,120
+other software-driven metrics, including First Contentful Paint or FCP, when the browser displays
+
+63
+00:05:11,920 --> 00:05:14,920
+the first bit of content, and then secondly, Total Blocking Time or TBT. The time elapsed
+
+64
+00:05:19,120 --> 00:05:22,120
+after FCP and before visitors can interact with the site. These are influenced by a
+
+65
+00:05:25,280 --> 00:05:28,280
+combination of loading too many assets and elements and failing to do so properly.
+
+66
+00:05:29,840 --> 00:05:32,840
+Performance Lab is a community plugin developed by the WordPress Performance Team
+
+67
+00:05:36,000 --> 00:05:39,000
+that might be able to mitigate some of these problems. This plugin combines six standalone
+
+68
+00:05:41,920 --> 00:05:44,920
+plugins, each designated to tackle a specific performance feature using the latest browser
+
+69
+00:05:47,680 --> 00:05:50,680
+technology. Once activated, the plugin automatically begins optimizing your site.
+
+70
+00:05:53,680 --> 00:05:56,680
+There is no need for manual configuration or adjustments.
+
+71
+00:05:56,800 --> 00:05:59,800
+The Importance of Hosting. The other factors affecting your site's speed are network infrastructure,
+
+72
+00:06:04,960 --> 00:06:07,960
+server hardware and database operations. The metric that covers these is the Time to First
+
+73
+00:06:11,760 --> 00:06:14,760
+Bite or TTFB, which measures the time it takes until the browser receives the first byte.
+
+74
+00:06:18,320 --> 00:06:21,320
+This depends on the connection time of the visitor and the server.
+
+75
+00:06:22,320 --> 00:06:25,320
+The faster the connection is established, the faster the bytes are sent, and the faster your site
+
+76
+00:06:28,560 --> 00:06:31,560
+will load. Several factors determine the resource delivery speed, including geographical location,
+
+77
+00:06:35,520 --> 00:06:38,520
+network conditions, hardware configuration and back-end processes. In other words,
+
+78
+00:06:41,280 --> 00:06:44,280
+Hosting matters. As slow server response times can result from network or hardware issues,
+
+79
+00:06:47,280 --> 00:06:50,280
+CPU, memory and storage speed, it's worth carefully considering every aspect of your hosting solution,
+
+80
+00:06:54,000 --> 00:06:57,000
+not just the price listed. Finally, Plugins. Performance plugins won't be able to reduce
+
+81
+00:07:00,480 --> 00:07:03,480
+CPU load time on the server or update back-end software, but they can take care of things like
+
+82
+00:07:06,400 --> 00:07:09,400
+CDNs, caching, compression, modification, database optimization and sometimes even security.
+
+83
+00:07:15,200 --> 00:07:18,200
+So even when opting for more affordable shared hosting, it's a good idea to offset common
+
+84
+00:07:21,200 --> 00:07:24,200
+challenges with the help of a trusted plugin that lets you use a CDN to minimize the client's
+
+85
+00:07:27,360 --> 00:07:30,360
+server round trip times, apply caching to reduce the number of requests, and enable compression
+
+86
+00:07:34,480 --> 00:07:37,480
+and modification to send the smallest amount of data.
+
+87
+00:07:37,360 --> 00:07:40,360
+The WordPress Pplugin Directory features hundreds of performance and optimization plugins.
+
+88
+00:07:43,760 --> 00:07:46,760
+Here are a few popular solutions. WP Optimize,
+
+89
+00:07:48,080 --> 00:07:51,080
+W3 Total Cache, WP Super Cache, Jetback Boost and even Light Speed Cache.
+
+90
+00:07:56,560 --> 00:07:59,560
+WordPress contributors have been working hard on improving speed and performance. Some features
+
+91
+00:08:03,280 --> 00:08:06,280
+are included in Core, but others require users and developers to enable them.
+
+92
+00:08:07,840 --> 00:08:10,840
+Make sure you're using the latest version of WordPress to benefit from the latest performance
+
+93
+00:08:13,120 --> 00:08:16,120
+boosting techniques.
+

@@ -1,0 +1,200 @@
+1
+00:00:00,000 --> 00:00:03,000
+Join me as you explore the Media Library and ways to organize all your media.
+
+2
+00:00:06,040 --> 00:00:09,040
+You can add various types of media to your library, from photos, screenshots, audio,
+
+3
+00:00:11,440 --> 00:00:14,440
+PDF documents, spreadsheets, PowerPoint presentations and more.
+
+4
+00:00:16,740 --> 00:00:19,740
+If you have a lot of media in your library, it might start feeling a bit disorganized
+
+5
+00:00:20,480 --> 00:00:23,480
+or intimidating to manage all your media.
+
+6
+00:00:23,360 --> 00:00:26,360
+You may be asking, isn't there a way to categorize your media?
+
+7
+00:00:27,400 --> 00:00:30,400
+Well the answer is yes, we are going to use a plugin to achieve this goal.
+
+8
+00:00:33,040 --> 00:00:36,040
+Let's make our way to Plugins and click on Add New.
+
+9
+00:00:38,880 --> 00:00:41,880
+I'm going to type "Media plugin organizer" in the search box and within a second or two
+
+10
+00:00:44,000 --> 00:00:47,000
+we will be able to choose from a variety of options.
+
+11
+00:00:48,600 --> 00:00:51,600
+I will be selecting an open source plugin called Media Library Organizer.
+
+12
+00:00:52,920 --> 00:00:55,920
+Media Library Organizer doesn't replace the look and feel of the Media Library, instead
+
+13
+00:00:57,960 --> 00:01:00,960
+it will enhance the WordPress user interface, adding key features needed for mass organization
+
+14
+00:01:03,840 --> 00:01:06,840
+as well as searching and filtering of media.
+
+15
+00:01:07,680 --> 00:01:10,680
+There are many other plugins to choose from in the Plugin Directory, for example, number
+
+16
+00:01:11,880 --> 00:01:14,880
+one WordPress Real Media Library, number two FileBird or number three Wicked Folders.
+
+17
+00:01:20,680 --> 00:01:23,680
+Let's go ahead and install the Media Library Organizer plugin and always remember to click
+
+18
+00:01:26,760 --> 00:01:29,760
+Activate.
+
+19
+00:01:30,080 --> 00:01:33,080
+When I return to the Media Library, you will see we now have a new left sidebar called
+
+20
+00:01:35,280 --> 00:01:38,280
+Media Categories and you have three options to add, edit and delete.
+
+21
+00:01:41,480 --> 00:01:44,480
+Due to the fact that I haven't created any categories, I only have the option to add
+
+22
+00:01:45,760 --> 00:01:48,760
+new categories and subcategories.
+
+23
+00:01:48,400 --> 00:01:51,400
+I'm going to go ahead and create a new category and name it Traveling.
+
+24
+00:01:54,880 --> 00:01:57,880
+Then I will click on Bulk Select and choose the appropriate images.
+
+25
+00:02:03,360 --> 00:02:06,360
+And once I've done that, I'm going to drag and drop them to the new category.
+
+26
+00:02:08,840 --> 00:02:11,840
+The second category that I want to create is going to be called Nature and once I've
+
+27
+00:02:13,200 --> 00:02:16,200
+created the folder, I will once again click on Bulk Select and then choose all the relevant
+
+28
+00:02:19,400 --> 00:02:22,400
+images I want to add to this category.
+
+29
+00:02:25,000 --> 00:02:28,000
+And once I've finished selecting all the media, I will drag and drop them to their new category
+
+30
+00:02:29,720 --> 00:02:32,720
+called Nature.
+
+31
+00:02:33,640 --> 00:02:36,640
+The third category I want to create is going to be called Lifestyle.
+
+32
+00:02:39,040 --> 00:02:42,040
+Now I will click on the category to add subcategories.
+
+33
+00:02:42,760 --> 00:02:45,760
+I will right click on my mouse, select Add Child and name my subcategories.
+
+34
+00:02:48,600 --> 00:02:51,600
+The first one is going to be called Exercise and the second one, Recipes.
+
+35
+00:03:07,000 --> 00:03:10,000
+Once I've done that, I will click on Bulk Select, choose the exercise images and drag
+
+36
+00:03:11,560 --> 00:03:14,560
+and drop them to their new category.
+
+37
+00:03:21,520 --> 00:03:24,520
+Lastly I want to create three more subcategories within Recipes.
+
+38
+00:03:25,320 --> 00:03:28,320
+The first category is going to be called Vegetarian, the second one Meat and the last one Breakfast.
+
+39
+00:03:38,680 --> 00:03:41,680
+Once I've created the subcategories, I will choose Bulk Select and drag and drop the
+
+40
+00:03:43,080 --> 00:03:46,080
+images to their respective categories.
+
+41
+00:03:45,840 --> 00:03:48,840
+So first breakfast, then my vegetarian options and then a meat dish.
+
+42
+00:03:58,080 --> 00:04:01,080
+And now you will see all the images in their categories.
+
+43
+00:04:04,760 --> 00:04:07,760
+The display of categories we see here is called tree view and is used for easy searching,
+
+44
+00:04:10,800 --> 00:04:13,800
+filtering and bulk categorization.
+
+45
+00:04:14,120 --> 00:04:17,120
+If you click on Unassigned, you will be able to view all the images or files that have
+
+46
+00:04:18,680 --> 00:04:21,680
+not yet been categorized.
+
+47
+00:04:23,200 --> 00:04:26,200
+If you right click on a category and decide to delete it, the images or files will merely
+
+48
+00:04:27,720 --> 00:04:30,720
+return to being unassigned.
+
+49
+00:04:31,640 --> 00:04:34,640
+As you have seen, using a media manager plugin can help you organize and feel more in control
+
+50
+00:04:37,320 --> 00:04:40,320
+of your site's media.
+

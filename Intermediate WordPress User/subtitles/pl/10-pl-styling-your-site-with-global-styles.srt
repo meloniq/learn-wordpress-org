@@ -1,0 +1,616 @@
+1
+00:00:01,650 --> 00:00:04,650
+Unknown: Styling your site with global<br />styles. Learning Outcome, change global
+
+2
+00:00:08,382 --> 00:00:11,382
+styles to reflect your own brand. Change<br />typography, colors layout, using the
+
+3
+00:00:15,883 --> 00:00:18,883
+font library feature, how to apply a<br />color palette change to an accent color,
+
+4
+00:00:23,385 --> 00:00:26,385
+change the global style of blocks<br />example of quote block. A couple of
+
+5
+00:00:30,117 --> 00:00:33,117
+resources to think about beforehand is<br />font pairing. A good design principle is
+
+6
+00:00:37,811 --> 00:00:40,811
+to pick a one style of font for your<br />heading and a different font style for
+
+7
+00:00:45,120 --> 00:00:48,120
+your text. Here's an article from Google<br />Fonts. Another resource is the font pair
+
+8
+00:00:53,006 --> 00:00:56,006
+website FONTPAIR. Within their pairings<br />tab, they've paired together fonts that
+
+9
+00:01:00,700 --> 00:01:03,700
+work well. Color Palettes is another<br />thing to think about before designing.
+
+10
+00:01:08,010 --> 00:01:11,010
+Here are two resources that have free<br />access Coolors has a trending color
+
+11
+00:01:15,126 --> 00:01:18,126
+palette, which will give you the hex<br />code number, which is always good to jot
+
+12
+00:01:22,628 --> 00:01:25,628
+down so that you have those colors.<br />Canva also has a color palette that's
+
+13
+00:01:29,745 --> 00:01:32,745
+free. We're gonna go to our dashboard<br />now. And we'll look at our site toolbar
+
+14
+00:01:37,246 --> 00:01:40,246
+on the left, and go down to Appearance<br />and over to editor and click on that.
+
+15
+00:01:44,652 --> 00:01:47,652
+We'll go in under design, and go to<br />styles. Click on that. And within the
+
+16
+00:01:51,769 --> 00:01:54,769
+style Styles menu, you will see an icon<br />which is the style book and we'll talk
+
+17
+00:01:59,366 --> 00:02:02,366
+about that in a later lesson. And the<br />pencil icon which when I hover over says
+
+18
+00:02:06,964 --> 00:02:09,964
+Edit style. So we'll click on that.<br />We're going to look at browse styles now.
+
+19
+00:02:20,340 --> 00:02:23,340
+I opened up my right menu at the upper<br />right hand corner is a halfmoon. And I
+
+20
+00:02:27,547 --> 00:02:30,547
+hover over in that that says styles. So<br />I'm going to go down to browse styles.
+
+21
+00:02:34,846 --> 00:02:37,846
+The 2024 theme comes with eight<br />variations. The variations include
+
+22
+00:02:41,037 --> 00:02:44,037
+different color and font combinations.<br />When I click on one of the variations, I
+
+23
+00:02:48,429 --> 00:02:51,429
+can see instantly how the different<br />blocks will look on my site. I'm going
+
+24
+00:02:55,359 --> 00:02:58,359
+to stick with the default theme. And<br />we'll look at maybe changing a couple of
+
+25
+00:03:02,567 --> 00:03:05,567
+the colors to better represent my color<br />palette. Then go back out to the Style
+
+26
+00:03:09,866 --> 00:03:12,866
+section. Typography. So we're going to<br />look at our typography section. This
+
+27
+00:03:16,889 --> 00:03:19,889
+section manages the settings for font<br />families size appearance, from text to
+
+28
+00:03:24,004 --> 00:03:27,004
+links to buttons. A good rule of design<br />is to have, like I said before one font
+
+29
+00:03:31,396 --> 00:03:34,396
+family for headings and a different plug<br />compatible font family for the text. A
+
+30
+00:03:38,788 --> 00:03:41,788
+new feature is our presets, we can look<br />at the different font combinations. And
+
+31
+00:03:46,180 --> 00:03:49,180
+if we wanted to change those, even<br />though I'm in the default theme, I can
+
+32
+00:03:53,018 --> 00:03:56,018
+still change the fonts, how I would<br />like. The fonts that come with the theme
+
+33
+00:04:00,133 --> 00:04:03,133
+are listed here. And you see that I have<br />different combinations variants. So that
+
+34
+00:04:07,709 --> 00:04:10,709
+means I have to wear variations of this<br />one and two variations of this one. A
+
+35
+00:04:14,917 --> 00:04:17,917
+new feature is to manage your fonts. And<br />if you hover over this icon, I'm going
+
+36
+00:04:22,309 --> 00:04:25,309
+to open up the font library. So the<br />theme fonts are listed. Like I said, I
+
+37
+00:04:29,239 --> 00:04:32,239
+also have the option to upload or<br />install fonts. So let's look at install
+
+38
+00:04:36,076 --> 00:04:39,076
+fonts first, and we're going to connect<br />to Google fonts. So we need to allow
+
+39
+00:04:43,191 --> 00:04:46,191
+access to our to the Google fonts and we<br />can scroll through and there are 390
+
+40
+00:04:50,399 --> 00:04:53,399
+pages as of this recording, so there's a<br />lot to choose from. So I had done a
+
+41
+00:04:57,514 --> 00:05:00,514
+little bit of research. And so I know<br />that I like this one particular, Open
+
+42
+00:05:04,536 --> 00:05:07,536
+Sans. So I'm gonna click on that. Now<br />the Open Sans, I'm gonna use for my main
+
+43
+00:05:11,836 --> 00:05:14,836
+text. So I don't need follow these. And<br />so I'm planning ahead that I need a, at
+
+44
+00:05:19,228 --> 00:05:22,228
+least a normal, and I like it a little<br />bit darker than the 300 normal. So I'm
+
+45
+00:05:26,435 --> 00:05:29,435
+going to pick the 400, I'd like to be<br />able to make some words a little bit
+
+46
+00:05:33,365 --> 00:05:36,365
+bold. So I'm going to pick the 700. I'm<br />also going to pick an italic, again, the
+
+47
+00:05:40,850 --> 00:05:43,850
+400 and a bold with that, so I have four<br />of those. So I'm going to hit click
+
+48
+00:05:47,964 --> 00:05:50,964
+Install button at the bottom. And if I<br />scroll back up, it says that it was
+
+49
+00:05:54,894 --> 00:05:57,894
+successful. So when I go back to the<br />library tab, I see that install fonts, I
+
+50
+00:06:02,102 --> 00:06:05,102
+have my font there, and I have the four<br />variants active. The other way to upload
+
+51
+00:06:09,586 --> 00:06:12,586
+is to upload. So I'm going to click on<br />Upload. And just to remember that upload
+
+52
+00:06:16,978 --> 00:06:19,978
+fonts appear and can be used, it needs<br />to be support, you need to use a
+
+53
+00:06:23,631 --> 00:06:26,631
+supportive format of a TTF, OTF, WOFF or<br />a WOFF two format. So in the middle is
+
+54
+00:06:31,023 --> 00:06:34,023
+the word upload font, I'm going to click<br />on that. And I already have a folder of
+
+55
+00:06:38,508 --> 00:06:41,508
+a font that I like, I'm going to open<br />that font. And again, I don't need all
+
+56
+00:06:45,623 --> 00:06:48,623
+of them. But this is going to be the<br />font for my headings. So I definitely
+
+57
+00:06:52,553 --> 00:06:55,553
+want to have a regular and I don't need<br />any light. I'm definitely would like a
+
+58
+00:06:59,852 --> 00:07:02,852
+bold, because my headings I'd like to<br />make bold. So I think I'm going to just
+
+59
+00:07:07,060 --> 00:07:10,060
+stick with that because I don't want to<br />do any italic headings and stuff like
+
+60
+00:07:14,267 --> 00:07:17,267
+that. So, again, I'm planning ahead of<br />time, but is that beneficial for these
+
+61
+00:07:21,474 --> 00:07:24,474
+steps. So the font was successful, I'm<br />going to go back to my library, and I
+
+62
+00:07:28,589 --> 00:07:31,589
+see that that font is available now. So<br />I can close this up. And if I look over
+
+63
+00:07:35,981 --> 00:07:38,981
+on my right menu, I see that I have<br />those two options available for me too.
+
+64
+00:07:43,004 --> 00:07:46,004
+The other section down here is the<br />elements. So I can go in and on a global
+
+65
+00:07:50,026 --> 00:07:53,026
+level, change all of my text. So now<br />that I've added these two new fonts, I'm
+
+66
+00:07:57,233 --> 00:08:00,233
+going to go into text. And I want to<br />change it to the Open Sans. Okay. And
+
+67
+00:08:04,163 --> 00:08:07,163
+then I want to keep it regular. Okay. So<br />we're good with that, we're going to
+
+68
+00:08:11,371 --> 00:08:14,371
+click Save. And it's going to save that,<br />and I'm going to click back out and go
+
+69
+00:08:18,763 --> 00:08:21,763
+into my headings. And so now the<br />headings have different so I could do
+
+70
+00:08:25,323 --> 00:08:28,323
+all of my headings, the same font<br />family, okay. But remember that we have
+
+71
+00:08:32,161 --> 00:08:35,161
+one h one per page, and then we have to<br />do our structural formatting, then the
+
+72
+00:08:39,461 --> 00:08:42,461
+next one would be an h two. And then we<br />would go into h threes, and so on. So
+
+73
+00:08:46,668 --> 00:08:49,668
+you see that there are different sizes<br />of the font. So I probably want to kind
+
+74
+00:08:53,968 --> 00:08:56,968
+of go through and style each of the<br />font, double check the sizing of that is
+
+75
+00:09:01,082 --> 00:09:04,082
+the default sizing isn't what I would<br />like if I would like maybe the H threes
+
+76
+00:09:08,290 --> 00:09:11,290
+to be a little bit bigger font, I can do<br />that here. So let's look at this. We
+
+77
+00:09:15,497 --> 00:09:18,497
+want to change our font family to<br />Bellota and I want to make it the bold
+
+78
+00:09:22,242 --> 00:09:25,242
+Okay, and I'm gonna go a little bit<br />bigger than extra large because the font
+
+79
+00:09:29,357 --> 00:09:32,357
+family is on the smaller sites. I'm<br />going to click on this we're using rems
+
+80
+00:09:36,380 --> 00:09:39,380
+Rem is just an easier to when you when<br />it goes down to mobile, that it sizes a
+
+81
+00:09:43,679 --> 00:09:46,679
+little bit better. So let's go to a 4.5.<br />So you can see the difference up in this
+
+82
+00:09:51,256 --> 00:09:54,256
+little window at the top. I'm not seeing<br />any change over here. It might be just a
+
+83
+00:09:58,833 --> 00:10:01,833
+little bug within there, so I'm going to<br />click on that and save it and save
+
+84
+00:10:05,855 --> 00:10:08,855
+again. And then I can go to, like I<br />said, the h two is okay.
+
+85
+00:10:15,299 --> 00:10:18,299
+And we can go to the all? And I need to<br />make sure that well, no, yeah, no, yeah,
+
+86
+00:10:23,581 --> 00:10:26,581
+let's just see, you can always change<br />your design in the middle, right? The h
+
+87
+00:10:31,556 --> 00:10:34,556
+two, I'm going to keep in the Bellota.<br />And then like that side, so I'm gonna
+
+88
+00:10:39,430 --> 00:10:42,430
+say that, let me go back. Because I<br />don't want all the font to be, can I
+
+89
+00:10:46,894 --> 00:10:49,894
+just realize that I wouldn't want the H<br />threes to be the fancier font. So the H
+
+90
+00:10:55,074 --> 00:10:58,074
+threes, we're going to just make as the<br />Open Sans. But I do want to make it a
+
+91
+00:11:03,050 --> 00:11:06,050
+little bit bigger. Okay, so I'm gonna do<br />that. And let's just look at our front
+
+92
+00:11:11,230 --> 00:11:14,230
+end to see what happens there. So we've<br />changed that to the bold that too, and
+
+93
+00:11:19,308 --> 00:11:22,308
+that is staying. So things to play with<br />on that. So I'm going to click back out
+
+94
+00:11:27,488 --> 00:11:30,488
+of typography.
+
+95
+00:11:28,920 --> 00:11:31,920
+The next section is colors. So our color<br />section takes care of kind of fine
+
+96
+00:11:35,644 --> 00:11:38,644
+tuning our color palettes that we<br />picked. Remember that I picked the
+
+97
+00:11:41,750 --> 00:11:44,750
+default, and the default palette has 10<br />colors. Now if I've gotten this far, and
+
+98
+00:11:48,917 --> 00:11:51,917
+I might want to change to one of the<br />other ones, or just at least see how it
+
+99
+00:11:55,730 --> 00:11:58,730
+is. I do have access to it right above.<br />So if I click on the 10 colors of the
+
+100
+00:12:02,632 --> 00:12:05,632
+color palette, we have the palette, we<br />have our solid and we have our gradient,
+
+101
+00:12:09,711 --> 00:12:12,711
+my focus just more on the solid right<br />now. And like I said, there was one
+
+102
+00:12:16,259 --> 00:12:19,259
+color this orange that I probably will<br />not use, but I did want to kind of
+
+103
+00:12:22,807 --> 00:12:25,807
+change that. So I can go into themes and<br />the three dots over here. Click and it
+
+104
+00:12:29,886 --> 00:12:32,886
+says Show Details. Okay. So the close up<br />is going to show after I've changed the
+
+105
+00:12:37,053 --> 00:12:40,053
+color. So the reset colors will appear<br />in that, as of right now where I'm at on
+
+106
+00:12:44,132 --> 00:12:47,132
+here, it just shows the show details. So<br />I'm going to click on Show Details. And
+
+107
+00:12:51,299 --> 00:12:54,299
+what's nice is that it shows the names<br />of the different colors. And so I want
+
+108
+00:12:58,201 --> 00:13:01,201
+to focus in on accent number three. So<br />if I click on that, I can go ahead and
+
+109
+00:13:05,103 --> 00:13:08,103
+change the color. I'm gonna change it to<br />more of a bright red, a deeper red.
+
+110
+00:13:11,916 --> 00:13:14,916
+Okay, so I found that I'm happy with<br />that it's changed. And then I have to
+
+111
+00:13:18,552 --> 00:13:21,552
+make sure I hit done. And then hit save.<br />Okay, so on doing the color setting,
+
+112
+00:13:25,454 --> 00:13:28,454
+it's nice to kind of just double check<br />to make sure what you have changed. So
+
+113
+00:13:32,356 --> 00:13:35,356
+don't just keep looking. Alright, so I<br />can also add a custom color if I wanted
+
+114
+00:13:39,346 --> 00:13:42,346
+to add more colors within here. So now<br />that we go back out to from our palette,
+
+115
+00:13:46,425 --> 00:13:49,425
+we go back to our colors menu.
+
+116
+00:13:49,080 --> 00:13:52,080
+The section down below is our colors.<br />Okay, so we have. We can pick our basic
+
+117
+00:13:55,682 --> 00:13:58,682
+text background heading, we could also<br />do the H ones and stuff too. Okay. So
+
+118
+00:14:02,199 --> 00:14:05,199
+what we want to do is the button. So I'd<br />like to change that one up and have it
+
+119
+00:14:08,971 --> 00:14:11,971
+as a universal color. So if I click on<br />the button colors, I have the option for
+
+120
+00:14:15,742 --> 00:14:18,742
+the text in the background and<br />gradients. So let's look at the text. So
+
+121
+00:14:21,837 --> 00:14:24,837
+right now it's white, and I know that<br />we're going to kind of keep that so then
+
+122
+00:14:28,524 --> 00:14:31,524
+look at our background and we're gonna<br />change that to red. Okay, so now we're
+
+123
+00:14:35,126 --> 00:14:38,126
+good with that. So then we make sure we<br />hit save up here and that will change
+
+124
+00:14:41,728 --> 00:14:44,728
+the global styles of the button and the<br />color setting. So then whenever I add a
+
+125
+00:14:48,500 --> 00:14:51,500
+button, it will be that those two colors<br />right we're gonna go back out.
+
+126
+00:15:02,490 --> 00:15:05,490
+Our next section is layout. Alright, so<br />we go down to layout. And the layout
+
+127
+00:15:10,503 --> 00:15:13,503
+section styles the main content area,<br />and gives the content and the wide in
+
+128
+00:15:18,412 --> 00:15:21,412
+pixels. Okay, so that is from your left<br />to all the way to your right. These are
+
+129
+00:15:26,737 --> 00:15:29,737
+the default settings. So you see that<br />there is some padding already part of
+
+130
+00:15:34,646 --> 00:15:37,646
+it. And if you take a look up here in<br />the heading, and I moved this, you can
+
+131
+00:15:42,659 --> 00:15:45,659
+see how that changes. Okay, we also have<br />a block spacing, default, that's already
+
+132
+00:15:51,192 --> 00:15:54,192
+set there, too. So I click back out of layout.
+
+133
+00:15:55,980 --> 00:15:58,980
+Blocks is our next section. We will go<br />down here to blocks and this menu opens
+
+134
+00:16:03,570 --> 00:16:06,570
+up all of our blocks that are within<br />this theme. And we can go in and we can
+
+135
+00:16:10,968 --> 00:16:13,968
+customize the appearance of specific<br />blocks and for the whole site. So that
+
+136
+00:16:18,271 --> 00:16:21,271
+means that if you want all your heading<br />blocks to have a certain background
+
+137
+00:16:25,573 --> 00:16:28,573
+color, you could do that. Okay, you<br />don't want to get too involved with
+
+138
+00:16:32,491 --> 00:16:35,491
+doing each of these separately, because<br />remember, we have our initial global
+
+139
+00:16:39,890 --> 00:16:42,890
+styles up here that we've already<br />changed. And if you start changing every
+
+140
+00:16:47,096 --> 00:16:50,096
+little block, then it gets really<br />confusing when you need to do change
+
+141
+00:16:53,918 --> 00:16:56,918
+something, you don't know where you<br />changed it. So it's always good to start
+
+142
+00:17:01,316 --> 00:17:04,316
+in the global styles. And then if<br />there's a particular block that you
+
+143
+00:17:08,042 --> 00:17:11,042
+really want to kind of change, and you<br />could do that. So I'm gonna just give an
+
+144
+00:17:15,729 --> 00:17:18,729
+example of the quote block because<br />that's kind of like a specialty block
+
+145
+00:17:22,743 --> 00:17:25,743
+that you might want to do a different<br />kind of font. So let's scroll down here
+
+146
+00:17:30,237 --> 00:17:33,237
+to my example. So we have the quote<br />block. I've added a group and the quote
+
+147
+00:17:37,539 --> 00:17:40,539
+block has a paragraph within it. And<br />then it has an area for citation which
+
+148
+00:17:44,842 --> 00:17:47,842
+is the author's name. So if I want to<br />change the font of this, okay, I can go
+
+149
+00:17:52,336 --> 00:17:55,336
+to typography and go down to font. And<br />remember that I have my Open Sans as my
+
+150
+00:17:59,927 --> 00:18:02,927
+overall font. And I can either do it as<br />regular or I can do it as italic. Things
+
+151
+00:18:07,710 --> 00:18:10,710
+like that. And I can always change the<br />size of it to if I just want it small,
+
+152
+00:18:15,204 --> 00:18:18,204
+large, I can click on Save for that. So<br />that would be an example.
+
+153
+00:18:22,110 --> 00:18:25,110
+I just touched on the basics of how to<br />style your site with global styles. Go
+
+154
+00:18:27,480 --> 00:18:30,480
+explore on your site and check out more<br />lessons.
+

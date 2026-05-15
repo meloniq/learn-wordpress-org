@@ -1,0 +1,464 @@
+1
+00:00:00,001 --> 00:00:03,001
+In this lesson, we will explore SEO strategies.
+
+2
+00:00:05,200 --> 00:00:08,200
+In the beginner SEO lesson, we covered various steps to improve your site's SEO.
+
+3
+00:00:10,080 --> 00:00:13,080
+One of the main points we highlighted was that search engines like quality content, knowledgeable,
+
+4
+00:00:15,760 --> 00:00:18,760
+reliable and trustworthy content.
+
+5
+00:00:18,980 --> 00:00:21,980
+Also remember to install and activate an SEO plugin such as Yoast, RankMath, SEMrush,
+
+6
+00:00:25,120 --> 00:00:28,120
+All-in-One SEO or SEOPress.
+
+7
+00:00:28,320 --> 00:00:31,320
+This tutorial will delve into more techniques to drive organic traffic.
+
+8
+00:00:32,720 --> 00:00:35,720
+Number one, develop a content strategy and target specific search phrases for better SEO.
+
+9
+00:00:39,720 --> 00:00:42,720
+A content strategy helps you plan and consistently create valuable content.
+
+10
+00:00:44,640 --> 00:00:47,640
+Start by researching what your audience is searching for, using tools like Google Keyword
+
+11
+00:00:50,000 --> 00:00:53,000
+Planner.
+
+12
+00:00:51,000 --> 00:00:54,000
+Then, create content that answers their questions and solves their problems.
+
+13
+00:00:56,400 --> 00:00:59,400
+For example, if your site is about gardening, write blog posts about seasonal planting tips,
+
+14
+00:01:03,040 --> 00:01:06,040
+pest control and for example DIY garden projects.
+
+15
+00:01:08,040 --> 00:01:11,040
+Also remember to use your keywords naturally in your titles and the first 100 words of
+
+16
+00:01:13,000 --> 00:01:16,000
+your post or page.
+
+17
+00:01:15,760 --> 00:01:18,760
+Here are a few other tips to take into consideration when doing keyword research.
+
+18
+00:01:20,680 --> 00:01:23,680
+Firstly, long-tail keywords.
+
+19
+00:01:23,640 --> 00:01:26,640
+When people search online, they often use specific phrases to find what they're looking for.
+
+20
+00:01:29,000 --> 00:01:32,000
+These are called long-tail keywords.
+
+21
+00:01:31,520 --> 00:01:34,520
+Instead of broad terms like 'healthy smoothies', long-tail keywords are more specific, like
+
+22
+00:01:37,400 --> 00:01:40,400
+'easy strawberry banana smoothie recipe.'
+
+23
+00:01:41,080 --> 00:01:44,080
+Long-tail keywords are specific phrases that have lower competition but higher intent.
+
+24
+00:01:46,480 --> 00:01:49,480
+By targeting these specific phrases in your website content such as blog posts or product
+
+25
+00:01:51,520 --> 00:01:54,520
+descriptions, you can attract people who are looking for exactly what you offer.
+
+26
+00:01:56,200 --> 00:01:59,200
+To do this, research the specific phrases your audience uses.
+
+27
+00:02:00,440 --> 00:02:03,440
+Then include them naturally in your content.
+
+28
+00:02:03,280 --> 00:02:06,280
+Guard against repeating your target phrase too many times on a given page, as it can
+
+29
+00:02:07,440 --> 00:02:10,440
+start sounding spammy and robotic.
+
+30
+00:02:10,240 --> 00:02:13,240
+This helps search engines understand what your pages are about, making it more likely
+
+31
+00:02:15,040 --> 00:02:18,040
+they'll show up in search results when somebody searches for those terms.
+
+32
+00:02:19,680 --> 00:02:22,680
+Secondly, Semantic search.
+
+33
+00:02:22,920 --> 00:02:25,920
+Imagine you want to find related terms and phrases to your main keywords, just like
+
+34
+00:02:28,240 --> 00:02:31,240
+looking for synonyms or related ideas.
+
+35
+00:02:31,240 --> 00:02:34,240
+Tools like Google Keyword Planner, Ahrefs or SEMrush help you do this by showing what
+
+36
+00:02:37,080 --> 00:02:40,080
+words and phrases people often search for that are similar to your main keywords.
+
+37
+00:02:42,200 --> 00:02:45,200
+This way, you can use those related terms to improve your website's chances of being
+
+38
+00:02:46,280 --> 00:02:49,280
+found by search engines.
+
+39
+00:02:48,320 --> 00:02:51,320
+Thirdly, let's talk about Content gap analysis.
+
+40
+00:02:52,720 --> 00:02:55,720
+So what is Content gap analysis?
+
+41
+00:02:55,600 --> 00:02:58,600
+It is finding out what topics your competitors are talking about that you aren't.
+
+42
+00:03:00,680 --> 00:03:03,680
+By identifying the keywords they rank for on search engines, you can see which important
+
+43
+00:03:04,920 --> 00:03:07,920
+subjects you're missing.
+
+44
+00:03:06,600 --> 00:03:09,600
+Then, you can create content about those topics to attract more visitors.
+
+45
+00:03:12,200 --> 00:03:15,200
+The next topic we would like to discuss is Site Structure and User Experience.
+
+46
+00:03:17,880 --> 00:03:20,880
+Site Structure involves organising your website's pages and content logically.
+
+47
+00:03:23,840 --> 00:03:26,840
+This organisation helps search engines like Google understand and index your site more
+
+48
+00:03:29,200 --> 00:03:32,200
+effectively.
+
+49
+00:03:30,200 --> 00:03:33,200
+A well-structured site enhances user experience by making navigation easier, leading to higher
+
+50
+00:03:36,760 --> 00:03:39,760
+rankings, increased traffic and better conversion rates.
+
+51
+00:03:40,960 --> 00:03:43,960
+A good site structure guides visitors and search engines helping them find and engage
+
+52
+00:03:46,520 --> 00:03:49,520
+with your content efficiently.
+
+53
+00:03:49,360 --> 00:03:52,360
+Your navigation menu structure should be clear, organised and easy to use.
+
+54
+00:03:55,320 --> 00:03:58,320
+Also, ensure navigation labels are intuitive so users immediately understand what each link
+
+55
+00:04:02,440 --> 00:04:05,440
+leads to.
+
+56
+00:04:03,440 --> 00:04:06,440
+Additionally, on most sites it's important to have a search box for users who prefer to
+
+57
+00:04:08,320 --> 00:04:11,320
+perform a keyword search.
+
+58
+00:04:10,680 --> 00:04:13,680
+User experience is how visitors interact with your site.
+
+59
+00:04:14,280 --> 00:04:17,280
+Ensure your site is easy to navigate, that it loads quickly and looks good on mobile
+
+60
+00:04:19,320 --> 00:04:22,320
+devices.
+
+61
+00:04:20,320 --> 00:04:23,320
+For example, use a clean, simple design and clear menus and ensure all links work and
+
+62
+00:04:26,480 --> 00:04:29,480
+are accessible.
+
+63
+00:04:28,640 --> 00:04:31,640
+This leads to our third topic, Improving page load speed and mobile optimisation.
+
+64
+00:04:35,280 --> 00:04:38,280
+A mobile-friendly fast website is crucial for keeping visitors happy and ranking higher
+
+65
+00:04:40,520 --> 00:04:43,520
+in search engine results.
+
+66
+00:04:43,080 --> 00:04:46,080
+People like fast websites and since more than half of your website traffic will come from
+
+67
+00:04:47,240 --> 00:04:50,240
+mobile users, optimising your site for mobile is an important step for improved SEO.
+
+68
+00:04:52,920 --> 00:04:55,920
+Let's talk about how you can achieve better page load speed.
+
+69
+00:04:56,960 --> 00:04:59,960
+Compress images to reduce size and use browser caching to load pages faster for repeat visitors.
+
+70
+00:05:04,280 --> 00:05:07,280
+And then use tools like Google PageSpeed Insights to check your site speed and get specific
+
+71
+00:05:09,920 --> 00:05:12,920
+recommendations.
+
+72
+00:05:11,920 --> 00:05:14,920
+Here are a few other steps to consider concerning mobile optimisation.
+
+73
+00:05:16,680 --> 00:05:19,680
+Number one,
+
+74
+00:05:17,680 --> 00:05:20,680
+select a responsive theme that automatically adjusts to different screen sizes.
+
+75
+00:05:22,480 --> 00:05:25,480
+Many themes in the WordPress Repository are labelled as mobile friendly.
+
+76
+00:05:26,440 --> 00:05:29,440
+Secondly, ensure your site's navigation is easy to use on a mobile device.
+
+77
+00:05:31,640 --> 00:05:34,640
+Use clear menus and avoid hover-only navigation as it doesn't work well on touch screens.
+
+78
+00:05:37,320 --> 00:05:40,320
+Thirdly, avoid intrusive pop-ups that can frustrate mobile users.
+
+79
+00:05:42,840 --> 00:05:45,840
+And then lastly, regularly use tools like Google PageSpeed Insights or HubSpot's website
+
+80
+00:05:48,760 --> 00:05:51,760
+grader to check how well your site performs on mobile devices and get suggestions for
+
+81
+00:05:53,920 --> 00:05:56,920
+improvements.
+
+82
+00:05:54,920 --> 00:05:57,920
+Next, we move on to link building and having a backlink strategy.
+
+83
+00:06:02,040 --> 00:06:05,040
+Backlinks are links from other websites to your site.
+
+84
+00:06:05,000 --> 00:06:08,000
+They show search engines that your site is trustworthy.
+
+85
+00:06:09,160 --> 00:06:12,160
+Link building is acquiring hyperlinks from other websites to your own.
+
+86
+00:06:13,520 --> 00:06:16,520
+Here are a few tips you can implement.
+
+87
+00:06:16,280 --> 00:06:19,280
+Firstly, quality content.
+
+88
+00:06:18,840 --> 00:06:21,840
+Earn quality backlinks by creating content others want to share and link to.
+
+89
+00:06:23,840 --> 00:06:26,840
+Number two,
+
+90
+00:06:24,840 --> 00:06:27,840
+social media.
+
+91
+00:06:25,840 --> 00:06:28,840
+Also share your content on social media platforms to increase visibility and attract links.
+
+92
+00:06:32,000 --> 00:06:35,000
+Another example could be guest posting on other people's sites.
+
+93
+00:06:36,640 --> 00:06:39,640
+It is therefore a good idea to guest blog on reputable sites in your industry or collaborate
+
+94
+00:06:41,520 --> 00:06:44,520
+with influencers who can link back to your site.
+
+95
+00:06:44,480 --> 00:06:47,480
+Next, we move on to optimizing internal links on your site.
+
+96
+00:06:49,520 --> 00:06:52,520
+Internal links are like sign posts within your website, guiding both visitors and search
+
+97
+00:06:54,360 --> 00:06:57,360
+engines to different pages.
+
+98
+00:06:57,000 --> 00:07:00,000
+Imagine your website as a city and each page is a building.
+
+99
+00:07:01,600 --> 00:07:04,600
+Internal links are the roads connecting these buildings.
+
+100
+00:07:04,760 --> 00:07:07,760
+They not only help visitors navigate your site but also show search engines how your
+
+101
+00:07:09,520 --> 00:07:12,520
+content is related.
+
+102
+00:07:11,520 --> 00:07:14,520
+For example, if you are writing a blog post about healthy eating and mention vegetarian
+
+103
+00:07:17,400 --> 00:07:20,400
+recipes, you could link that phrase to another page on your site, specifically dedicated to
+
+104
+00:07:24,160 --> 00:07:27,160
+vegetarian dishes.
+
+105
+00:07:26,200 --> 00:07:29,200
+This way, you are not only making it easier for readers to explore related content but
+
+106
+00:07:31,200 --> 00:07:34,200
+also signaling to search engines that the linked page is important for that topic.
+
+107
+00:07:36,600 --> 00:07:39,600
+Finally, when creating content for your site, it is advised to generate human-made content
+
+108
+00:07:42,640 --> 00:07:45,640
+and not rely on AI to write everything.
+
+109
+00:07:45,520 --> 00:07:48,520
+AI is not meant to replace people in content creation.
+
+110
+00:07:49,280 --> 00:07:52,280
+It should merely assist and enhance the process by providing tools and support for more efficient
+
+111
+00:07:54,680 --> 00:07:57,680
+and creative outputs.
+
+112
+00:07:56,760 --> 00:07:59,760
+Human involvement is crucial for gathering, evaluating and verifying facts, always prioritizing
+
+113
+00:08:03,320 --> 00:08:06,320
+accuracy and fairness.
+
+114
+00:08:05,760 --> 00:08:08,760
+Create deep content that shows true thought leadership.
+
+115
+00:08:10,720 --> 00:08:13,720
+By consistently implementing these strategies, you will improve your site's visibility,
+
+116
+00:08:15,400 --> 00:08:18,400
+attract more organic traffic and establish your presence in search engine results.
+
