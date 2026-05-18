@@ -1,132 +1,132 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson, we will explore how to set up a privacy policy page.
+W tej lekcji zajmiemy się tworzeniem strony z polityką prywatności.
 
 2
 00:00:05,000 --> 00:00:08,000
-It is recommended to all website owners to add a privacy policy page to your site,
+Zaleca się, aby wszyscy właściciele witryn internetowych dodali do swoich witryn stronę z polityką prywatności,
 
 3
 00:00:10,000 --> 00:00:13,000
-as it is a document required by law that discloses the information you collect about visitors to your website.
+ponieważ jest to dokument wymagany przez prawo, który ujawnia informacje gromadzone na temat osób odwiedzających stronę.
 
 4
 00:00:16,000 --> 00:00:19,000
-As an example, let's visit WordPress.org and see what their privacy policy page looks like.
+Przykładowo, odwiedźmy stronę WordPress.org i zobaczmy, jak wygląda ich strona z polityką prywatności.
 
 5
 00:00:23,000 --> 00:00:26,000
-This privacy policy describes how WordPress.org uses and protects information that is given to them.
+Ta polityka prywatności opisuje, w jaki sposób WordPress.org wykorzystuje i chroni przekazane mu informacje.
 
 6
 00:00:32,000 --> 00:00:35,000
-Next, let's discuss how WordPress has made life easier for users.
+Następnie omówimy, w jaki sposób WordPress ułatwił życie użytkownikom.
 
 7
 00:00:37,000 --> 00:00:40,000
-When we open up Pages, you will have noticed that WordPress has simplified the process
+Po otwarciu sekcji „Strony” zauważysz, że WordPress uprościł ten proces,
 
 8
 00:00:42,000 --> 00:00:45,000
-by providing us with a template privacy policy that you can modify to meet your needs.
+udostępniając szablon polityki prywatności, który można modyfikować zgodnie z własnymi potrzebami.
 
 9
 00:00:48,000 --> 00:00:51,000
-There are various subheadings with suggested text,
+Znajdują się tam różne podtytuły z sugerowanym tekstem,
 
 10
 00:00:51,000 --> 00:00:54,000
-but you can add and remove whatever you need.
+ale można dodawać i usuwać dowolne elementy.
 
 11
 00:00:54,000 --> 00:00:57,000
-And some of the topics that are covered include Media, Cookies,
+Niektóre z poruszanych tematów to: media, pliki ciasteczek,
 
 12
 00:00:59,000 --> 00:01:02,000
-Embedded content from other websites, Who we share your data with,
+treści osadzone z innych witryn internetowych, komu udostępniamy dane użytkownika,
 
 13
 00:01:04,000 --> 00:01:07,000
-How long we retain your data, What rights you have over your data, and lastly, Where we send your data.
+jak długo przechowujemy dane użytkownika, jakie prawa przysługują użytkownikowi w odniesieniu do jego danych oraz gdzie wysyłamy dane użytkownika.
 
 14
 00:01:11,000 --> 00:01:14,000
-When you are happy with your changes, click Publish.
+Gdy zmiany będą satysfakcjonujące, należy kliknąć opcję „Opublikuj”.
 
 15
 00:01:15,000 --> 00:01:18,000
-Next, we can focus our attention on privacy settings.
+Następnie możemy skupić się na ustawieniach prywatności.
 
 16
 00:01:20,000 --> 00:01:23,000
-Let's make our way to the dashboard, scroll down to Settings and click on Privacy.
+Przejdź do kokpitu, przewiń w dół do sekcji „Ustawienia” i kliknij „Prywatność”.
 
 17
 00:01:25,000 --> 00:01:28,000
-You will be able to edit or preview your privacy policy page
+Możesz edytować lub wyświetlić podgląd strony z polityką prywatności
 
 18
 00:01:30,000 --> 00:01:33,000
-and check out the Privacy Policy Guide for extra help and support.
+oraz zapoznać się z przewodnikiem po polityce prywatności, aby uzyskać dodatkową pomoc i wsparcie.
 
 19
 00:01:34,000 --> 00:01:37,000
-When you scroll down, you have the option to create a new privacy policy
+Po przewinięciu w dół możesz utworzyć nową politykę prywatności
 
 20
 00:01:39,000 --> 00:01:42,000
-and change or assign the privacy policy page you are using.
+oraz zmienić lub przypisać stronę z polityką prywatności, z której korzystasz.
 
 21
 00:01:44,000 --> 00:01:47,000
-In the last section, I am going to add my privacy policy page to my footer.
+W ostatniej sekcji dodam stronę z polityką prywatności do stopki.
 
 22
 00:01:50,000 --> 00:01:53,000
-So, I am going to make my way to Appearance and then click on Editor.
+Przejdę do sekcji „Wygląd”, a następnie kliknę „Edytor”.
 
 23
 00:01:54,000 --> 00:01:57,000
-And this will of course take me into the Site Editor where I can edit my header and footer.
+Spowoduje to przejście do edytora witryny, gdzie mogę edytować nagłówek i stopkę.
 
 24
 00:02:00,000 --> 00:02:03,000
-I can of course edit my header and footer within the template.
+Mogę edytować nagłówek i stopkę w szablonie.
 
 25
 00:02:05,000 --> 00:02:08,000
-But to edit my footer with less distractions, I am going to make my way to Navigation
+Aby jednak edytować stopkę bez rozpraszania uwagi, przejdę do sekcji „Nawigacja”
 
 26
 00:02:11,000 --> 00:02:14,000
-and select the footer navigation.
+i wybieram nawigację stopki.
 
 27
 00:02:15,000 --> 00:02:18,000
-I will open up the Template Editing Mode and then click on the Inserter of the Navigation block
+Otworzę tryb edycji szablonu, kliknę na wybierak bloku nawigacji
 
 28
 00:02:21,000 --> 00:02:24,000
-and add my privacy page.
+i dodam moją stronę dotyczącą polityki prywatności.
 
 29
 00:02:24,000 --> 00:02:27,000
-Once added, I can click Save.
+Po dodaniu mogę kliknąć „Zapisz”.
 
 30
 00:02:28,000 --> 00:02:31,000
-And when I return to my Home Template and scroll down,
+Kiedy wrócę do mojego szablonu strony głównej i przewinę w dół,
 
 31
 00:02:32,000 --> 00:02:35,000
-I will see that my privacy policy page is now part of my footer below Quick Links.
+zobaczę, że moja strona dotycząca polityki prywatności jest teraz częścią stopki poniżej odnośników.
 
 32
 00:02:39,000 --> 00:02:42,000
-It is also worth mentioning that you can generate a privacy policy using a plugin.
+Warto również wspomnieć, że można wygenerować politykę prywatności za pomocą wtyczki.
 
 33
 00:02:46,000 --> 00:02:49,000
-All the best as you set up your privacy statement.
+Życzę powodzenia w tworzeniu oświadczenia o ochronie prywatności.
 

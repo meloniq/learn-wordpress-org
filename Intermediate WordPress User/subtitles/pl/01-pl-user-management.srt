@@ -1,332 +1,332 @@
 1
 00:00:00,000 --> 00:00:03,000
-Hi, in this lesson we are going to explore user management.
+Cześć, w tej lekcji zajmiemy się zarządzaniem użytkownikami. 
 
 2
 00:00:05,760 --> 00:00:08,760
-In WordPress you can assign roles which was designed to give the site owner the ability
+W WordPressie można przypisywać role, które pozwalają właścicielowi witryny kontrolować, 
 
 3
 00:00:10,460 --> 00:00:13,460
-to control what users can and cannot do within the site.
+co użytkownicy mogą, a czego nie mogą robić w witrynie. 
 
 4
 00:00:14,800 --> 00:00:17,800
-There are different roles to explore and each role is allowed to perform a set of tasks.
+Istnieją różne role, a każda z nich pozwala na wykonywanie określonego zestawu zadań. 
 
 5
 00:00:20,200 --> 00:00:23,200
-Knowing the differences is important as it will help you keep your site protected and
+Znajomość różnic między nimi jest ważna, ponieważ pomoże ci chronić witrynę i 
 
 6
 00:00:24,680 --> 00:00:27,680
-ensure that your editors and contributors are informed about their abilities and the
+zapewnić, że redaktorzy i autorzy są świadomi swoich uprawnień i 
 
 7
 00:00:28,920 --> 00:00:31,920
-part that they play.
+roli, jaką pełnią. 
 
 8
 00:00:31,640 --> 00:00:34,640
-In this video we will explain five roles and their capabilities and explore what the dashboard
+W tym filmie wyjaśnimy pięć ról i ich uprawnienia oraz przyjrzymy się, jak wygląda kokpit 
 
 9
 00:00:36,560 --> 00:00:39,560
-looks like from the perspective of each role.
+z perspektywy każdej z nich. 
 
 10
 00:00:39,800 --> 00:00:42,800
-The five main roles you can assign are the administrator, editor, author, contributor
+Możesz przypisać pięć głównych ról: administrator, redaktor, autor, współtwórca 
 
 11
 00:00:48,760 --> 00:00:51,760
-and subscriber.
+i subskrybent. 
 
 12
 00:00:49,760 --> 00:00:52,760
-Let's start with the administrator.
+Zacznijmy od administratora. 
 
 13
 00:00:53,680 --> 00:00:56,680
-Upon installing WordPress an administrator role is automatically created and it is
+Po zainstalowaniu WordPressa automatycznie tworzona jest rola administratora, która 
 
 14
 00:00:58,760 --> 00:01:01,760
-somebody who has access to all the administration features within a single site.
+ma dostęp do wszystkich funkcji administracyjnych w ramach jednej witryny. 
 
 15
 00:01:03,680 --> 00:01:06,680
-For multi-site owners the super admin has these capabilities.
+W przypadku właścicieli wielu witryn te uprawnienia posiada superadministrator. 
 
 16
 00:01:08,960 --> 00:01:11,960
-Next we have the editor.
+Następnie mamy redaktora. 
 
 17
 00:01:10,640 --> 00:01:13,640
-The editor is somebody who can publish and manage posts including the posts of other
+Redaktor to osoba, która może publikować i zarządzać wpisami, w tym wpisami 
 
 18
 00:01:15,440 --> 00:01:18,440
-users.
+innych użytkowników. 
 
 19
 00:01:17,160 --> 00:01:20,160
-An author on the other hand is somebody who can only publish and manage their own posts.
+Z drugiej strony autor może publikować i zarządzać tylko własnymi wpisami. 
 
 20
 00:01:23,480 --> 00:01:26,480
-Then we move on to a contributor.
+Następnie przechodzimy do współtwórcy. 
 
 21
 00:01:26,280 --> 00:01:29,280
-This is somebody who can write and manage their own posts but cannot publish them.
+Jest to osoba, która może pisać i zarządzać własnymi wpisami, ale nie może ich publikować. 
 
 22
 00:01:31,240 --> 00:01:34,240
-And lastly a subscriber is somebody who can only manage their profile and it is usually
+I wreszcie subskrybent to osoba, która może zarządzać tylko swoim profilem i jest zazwyczaj 
 
 23
 00:01:36,000 --> 00:01:39,000
-made for subscription type websites.
+tworzona dla witryn typu subskrypcyjnego. 
 
 24
 00:01:39,000 --> 00:01:42,000
-The administrator is at the top of the WordPress ladder and there is usually only one per website.
+Administrator znajduje się na szczycie hierarchii WordPressa i zazwyczaj jest tylko jeden na każdą witrynę internetową. 
 
 25
 00:01:44,880 --> 00:01:47,880
-As mentioned the administrator is somebody who has access to all the administration features
+Jak już wspomniano, administrator to osoba, która ma dostęp do wszystkich funkcji administracyjnych 
 
 26
 00:01:49,760 --> 00:01:52,760
-within a single site.
+w ramach jednej witryny. 
 
 27
 00:01:51,920 --> 00:01:54,920
-The administrator can publish, edit and delete posts and pages, edit code, they can manage
+Administrator może publikować, edytować i usuwać wpisy oraz strony, edytować kod oraz zarządzać 
 
 28
 00:01:59,480 --> 00:02:02,480
-media, plugins, themes, other accounts and settings.
+multimediami, wtyczkami, motywami, innymi kontami i ustawieniami. 
 
 29
 00:02:04,680 --> 00:02:07,680
-They basically have the keys to all the doors of the site.
+Zasadniczo ma on dostęp do wszystkich funkcji witryny. 
 
 30
 00:02:08,640 --> 00:02:11,640
-The administrator can update their profile top right of their dashboard page or by making
+Administrator może aktualizować swój profil w prawym górnym rogu strony kokpitu lub 
 
 31
 00:02:15,120 --> 00:02:18,120
-their way to Users, clicking on profile and making the necessary updates there.
+przechodząc do sekcji „Użytkownicy”, klikając profil i wprowadzając tam niezbędne zmiany. 
 
 32
 00:02:25,240 --> 00:02:28,240
-The administrator also has the power to create and manage other users.
+Administrator ma również uprawnienia do tworzenia i zarządzania innymi użytkownikami. 
 
 33
 00:02:31,320 --> 00:02:34,320
-To create a new user click on Add new.
+Aby utworzyć nowego użytkownika, kliknij „Dodaj nowego”. 
 
 34
 00:02:35,040 --> 00:02:38,040
-On the Add new user page create a new user by assigning them a username, a valid email
+Na stronie „Dodaj nowego użytkownika” utwórz nowego użytkownika, przypisując mu nazwę użytkownika, 
 
 35
 00:02:40,480 --> 00:02:43,480
-address and any other optional details.
+adres e-mail i inne opcjonalne dane. 
 
 36
 00:02:44,280 --> 00:02:47,280
-In the next section choose an appropriate role for this user.
+W następnej sekcji wybierz odpowiednią rolę dla tego użytkownika. 
 
 37
 00:02:48,160 --> 00:02:51,160
-And when you are ready click Add new user.
+Gdy wszystko będzie gotowe, kliknij „Dodaj nowego użytkownika”. 
 
 38
 00:02:51,320 --> 00:02:54,320
-A new user will automatically be sent a welcome email by WordPress with their new logging
+WordPress automatycznie wyśle nowemu użytkownikowi wiadomość powitalną z nowymi 
 
 39
 00:02:55,800 --> 00:02:58,800
-information including the generated password.
+danymi logowania, w tym z wygenerowanym hasłem. 
 
 40
 00:02:58,960 --> 00:03:01,960
-The user will be prompted to login and to change their password to one of their liking.
+Użytkownik zostanie poproszony o zalogowanie się i zmianę hasła na dowolne. 
 
 41
 00:03:03,960 --> 00:03:06,960
-To change the role of an existing user you can select Edit, open the role drop down and
+Aby zmienić rolę istniejącego użytkownika, możesz wybrać opcję „Edytuj”, otworzyć menu 
 
 42
 00:03:10,360 --> 00:03:13,360
-select a different role or no role for the site at all.
+rozwijane ról i wybrać inną rolę lub brak roli dla witryny. 
 
 43
 00:03:14,880 --> 00:03:17,880
-If you would like to change the role of multiple users you can use the check boxes to the left
+Jeśli chcesz zmienić rolę wielu użytkowników, możesz użyć pól wyboru po lewej 
 
 44
 00:03:19,600 --> 00:03:22,600
-of the user to make the changes simultaneously.
+stronie użytkownika, aby wprowadzić zmiany jednocześnie. 
 
 45
 00:03:24,520 --> 00:03:27,520
-If you delete a user you have the option to delete all the content they have created or
+Jeśli usuniesz użytkownika, możesz usunąć całą zawartość, którą stworzył, lub 
 
 46
 00:03:32,000 --> 00:03:35,000
-to reassign it to a different user.
+przypisać ją do innego użytkownika. 
 
 47
 00:03:36,200 --> 00:03:39,200
-And once you have made your choice click on Confirm deletion.
+Po dokonaniu wyboru kliknij „Potwierdź usunięcie”. 
 
 48
 00:03:40,480 --> 00:03:43,480
-To customize the view of the users table click on Screen options top right.
+Aby dostosować widok tabeli użytkowników, kliknij „Opcje ekranu” w prawym górnym rogu. 
 
 49
 00:03:45,120 --> 00:03:48,120
-Yeah you can specify which columns you would like to view and the number of users you want
+Tutaj możesz określić, które kolumny chcesz wyświetlać i liczbę użytkowników, których chcesz 
 
 50
 00:03:50,200 --> 00:03:53,200
-to view per page.
+wyświetlać na stronie. 
 
 51
 00:03:51,800 --> 00:03:54,800
-And once you are done click apply.
+Po zakończeniu kliknij „Zastosuj”. 
 
 52
 00:03:55,040 --> 00:03:58,040
-Editors have high level of access as they usually manage content.
+Redaktorzy mają wysoki poziom dostępu, ponieważ zazwyczaj zarządzają treścią. 
 
 53
 00:03:59,600 --> 00:04:02,600
-Let's see what the dashboard looks like for an editor.
+Zobaczmy, jak wygląda kokpit redaktora. 
 
 54
 00:04:02,960 --> 00:04:05,960
-An editor is someone who can create, edit, publish and delete posts and pages including
+Redaktor to osoba, która może tworzyć, edytować, publikować i usuwać wpisy oraz strony, 
 
 55
 00:04:08,720 --> 00:04:11,720
-the posts of other users.
+w tym wpisy innych użytkowników. 
 
 56
 00:04:11,000 --> 00:04:14,000
-They are also capable of managing media and comments.
+Może również zarządzać multimediami i komentarzami. 
 
 57
 00:04:14,600 --> 00:04:17,600
-So what can't they do?
+Czego więc nie może robić? 
 
 58
 00:04:17,000 --> 00:04:20,000
-Editors cannot install themes, plugins or approve any updates.
+Redaktorzy nie mogą instalować motywów ani wtyczek ani zatwierdzać żadnych aktualizacji. 
 
 59
 00:04:21,560 --> 00:04:24,560
-They also don't have access to any site settings.
+Nie mają również dostępu do żadnych ustawień witryny. 
 
 60
 00:04:24,400 --> 00:04:27,400
-Their role is to manage the work of other users and contributors.
+Ich rolą jest zarządzanie pracą innych użytkowników i współtwórców. 
 
 61
-00:04:28,760 --> 00:04:31,760
-The role of an author is in the name, their role is to provide content to the site and
+00:02:28,760 --> 00:02:31,760
+Rola autora wynika z samej nazwy – polega ona na dostarczaniu treści do witryny i 
 
 62
 00:04:33,280 --> 00:04:36,280
-nothing else.
+niczym więcej. 
 
 63
 00:04:34,600 --> 00:04:37,600
-They are therefore only able to publish and manage their own posts and not those of others.
+Autorzy mogą zatem publikować i zarządzać wyłącznie własnymi wpisami, ale nie wpisami innych osób. 
 
 64
 00:04:40,200 --> 00:04:43,200
-As you will notice they can upload media and create, edit, publish and delete their own
+Jak można zauważyć, mogą oni przesyłać multimedia oraz tworzyć, edytować, publikować i usuwać 
 
 65
 00:04:46,560 --> 00:04:49,560
-posts.
+własne wpisy. 
 
 66
 00:04:47,760 --> 00:04:50,760
-Authors are therefore only in charge of adding content to a site and don't have any administrative
+Autorzy są zatem odpowiedzialni wyłącznie za dodawanie treści do witryny i nie mają żadnych 
 
 67
 00:04:52,800 --> 00:04:55,800
-rights.
+uprawnień administracyjnych. 
 
 68
 00:04:54,840 --> 00:04:57,840
-Let's say you have somebody who is willing to contribute content to your site as a once
+Załóżmy, że masz kogoś, kto chce jednorazowo dodać treść do twojej 
 
 69
 00:04:58,720 --> 00:05:01,720
-off.
+witryny. 
 
 70
 00:05:00,080 --> 00:05:03,080
-While in the role of contributor is perfect for that individual.
+Rola współtwórcy jest idealna dla tej osoby. 
 
 71
 00:05:03,840 --> 00:05:06,840
-Seeing that they are not one of the authors, they will only be able to write and manage
+Ponieważ nie jest ona autorem, będzie mogła tylko pisać i zarządzać 
 
 72
 00:05:07,520 --> 00:05:10,520
-their posts but cannot publish them.
+swoimi wpisami, ale nie będzie mogła ich publikować. 
 
 73
 00:05:10,200 --> 00:05:13,200
-A contributor cannot upload media files and when they publish content, it will first be
+Współtwórca nie może przesyłać plików multimedialnych; publikowane przez niego treści są 
 
 74
 00:05:15,760 --> 00:05:18,760
-reviewed before publishing.
+sprawdzane przed opublikowaniem. 
 
 75
 00:05:18,280 --> 00:05:21,280
-As you will notice it is almost the same as being an author but with a few more limitations.
+Jak można zauważyć, jest to prawie to samo, co bycie autorem, ale z kilkoma dodatkowymi ograniczeniami. 
 
 76
 00:05:23,880 --> 00:05:26,880
-The last role we will be looking at is the subscriber.
+Ostatnią rolą, którą przyjrzymy się, jest subskrybent. 
 
 77
 00:05:27,720 --> 00:05:30,720
-Subscribers only have access to managing their own profiles and nothing else.
+Subskrybenci mają dostęp wyłącznie do zarządzania własnymi profilami i niczym więcej. 
 
 78
 00:05:32,200 --> 00:05:35,200
-If we are into the dashboard of a subscriber, we will see they can only read all the posts
+Jeśli wejdziemy do kokpitu subskrybenta, zobaczymy, że może on jedynie czytać wszystkie 
 
 79
 00:05:37,500 --> 00:05:40,500
-on the site and change their profiles.
+wpisy w witrynie i zmieniać swój profil. 
 
 80
 00:05:40,560 --> 00:05:43,560
-This is not a role that will be used on many sites, mostly subscription based websites.
+Ta rola nie będzie używana na wielu witrynach, głównie na witrynach opartych na subskrypcji. 
 
 81
 00:05:46,640 --> 00:05:49,640
-And finally you may also decide to search and install a user role plugin to extend this
+Możesz również zdecydować się na wyszukanie i zainstalowanie wtyczki z rolami użytkownika, aby 
 
 82
 00:05:51,960 --> 00:05:54,960
-feature's functionality.
+rozszerzyć funkcjonalność tej funkcji. 
 
 83
 00:05:54,280 --> 00:05:57,280
-All the best managing the various user roles you wish to assign.
+Życzę powodzenia w zarządzaniu różnymi rolami użytkowników, które chcesz przypisać.
 

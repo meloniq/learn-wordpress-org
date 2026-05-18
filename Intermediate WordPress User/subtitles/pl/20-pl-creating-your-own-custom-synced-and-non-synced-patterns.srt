@@ -1,120 +1,120 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson, we will learn to differentiate, create and manage synced and non-synced patterns.
+W tej lekcji nauczymy się rozróżniać, tworzyć i zarządzać wzorcami zsynchronizowanymi i niezsynchronizowanymi.
 
 2
 00:00:07,000 --> 00:00:10,000
-When you have created a special design you want to keep and reuse, you can save it as a pattern and specify whether to sync it or not.
+Tworząc specjalny projekt, który chcesz zachować i ponownie wykorzystać, możesz zapisać go jako wzorzec i określić, czy ma być zsynchronizowany.
 
 3
 00:00:16,000 --> 00:00:19,000
-A synced pattern was previously referred to as a Reusable block, and changes to a synced pattern will apply to all parts of your site where the pattern has been added.
+Wzorzec zsynchronizowany był wcześniej nazywany blokiem wielokrotnego użytku, a zmiany wprowadzone w zsynchronizowanym wzorcu będą miały zastosowanie do wszystkich części witryny, w których wzorzec został dodany.
 
 4
 00:00:27,000 --> 00:00:30,000
-As we have seen in this example, when I updated the content in the one pattern, it automatically updated in the other, because they are of course synced.
+Jak widzieliśmy w tym przykładzie, po zaktualizowaniu treści w jednym wzorcu, automatycznie zaktualizowała się ona również w drugim, ponieważ były one zsynchronizowane.
 
 5
 00:00:38,000 --> 00:00:41,000
-Non-synced patterns are just regular patterns that can be edited independently.
+Wzorce niesynchronizowane to zwykłe wzorce, które można edytować niezależnie.
 
 6
 00:00:44,000 --> 00:00:47,000
-A non-synced pattern can be used and changed over and over without changing or affecting the original pattern.
+Można je wielokrotnie wykorzystywać i zmieniać bez modyfikowania lub wpływania na oryginalny wzorzec.
 
 7
 00:00:51,000 --> 00:00:54,000
-In this example, I have changed the image of a non-synced pattern, and because the patterns are not synced, the image in the original pattern did not change.
+W tym przykładzie zmieniłem obrazek niesynchronizowanego wzorca, a ponieważ wzorce nie są zsynchronizowane, obrazek w oryginalnym wzorcu nie uległ zmianie.
 
 8
 00:01:01,000 --> 00:01:04,000
-So let's say for example you found or created a special design and want to save it as a pattern.
+Załóżmy, że znalazłeś lub stworzyłeś specjalny projekt i chcesz go zapisać jako wzorzec.
 
 9
 00:01:07,000 --> 00:01:10,000
-Select the container block and click on the three vertical dots and then select Create pattern.
+Wybierz blok kontenera, kliknij trzy pionowe kropki, a następnie wybierz opcję „Utwórz wzorzec”.
 
 10
 00:01:14,000 --> 00:01:17,000
-Then we can name it appropriately and add it to the relevant category.
+Następnie możemy nadać mu odpowiednią nazwę i dodać go do odpowiedniej kategorii.
 
 11
 00:01:24,000 --> 00:01:27,000
-And then we have a choice to save it as a synced or a non-synced pattern.
+Następnie możemy zapisać go jako wzorzec zsynchronizowany lub niezsynchronizowany.
 
 12
 00:01:30,000 --> 00:01:33,000
-In this case, I'm going to save it as a synced pattern and then click Create.
+W tym przypadku zapiszę go jako wzorzec zsynchronizowany, a następnie kliknę „Utwórz”.
 
 13
 00:01:37,000 --> 00:01:40,000
-When you click on the Inserter, top left and select Patterns, we will now see that this pattern has been added to the My patterns area, where you can find all your custom patterns.
+Po kliknięciu na „Wybierak” w lewym górnym rogu i wybraniu opcji „Wzorce” zobaczysz, że ten wzorzec został dodany do obszaru „Moje wzorce”, gdzie można znaleźć wszystkie własne wzorce.
 
 14
 00:01:53,000 --> 00:01:56,000
-You can also add, edit and manage your custom synced and non-synced patterns in the Site Editor.
+W edytorze witryny można również dodawać, edytować i zarządzać własnymi wzorcami zsynchronizowanymi i niezsynchronizowanymi.
 
 15
 00:02:00,000 --> 00:02:03,000
-So let's make our way to Appearance and click on Editor. And this will of course take us into our Site Editor.
+Przejdźmy więc do sekcji „Wygląd” i kliknijmy „Edytor”. Spowoduje to oczywiście przejście do naszego edytora witryny.
 
 16
 00:02:08,000 --> 00:02:11,000
-And if we go to Patterns, we will be able to manage our custom patterns, the patterns provided by our theme, as well as header, footer and general template part patterns.
+Przechodząc do sekcji „Wzorce”, możemy zarządzać naszymi własnymi wzorcami, wzorcami dostarczonymi przez nasz motyw oraz wzorcami nagłówków, stopek i ogólnych części szablonów.
 
 17
 00:02:26,000 --> 00:02:29,000
-If we go to My patterns, we will see all our custom patterns that we have created.
+Przechodząc do sekcji „Moje wzorce”, zobaczymy wszystkie własne wzorce, które stworzyliśmy.
 
 18
 00:02:33,000 --> 00:02:36,000
-Synced patterns have a purple icon and only the name for non-synced patterns will appear.
+Zsynchronizowane wzorce mają fioletową ikonkę i wyświetlane są tylko nazwy wzorców niesynchronizowanych.
 
 19
 00:02:40,000 --> 00:02:43,000
-If you want to save one of the patterns that come with your theme as a synced or non-synced pattern, make your way to the relevant pattern, click on the three vertical dots and select Duplicate.
+Jeśli chcesz zapisać jeden z wzorców dołączonych do motywu jako zsynchronizowany lub niesynchronizowany, przejdź do odpowiedniego wzorcu, kliknij trzy pionowe kropki i wybierz opcję „Powiel”.
 
 20
 00:02:54,000 --> 00:02:57,000
-Then we can update the name and save it as a synced or non-synced pattern. In this case, I will save it as a non-synced pattern.
+Następnie możemy zaktualizować nazwę i zapisać go jako wzorzec zsynchronizowany lub niezsynchronizowany. W tym przypadku zapiszę go jako wzorzec niezsynchronizowany.
 
 21
 00:03:04,000 --> 00:03:07,000
-And then we can select Duplicate and when we return to our My patterns area, we will see that this pattern is now one of our custom patterns that we can modify and update as we please.
+Następnie możemy wybrać opcję „Powiel”, a po powrocie do obszaru „Moje wzorce” zobaczymy, że ten wzorzec jest teraz jednym z naszych własnych wzorców, które możemy modyfikować i aktualizować według własnego uznania.
 
 22
 00:03:19,000 --> 00:03:22,000
-To create a custom pattern, click on the plus icon next to patterns and then select Create pattern.
+Aby utworzyć własny wzorzec, kliknij ikonkę plusa obok wzorców i wybierz opcję „Utwórz wzorzec”.
 
 23
 00:03:28,000 --> 00:03:31,000
-After naming it, we can add it to the relevant category.
+Po nadaniu mu nazwy możemy dodać go do odpowiedniej kategorii.
 
 24
 00:03:39,000 --> 00:03:42,000
-And in this case, I will save it as a non-synced pattern and then click Create.
+W tym przypadku zapiszę go jako wzorzec niesynchronizowany, a następnie kliknę „Utwórz”.
 
 25
 00:03:46,000 --> 00:03:49,000
-And now we can go ahead and create our new pattern.
+Następnie możemy przystąpić do tworzenia nowego wzorca.
 
 26
 00:03:50,000 --> 00:03:53,000
-And once finished, we can hit save and when we return to our My patterns area, we can view our new non-synced pattern.
+Po zakończeniu możemy kliknąć „Zapisz”, a po powrocie do obszaru „Moje wzorce” możemy wyświetlić nasz nowy niesynchronizowany wzorzec.
 
 27
 00:04:07,000 --> 00:04:10,000
-To end off, let's add this custom pattern to one of our pages. So let's make our way to Pages, select the relevant page, in this case my About page.
+Na koniec dodajmy ten własny wzorzec do jednej z naszych stron. Przejdźmy więc do sekcji „Strony” i wybierzmy odpowiednią stronę, w tym przypadku moją stronę „O mnie”.
 
 28
 00:04:19,000 --> 00:04:22,000
-And then I will open up my List View and ensure that I add my content to the Post Content block.
+Następnie otworzę widok listy i upewnię się, że dodaję swoją treść do bloku „Treść wpisu”.
 
 29
 00:04:25,000 --> 00:04:28,000
-And to add a non-synced pattern, I will click on the Inserter top left, go to patterns, click on My patterns and select the non-synced pattern of choice.
+Aby dodać wzorzec niesynchronizowany, kliknę na „Wybierak” w lewym górnym rogu, przejdę do wzorców, kliknę „Moje wzorce” i wybiorę wybrany wzorzec niesynchronizowany.
 
 30
 00:04:36,000 --> 00:04:39,000
-All the best as you create and manage your own custom templates.
+Życzę powodzenia w tworzeniu i zarządzaniu własnymi szablonami.
 

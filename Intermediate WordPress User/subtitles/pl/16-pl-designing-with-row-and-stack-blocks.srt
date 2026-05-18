@@ -1,264 +1,264 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson, we will take a closer look at how we can use Row and Stack blocks to achieve our design needs.
+W tej lekcji przyjrzymy się bliżej, jak możemy wykorzystać bloki „Wiersz” i „Stos”, aby zrealizować nasze potrzeby projektowe.
 
 2
 00:00:07,000 --> 00:00:10,000
-Using the Group block is one of the cornerstones of mastering the block editor.
+Korzystanie z bloku „Grupa” jest jednym z podstawowych elementów opanowania edytora bloków.
 
 3
 00:00:12,000 --> 00:00:15,000
-When you select a Group block, you have the variations of the Group block.
+Po wybraniu bloku „Grupa” dostępne są różne warianty tego bloku.
 
 4
 00:00:16,000 --> 00:00:19,000
-The standard Group block, which gathers blocks in a container, the Row block, which arranges blocks horizontally,
+Standardowy blok „Grupa”, który gromadzi bloki w kontenerze, blok „Wiersz”, który układa bloki poziomo,
 
 5
 00:00:24,000 --> 00:00:27,000
-the Stack block, which arranges blocks vertically, and the Grid block, which arranges blocks in a grid.
+blok „Stos”, który układa bloki pionowo, oraz blok „Siatka”, który układa bloki w siatce.
 
 6
 00:00:32,000 --> 00:00:35,000
-To start, let's look at some common examples of where the Row block will come in handy.
+Przyjrzyjmy się kilku typowym przykładom, w których blok „Wiersz” może się przydać.
 
 7
 00:00:38,000 --> 00:00:41,000
-Firstly, I want to show you how you can create the top section of my example with the help of a Row block.
+Najpierw pokażę ci, jak stworzyć górną część mojego przykładu za pomocą bloku „Wiersz”.
 
 8
 00:00:45,000 --> 00:00:48,000
-So if we scroll down, we will see it's currently empty, so let's go ahead and type in forward slash row.
+Jeśli przewiniemy w dół, zobaczymy, że jest on obecnie pusty, więc wpiszmy „/wiersz”.
 
 9
 00:00:53,000 --> 00:00:56,000
-And then add a Row block.
+Dodaj blok „Wiersz”.
 
 10
 00:00:56,000 --> 00:00:59,000
-And then firstly, we will add a heading and name it the 'Green House.'
+A następnie dodaj nagłówek i nazwij go „Zielony dom”.
 
 11
 00:01:05,000 --> 00:01:08,000
-Then I will press enter and of course the text will now be on the right of the heading.
+Następnie naciśnij „Enter”, a tekst pojawi się po prawej stronie nagłówka.
 
 12
 00:01:12,000 --> 00:01:15,000
-So let's go and copy the text from our example, 'Make your home a sanctuary,'
+Skopiujmy tekst z naszego przykładu „Niech twój dom stanie się sanktuarium”
 
 13
 00:01:21,000 --> 00:01:24,000
-and then paste.
+i wklejmy go.
 
 14
 00:01:25,000 --> 00:01:28,000
-Now we will open up our List View, select the Heading and the Paragraph block,
+Otwórz widok listy, wybierz nagłówek i blok akapitu,
 
 15
 00:01:35,000 --> 00:01:38,000
-and then group them together using my block toolbar.
+a następnie zgrupuj je za pomocą paska narzędzi bloków.
 
 16
 00:01:41,000 --> 00:01:44,000
-Now that the text is below my heading, I would like to remove the space between the blocks.
+Teraz, gdy tekst znajduje się poniżej nagłówka, chcę usunąć odstęp między blokami.
 
 17
 00:01:47,000 --> 00:01:50,000
-So I'll open up my sidebar settings, make my way to Styles, and below Dimensions,
+Otworzę więc ustawienia paska bocznego, przejdę do sekcji „Style” i poniżej „Wymiary”
 
 18
 00:01:53,000 --> 00:01:56,000
-I will ensure that the block spacing is set to zero.
+upewnię się, że odstępy między blokami są ustawione na zero.
 
 19
 00:01:58,000 --> 00:02:01,000
-Now that the heading and the text are closer to each other, I think it looks great.
+Nowy nagłówek i tekst są bliżej siebie, uważam, że wygląda to świetnie.
 
 20
 00:02:03,000 --> 00:02:06,000
-So I will close my sidebar settings and then select the Row block again in my List View.
+Zamknę ustawienia paska bocznego i ponownie wybiorę blok „Wiersz” w widoku listy.
 
 21
 00:02:11,000 --> 00:02:14,000
-Click on the Inserter and add a Buttons block.
+Kliknij na „Wybierak” i dodaj blok „Przyciski”.
 
 22
 00:02:19,000 --> 00:02:22,000
-Let's say 'Explore' and open our sidebar settings and select the outline style.
+Napiszmy „Odkryj” i otwórzmy ustawienia paska bocznego, a następnie wybierzmy styl konturu.
 
 23
 00:02:30,000 --> 00:02:33,000
-Next, I would like to move the Buttons block to the right, and this is where the power of the Row block really comes to play.
+Następnie chciałbym przesunąć blok „Przyciski” w prawo i właśnie tutaj naprawdę ujawnia się potęga bloku „Wiersz”.
 
 24
 00:02:37,000 --> 00:02:40,000
-So let's select the Row block in our sidebar settings and make our way to justification in our block toolbar,
+Wybierz blok „Wiersz” w ustawieniach paska bocznego, przejdę do opcji wyrównania na pasku narzędzi bloku,
 
 25
 00:02:43,000 --> 00:02:46,000
-and then select Space between items.
+a następnie wybierz opcję „Odstęp między blokami”.
 
 26
 00:02:46,000 --> 00:02:49,000
-And once we select that, we will notice that the Buttons block pushes to the right.
+Po wybraniu tej opcji zauważysz, że blok „Przyciski” przesuwa się w prawo.
 
 27
 00:02:51,000 --> 00:02:54,000
-Lastly, I would like to align the Buttons block to the bottom.
+Na koniec chciałbym wyrównać blok „Przyciski” do dołu.
 
 28
 00:02:55,000 --> 00:02:58,000
-So let's select change vertical alignment in our block toolbar and then click on align bottom.
+Wybierz więc opcję „Zmień położenie w pionie” na pasku narzędzi bloku i kliknij „Wyrównaj w pionie do dołu”.
 
 29
 00:03:03,000 --> 00:03:06,000
-So as you can see, there are many design possibilities using the spacing and alignment options of the Row block.
+Jak widać, opcje odstępów i wyrównania bloku „Wiersz” dają wiele możliwości projektowych.
 
 30
 00:03:11,000 --> 00:03:14,000
-Secondly, the Row block works very effectively for headers.
+Po drugie, blok „Wiersz” działa bardzo skutecznie w przypadku nagłówków.
 
 31
 00:03:16,000 --> 00:03:19,000
-So to add a header, let's make our way to Appearance and then click on the Editor.
+Aby dodać nagłówek, przejdę do sekcji „Wygląd”, a następnie kliknij „Edytor”.
 
 32
 00:03:22,000 --> 00:03:25,000
-And this will take you to your Site Editor, where you can manage templates and add headers and footers.
+Spowoduje to przejście do edytora witryny, w którym można zarządzać szablonami oraz dodawać nagłówki i stopki.
 
 33
 00:03:29,000 --> 00:03:32,000
-Make your way to patterns, click on the plus icon next to patterns, and then select Create template part.
+Przejdź do sekcji wzorce, kliknij ikonę plusa obok wzorców, a następnie wybierz opcję „Utwórz fragment szablonu”.
 
 34
 00:03:38,000 --> 00:03:41,000
-We'll go ahead and select header and then name it appropriately, and then click on Create.
+Wybierzmy „Nagłówek”, nadajmy mu odpowiednią nazwę, a następnie kliknijmy „Utwórz”.
 
 35
 00:03:45,000 --> 00:03:48,000
-Now we can build our header by first adding a Row block.
+Nowy nagłówek możemy stworzyć, dodając najpierw blok „Wiersz”.
 
 36
 00:03:51,000 --> 00:03:54,000
-Next, I will add my site logo, which I've already added to my media library.
+Następnie dodam logo mojej witryny, które już dodałem do biblioteki multimediów,
 
 37
 00:03:59,000 --> 00:04:02,000
-And then enlarge it.
+a następnie je powiększę.
 
 38
 00:04:03,000 --> 00:04:06,000
-Once I've done that, I will press Enter.
+Gdy to zrobię, nacisnę „Enter”.
 
 39
 00:04:07,000 --> 00:04:10,000
-And next to my site logo, I'm going to add my Site Tagline block.
+Obok logo mojej witryny dodam blok „Motto witryny”.
 
 40
 00:04:16,000 --> 00:04:19,000
-'Better beans, better coffee.' Then I'll open up my List View, select the Site Logo and the Site Tagline block,
+„Lepsze ziarna, lepsza kawa”. Następnie otworzę widok listy, zaznaczę blok z logo strony i sloganem strony,
 
 41
 00:04:25,000 --> 00:04:28,000
-and then wrap them in a Stack block.
+a następnie umieszczę je w bloku „Stos”.
 
 42
 00:04:29,000 --> 00:04:32,000
-Now I would like to remove the space between the two blocks, so I'll make sure I've selected my Stack block,
+Teraz chciałbym usunąć odstęp między tymi dwoma blokami, więc upewnię się, że zaznaczyłem blok „Stos”,
 
 43
 00:04:36,000 --> 00:04:39,000
-open up Styles in my sidebar settings, and ensure that the block spacing is zero.
+otworzę style w ustawieniach paska bocznego i upewnię się, że odstęp między blokami wynosi zero.
 
 44
 00:04:43,000 --> 00:04:46,000
-And then in my block toolbar, I will also change the justification to center.
+Następnie zmienię wyrównanie na wyśrodkowane w pasku narzędzi bloku.
 
 45
 00:04:54,000 --> 00:04:57,000
-Next, I'll select my Row block, the container block, go to Styles and change the background color to salmon.
+Następnie zaznaczę blok „Wiersz”, blok kontenerowy, przejdę do sekcji „Style” i zmienię kolor tła na łososiowy.
 
 46
 00:05:07,000 --> 00:05:10,000
-Then I'll click on the Inserter and add my Navigation block.
+Następnie kliknę na „Wybierak” i dodam blok „Nawigacja”.
 
 47
 00:05:17,000 --> 00:05:20,000
-Now we will see a list of all the pages that I've added to my site, but I'll click on the three vertical dots and select a navigation menu that I've already created.
+Teraz zobaczymy listę wszystkich stron, które dodałem do mojej witryny, ale kliknę trzy pionowe kropki i wybiorę menu nawigacyjne, które już utworzyłem.
 
 48
 00:05:28,000 --> 00:05:31,000
-Then I will ensure that I select my Row block again, and then below layout in our sidebar settings, I will click on Space between items,
+Następnie upewnię się, że ponownie zaznaczyłem blok „Wiersz”, a następnie poniżej opcji „Układ” w ustawieniach paska bocznego kliknę „Odstępy między blokami”,
 
 49
 00:05:40,000 --> 00:05:43,000
-to ensure that the navigation menu moves to the right.
+aby menu nawigacyjne przesunęło się w prawo.
 
 50
 00:05:45,000 --> 00:05:48,000
-And now our header is done.
+W ten sposób nasz nagłówek jest gotowy.
 
 51
 00:05:51,000 --> 00:05:54,000
-Let's end off by taking a closer look at the Stack block.
+Na koniec przyjrzyjmy się bliżej blokowi „Stos”.
 
 52
 00:05:56,000 --> 00:05:59,000
-In this example, we have three columns and as you will notice, there's less text or content in the left column.
+W tym przykładzie mamy trzy kolumny; jak widać, w lewej kolumnie jest mniej tekstu lub treści.
 
 53
 00:06:04,000 --> 00:06:07,000
-I would like the background color as well as the Buttons block to push down and align with the columns in the middle and the right.
+Chciałbym, aby kolor tła i blok przycisków zostały przesunięte w dół i wyrównane z kolumnami pośrodku i po prawej stronie.
 
 54
 00:06:11,000 --> 00:06:14,000
-Let's see what I've done. I've stacked all the content within a column together in a Stack block,
+Zobaczmy, co zrobiłem. Ułożyłem całą zawartość kolumny w bloku „Stos”,
 
 55
 00:06:18,000 --> 00:06:21,000
-and secondly, I stacked the heading as well as the paragraph together in a Stack block.
+a następnie ułożyłem nagłówek i akapit w bloku „Stos”.
 
 56
 00:06:23,000 --> 00:06:26,000
-But I've left the Buttons block by itself.
+Blok „Przyciski” pozostawiłem jednak osobno.
 
 57
 00:06:27,000 --> 00:06:30,000
-Next, when we select the main Stack block and open up our styles settings,
+Następnie, po zaznaczeniu głównego bloku „Stos” i otwarciu ustawień stylów,
 
 58
 00:06:35,000 --> 00:06:38,000
-you will notice I've changed the background color of the Stack block and not the column.
+zauważysz, że zmieniłem kolor tła bloku „Stos”, a nie kolumny.
 
 59
 00:06:42,000 --> 00:06:45,000
-And I've added some padding around the main Stack block.
+Dodatkowo dodałem nieco wypełnienia wokół głównego bloku „Stos”.
 
 60
 00:06:47,000 --> 00:06:50,000
-The next crucial step is to change the minimum height of the stack block to 100%.
+Kolejnym kluczowym krokiem jest zmiana minimalnej wysokości bloku „Stos” na 100%.
 
 61
 00:06:57,000 --> 00:07:00,000
-And as we did that, you would have noticed that the background color expanded and aligns with the other columns.
+Po wykonaniu tej czynności zauważysz, że kolor tła rozszerzył się i wyrównał z pozostałymi kolumnami.
 
 62
 00:07:05,000 --> 00:07:08,000
-Next, we are also going to make sure that the Buttons block on the left aligns with the other Buttons blocks.
+Następnie upewnimy się, że blok przycisków po lewej stronie jest wyrównany z innymi blokami przycisków.
 
 63
 00:07:10,000 --> 00:07:13,000
-So, select change vertical alignment in your block toolbar and then select Space between.
+Wybierz więc opcję „Zmień wyrównanie pionowe” na pasku narzędzi bloku, a następnie wybierz opcję „Odstęp między”.
 
 64
 00:07:18,000 --> 00:07:21,000
-And now you will see that the buttons block pushed down to align with the other columns.
+Nowy zobaczysz, że blok przycisków został przesunięty w dół, aby wyrównać się z innymi kolumnami.
 
 65
 00:07:24,000 --> 00:07:27,000
-These blocks may appear basic on the surface, but as you have seen, you can do a lot with them
+Bloki te mogą wydawać się proste na pierwszy rzut oka, ale jak widać, można z nimi zrobić naprawdę wiele,
 
 66
 00:07:29,000 --> 00:07:32,000
-once you start applying additional settings like space between and minimum height.
+stosując dodatkowe ustawienia, takie jak odstępy między elementami i minimalna wysokość.
 

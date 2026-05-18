@@ -1,244 +1,244 @@
 1
 00:00:00,000 --> 00:00:03,000
-It's time to make your WordPress settings personalized to you and your site's needs.
+Czas dostosować ustawienia WordPressa do twoich potrzeb i wymagań twojej witryny.
 
 2
 00:00:06,480 --> 00:00:09,480
-In this workshop, we're going to configure the general settings of your WordPress website,
+Podczas tych warsztatów skonfigurujemy ogólne ustawienia twojej witryny WordPress,
 
 3
 00:00:11,760 --> 00:00:14,760
-from blog titles to email address and even the site language.
+od tytułów blogów po adresy e-mail, a nawet język witryny.
 
 4
 00:00:16,040 --> 00:00:19,040
-Let's start from the WordPress dashboard.
+Zacznijmy od kokpitu WordPressa.
 
 5
 00:00:18,200 --> 00:00:21,200
-I'm going to head over to settings on the left side.
+Przejdę do ustawień po lewej stronie.
 
 6
 00:00:22,080 --> 00:00:25,080
-You're going to see the following options when you hover.
+Po najechaniu kursorem zobaczysz następujące opcje:
 
 7
 00:00:25,520 --> 00:00:28,520
-General, Writing, Reading, Discussion, Media, Permalinks, and Privacy.
+Ogólne, Pisanie, Czytanie, Dyskusja, Media, Bezpośrednie odnośniki i Prywatność.
 
 8
 00:00:32,160 --> 00:00:35,160
-We'll cover all of these in separate workshops.
+Omówimy je wszystkie w osobnych warsztatach.
 
 9
 00:00:35,680 --> 00:00:38,680
-First, to general settings.
+Najpierw przejdźmy do ustawień ogólnych.
 
 10
 00:00:38,600 --> 00:00:41,600
-On the top, you'll see site title and tagline.
+W górnej części ekranu zobaczysz nazwę witryny i slogan.
 
 11
 00:00:41,240 --> 00:00:44,240
-You might have already set these up when you installed WordPress, but if you didn't or
+Być może ustawiłeś je już podczas instalacji WordPressa, ale jeśli tego nie zrobiłeś lub
 
 12
 00:00:45,760 --> 00:00:48,760
-you want to rename them, this is where you can do that.
+chcesz je zmienić, możesz to zrobić właśnie tutaj.
 
 13
 00:00:48,800 --> 00:00:51,800
-I'm going to leave my name as My Food Blog, but I am going to change the tagline to "Roxie's
+Zostawię nazwę „My Food Blog”, ale zmienię slogan na „Ulubione
 
 14
 00:00:55,320 --> 00:00:58,320
-Favorite Treats and Recipes."
+przysmaki i przepisy Roxie”.
 
 15
 00:00:57,920 --> 00:01:00,920
-A pro tip here is to use descriptive names so that search engines can display your website
+Profesjonalna wskazówka: używaj opisowych nazw, aby wyszukiwarki mogły prawidłowo wyświetlać
 
 16
 00:01:03,640 --> 00:01:06,640
-properly.
+twoją witrynę.
 
 17
 00:01:05,080 --> 00:01:08,080
-And now you can see that my site title and tagline are in the top left corner.
+Teraz widzisz, że tytuł mojej witryny i slogan znajdują się w lewym górnym rogu.
 
 18
 00:01:10,200 --> 00:01:13,200
-Alright, let's move on to URL settings.
+Dobrze, przejdźmy do ustawień adresu URL.
 
 19
 00:01:14,200 --> 00:01:17,200
-This one is super important.
+To bardzo ważna kwestia.
 
 20
 00:01:16,560 --> 00:01:19,560
-The URL settings for your website, whether WordPress or site address, should be set up
+Ustawienia adresu URL twojej witryny, niezależnie od tego, czy jest to adres WordPressa, czy
 
 21
 00:01:21,920 --> 00:01:24,920
-automatically with your install and are rarely changed in this settings area.
+adres witryny, powinny być konfigurowane automatycznie podczas instalacji i rzadko ulegają zmianie w tym obszarze ustawień.
 
 22
 00:01:27,200 --> 00:01:30,200
-Honestly, changing the URL settings here can make your site inaccessible from the front
+Zmiana ustawień adresu URL w tym miejscu może spowodować, że twoja witryna stanie się niedostępna z poziomu
 
 23
 00:01:33,240 --> 00:01:36,240
-or back end, and it would require access to the database to recover or repair these
+front-endu lub back-endu, a przywrócenie lub naprawa tych elementów
 
 24
 00:01:38,520 --> 00:01:41,520
-items.
+będzie wymagała dostępu do bazy danych.
 
 25
 00:01:39,520 --> 00:01:42,520
-As a beginning user, the only time you'll probably use this is if you need to implement
+Jako początkujący użytkownik prawdopodobnie skorzystasz z tej opcji tylko wtedy, gdy będziesz musiał
 
 26
 00:01:44,720 --> 00:01:47,720
-your SSL certificate.
+wdrożyć certyfikat SSL.
 
 27
 00:01:46,800 --> 00:01:49,800
-Okay, so on to email address.
+OK, przejdźmy do adresu e-mail.
 
 28
 00:01:49,920 --> 00:01:52,920
-You can change your email here if you want to use a different address than what was used
+Tutaj możesz zmienić swój adres e-mail na inny niż ten, który
 
 29
 00:01:54,400 --> 00:01:57,400
-when you set up WordPress.
+podałeś podczas konfiguracji WordPressa.
 
 30
 00:01:56,280 --> 00:01:59,280
-You'll get all admin emails and password reset emails to this address, so just make sure
+Na ten adres będą wysyłane wszystkie wiadomości e-mail dotyczące administracji i resetowania
 
 31
 00:02:02,240 --> 00:02:05,240
-it's valid.
+hasła, więc upewnij się, że jest on prawidłowy.
 
 32
 00:02:05,240 --> 00:02:08,240
-Next we'll move on to Membership.
+Następnie przejdziemy do sekcji „Członkostwo”.
 
 33
 00:02:07,160 --> 00:02:10,160
-With WordPress, you have the option to allow anyone to register for your site.
+WordPress oferuje opcję zezwolenia wszystkim użytkownikom na rejestrację w witrynie.
 
 34
 00:02:12,080 --> 00:02:15,080
-If you select this option, you'll see that the new user default role is a Subscriber,
+Jeśli wybierzesz tę opcję, zobaczysz, że domyślną rolą nowego użytkownika jest „Subskrybent”,
 
 35
 00:02:18,080 --> 00:02:21,080
-so that new users have limited access to your dashboard.
+więc nowi użytkownicy mają ograniczony dostęp do kokpitu.
 
 36
 00:02:21,800 --> 00:02:24,800
-You can change this, however, I would recommend subscriber level.
+Możesz to zmienić, jednak zalecam poziom subskrybenta.
 
 37
 00:02:26,080 --> 00:02:29,080
-You can always update a user's role after they've registered to give them more access
+Po rejestracji zawsze możesz zaktualizować rolę użytkownika, aby zapewnić mu większy
 
 38
 00:02:31,000 --> 00:02:34,000
-and capabilities.
+dostęp i możliwości.
 
 39
 00:02:33,360 --> 00:02:36,360
-I'm going to scroll down to the Site Language and select my preferred language from the drop-down
+Przewinę w dół do sekcji „Język witryny” i wybiorę preferowany język z rozwijanej
 
 40
 00:02:38,560 --> 00:02:41,560
-list.
+listy.
 
 41
 00:02:39,560 --> 00:02:42,560
-For me, I'm going to confirm that it's English, and it's really important to make sure that
+Potwierdzę, że jest to język angielski. Bardzo ważne jest, aby upewnić się, że
 
 42
 00:02:44,240 --> 00:02:47,240
-your language is selected because it'll help browsers and translation systems detect the
+wybrany jest właściwy język, ponieważ pomoże to przeglądarkom i systemom tłumaczeniowym wykryć
 
 43
 00:02:50,200 --> 00:02:53,200
-website's preferred language.
+preferowany język witryny internetowej.
 
 44
 00:02:52,200 --> 00:02:55,200
-Okay, great.
+Świetnie.
 
 45
 00:02:53,600 --> 00:02:56,600
-On to time zone.
+Przejdźmy do strefy czasowej.
 
 46
 00:02:55,320 --> 00:02:58,320
-Select the city for your preferred time zone, or you could select the offset from Coordinated
+Wybierz miasto dla preferowanej strefy czasowej lub wybierz przesunięcie względem
 
 47
 00:03:00,680 --> 00:03:03,680
-Universal Time, whichever one's easier for you.
+czasu uniwersalnego, w zależności od tego, co jest dla ciebie łatwiejsze.
 
 48
 00:03:03,920 --> 00:03:06,920
-You'll see I went ahead and selected New York.
+Jak widzisz, wybrałem Nowy Jork.
 
 49
 00:03:07,600 --> 00:03:10,600
-Now I'm going to go on down to the date format.
+Nowy Jork. Teraz przejdę do formatu daty.
 
 50
 00:03:10,760 --> 00:03:13,760
-This date format will show on the front end of your website with any post metadata, like
+Ten format daty będzie wyświetlany na stronie głównej twojej witryny wraz z metadanymi
 
 51
 00:03:16,280 --> 00:03:19,280
-the author, date, time, that's with a new blog post.
+każdego wpisu, takimi jak autor, data i godzina, czyli z nowym wpisem na blogu.
 
 52
 00:03:21,400 --> 00:03:24,400
-Now I can do the same thing for my time format, and I can even select different options and
+Nowy wpis na blogu. Teraz mogę zrobić to samo dla formatu czasu, a nawet wybrać różne opcje i
 
 53
 00:03:26,680 --> 00:03:29,680
-check them out in the preview.
+sprawdzić je w podglądzie.
 
 54
 00:03:29,520 --> 00:03:32,520
-So if we head over to my food blog, you'll see that that date format shows up under a
+Jeśli przejdziemy do mojego bloga kulinarnego, zobaczysz, że format daty pojawia się pod
 
 55
 00:03:33,920 --> 00:03:36,920
-post, but date and time show up under a comment.
+wpisem, ale data i godzina pojawiają się pod komentarzem.
 
 56
 00:03:38,400 --> 00:03:41,400
-So with that in mind, make sure that you pick a format that looks good with your theme.
+Mając to na uwadze, upewnij się, że wybierasz format, który dobrze pasuje do twojego motywu.
 
 57
 00:03:44,280 --> 00:03:47,280
-Once I make my selection, I'll move on to the last segment, which is picking what day
+Po dokonaniu wyboru przejdę do ostatniego segmentu, wybierając dzień,
 
 58
 00:03:48,400 --> 00:03:51,400
-I want my calendar widget to start.
+w którym chcę, aby mój widżet kalendarza zaczął działać.
 
 59
 00:03:50,560 --> 00:03:53,560
-You'll see all of your options, but I'll keep it on Sunday.
+Zobaczysz wszystkie opcje, ale ja pozostawię niedzielę.
 
 60
 00:03:54,400 --> 00:03:57,400
-When I'm done, I'll go ahead and save changes.
+Kiedy skończę, zapiszę zmiany.
 
 61
 00:03:58,000 --> 00:04:01,000
-Great job personalizing those general settings for you and your site's needs.
+Świetna robota z dostosowaniem tych ogólnych ustawień do potrzeb twoich i twojej witryny.
 

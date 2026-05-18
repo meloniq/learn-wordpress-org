@@ -1,144 +1,144 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson we will briefly discuss how comments are displayed when you're using a block theme.
+W tej lekcji omówimy pokrótce, w jaki sposób wyświetlane są komentarze podczas korzystania z motywu blokowego.
 
 2
 00:00:05,000 --> 00:00:08,000
-Before we make our way to the back end of our website, let's see how comments display when people respond to a blog post.
+Zanim przejdziemy do zaplecza naszej witryny internetowej, zobaczmy, jak wyświetlane są komentarze, gdy użytkownicy odpowiadają na wpis na blogu.
 
 3
 00:00:12,000 --> 00:00:15,000
-When I visit the front end of my website, I will click on one of my blog posts.
+Kiedy odwiedzam frontend mojej witryny internetowej, klikam na jeden z moich wpisów na blogu.
 
 4
 00:00:17,000 --> 00:00:20,000
-When we go to the bottom of the post, we will notice three people have already responded by adding their comments,
+Kiedy przejdziemy na dół wpisu, zauważymy, że trzy osoby już odpowiedziały, dodając swoje komentarze,
 
 5
 00:00:23,000 --> 00:00:26,000
-Roger, Tina and Ross.
+Roger, Tina i Ross.
 
 6
 00:00:26,000 --> 00:00:29,000
-And below that, there is a section for more people to have their say.
+Poniżej znajduje się sekcja, w której więcej osób może wyrazić swoją opinię.
 
 7
 00:00:31,000 --> 00:00:34,000
-Allowing comments on your site has many advantages.
+Zezwolenie na komentowanie w witrynie ma wiele zalet.
 
 8
 00:00:35,000 --> 00:00:38,000
-It allows you to deepen your relationships with readers and find out what readers are interested in.
+Pozwala pogłębić relacje z czytelnikami i odkryć, co ich interesuje.
 
 9
 00:00:40,000 --> 00:00:43,000
-It also increases the likelihood of them subscribing to your newsletter or purchasing something.
+Zwiększa również prawdopodobieństwo, że zapiszą się do newslettera lub dokonają zakupu.
 
 10
 00:00:46,000 --> 00:00:49,000
-Essentially, allowing comments can help you build a community around your blog.
+Zasadniczo zezwolenie na komentowanie może pomóc w budowaniu społeczności wokół bloga.
 
 11
 00:00:51,000 --> 00:00:54,000
-It is of course essential to manage comments effectively by using the built-in settings of WordPress under discussions in your dashboard and installing an anti-spam plugin.
+Niezbędne jest skuteczne zarządzanie komentarzami za pomocą wbudowanych ustawień WordPressa w sekcji dyskusji w kokpicie oraz zainstalowanie wtyczki antyspamowej.
 
 12
 00:01:01,000 --> 00:01:04,000
-You can also check out our video about managing spam.
+Można również obejrzeć nasz film o zarządzaniu spamem.
 
 13
 00:01:05,000 --> 00:01:08,000
-The Comments block are generally added to the single posts template.
+Blok komentarzy jest zazwyczaj dodawany do szablonu pojedynczych wpisów.
 
 14
 00:01:09,000 --> 00:01:12,000
-Let's make our way to Appearance and click on Editor.
+Przejdźmy do sekcji „Wygląd” i kliknijmy „Edytor”.
 
 15
 00:01:13,000 --> 00:01:16,000
-Then, open up templates and select the single template or the single posts template.
+Następnie otwórzmy szablony i wybierzmy szablon pojedynczy lub szablon pojedynczych wpisów.
 
 16
 00:01:20,000 --> 00:01:23,000
-And as we can see, our single template consists of a header, Content block and then Comments block.
+Jak widać, nasz szablon pojedynczy składa się z nagłówka, bloku treści, a następnie bloku komentarzy.
 
 17
 00:01:28,000 --> 00:01:31,000
-And right at the bottom, a footer.
+Na samym dole znajduje się stopka.
 
 18
 00:01:31,000 --> 00:01:34,000
-When we open the List View, we will have a clearer picture of all the nested blocks.
+Po otwarciu widoku listy uzyskamy jaśniejszy obraz wszystkich zagnieżdżonych bloków.
 
 19
 00:01:37,000 --> 00:01:40,000
-And within the Group block, we will see the Comments block.
+W bloku „Grupa” zobaczymy blok „Komentarze”.
 
 20
 00:01:40,000 --> 00:01:43,000
-Have you ever wondered what will happen if you delete the Comments block?
+Czy kiedykolwiek zastanawiałeś się, co się stanie, jeśli usuniesz blok „Komentarze”?
 
 21
 00:01:45,000 --> 00:01:48,000
-Well, all comments on all blog posts that have been assigned to this template will disappear on the front end of your website.
+Wszystkie komentarze do wszystkich wpisów na blogu przypisanych do tego szablonu znikną z frontendu twojej witryny.
 
 22
 00:01:51,000 --> 00:01:54,000
-So, be careful not to delete this block.
+Dlatego należy uważać, aby nie usunąć tego bloku.
 
 23
 00:01:55,000 --> 00:01:58,000
-So, to put it all in context, when I open up one of my posts, in this case The World is Your Oyster,
+Aby przedstawić to wszystko w odpowiednim kontekście, kiedy otwieram jeden z moich wpisów, w tym przypadku „Świat jest twoją ostrygą”,
 
 24
 00:02:04,000 --> 00:02:07,000
-we will see the post on the left and on the right next to templates
+po lewej stronie widzimy wpis, a po prawej, obok szablonów,
 
 25
 00:02:07,000 --> 00:02:10,000
-we will see this post has been assigned to the single template.
+widzimy, że ten wpis został przypisany do pojedynczego szablonu.
 
 26
 00:02:12,000 --> 00:02:15,000
-And when I open the post on the front end of my site, I will see the structure that the template provides, as well as the Comments block.
+Kiedy otwieram wpis na froncie mojej witryny, widzę strukturę zapewnianą przez szablon oraz blok komentarzy.
 
 27
 00:02:23,000 --> 00:02:26,000
-But, what if you wanted to display comments on one of your pages?
+A co, jeśli chcesz wyświetlić komentarze na jednej ze swoich stron?
 
 28
 00:02:28,000 --> 00:02:31,000
-Well, you can open up the sidebar settings and below discussions select Allow comments.
+Możesz otworzyć ustawienia paska bocznego i poniżej opcji „Dyskusje” wybrać opcję „Zezwól na komentarze”.
 
 29
 00:02:36,000 --> 00:02:39,000
-To end off, I also wanted to mention the Latest Comments block.
+Na koniec chciałbym również wspomnieć o bloku „Najnowsze komentarze”.
 
 30
 00:02:41,000 --> 00:02:44,000
-The Latest Comments block allows you to display the most recent comments readers have left on your blog.
+Blok „Najnowsze komentarze” pozwala wyświetlać najnowsze komentarze czytelników na twoim blogu.
 
 31
 00:02:47,000 --> 00:02:50,000
-Let's add this block to my home page to show you how it works.
+Dodajmy ten blok do mojej strony głównej, aby pokazać, jak działa.
 
 32
 00:02:51,000 --> 00:02:54,000
-So, below Feedback from our readers, I am going to add the Latest Comments block.
+Pod sekcją „Opinie naszych czytelników” dodam blok „Najnowsze komentarze”.
 
 33
 00:03:01,000 --> 00:03:04,000
-And to clarify, the block is not to add comments, but to display the latest comments readers have made across your entire site.
+Dla wyjaśnienia, blok ten nie służy do dodawania komentarzy, ale do wyświetlania najnowszych komentarzy czytelników z całej witryny.
 
 34
 00:03:09,000 --> 00:03:12,000
-Each comment links to its original post, when it was left and who left it.
+Każdy komentarz zawiera odnośnik do oryginalnego wpisu, datę dodania i nazwisko autora.
 
 35
 00:03:15,000 --> 00:03:18,000
-You can use your sidebar settings on the right to style the block further.
+Możesz użyć ustawień paska bocznego po prawej stronie, aby dodatkowo dostosować styl bloku.
 
 36
 00:03:20,000 --> 00:03:23,000
-May you utilize the comments block to build a strong community or following on your site through feedback and dialogue.
+Wykorzystaj blok komentarzy, aby zbudować silną społeczność lub grono obserwujących na swojej witrynie poprzez informacje zwrotne i dialog.
 

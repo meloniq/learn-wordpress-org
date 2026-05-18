@@ -1,204 +1,204 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson we will explore adding and customizing a category template.
+W tej lekcji zajmiemy się dodawaniem i dostosowywaniem szablonu kategorii.
 
 2
 00:00:05,000 --> 00:00:08,000
-In the previous lesson we learnt all about the various templates available.
+W poprzedniej lekcji poznaliśmy różne dostępne szablony.
 
 3
 00:00:09,000 --> 00:00:12,000
-And we mentioned that the All Archives template is the default template WordPress uses to display smaller groupings of posts,
+Wspomnieliśmy, że szablon „Wszystkie archiwa” jest domyślnym szablonem używanym przez WordPress do wyświetlania mniejszych grup wpisów,
 
 4
 00:00:17,000 --> 00:00:20,000
-such as categories, tags, authors, dates, etc.
+takich jak kategorie, tagi, autorzy, daty itp.
 
 5
 00:00:22,000 --> 00:00:25,000
-Please note I am using the Twenty Twenty-Four default theme.
+Zwróć uwagę, że używam domyślnego motywu „Twenty Twenty-Four”.
 
 6
 00:00:25,000 --> 00:00:28,000
-When we scroll down we will see how the All Archives template is currently structured,
+Przewijając w dół, zobaczysz, jak obecnie wygląda szablon „Wszystkie archiwa”
 
 7
 00:00:30,000 --> 00:00:33,000
-and how posts within an archive will appear on the front end.
+i jak wpisy w archiwum będą wyglądały na stronie głównej.
 
 8
 00:00:35,000 --> 00:00:38,000
-When I visit one of my blog posts and click on the relevant category in this case Art,
+Kiedy odwiedzam jeden z moich wpisów na blogu i klikam odpowiednią kategorię, w tym przypadku „Sztuka”,
 
 9
 00:00:42,000 --> 00:00:45,000
-I will be able to view all my posts labeled with the Art category.
+mogę zobaczyć wszystkie moje wpisy oznaczone kategorią „Sztuka”.
 
 10
 00:00:47,000 --> 00:00:50,000
-And of course as you can see, the structure for this page has been dictated by the All Archives template.
+Struktura tej strony została określona przez szablon „Wszystkie archiwa”.
 
 11
 00:00:54,000 --> 00:00:57,000
-And as mentioned, all other categories and groupings of archives will display in the same way,
+Jak wspomniano, wszystkie inne kategorie i grupy archiwów będą wyświetlane w ten sam sposób,
 
 12
 00:01:01,000 --> 00:01:04,000
-due to the fact that they have been assigned to the All Archives template.
+ponieważ zostały przypisane do szablonu „Wszystkie archiwa”.
 
 13
 00:01:05,000 --> 00:01:08,000
-This is where creating a custom category template comes into play.
+W tym miejscu pojawia się możliwość utworzenia własnego szablonu kategorii.
 
 14
 00:01:09,000 --> 00:01:12,000
-Instead of using the generic archive template, you can design a template that suits your specific needs.
+Zamiast korzystać z ogólnego szablonu archiwum, można zaprojektować szablon dostosowany do konkretnych potrzeb.
 
 15
 00:01:15,000 --> 00:01:18,000
-Let's see this in action.
+Zobaczmy, jak to działa.
 
 16
 00:01:18,000 --> 00:01:21,000
-I am going to go ahead and add a category template to change the display of posts within the Art category.
+Dodam szablon kategorii, aby zmienić wyświetlanie wpisów w kategorii „Sztuka”.
 
 17
 00:01:26,000 --> 00:01:29,000
-So I will make my way to templates and click on the plus icon or the Inserter next to templates.
+Przejdę więc do szablonów i kliknę ikonkę plusa lub „Wybierak” obok szablonów.
 
 18
 00:01:34,000 --> 00:01:37,000
-And then I will add a category archives template.
+Następnie dodam szablon archiwum kategorii.
 
 19
 00:01:38,000 --> 00:01:41,000
-Now you have two choices.
+Teraz masz dwie możliwości.
 
 20
 00:01:40,000 --> 00:01:43,000
-Firstly, you can create a single template for all your categories.
+Po pierwsze, możesz utworzyć jeden szablon dla wszystkich kategorii.
 
 21
 00:01:44,000 --> 00:01:47,000
-Or you may decide to create a template for each specific category.
+Możesz również zdecydować się na utworzenie szablonu dla każdej konkretnej kategorii.
 
 22
 00:01:49,000 --> 00:01:52,000
-I am going to select the second option as I want to create a specific template for the Art category.
+Wybiorę drugą opcję, ponieważ chcę utworzyć konkretny szablon dla kategorii „Sztuka”.
 
 23
 00:01:57,000 --> 00:02:00,000
-Once selected, I will be able to choose a pattern that comes with the Twenty Twenty-Four theme.
+Po wybraniu tej opcji mogę wybrać wzór dostępny w motywie „Twenty Twenty-Four”.
 
 24
 00:02:03,000 --> 00:02:06,000
-But I will go ahead and select Skip to start blank.
+Ale przejdę dalej i wybieram opcję „Pomiń”, aby rozpocząć od pustego szablonu.
 
 25
 00:02:11,000 --> 00:02:14,000
-Now I can start building my blank template.
+Teraz mogę zacząć tworzyć mój pusty szablon.
 
 26
 00:02:14,000 --> 00:02:17,000
-And the first thing I will add is my new header.
+Pierwszą rzeczą, którą dodam, jest mój nowy nagłówek –
 
 27
 00:02:19,000 --> 00:02:22,000
-A header which I have already created and named Art Header.
+który już stworzyłem i nazwałem „Art Header”.
 
 28
 00:02:24,000 --> 00:02:27,000
-Once the unique header has been added to the template, I can click on the three vertical dots and select Add After.
+Po dodaniu unikalnego nagłówka do szablonu mogę kliknąć trzy pionowe kropki i wybrać opcję „Dodaj po”.
 
 29
 00:02:33,000 --> 00:02:36,000
-And now we are going to add the Query Loop block.
+Następnie dodamy blok „Pętla zapytania”.
 
 30
 00:02:43,000 --> 00:02:46,000
-And in this case, it will display all the Art posts.
+W tym przypadku wyświetli on wszystkie wpisy dotyczące sztuki.
 
 31
 00:02:46,000 --> 00:02:49,000
-Now we can go ahead and select a pattern for how we want the posts to display.
+Teraz możemy przejść dalej i wybrać wzorzec, według którego chcemy wyświetlać wpisy.
 
 32
 00:02:52,000 --> 00:02:55,000
-And once the pattern has been added, we can modify it even further.
+Po dodaniu wzorca możemy go jeszcze bardziej zmodyfikować.
 
 33
 00:02:59,000 --> 00:03:02,000
-So let's go ahead and open up the List view.
+Otwórzmy więc widok listy.
 
 34
 00:03:04,000 --> 00:03:07,000
-And then look at all the nested blocks within the Query Loop block.
+Następnie spójrzmy na wszystkie bloki zagnieżdżone w bloku „Pętla zapytania”.
 
 35
 00:03:08,000 --> 00:03:11,000
-We are after the Post Template block.
+Szukamy bloku „Szablon wpisu”.
 
 36
 00:03:10,000 --> 00:03:13,000
-When we select the Post Template block, we will see we have three columns.
+Po wybraniu bloku „Szablon wpisu” zobaczymy trzy kolumny.
 
 37
 00:03:15,000 --> 00:03:18,000
-And we can change that to four.
+Możemy zmienić tę liczbę na cztery.
 
 38
 00:03:18,000 --> 00:03:21,000
-But in this example, we will settle for two columns.
+W tym przykładzie jednak zdecydujemy się na dwie kolumny.
 
 39
 00:03:23,000 --> 00:03:26,000
-Next, I want to delete my Post Excerpt block.
+Następnie chcę usunąć blok „Zajawka”.
 
 40
 00:03:26,000 --> 00:03:29,000
-So click on one of the posts, select the Post Excerpt block, click on the three vertical dots, and scroll down to the bottom and select Delete.
+Kliknij jeden z wpisów, wybierz blok „Zajawka”, kliknij trzy pionowe kropki, przewiń w dół i wybierz opcję „Usuń”.
 
 41
 00:03:39,000 --> 00:03:42,000
-Then I will select the Group block and add some more padding around the content.
+Następnie wybieram blok „Grupa” i dodaję więcej wypełnienia wokół treści.
 
 42
 00:03:46,000 --> 00:03:49,000
-So I'll open up my Styles, go to padding and add some more padding on the left and right.
+Otwieram „Style”, przechodzę do „Dopełnienie” i dodaję więcej wypełnienia po lewej i prawej stronie.
 
 43
 00:03:52,000 --> 00:03:55,000
-You are welcome to make further modifications, but for this example, I am done.
+Możesz wprowadzić dalsze modyfikacje, ale w tym przykładzie zakończyłem pracę.
 
 44
 00:03:57,000 --> 00:04:00,000
-So the next step is to add a footer.
+Następnym krokiem jest dodanie stopki.
 
 45
 00:04:01,000 --> 00:04:04,000
-And I am just going to add the general footer that I've used on my other templates as well.
+Dodam również ogólną stopkę, której użyłem w innych szablonach.
 
 46
 00:04:12,000 --> 00:04:15,000
-Now we can go ahead and see what our Art category will look like from the front end.
+Teraz możemy przejść dalej i zobaczyć, jak będzie wyglądała nasza kategoria „Sztuka” z poziomu interfejsu użytkownika.
 
 47
 00:04:17,000 --> 00:04:20,000
-So if we select the relevant category now, namely Art, we will see the archives page for the Art category, with a unique header and modified content layout.
+Jeśli wybierzemy teraz odpowiednią kategorię, czyli „Sztuka”, zobaczymy stronę archiwum dla kategorii „Sztuka”, z unikalnym nagłówkiem i zmodyfikowanym układem treści.
 
 48
 00:04:31,000 --> 00:04:34,000
-And this was of course achieved by adding and changing a category template for a specific item.
+Osiągnięto to oczywiście poprzez dodanie i zmianę szablonu kategorii dla konkretnego elementu.
 
 49
 00:04:43,000 --> 00:04:46,000
-And if you wanted to go ahead and create a new template for a different category, you can click on the plus icon, next to templates, select category archives and then a category for a specific item.
+Jeśli chcesz utworzyć nowy szablon dla innej kategorii, możesz kliknąć ikonkę plusa obok szablonów, wybrać archiwa kategorii, a następnie kategorię dla konkretnego elementu.
 
 50
 00:04:56,000 --> 00:04:59,000
-And then I can create a unique template for my lifestyle category or for my sports category, for example.
+Następnie mogę utworzyć unikalny szablon dla mojej kategorii „Styl życia” lub „Sport”.
 
 51
 00:05:03,000 --> 00:05:06,000
-I trust you now feel comfortable adding a category template for all categories or a specific category.
+Mam nadzieję, że teraz czujesz się komfortowo dodając szablon kategorii dla wszystkich kategorii lub konkretnej kategorii.
 

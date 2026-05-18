@@ -1,148 +1,148 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson we will customize how a post will be displayed by editing the single posts template.
+W tej lekcji dostosujemy sposób wyświetlania wpisów, edytując szablon pojedynczych wpisów.
 
 2
 00:00:07,000 --> 00:00:10,000
-To do this, let's make our way to the Site Editor, select Templates, and open the single posts template.
+W tym celu przejdziemy do edytora witryny, wybierzemy opcję „Szablony” i otworzymy szablon pojedynczych wpisów.
 
 3
 00:00:19,000 --> 00:00:22,000
-Another point of entry to your templates is by clicking on Manage All Templates at the bottom left, and then selecting the template from there.
+Innym sposobem uzyskania dostępu do szablonów jest kliknięcie opcji „Zarządzaj wszystkimi szablonami” w lewym dolnym rogu, a następnie wybranie szablonu z tej listy.
 
 4
 00:00:28,000 --> 00:00:31,000
-This template provides the structure or design of how a single post is displayed, and you of course have the ability to modify this to meet your needs.
+Ten szablon określa strukturę lub wygląd pojedynczego wpisu, który oczywiście można modyfikować zgodnie z własnymi potrzebami.
 
 5
 00:00:37,000 --> 00:00:40,000
-Currently I have the Twenty Twenty-Four theme installed, and this is how a post is structured by default when editing a template in the Site Editor.
+Obecnie mam zainstalowany motyw „Twenty Twenty-Four” i tak właśnie wygląda domyślna struktura wpisu podczas edycji szablonu w edytorze witryny.
 
 6
 00:00:47,000 --> 00:00:50,000
-Let's click on the List View so that we can have a better view of the structure of the template.
+Kliknijmy opcję „Widok listy”, aby lepiej zapoznać się ze strukturą szablonu.
 
 7
 00:00:55,000 --> 00:00:58,000
-At the top we will see the post featured image, and below that the title, and then the post metadata such as the date, the author, and categories.
+U góry zobaczymy obrazek wyróżniający wpisu, a poniżej tytuł, a następnie metadane wpisu, takie jak data, autor i kategorie.
 
 8
 00:01:14,000 --> 00:01:17,000
-Then we will see the Post Content block, and below that the Post Tags block, and finally the Comments block.
+Następnie zobaczymy blok „Treść wpisu”, poniżej blok „Tagi wpisu” i na końcu blok „Komentarze”.
 
 9
 00:01:26,000 --> 00:01:29,000
-Remember, if you want visitors on your site to be able to leave comments on posts, ensure that you don't accidentally delete this block from your template.
+Pamiętaj, że jeśli chcesz, aby odwiedzający twoją witrynę mogli zostawiać komentarze do wpisów, upewnij się, że nie usuniesz przypadkowo tego bloku ze swojego szablonu.
 
 10
 00:01:35,000 --> 00:01:38,000
-Now that we have seen how this theme has structured the template, let's see what it will look like on the front end,
+Teraz, gdy już wiemy, jak ten motyw wpłynął na strukturę szablonu, zobaczmy, jak będzie wyglądał na stronie głównej,
 
 11
 00:01:43,000 --> 00:01:46,000
-when we open up one of our posts. At the top we have the post featured image, followed by the title, date, author, and category.
+gdy otworzymy jeden z naszych wpisów. U góry mamy obrazek wyróżniający wpisu, a poniżej tytuł, datę, autora i kategorię.
 
 12
 00:01:55,000 --> 00:01:58,000
-Then we will see the post content and the tag which has been assigned to this post, and at the bottom we will see the comments that people have left.
+Następnie zobaczymy treść wpisu i tag, który został mu przypisany, a na dole komentarze pozostawione przez użytkowników.
 
 13
 00:02:07,000 --> 00:02:10,000
-Now of course we can return to the template and make changes as we please.
+Teraz możemy wrócić do szablonu i wprowadzić dowolne zmiany.
 
 14
 00:02:12,000 --> 00:02:15,000
-In the first example, let's select the Stack block, with the Post Title block, as well as the post metadata.
+W pierwszym przykładzie wybierzmy blok „Stos” z blokiem „Tytuł wpisu” i metadanymi wpisu.
 
 15
 00:02:21,000 --> 00:02:24,000
-Let's push that to the top of the post featured image.
+Przenieśmy go na górę obrazka wyróżniającego we wpisie.
 
 16
 00:02:26,000 --> 00:02:29,000
-Next I'm going to select the featured image, and open the sidebar settings and go to Styles.
+Następnie wybierzmy obrazek wyróżniający, otwórzmy ustawienia paska bocznego i przejdźmy do sekcji „Style”.
 
 17
 00:02:37,000 --> 00:02:40,000
-In this example I would like to change the aspect ratio to 16 by 9.
+W tym przykładzie chcemy zmienić proporcje obrazka na 16:9.
 
 18
 00:02:43,000 --> 00:02:46,000
-This will ensure that the featured image on all my posts will have the same size, regardless of the dimensions of the original image.
+Dzięki temu obrazek wyróżniajacy we wszystkich moich wpisach będzie miał ten sam rozmiar, niezależnie od wymiarów oryginalnego obrazka.
 
 19
 00:02:51,000 --> 00:02:54,000
-I have decided to keep the rest of the template the same, so let's hit Save and see how the changes reflect on the front end.
+Postanowiłem pozostawić resztę szablonu bez zmian, więc kliknijmy „Zapisz” i zobaczmy, jak zmiany odzwierciedlają się na stronie głównej.
 
 20
 00:03:01,000 --> 00:03:04,000
-Now we will see our title and post metadata at the top, and the aspect ratio of our Featured Image block has been applied.
+Teraz zobaczymy nasz tytuł i metadane wpisu u góry, a proporcje naszego bloku „Obrazek wyróżniajacy” zostały zastosowane.
 
 21
 00:03:11,000 --> 00:03:14,000
-In the second example, let's create a custom post header for our single template, using a Cover block.
+W drugim przykładzie użyj bloku „Okładka”, aby utworzyć własny nagłówek dla naszego szablonu pojedynczego wpisu.
 
 22
 00:03:19,000 --> 00:03:22,000
-So let's go ahead and add a Cover block to the top of our template.
+Dodajmy więc blok „Okładka” na górze naszego szablonu.
 
 23
 00:03:27,000 --> 00:03:30,000
-And once I've done that, I will select to use the featured image.
+Po wykonaniu tej czynności wybieram opcję użycia obrazka wyróżniającego.
 
 24
 00:03:33,000 --> 00:03:36,000
-To save time, I'm going to copy the Row block with my logo and navigation menu, and paste it into my Cover block.
+Aby zaoszczędzić czas, kopiuję blok „Wiersz” z moim logo i menu nawigacyjnym i wklejam go do bloku „Okładka”.
 
 25
 00:03:46,000 --> 00:03:49,000
-Below that, I'm going to add my site title and post metadata.
+Poniżej dodam tytuł mojej witryny i metadane wpisu.
 
 26
 00:03:52,000 --> 00:03:55,000
-So I will select the Stack block and drag and drop this block into my Cover block.
+Wybiorę blok „Stos” i przeciągnę go do mojego bloku „Okładka”.
 
 27
 00:04:00,000 --> 00:04:03,000
-Then we can go ahead and delete the header and the Featured Image block.
+Następnie możemy usunąć nagłówek i blok „Obrazek wyróżniający”.
 
 28
 00:04:09,000 --> 00:04:12,000
-Now the new header for our template is in place.
+Teraz nowy nagłówek naszego szablonu jest na swoim miejscu.
 
 29
 00:04:17,000 --> 00:04:20,000
-The next step is to select the Stack block and to align the site title and post metadata to center.
+Następnym krokiem jest wybranie bloku „Stos”, wyrównanie tytułu witryny i metanadych wpisu do środka.
 
 30
 00:04:27,000 --> 00:04:30,000
-I also want to select the Site Title block and add some padding to create a bit more space around the title.
+Chcę również wybrać blok „Tytuł witryny” i dodać trochę wypełnienia, aby stworzyć więcej miejsca wokół tytułu.
 
 31
 00:04:39,000 --> 00:04:42,000
-The last step is to select our Cover block, open Styles, select white as my overlay color, and then also change the overlay opacity to 70%.
+Ostatnim krokiem jest wybranie naszego bloku „Okładka”, otwarcie stylów, wybranie białego koloru nakładki, a następnie zmiana krycia nakładki na 70%.
 
 32
 00:04:56,000 --> 00:04:59,000
-Then we can hit Save and see what a post will look like with our new template applied.
+Następnie możemy kliknąć „Zapisz” i zobaczyć, jak będzie wyglądał wpis z zastosowanym nowym szablonem.
 
 33
 00:05:04,000 --> 00:05:07,000
-Here are two examples from my site. The one is a post about surfing in Portugal and the other one is about Table Mountain in Cape Town.
+Oto dwa przykłady z mojej witryny. Jeden to wpis o surfowaniu w Portugalii, a drugi o Górze Stołowej w Kapsztadzie.
 
 34
 00:05:18,000 --> 00:05:21,000
-Please take note, if you are not happy with your changes, click on the three vertical dots next to the name of the template and select Clear Customizations.
+Uwaga: jeśli nie jesteś zadowolony z wprowadzonych zmian, kliknij trzy pionowe kropki obok nazwy szablonu i wybierz opcję „Wyczyść dostosowania”.
 
 35
 00:05:28,000 --> 00:05:31,000
-And then the template will revert to its original state.
+Szablon powróci wtedy do swojego pierwotnego stanu.
 
 36
 00:05:32,000 --> 00:05:35,000
-Or you can go to Manage All Templates and then click on Reset.
+Możesz również przejść do sekcji „Zarządzaj wszystkimi szablonami”, a następnie kliknąć opcję „Resetuj”.
 
 37
 00:05:42,000 --> 00:05:45,000
-I trust you feel more confident customizing your own post content layout.
+Mam nadzieję, że czujesz się pewniej, dostosowując układ treści swoich wpisów.
 

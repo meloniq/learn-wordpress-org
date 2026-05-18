@@ -1,180 +1,180 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson, we will look at how you can create a custom template, which lets you use a different design or layout from the rest of your website.
+W tej lekcji przyjrzymy się, jak stworzyć własny szablon, który pozwoli ci używać innego projektu lub układu niż reszta twojej witryny.
 
 2
 00:00:09,000 --> 00:00:12,000
-This means you can create a page or post template with a unique header, footer or other page elements.
+Oznacza to, że możesz stworzyć szablon strony lub wpisu z unikalnym nagłówkiem, stopką lub innymi elementami strony.
 
 3
 00:00:16,000 --> 00:00:19,000
-You might want to create a custom template for an event, a landing page, different types of blog posts or even have unique styles for different pages on your site.
+Możesz chcieć stworzyć własny szablon dla wydarzenia, strony docelowej, różnych typów wpisów na blogu, a nawet unikalnych stylów dla różnych stron w twojej witrynie.
 
 4
 00:00:27,000 --> 00:00:30,000
-To create a custom template, go to Appearance, click on Editor and then select Templates.
+Aby utworzyć własny szablon, przejdź do sekcji „Wygląd”, kliknij „Edytor”, a następnie wybierz „Szablony”.
 
 5
 00:00:36,000 --> 00:00:39,000
-Let's first open the page template.
+Najpierw otwórzmy szablon strony.
 
 6
 00:00:39,000 --> 00:00:42,000
-As you will notice, the page template already has a header and a footer.
+Jak widać, szablon strony ma już nagłówek i stopkę.
 
 7
 00:00:46,000 --> 00:00:49,000
-And all pages assigned to this page template will have this header and footer.
+Wszystkie strony przypisane do tego szablonu będą miały ten nagłówek i stopkę.
 
 8
 00:00:52,000 --> 00:00:55,000
-But I want my contact page to have a different header and custom templates will help me achieve that.
+Chcę jednak, aby moja strona kontaktowa miała inny nagłówek; pomogą mi w tym własne szablony.
 
 9
 00:00:59,000 --> 00:01:02,000
-So, let's make our way to Templates and then click on Add New Template.
+Przejdźmy więc do „Szablony” i kliknij „Dodaj nowy szablon”.
 
 10
 00:01:07,000 --> 00:01:10,000
-And at the bottom, we can select Adding a Custom Template.
+Na dole możemy wybrać „Dodaj własny szablon”.
 
 11
 00:01:14,000 --> 00:01:17,000
-Give it a descriptive name and then click Create.
+Nadaj mu opisową nazwę, a następnie kliknij „Utwórz”.
 
 12
 00:01:22,000 --> 00:01:25,000
-The Twenty Twenty-Four theme allows you to choose a template pattern or you can click on Skip to start with a blank template.
+Motyw „Twenty Twenty-Four” umożliwia wybór wzorca szablonu lub kliknięcie opcji „Pomiń”, aby rozpocząć od pustego szablonu.
 
 13
 00:01:31,000 --> 00:01:34,000
-I'm going to go ahead and select the pattern as it will save me time.
+Wybiorę wzorzec, ponieważ pozwoli mi to zaoszczędzić czas.
 
 14
 00:01:37,000 --> 00:01:40,000
-As we can see, this is the same as my page template. We've got the header, the footer and the Post Content block in place.
+Jak widać, jest on taki sam jak mój szablon strony. Mamy nagłówek, stopkę i blok treści wpisu.
 
 15
 00:01:47,000 --> 00:01:50,000
-But I would like my contact page to have a different header.
+Chciałbym jednak, aby moja strona kontaktowa miała inny nagłówek.
 
 16
 00:01:50,000 --> 00:01:53,000
-So, let's select the header, click on the three vertical dots and then select Replace.
+Wybierzmy więc nagłówek, kliknijmy trzy pionowe kropki, a następnie wybierzmy opcję „Zastąp”.
 
 17
 00:01:56,000 --> 00:01:59,000
-And then I will add a new header to this template.
+Następnie dodam nowy nagłówek do tego szablonu.
 
 18
 00:02:04,000 --> 00:02:07,000
-Now my new header is in place and the next step will be to save and then apply this template to my contact page.
+Teraz mój nowy nagłówek jest już na miejscu, a następnym krokiem będzie zapisanie go, a następnie zastosowanie tego szablonu do mojej strony kontaktowej.
 
 19
 00:02:13,000 --> 00:02:16,000
-So, once I've saved the template, I can return to the dashboard, go to Pages and then open up my contacts page.
+Po zapisaniu szablonu mogę wrócić do kokpitu, przejść do sekcji „Strony” i otworzyć stronę kontaktową.
 
 20
 00:02:24,000 --> 00:02:27,000
-At this stage, our contact page is still assigned to the pages template or the default template.
+Na tym etapie nasza strona kontaktowa jest nadal przypisana do szablonu strony lub szablonu domyślnego.
 
 21
 00:02:31,000 --> 00:02:34,000
-So, we are going to click on Swap Template as we want to assign a new template to this page.
+Klikniemy więc opcję „Zamień szablon”, aby przypisać do tej strony nowy szablon.
 
 22
 00:02:37,000 --> 00:02:40,000
-And then we can choose the contact template which we have just created.
+Następnie możemy wybrać właśnie utworzony szablon kontaktów.
 
 23
 00:02:42,000 --> 00:02:45,000
-And now, the contact template has been assigned.
+Nowy szablon kontaktów został przypisany.
 
 24
 00:02:46,000 --> 00:02:49,000
-And once we've updated, we can make our way to the front end of the website.
+Po aktualizacji możemy przejść do frontendu witryny.
 
 25
 00:02:51,000 --> 00:02:54,000
-We will see that our home page and other pages share this header.
+Zobaczymy, że nasza strona główna i inne strony mają ten sam nagłówek.
 
 26
 00:02:55,000 --> 00:02:58,000
-But when we open our contact page, we will see that this page has its own unique header due to the fact that we have assigned a custom template to this page.
+Jednak po otwarciu strony kontaktowej zobaczymy, że ma ona swój własny, unikalny nagłówek, ponieważ przypisaliśmy do niej własny szablon.
 
 27
 00:03:09,000 --> 00:03:12,000
-In the last example, I would like to create a custom template for a landing page that can be used for marketing purposes.
+W ostatnim przykładzie chciałbym stworzyć własny szablon strony docelowej, który można wykorzystać do celów marketingowych.
 
 28
 00:03:17,000 --> 00:03:20,000
-At the moment, I'm on the page that I've created for my landing page.
+W tej chwili jestem na stronie, którą utworzyłem jako stronę docelową.
 
 29
 00:03:22,000 --> 00:03:25,000
-And if I open my sidebar settings, we will see this page is still assigned to the default page template.
+Jeśli otworzę ustawienia paska bocznego, zobaczymy, że ta strona jest nadal przypisana do domyślnego szablonu strony.
 
 30
 00:03:29,000 --> 00:03:32,000
-And therefore, the landing page still has the same standard header and footer.
+Dlatego strona docelowa nadal ma ten sam standardowy nagłówek i stopkę.
 
 31
 00:03:36,000 --> 00:03:39,000
-To create a custom template for this page, we are once again going to make our way to the Site Editor,
+Aby utworzyć własny szablon dla tej strony, ponownie przejdziemy do edytora witryny,
 
 32
 00:03:45,000 --> 00:03:48,000
-select Templates and then add a new template, and then select a custom template, and name it appropriately.
+wybierzemy „Szablony”, dodamy nowy szablon, a następnie wybierzemy własny szablon i nadamy mu odpowiednią nazwę.
 
 33
 00:03:56,000 --> 00:03:59,000
-In this case, I will call it Drone Landing Page.
+W tym przypadku nazwę go „Strona docelowa drona”.
 
 34
 00:04:00,000 --> 00:04:03,000
-In this example, I'm not going to choose a template pattern, as I don't want a header or a footer on my landing page.
+W tym przykładzie nie zamierzam wybierać szablonu, ponieważ nie chcę, aby na mojej stronie docelowej znajdował się nagłówek ani stopka.
 
 35
 00:04:08,000 --> 00:04:11,000
-I want a more focused user experience. The aim of my landing page is to encourage the reader to click on the call to action.
+Chcę, aby doświadczenie użytkownika było bardziej skoncentrowane. Moja strona docelowa zachęca czytelnika do kliknięcia wezwania do działania.
 
 36
 00:04:16,000 --> 00:04:19,000
-So, I'm going to go ahead and click on Skip to start a template from scratch.
+Kliknę więc opcję „Pomiń”, aby rozpocząć tworzenie szablonu od podstaw.
 
 37
 00:04:22,000 --> 00:04:25,000
-The only block I want to add is the Content Block, as that will pull in the content from the page.
+Jedynym blokiem, który chcę dodać, jest blok treści, który pobierze treść ze strony.
 
 38
 00:04:28,000 --> 00:04:31,000
-I also want my landing page to be displayed in full width, so I will keep my content block as is.
+Chcę również, aby moja strona docelowa była wyświetlana na całej szerokości, więc pozostawię blok treści bez zmian.
 
 39
 00:04:35,000 --> 00:04:38,000
-Once I've saved the template, we can return to the dashboard.
+Po zapisaniu szablonu możemy wrócić do kokpitu.
 
 40
 00:04:39,000 --> 00:04:42,000
-Go to Pages and then open the landing page.
+Przejdź do sekcji „Strony”, a następnie otwórz stronę docelową.
 
 41
 00:04:46,000 --> 00:04:49,000
-Next, we are going to assign the custom template to this page, namely the Drone Landing Page, which I've just created.
+Następnie przypiszemy do tej strony własny szablon, a mianowicie właśnie utworzoną stronę docelową „Strona docelowa drona”.
 
 42
 00:04:55,000 --> 00:04:58,000
-And once updated, we can click on Preview to see what our landing page will look like on the front end.
+Po aktualizacji możemy kliknąć opcję „Podgląd”, aby zobaczyć, jak nasza strona docelowa będzie wyglądać w interfejsie użytkownika.
 
 43
 00:05:02,000 --> 00:05:05,000
-And of course, this landing page can be used on social media or in an email, for example.
+Ta strona docelowa może być na przykład wykorzystana w mediach społecznościowych lub w wiadomości e-mail.
 
 44
 00:05:08,000 --> 00:05:11,000
-I also wanted to mention that when you click on Templates and go to Manage All Templates, you will also be able to add a new template from here.
+Chciałbym również wspomnieć, że można dodać nowy szablon, przechodząc do sekcji „Zarządzaj wszystkimi szablonami” i klikając „Dodaj nowy szablon”.
 
 45
 00:05:18,000 --> 00:05:21,000
-Happy creating! And remember, a custom template can be manually applied to any post or page.
+Miłego tworzenia! Pamiętaj, że możesz ręcznie zastosować własny szablon do dowolnego wpisu lub strony.
 

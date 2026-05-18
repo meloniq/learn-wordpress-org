@@ -1,288 +1,288 @@
 1
 00:00:00,001 --> 00:00:03,001
-Domain management and understanding DNS records.
+Zarządzanie domenami i zrozumienie rekordów DNS.
 
 2
 00:00:03,760 --> 00:00:06,760
-In this lesson, we peek behind the curtains of the vast network of computers we call the internet.
+W tej lekcji zajrzymy za kulisy rozległej sieci komputerów, którą nazywamy internetem.
 
 3
 00:00:09,700 --> 00:00:12,700
-We'll learn about domains, DNS, how it connects your domain name with your hosting provider's IP address, and how to manage these settings.
+Dowiemy się, czym są domeny i DNS, w jaki sposób łączą one nazwę domeny z adresem IP dostawcy usług hostingowych oraz jak zarządzać tymi ustawieniami.
 
 4
 00:00:19,640 --> 00:00:22,640
-We will answer the following questions.
+Odpowiemy na następujące pytania:
 
 5
 00:00:22,040 --> 00:00:25,040
-What is a domain?
+Czym jest domena?
 
 6
 00:00:23,520 --> 00:00:26,520
-What are DNS records and what do they do?
+Czym są rekordy DNS i do czego służą?
 
 7
 00:00:26,640 --> 00:00:29,640
-How do you edit them and how long does DNS propagation take?
+Jak je edytować i ile czasu zajmuje propagacja DNS?
 
 8
 00:00:31,600 --> 00:00:34,600
-Firstly, what is a domain?
+Po pierwsze, czym jest domena?
 
 9
 00:00:34,200 --> 00:00:37,200
-A domain name is the unique address people use to access your website on the internet.
+Nazwa domeny to unikalny adres, którego używają ludzie, aby uzyskać dostęp do twojej witryny internetowej.
 
 10
 00:00:39,600 --> 00:00:42,600
-Like your actual address, anyone who wants to visit or send you a letter needs to know on which street you live and what's your house number.
+Podobnie jak w przypadku rzeczywistego adresu, każdy, kto chce cię odwiedzić lub wysłać list, musi wiedzieć, na jakiej ulicy mieszkasz i jaki jest numer twojego domu.
 
 11
 00:00:47,880 --> 00:00:50,880
-The web works similarly.
+Sieć działa podobnie.
 
 12
 00:00:49,800 --> 00:00:52,800
-People can type your domain into their web browser address bar or use a search engine.
+Użytkownicy mogą wpisać nazwę domeny w pasku adresu przeglądarki internetowej lub skorzystać z wyszukiwarki.
 
 13
 00:00:55,800 --> 00:00:58,800
-Domains consist of two, sometimes three parts.
+Domeny składają się z dwóch, a czasem trzech części.
 
 14
 00:00:59,400 --> 00:01:02,400
-The name, the extension, and sometimes a prefix called subdomain.
+Nazwy, rozszerzenia, a czasem przedrostka zwanego subdomeną.
 
 15
 00:01:04,520 --> 00:01:07,520
-Here is an example.
+Oto przykład.
 
 16
 00:01:06,000 --> 00:01:09,000
-In the domain, WordPress.org.
+W domenie WordPress.org
 
 17
 00:01:09,000 --> 00:01:12,000
-WordPress is the unique name chosen by the website owner and .org is the domain extension, denoting the type of website or organization.
+„WordPress” to unikalna nazwa wybrana przez właściciela witryny internetowej, a „.org” to rozszerzenie domeny, oznaczające rodzaj witryny internetowej lub organizacji.
 
 18
 00:01:19,200 --> 00:01:22,200
-Meanwhile, in the domain learn.wordpress.org, learn is a subdomain associated with the primary organization that indicates the site's focus on educational content.
+Z kolei w domenie learn.wordpress.org „learn” jest subdomeną powiązaną z główną organizacją, która wskazuje, że witryna koncentruje się na treściach edukacyjnych.
 
 19
 00:01:32,200 --> 00:01:35,200
-Unlike humans, devices and servers communicate using numerical IP addresses.
+W przeciwieństwie do ludzi, urządzenia i serwery komunikują się za pomocą numerycznych adresów IP.
 
 20
 00:01:38,000 --> 00:01:41,000
-And that's where the domain name system or DNS comes in.
+I tu właśnie pojawia się system nazw domenowych lub DNS.
 
 21
 00:01:41,600 --> 00:01:44,600
-What is DNS?
+Czym jest DNS?
 
 22
 00:01:43,600 --> 00:01:46,600
-The domain name system or DNS bridges the gap between humans and machines, translating human readable domain names such as www.example.com into machine readable IP addresses like 192.0.2.1.
+System nazw domenowych (DNS) wypełnia lukę między ludźmi a maszynami, tłumacząc czytelne dla ludzi nazwy domen, takie jak „www.example.com”, na czytelne dla maszyn adresy IP, takie jak „192.0.2.1”.
 
 23
 00:02:01,600 --> 00:02:04,600
-Imagine a giant phone book that stores all the names and corresponding numbers of every active website and online service in special text files.
+Wyobraź sobie ogromną książkę telefoniczną, w której wszystkie nazwy i odpowiadające im numery wszystkich aktywnych witryn internetowych i usług online są przechowywane w specjalnych plikach tekstowych.
 
 24
 00:02:11,600 --> 00:02:14,600
-These files are called zone files and they contain the individual DNS records of each website on which server to find it, how to connect to it and more.
+Pliki te nazywane są plikami strefowymi i zawierają indywidualne rekordy DNS każdej witryny internetowej, informujące o tym, na którym serwerze można ją znaleźć, jak się z nią połączyć i inne informacje.
 
 25
 00:02:22,600 --> 00:02:25,600
-These DNS records, unique to every domain, are grouped in a DNS zone.
+Te rekordy DNS, unikalne dla każdej domeny, are zgrupowane w strefie DNS.
 
 26
 00:02:28,600 --> 00:02:31,600
-There are a few dozen DNS record types.
+Istnieje kilkadziesiąt typów rekordów DNS.
 
 27
 00:02:31,600 --> 00:02:34,600
-Let's review the five primary records that are essential for your website.
+Przyjrzyjmy się pięciu podstawowym rekordom, które są niezbędne dla twojej witryny internetowej.
 
 28
 00:02:36,600 --> 00:02:39,600
-Number one, NS records, short form nameserver.
+Po pierwsze, rekordy NS, skrót od „nameserver” (serwer nazw).
 
 29
 00:02:41,600 --> 00:02:44,600
-These records tell other computers which server manages the information about your website.
+Rekordy te informują inne komputery, który serwer zarządza informacjami o twojej witrynie internetowej.
 
 30
 00:02:46,600 --> 00:02:49,600
-NS records direct the network traffic to where your website, mailbox and other online assets are stored.
+Rekordy NS kierują ruch sieciowy do miejsca, w którym przechowywana jest twoja witryna internetowa, skrzynka pocztowa i inne zasoby online.
 
 31
 00:02:53,600 --> 00:02:56,600
-Every domain must have NS records.
+Każda domena musi mieć rekordy NS.
 
 32
 00:02:56,600 --> 00:02:59,600
-You'd usually have two of them, so if one nameserver is down, the domain lookup process can use the next NS indicated in the records.
+Zazwyczaj są to dwa rekordy, więc jeśli jeden serwer nazw nie działa, proces wyszukiwania domeny może skorzystać z kolejnego serwera NS wskazanego w rekordach.
 
 33
 00:03:05,600 --> 00:03:08,600
-Why would you need to edit your nameservers?
+Dlaczego warto edytować serwery nazw?
 
 34
 00:03:08,600 --> 00:03:11,600
-The most common scenario is when using one company to manage the domain and another to manage hosting.
+Najczęstszym scenariuszem jest sytuacja, w której jedna firma zarządza domeną, a inna hostingiem.
 
 35
 00:03:15,600 --> 00:03:18,600
-If you've purchased your domain at registrar A and a hosting plan at provider B, you need to connect the domain to your hosting using NS records.
+Jeśli kupiłeś domenę u rejestratora A, a plan hostingowy u dostawcy B, musisz połączyć domenę z hostingiem za pomocą rekordów NS.
 
 36
 00:03:25,600 --> 00:03:28,600
-Here's how this usually works.
+Oto jak to zazwyczaj działa.
 
 37
 00:03:28,600 --> 00:03:31,600
-Firstly, you find provider B's nameserver.
+Najpierw należy znaleźć serwer nazw dostawcy B.
 
 38
 00:03:32,600 --> 00:03:35,600
-It might look something like ns1.dns-parking.com.
+Może on wyglądać na przykład tak: „ns1.dns-parking.com”.
 
 39
 00:03:37,600 --> 00:03:40,600
-You copy them.
+Należy go skopiować.
 
 40
 00:03:38,600 --> 00:03:41,600
-Next, go to registrar A's control panel and find the DNS zone management section.
+Następnie należy przejść do panelu sterowania rejestratora A i znaleźć sekcję zarządzania strefą DNS.
 
 41
 00:03:45,600 --> 00:03:48,600
-And then thirdly, remove the old NS records and add the new ones you copied in the first step.
+Na koniec należy usunąć stare rekordy NS i dodać nowe, skopiowane w pierwszym kroku.
 
 42
 00:03:52,600 --> 00:03:55,600
-Your domain will soon be connected to your hosting.
+Domena zostanie wkrótce połączona z hostingiem.
 
 43
 00:03:55,600 --> 00:03:58,600
-Next, let's talk about A records, short for address record.
+Następnie porozmawiajmy o rekordach A, skrócie od rekordów adresowych.
 
 44
 00:04:01,600 --> 00:04:04,600
-It ensures that when somebody tries to visit your website from a browser, whether via a search engine or directly typing example.com, the browser would know which server manages this IP address.
+Zapewniają one, że gdy ktoś próbuje odwiedzić twoją witrynę internetową z przeglądarki za pośrednictwem wyszukiwarki lub wpisując bezpośrednio „example.com”, przeglądarka wie, który serwer zarządza tym adresem IP.
 
 45
 00:04:13,600 --> 00:04:16,600
-Once it has this information, the browser can fetch the files and display the website.
+Po uzyskaniu tej informacji przeglądarka może pobrać pliki i wyświetlić witrynę internetową.
 
 46
 00:04:19,600 --> 00:04:22,600
-If you're using your web host's nameserver, you probably won't need to set an A record.
+Jeśli korzystasz z serwera nazw swojego hostingu, prawdopodobnie nie będziesz musiał ustawiać rekordu A.
 
 47
 00:04:24,600 --> 00:04:27,600
-Your web host will do this for you.
+Twój hosting zrobi to za ciebie.
 
 48
 00:04:26,600 --> 00:04:29,600
-Thirdly, CNAME records.
+Po trzecie, rekordy CNAME.
 
 49
 00:04:29,600 --> 00:04:32,600
-Think of the canonical name records as shortcuts for your website.
+Pomyśl o rekordach nazw kanonicznych jako o skrótach do twojej witryny internetowej.
 
 50
 00:04:34,600 --> 00:04:37,600
-These aliases let you point one domain name to another, which is how you would set up subdomains or direct traffic to a different web address.
+Te aliasy pozwalają skierować jedną nazwę domeny do drugiej, co pozwala skonfigurować subdomeny lub przekierować ruch do innego adresu internetowego.
 
 51
 00:04:44,600 --> 00:04:47,600
-The most common useful CNAME is www.
+Najpopularniejszym użytecznym rekordem CNAME jest „www”.
 
 52
 00:04:48,600 --> 00:04:51,600
-This record works like an email forwarder and ensures people can access the website whether they include the www or not.
+Ten rekord działa jak przekierowanie poczty elektronicznej i zapewnia użytkownikom dostęp do witryny internetowej niezależnie od tego, czy wpiszą adres www, czy nie.
 
 53
 00:04:56,600 --> 00:04:59,600
-Alternatively, you can use a CNAME to direct visitors to a separate website, like the example of learn.wordpress.org.
+Alternatywnie można użyć rekordu CNAME, aby przekierować odwiedzających do oddzielnej witryny internetowej, jak w przykładzie „learn.wordpress.org”.
 
 54
 00:05:04,600 --> 00:05:07,600
-Next, MX records.
+Następnie rekordy MX.
 
 55
 00:05:07,600 --> 00:05:10,600
-The mail exchanger records handle the mailboxes of your domain.
+Rekordy „mail exchanger” obsługują skrzynki pocztowe twojej domeny.
 
 56
 00:05:11,600 --> 00:05:14,600
-They specify which servers handle emails sent to and from your custom email addresses, including email forwarding.
+Określają one, które serwery obsługują wiadomości e-mail wysyłane do i z twoich własnych adresów e-mail, w tym przekazywanie wiadomości e-mail.
 
 57
 00:05:19,600 --> 00:05:22,600
-If you want to use your domain to send and receive emails, for example the email account info@example.com, you need to set MX records.
+Musisz ustawić rekordy MX, jeśli chcesz używać swojej domeny do wysyłania i odbierania wiadomości e-mail, na przykład konta e-mail „info@example.com”.
 
 58
 00:05:29,600 --> 00:05:32,600
-Number 5. TXT records.
+Numer 5. Rekordy TXT.
 
 59
 00:05:32,600 --> 00:05:35,600
-TXT records are like sticky notes attached to your domain.
+Rekordy TXT are jak karteczki samoprzylepne dołączone do domeny.
 
 60
 00:05:36,600 --> 00:05:39,600
-They can contain all sorts of helpful information, like verifying your domain for analytics, services or optimizing email security.
+Mogą zawierać przydatne informacje, takie jak weryfikacja domeny do celów analitycznych i usługowych lub optymalizacja bezpieczeństwa poczty elektronicznej.
 
 61
 00:05:44,600 --> 00:05:47,600
-Here's an example of the latter.
+Oto przykład tego ostatniego.
 
 62
 00:05:48,600 --> 00:05:51,600
-The next question is how do you edit these records?
+Kolejne pytanie brzmi: jak edytować te rekordy?
 
 63
 00:05:52,600 --> 00:05:55,600
-You can manage all these different DNS records via your domain registrar or hosting providers control panel.
+Wszystkimi tymi różnymi rekordami DNS można zarządzać za pośrednictwem panelu sterowania rejestratora domeny lub dostawcy usług hostingowych.
 
 64
 00:06:00,600 --> 00:06:03,600
-They interface changes from one company to another, but they all allow you to create, modify and delete DNS records and configure your domain according to your requirements.
+Interfejs różni się w zależności od firmy, ale wszystkie pozwalają na tworzenie, modyfikowanie i usuwanie rekordów DNS oraz konfigurowanie domeny zgodnie z własnymi wymaganiami.
 
 65
 00:06:12,600 --> 00:06:15,600
-You might be asking, how long does it take?
+Można zapytać, ile to trwa?
 
 66
 00:06:16,600 --> 00:06:19,600
-Whenever you make changes in your DNS zone, global DNS servers across the entire web need to update the records they have stored.
+Za każdym razem, gdy wprowadzasz zmiany w strefie DNS, globalne serwery DNS w całej sieci muszą zaktualizować przechowywane rekordy.
 
 67
 00:06:24,600 --> 00:06:27,600
-This process of DNS servers updating their records is called propagation.
+Proces aktualizacji rekordów przez serwery DNS nazywa się propagacją.
 
 68
 00:06:29,600 --> 00:06:32,600
-Various factors affect the time it takes to complete this update, so expect anything from a couple of hours and up to 72 hours.
+Na czas trwania tej aktualizacji ma wpływ wiele czynników, więc należy spodziewać się, że potrwa ona od kilku godzin do 72 godzin.
 
 69
 00:06:37,600 --> 00:06:40,600
-Take that into account when you make these changes.
+Należy wziąć to pod uwagę podczas wprowadzania zmian.
 
 70
 00:06:41,600 --> 00:06:44,600
-You can check the status of DNS propagation on sites like DNS checker.
+Status propagacji DNS można sprawdzić na stronach takich jak DNS Checker.
 
 71
 00:06:46,600 --> 00:06:49,600
-Type your domain, select the record and test it across hundreds of DNS servers worldwide.
+Wpisz swoją domenę, wybierz rekord i przetestuj go na setkach serwerów DNS na całym świecie.
 
 72
 00:06:53,600 --> 00:06:56,600
-We hope this short overview gives you a better understanding of domains and DNS management and helps you adjust some default settings to your needs.
+Mamy nadzieję, że ten krótki przegląd pozwoli ci lepiej zrozumieć domeny i zarządzanie DNS oraz pomoże dostosować niektóre ustawienia domyślne do twoich potrzeb.
 

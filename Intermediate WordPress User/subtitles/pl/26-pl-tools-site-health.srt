@@ -1,220 +1,220 @@
 1
 00:00:00,000 --> 00:00:03,000
-Did you know that WordPress offers a diagnosis of your site health?
+Czy wiesz, że WordPress oferuje diagnostykę kondycji twojej witryny?
 
 2
 00:00:04,680 --> 00:00:07,680
-In this session we are going to explore how to ensure you keep your site in tip-top shape.
+Podczas tej sesji dowiemy się, jak zadbać o to, aby twoja witryna była w doskonałym stanie.
 
 3
 00:00:11,240 --> 00:00:14,240
-The site health widget can be found on the Dashboard or you can make your way to Tools
+Widżet stanu witryny znajduje się w kokpicie. Można go również znaleźć, przechodząc do sekcji „Narzędzia”
 
 4
 00:00:16,980 --> 00:00:19,980
-and click on Site Hhealth.
+i klikając opcję „Stan witryny”.
 
 5
 00:00:20,340 --> 00:00:23,340
-And as you will notice at the top, my site health needs to be improved.
+Jak widać, stan mojej witryny wymaga poprawy.
 
 6
 00:00:24,900 --> 00:00:27,900
-There are two tabs on the site health page, status and info.
+Strona stanu witryny ma dwie zakładki: status i informacje.
 
 7
 00:00:31,700 --> 00:00:34,700
-The status tab allows you to see critical information about your WordPress configuration,
+Zakładka status pozwala wyświetlić kluczowe informacje dotyczące konfiguracji 
 
 8
 00:00:36,980 --> 00:00:39,980
-along with anything else that requires your attention.
+i wszelkich innych kwestii wymagających uwagi.
 
 9
 00:00:41,300 --> 00:00:44,300
-The info tab is a granular view of the technical aspects of your WordPress website.
+Zakładka informacje zapewnia szczegółowy wgląd w techniczne aspekty witryny WordPress.
 
 10
 00:00:48,820 --> 00:00:51,820
-You can see detailed information about every aspect of your site, such as themes, plugins,
+Można tu znaleźć szczegółowe informacje dotyczące wszystkich aspektów witryny, takich jak motywy, wtyczki
 
 11
 00:00:56,900 --> 00:00:59,900
-and your server setup for example.
+i konfiguracja serwera.
 
 12
 00:01:03,380 --> 00:01:06,380
-There is also a useful export feature that allows you to copy all the information about
+Dostępna jest również przydatna funkcja eksportu, która pozwala skopiować wszystkie informacje dotyczące
 
 13
 00:01:08,260 --> 00:01:11,260
-your site to the clipboard.
+witryny do schowka.
 
 14
 00:01:10,500 --> 00:01:13,500
-When we go back to the status tab, you will notice the two main categories are security
+Po powrocie do zakładki „Status” zauważysz dwie główne kategorie: kwestie związane z bezpieczeństwem
 
 15
 00:01:15,500 --> 00:01:18,500
-or performance related issues.
+i wydajnością.
 
 16
 00:01:18,740 --> 00:01:21,740
-Critical issues refer to parts of your website that can be potential security vulnerabilities
+Krytyczne problemy odnoszą się do części witryny, które mogą stanowić potencjalne zagrożenie dla bezpieczeństwa
 
 17
 00:01:23,940 --> 00:01:26,940
-or serious performance issues.
+lub poważne problemy z wydajnością.
 
 18
 00:01:26,260 --> 00:01:29,260
-The critical issue coming up for me at the moment is that my site is running an outdated
+Krytycznym problemem, który obecnie mnie dotyczy, jest to, że moja witryna korzysta z nieaktualnej
 
 19
 00:01:31,100 --> 00:01:34,100
-version of PHP.
+wersji PHP.
 
 20
 00:01:34,700 --> 00:01:37,700
-As the PHP version is set at the server level by your hosting company, updating involves
+Ponieważ wersja PHP jest ustawiana na poziomie serwera przez firmę hostingową, aktualizacja wymaga
 
 21
 00:01:40,340 --> 00:01:43,340
-either going to your host's Dashboard and changing the settings there or if that's not an option
+albo przejścia do panelu administracyjnego hostingu i zmiany ustawień, albo, jeśli nie jest to możliwe,
 
 22
 00:01:48,100 --> 00:01:51,100
-asking them to do it.
+poproszenia go o wykonanie tej czynności.
 
 23
 00:01:50,180 --> 00:01:53,180
-Please remember to back up your site before updating WordPress or the PHP version you
+Przed aktualizacją WordPressa lub wersji PHP, z której korzystasz, wykonaj kopię zapasową swojej
 
 24
 00:01:55,340 --> 00:01:58,340
-are using.
+witryny.
 
 25
 00:01:57,140 --> 00:02:00,140
-Other types of critical issues you may encounter are one or more required modules are missing.
+Inne krytyczne problemy, które mogą się pojawić, to brak jednego lub więcej wymaganych modułów.
 
 26
 00:02:02,580 --> 00:02:05,580
-You have plugins waiting to be updated.
+Masz wtyczki oczekujące na aktualizację.
 
 27
 00:02:05,220 --> 00:02:08,220
-Your site could not complete a loopback request etc.
+Twoja witryna nie mogła wykonać żądania pętli zwrotnej itp.
 
 28
 00:02:08,940 --> 00:02:11,940
-When you open the accordion, you will learn more about which steps to take to solve a
+Po otwarciu akordeonu dowiesz się więcej o krokach, które należy podjąć, aby 
 
 29
 00:02:13,180 --> 00:02:16,180
-specific problem.
+konkretny problem.
 
 30
 00:02:15,900 --> 00:02:18,900
-Next we can talk about recommended improvements.
+Następnie możemy omówić zalecane ulepszenia.
 
 31
 00:02:18,780 --> 00:02:21,780
-This section lists all the items that are not critical for your website but should be
+W tej sekcji wymieniono wszystkie elementy, które nie są krytyczne dla twojej witryny, ale powinny zostać
 
 32
 00:02:23,580 --> 00:02:26,580
-modified for better security and performance.
+zmodyfikowane w celu zapewnienia większego bezpieczeństwa i wydajności.
 
 33
 00:02:27,060 --> 00:02:30,060
-In my case, I should first update the version of WordPress that I am using and then remove
+W moim przypadku powinienem najpierw zaktualizować wersję WordPressa, z której korzystam, a następnie usunąć
 
 34
 00:02:31,860 --> 00:02:34,860
-any inactive plugins and themes.
+wszystkie nieaktywne wtyczki i motywy.
 
 35
 00:02:35,300 --> 00:02:38,300
-To update WordPress, you can click on Please update now at the top of the page and this
+Aby zaktualizować WordPressa, kliknij przycisk „Zaktualizuj teraz” u góry strony, co
 
 36
 00:02:39,860 --> 00:02:42,860
-will take you to updates.
+spowoduje przejście do aktualizacji.
 
 37
 00:02:42,820 --> 00:02:45,820
-Now you can merely click on Update to the new version and remember to back up your database
+Teraz wystarczy kliknąć „Zaktualizuj do nowej wersji” i pamiętać o utworzeniu kopii zapasowej bazy danych
 
 38
 00:02:47,620 --> 00:02:50,620
-and files.
+i plików.
 
 39
 00:02:50,140 --> 00:02:53,140
-To remove an inactive theme, make your way to Appearance, open up the inactive theme
+Aby usunąć nieaktywny motyw, przejdź do sekcji „Wygląd”, otwórz nieaktywny motyw
 
 40
 00:02:59,220 --> 00:03:02,220
-and click on Delete bottom right.
+i kliknij „Usuń” w prawym dolnym rogu.
 
 41
 00:03:04,580 --> 00:03:07,580
-Now we will move on to inactive plugins.
+Teraz przejdziemy do nieaktywnych wtyczek.
 
 42
 00:03:07,780 --> 00:03:10,780
-Make your way to plugins and this time we can use the bulk select option by selecting
+Przejdź do sekcji „Wtyczki” i tym razem możemy skorzystać z opcji zbiorczego wyboru, zaznaczając
 
 43
 00:03:14,060 --> 00:03:17,060
-all the inactive plugins and deleting them simultaneously.
+wszystkie nieaktywne wtyczki i usuwając je jednocześnie.
 
 44
 00:03:21,140 --> 00:03:24,140
-Let's make our way back to the Site Hhealth page as there is one more recommended improvement
+Wróćmy do strony „Stan witryny”, ponieważ jest jeszcze jedno zalecane usprawnienie,
 
 45
 00:03:26,020 --> 00:03:29,020
-that we need to discuss.
+które musimy omówić.
 
 46
 00:03:28,940 --> 00:03:31,940
-The last recommended improvement is suggesting that I install two optional PHP modules
+Ostatnie zalecane usprawnienie sugeruje zainstalowanie dwóch opcjonalnych modułów PHP,
 
 47
 00:03:34,860 --> 00:03:37,860
-that have not been installed.
+które nie zostały zainstalowane.
 
 48
 00:03:37,100 --> 00:03:40,100
-You could install these in CPanel, Plesk or similar software if your web host provides
+Można je zainstalować w CPanel, Plesk lub podobnym oprogramowaniu, jeśli usługodawca hostingowy zapewnia
 
 49
 00:03:42,420 --> 00:03:45,420
-that access.
+taki dostęp.
 
 50
 00:03:43,420 --> 00:03:46,420
-But if your hosting company has not provided you with a way to install these yourself,
+Jeśli jednak firma hostingowa nie zapewniła możliwości samodzielnej instalacji tych modułów,
 
 51
 00:03:47,940 --> 00:03:50,940
-you can contact your host and ask them to do it for you.
+można skontaktować się z usługodawcą hostingowym i poprosić go o wykonanie tej czynności.
 
 52
 00:03:51,860 --> 00:03:54,860
-Lastly, the tests that have been passed are all the other items that are tested by the
+Na koniec, wszystkie pozostałe elementy przetestowane przez narzędzie „Stan witryny” przeszły
 
 53
 00:03:57,220 --> 00:04:00,220
-site health tool and shows no issues.
+testy pomyślnie i nie wykazały żadnych problemów.
 
 54
 00:04:01,260 --> 00:04:04,260
-You can learn more about this tool when you go to the site health support page.
+Więcej informacji na temat tego narzędzia można znaleźć na stronie pomocy technicznej „Stan witryny”.
 
 55
 00:04:06,740 --> 00:04:09,740
-Remember, Lee Hunt said, "The groundwork for all happiness, is good health."
+Pamiętajcie, jak powiedział Lee Hunt: „Podstawą wszelkiego szczęścia jest dobre zdrowie”.
 

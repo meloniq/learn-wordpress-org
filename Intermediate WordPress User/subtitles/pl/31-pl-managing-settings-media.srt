@@ -1,104 +1,104 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this short video, we will get an overview of managing our media settings.
+Ten krótki filmik przedstawia ogólny zarys zarządzania ustawieniami multimediów.
 
 2
 00:00:05,000 --> 00:00:08,000
-If you visit the Media Library, you are able to view and filter through all your media items.
+Odwiedzając bibliotekę multimediów, można przeglądać i filtrować wszystkie elementy multimedialne.
 
 3
 00:00:11,000 --> 00:00:14,000
-But do you know how WordPress stores images?
+But czy wiesz, w jaki sposób WordPress przechowuje obrazki?
 
 4
 00:00:14,000 --> 00:00:17,000
-Well, to get a deep understanding of that, we need to make our way to "Settings" and then click on "Media".
+Aby to zrozumieć, należy przejść do „Ustawień” i kliknąć „Media”.
 
 5
 00:00:22,000 --> 00:00:25,000
-WordPress automatically generates three sizes when you upload an image, thumbnail, medium and large.
+WordPress automatycznie generuje trzy rozmiary po przesłaniu obrazka: miniaturę, średni i duży.
 
 6
 00:00:30,000 --> 00:00:33,000
-But you might be asking, "Why?"
+Możesz jednak zapytać: „Dlaczego?”.
 
 7
 00:00:32,000 --> 00:00:35,000
-If you upload a large image, WordPress resizes it to fit these categories to improve site speed.
+Jeśli przesyłasz duży obrazek, WordPress zmienia jego rozmiar, aby dopasować go do tych kategorii i poprawić szybkość działania witryny.
 
 8
 00:00:39,000 --> 00:00:42,000
-Some themes can instruct WordPress on which image size to use in various locations,
+Niektóre motywy mogą instruować WordPress, jakiego rozmiaru obrazka używać w różnych miejscach,
 
 9
 00:00:44,000 --> 00:00:47,000
-such as featured images on posts or thumbnails in a blog listing.
+takich jak wyróżnione obrazki we wpisach lub miniaturki na liście blogów.
 
 10
 00:00:49,000 --> 00:00:52,000
-You will notice that when I add an image to a page, the large size is added by default,
+Zauważysz, że kiedy dodaję obrazek do strony, domyślnie dodawany jest duży rozmiar,
 
 11
 00:00:55,000 --> 00:00:58,000
-as it is a reduced file size compared to the original image I added.
+ponieważ jest to zmniejszony rozmiar pliku w porównaniu z oryginalnym obrazkiem, który dodałem.
 
 12
 00:00:59,000 --> 00:01:02,000
-When it comes to selecting the right resolution size for your images,
+Przy wyborze odpowiedniej rozdzielczości obrazków
 
 13
 00:01:03,000 --> 00:01:06,000
-it's important to consider the intended size of the image on your website.
+należy wziąć pod uwagę zamierzony rozmiar obrazka na witrynie internetowej.
 
 14
 00:01:08,000 --> 00:01:11,000
-For example, if you have a photo that you want to use as a banner at the top of your website,
+Na przykład, jeśli masz zdjęcie, które chcesz wykorzystać jako baner u góry witryny internetowej,
 
 15
 00:01:13,000 --> 00:01:16,000
-using the medium or thumbnail resolution would result in a pixelated appearance.
+użycie średniej rozdzielczości lub rozdzielczości miniaturki spowoduje, że obrazek będzie wyglądał na pikselowany.
 
 16
 00:01:19,000 --> 00:01:22,000
-In contrast, thumbnail sizes are more suitable for small preview images in lists or widgets,
+Natomiast rozmiary miniaturek są bardziej odpowiednie dla małych obrazków podglądowych na listach lub w widżetach,
 
 17
 00:01:25,000 --> 00:01:28,000
-while medium sizes can be used alongside other elements on a page or post.
+natomiast rozmiary średnie mogą być używane wraz z innymi elementami na stronie lub we wpisie.
 
 18
 00:01:30,000 --> 00:01:33,000
-It is advised to optimize images before uploading them to your Media Library
+Zaleca się optymalizację obrazków przed przesłaniem ich do biblioteki multimediów
 
 19
 00:01:35,000 --> 00:01:38,000
-or using an optimization plugin to achieve maximum optimization.
+lub użycie wtyczki optymalizacyjnej, aby osiągnąć maksymalną optymalizację.
 
 20
 00:01:40,000 --> 00:01:43,000
-Check out our video about image optimization to gain a better understanding.
+Aby lepiej zrozumieć ten proces, obejrzyj nasz film o optymalizacji obrazków.
 
 21
 00:01:45,000 --> 00:01:48,000
-You can update the width and the height of image sizes,
+Możesz aktualizować szerokość i wysokość rozmiarów obrazków,
 
 22
 00:01:49,000 --> 00:01:52,000
-but I would suggest leaving the default settings as is.
+but sugeruję pozostawienie domyślnych ustawień bez zmian.
 
 23
 00:01:53,000 --> 00:01:56,000
-The last option under media settings allows you to choose how media will be filed
+Ostatnia opcja w ustawieniach multimediów pozwala wybrać sposób przechowywania multimediów
 
 24
 00:01:58,000 --> 00:02:01,000
-in your site's uploads folder in the back end.
+w folderze plików przesłanych na serwerze twojej witryny.
 
 25
 00:02:01,000 --> 00:02:04,000
-WordPress will, by default, save your media in folders according to month and year.
+Domyślnie WordPress zapisuje multimedia w folderach według miesiąca i roku.
 
 26
 00:02:06,000 --> 00:02:09,000
-And if you deselect this option, all images may end up in one folder.
+Jeśli odznaczysz tę opcję, wszystkie obrazki mogą trafić do jednego folderu.
 

@@ -1,200 +1,200 @@
 1
 00:00:00,001 --> 00:00:09,500
-In this session, we will explore the importance of using a security plugin and better understand specific settings to help you fortify your site.
+W tej sesji omówimy znaczenie stosowania wtyczek zabezpieczających i przyjrzymy się bliżej konkretnym ustawieniom, które pomogą ci wzmocnić bezpieczeństwo twojej witryny.
 
 2
 00:00:09,500 --> 00:00:22,400
-The Plugin Directory contains many plugins worth exploring, such as WordFence, All-in-One Security and Firewall, Jetback, Sucuri, Solid Security, etc.
+Katalog wtyczek zawiera wiele wtyczek, które warto wypróbować, takich jak WordFence, All-in-One Security and Firewall, Jetpack, Sucuri, Solid Security itp.
 
 3
 00:00:22,400 --> 00:00:32,300
-It is important to note that some plugins offer more options or settings than others. Premium packages also unlock additional functionalities.
+Należy pamiętać, że niektóre wtyczki oferują więcej opcji lub ustawień niż inne. Pakiety premium odblokowują również dodatkowe funkcje.
 
 4
 00:00:32,300 --> 00:00:40,400
-Depending on the plugin you've chosen, here are a few features worth considering. Number one, audits and scans.
+W zależności od wybranej wtyczki, oto kilka funkcji, które warto rozważyć. Po pierwsze, audyty i skanowanie.
 
 5
 00:00:40,400 --> 00:00:48,200
-It is advised to conduct regular security audits or scans to help identify potential vulnerabilities on your website.
+Zaleca się regularne przeprowadzanie audytów bezpieczeństwa lub skanowania w celu identyfikacji potencjalnych luk w zabezpieczeniach witryny.
 
 6
 00:00:48,200 --> 00:00:55,000
-Using a security plugin makes this process straightforward and manageable, without technical expertise.
+Wtyczka zabezpieczająca sprawia, że proces ten jest prosty i łatwy w zarządzaniu, nawet bez specjalistycznej wiedzy technicznej.
 
 7
 00:00:55,000 --> 00:01:10,900
-Most plugins allow you to enable auto scans and regularly scans your WordPress site for security threats and performs automated backups to safeguard your website's data, providing comprehensive protection with easy one-click restores.
+Większość wtyczek umożliwia automatyczne skanowanie witryny WordPress w poszukiwaniu zagrożeń bezpieczeństwa oraz wykonywanie automatycznych kopii zapasowych w celu ochrony danych witryny, zapewniając kompleksową ochronę i łatwe przywracanie danych jednym kliknięciem.
 
 8
 00:01:10,900 --> 00:01:21,800
-Manual audits are also important. There's always a chance a security tool misses a malicious file dropped by an attacker or doesn't notice a suspicious user.
+Ważne są również ręczne audyty. Zawsze istnieje ryzyko, że narzędzie bezpieczeństwa przeoczy złośliwy plik umieszczony przez atakującego lub nie zauważy podejrzanego użytkownika.
 
 9
 00:01:21,800 --> 00:01:27,700
-Secondly, some plugins allow you to enable a web application firewall.
+Po drugie, niektóre wtyczki umożliwiają włączenie zapory sieciowej aplikacji internetowej.
 
 10
 00:01:27,700 --> 00:01:35,700
-A web application firewall adds an extra layer of security by monitoring and filtering incoming traffic to your website.
+Zapora sieciowa aplikacji internetowej zapewnia dodatkową warstwę bezpieczeństwa poprzez monitorowanie i filtrowanie ruchu przychodzącego do witryny internetowej.
 
 11
 00:01:35,700 --> 00:01:44,600
-It is like having a security guard for your website. It stands between your site and the internet, checking all the data that comes in and goes out.
+Działa ona jak strażnik bezpieczeństwa witryny internetowej. Znajduje się pomiędzy witryną a internetem, sprawdzając wszystkie dane, które do niej trafiają i z niej wychodzą.
 
 12
 00:01:44,600 --> 00:01:49,600
-If it sees anything suspicious, it blocks it to keep your site safe.
+Jeśli wykryje coś podejrzanego, blokuje to, aby zapewnić bezpieczeństwo witryny.
 
 13
 00:01:49,600 --> 00:01:53,800
-The next option worth setting up is IP address detection.
+Kolejną opcją, którą warto skonfigurować, jest wykrywanie adresów IP.
 
 14
 00:01:53,800 --> 00:02:00,000
-IP address detection helps the plugin identify the IP addresses or visitors to your website.
+Wykrywanie adresów IP pomaga wtyczce zidentyfikować adresy IP twojej witryny lub odwiedzających ją użytkowników.
 
 15
 00:02:00,000 --> 00:02:08,400
-This is crucial for security features like blocking malicious users or limiting login attempts from specific IP addresses.
+Ma to kluczowe znaczenie dla funkcji bezpieczeństwa, takich jak blokowanie złośliwych użytkowników lub ograniczanie prób logowania z określonych adresów IP.
 
 16
 00:02:08,400 --> 00:02:16,300
-If the plugin can't correctly detect IP addresses, it may not properly block harmful traffic or limit access we needed.
+Jeśli wtyczka nie może poprawnie wykryć adresów IP, może nie blokować prawidłowo szkodliwego ruchu lub nie ograniczać dostępu, którego potrzebujemy.
 
 17
 00:02:16,300 --> 00:02:26,600
-By correctly detecting IP addresses, security tools can enforce access restrictions, block suspicious activity and safeguard the website's integrity.
+Dzięki prawidłowemu wykrywaniu adresów IP narzędzia bezpieczeństwa mogą egzekwować ograniczenia dostępu, blokować podejrzaną aktywność i chronić integralność witryny.
 
 18
 00:02:26,600 --> 00:02:31,200
-You can usually enter a list of IP addresses that should not be locked out.
+Zazwyczaj można wprowadzić listę adresów IP, które nie powinny być blokowane.
 
 19
 00:02:31,200 --> 00:02:36,200
-WordFence for example provides several options for detecting IP addresses.
+Na przykład WordFence oferuje kilka opcji wykrywania adresów IP.
 
 20
 00:02:36,200 --> 00:02:39,800
-The first option is the default recommended option.
+Pierwsza opcja jest domyślną opcją zalecaną.
 
 21
 00:02:39,800 --> 00:02:45,200
-The second option is to use PHP's built-in remote ADDR.
+Drugą opcją jest użycie wbudowanej zmiennej PHP remote ADDR.
 
 22
 00:02:45,200 --> 00:02:54,400
-Remote ADDR is a server variable that tells you the IP address of the computer or device that is accessing your website.
+Remote ADDR to zmienna serwera, która podaje adres IP komputera lub urządzenia uzyskującego dostęp do twojej witryny internetowej.
 
 23
 00:02:54,400 --> 00:03:03,000
-If we look at a different plugin, we'll see using remote ADDR is the default option for the All-in-One Security and Firewall plugin,
+Jeśli przyjrzymy się innej wtyczce, zobaczymy, że użycie remote ADDR jest domyślną opcją dla wtyczki All-in-One Security and Firewall,
 
 24
 00:03:03,000 --> 00:03:10,000
-which is below Advanced settings and very secure, but it must be set up correctly to work.
+która znajduje się poniżej ustawień zaawansowanych i jest bardzo bezpieczna, ale aby działała, musi być poprawnie skonfigurowana.
 
 25
 00:03:10,000 --> 00:03:14,800
-IP address detection always requires proper server configuration
+Wykrywanie adresu IP zawsze wymaga odpowiedniej konfiguracji serwera,
 
 26
 00:03:14,800 --> 00:03:20,100
-otherwise IP addresses can easily be spoofed or disguised.
+w przeciwnym razie adresy IP mogą być łatwo sfałszowane lub zamaskowane.
 
 27
 00:03:20,100 --> 00:03:31,300
-If you are behind any sort of proxy, for example a load balancer, the reliability of this method may be compromised as the PHP code cannot ascertain the server's configuration.
+Jeśli korzystasz z jakiegokolwiek serwera proxy, na przykład load balancera, niezawodność tej metody może być zagrożona, ponieważ kod PHP nie może ustalić konfiguracji serwera.
 
 28
 00:03:31,300 --> 00:03:40,700
-An important step when setting up IP address detection is therefore proper server configuration, which needs hosting provider intervention.
+Ważnym krokiem podczas konfigurowania wykrywania adresu IP jest prawidłowa konfiguracja serwera, która wymaga interwencji dostawcy usług hostingowych.
 
 29
 00:03:40,700 --> 00:03:49,500
-Ensure you contact your hosting provider to understand how your server is configured so that you can select the correct IP detection method.
+Skontaktuj się z dostawcą usług hostingowych, aby dowiedzieć się, jak skonfigurowany jest twój serwer, abyś mógł wybrać prawidłową metodę wykrywania adresu IP.
 
 30
 00:03:49,500 --> 00:03:54,900
-Next, some plugins also allow you to secure your WordPress configuration file.
+Niektóre wtyczki umożliwiają również zabezpieczenie pliku konfiguracyjnego WordPressa.
 
 31
 00:03:54,900 --> 00:04:06,300
-The wp-config.php file contains sensitive information such as database credentials, security keys and other configuration parameters.
+Plik wp-config.php zawiera poufne informacje, takie jak dane uwierzytelniające do bazy danych, klucze bezpieczeństwa i inne parametry konfiguracyjne.
 
 32
 00:04:06,300 --> 00:04:12,300
-Securing this file can prevent unauthorized access and potential exploitation.
+Zabezpieczenie tego pliku może zapobiec nieautoryzowanemu dostępowi i potencjalnemu wykorzystaniu.
 
 33
 00:04:12,300 --> 00:04:20,300
-When using the All-in-One Security plugin for example, you can set the recommended permissions when selecting File Security.
+Na przykład, korzystając z wtyczki All-in-One Security, można ustawić zalecane uprawnienia, wybierając opcję File Security.
 
 34
 00:04:20,300 --> 00:04:25,500
-Additionally, enabling brute force protection on your WordPress site is crucial.
+Dodatkowo, włączenie ochrony przed atakami brute force na swojej witrynie WordPress jest bardzo ważne.
 
 35
 00:04:25,500 --> 00:04:36,900
-Brute force attacks are common methods hackers use to gain unauthorized access to your website by repeatedly trying different username and password combinations until they find the correct one.
+Ataki brute force to popularna metoda, którą hakerzy używają, żeby uzyskać dostęp do twojej witryny, próbując różnych kombinacji nazw użytkownika i haseł, aż znajdą te właściwe.
 
 36
 00:04:36,900 --> 00:04:51,300
-Brute force protection stops unauthorized users from accessing your site by limiting login attempts, blocking suspicious IP addresses and verifying that real people are logging in through captcha challenges.
+Ochrona przed atakami brute force blokuje dostęp do twojej witryny przez nieautoryzowanych użytkowników, ograniczając liczbę prób logowania, blokując podejrzane adresy IP i sprawdzając, czy logują się prawdziwi ludzie, przez testy captcha.
 
 37
 00:04:51,300 --> 00:04:57,100
-The settings for brute force attack protection may of course vary between security plugins.
+Ustawienia ochrony przed atakami brute force mogą oczywiście różnić się w zależności od wtyczek zabezpieczających.
 
 38
 00:04:57,100 --> 00:05:04,300
-Lastly, setting up two-factor authentication to protect your site from brute force attacks is also advised.
+Na koniec zaleca się również skonfigurowanie uwierzytelniania dwuskładnikowego, aby chronić witrynę przed atakami brute force.
 
 39
 00:05:04,300 --> 00:05:12,700
-In addition to robust password management, enabling two-factor authentication is crucial for enhancing the security of your WordPress site.
+Oprócz solidnego zarządzania hasłami, włączenie uwierzytelniania dwuskładnikowego ma kluczowe znaczenie dla zwiększenia bezpieczeństwa witryny WordPress.
 
 40
 00:05:12,700 --> 00:05:27,300
-Two-factor authentication adds a layer of protection to your login process by requiring your password and a second verification form, such as a unique code sent to your mobile device or generated by an authentication app.
+Uwierzytelnianie dwuskładnikowe dodaje dodatkową warstwę ochrony do procesu logowania, wymagając podania hasła i drugiego formularza weryfikacyjnego, takiego jak unikalny kod wysłany na urządzenie mobilne lub wygenerowany przez aplikację uwierzytelniającą.
 
 41
 00:05:27,300 --> 00:05:34,500
-This additional step significantly reduces the risk of unauthorized access, even if your password is compromised.
+Ten dodatkowy krok znacznie zmniejsza ryzyko nieautoryzowanego dostępu, nawet jeśli hasło zostanie naruszone.
 
 42
 00:05:34,500 --> 00:05:43,700
-Many security plugins, including Wordfence and All-in-One WordPress Security and Firewall, offer built-in support for two-factor authentication.
+Wiele wtyczek zabezpieczających, w tym Wordfence i All-in-One WordPress Security and Firewall, oferuje wbudowaną obsługę uwierzytelniania dwuskładnikowego.
 
 43
 00:05:43,700 --> 00:05:51,000
-Finally, it is also worth mentioning that good security should always be backed by a good backup strategy.
+Na koniec warto również wspomnieć, że dobre zabezpieczenia powinny zawsze być poparte dobrą strategią tworzenia kopii zapasowych.
 
 44
 00:05:51,000 --> 00:05:57,300
-In the event of an incident, this allows you to quickly recover and restore your data from backups.
+W razie wypadku pozwala to szybko odzyskać i przywrócić dane z kopii zapasowych.
 
 45
 00:05:57,300 --> 00:06:01,500
-And get an SSL certificate if you don't have one.
+Jeśli nie masz certyfikatu SSL, zdobądź go.
 
 46
 00:06:01,500 --> 00:06:12,400
-An SSL certificate, which stands for Secure Sockets Layer, secures your website by encrypting data between your site and visitors, protecting sensitive information from hackers.
+Certyfikat SSL, czyli Secure Sockets Layer, zabezpiecza twoją witrynę internetową poprzez szyfrowanie danych między witryną a odwiedzającymi, chroniąc poufne informacje przed hakerami.
 
 47
 00:06:12,400 --> 00:06:25,300
-It also makes your site more trustworthy and can improve search engine rankings. You can buy an SSL certificate from a provider or use a free service like Let's Encrypt.
+Sprawia również, że via witryna jest bardziej wiarygodna i może poprawić jej pozycję w wyszukiwarkach. Certyfikat SSL można kupić od dostawcy lub skorzystać z bezpłatnej usługi, takiej jak Let’s Encrypt.
 
 48
 00:06:25,300 --> 00:06:31,400
-Many web hosts automatically provide and install SSL certificates as part of their packages.
+Wielu dostawców usług hostingowych automatycznie zapewnia i instaluje certyfikaty SSL w ramach swoich pakietów.
 
 49
 00:06:31,400 --> 00:06:38,000
-So check with your host to enable it with just a few clicks in your hosting dashboard, if not activated.
+Jeśli certyfikat nie jest aktywowany, skontaktuj się z dostawcą usług hostingowych, aby włączyć go za pomocą kilku kliknięć w panelu hostingowym.
 
 50
 00:06:38,000 --> 00:06:46,000
-Implementing all these security measures we discussed can significantly enhance the protection of your site against more sophisticated threats.
+Wdrożenie wszystkich omówionych środków bezpieczeństwa może znacznie zwiększyć ochronę twojej witryny przed bardziej wyrafkonanymi zagrożeniami.
 

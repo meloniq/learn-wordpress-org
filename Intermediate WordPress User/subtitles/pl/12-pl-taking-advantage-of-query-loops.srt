@@ -1,296 +1,296 @@
 1
 00:00:00,000 --> 00:00:03,000
-In this lesson we will learn more about query loops and using the Query Loop block.
+W tej lekcji dowiemy się więcej o pętlach zapytań i korzystaniu z bloku „Pętla zapytania”.
 
 2
 00:00:06,000 --> 00:00:09,000
-Let's first talk about the Query lLoop block.
+Najpierw omówimy blok „Pętla zapytania”.
 
 3
 00:00:09,000 --> 00:00:12,000
-This powerful block can be used to display posts based on specified parameters.
+Ten potężny blok może być używany do wyświetlania wpisów na podstawie określonych parametrów.
 
 4
 00:00:14,000 --> 00:00:17,000
-This is also the block that is used on your blog page to display all your posts
+Jest to również blok używany na stronie bloga do wyświetlania wszystkich wpisów
 
 5
 00:00:19,000 --> 00:00:22,000
-and will allow you to ask the database to show you all the posts about a specific topic.
+i pozwala poprosić bazę danych o wyświetlenie wszystkich wpisów dotyczących określonego tematu.
 
 6
 00:00:26,000 --> 00:00:29,000
-For example, you can ask to see all the posts written about gluten free recipes.
+Na przykład, możesz poprosić o wyświetlenie wszystkich wpisów napisanych na temat przepisów bezglutenowych.
 
 7
 00:00:33,000 --> 00:00:36,000
-Or you might want to see posts about reviews of computer games.
+Możesz też chcieć zobaczyć wpisy dotyczące recenzji gier komputerowych.
 
 8
 00:00:39,000 --> 00:00:42,000
-Each Query Loop block is made up of various blocks like the Post Featured block,
+Każdy blok „Pętla zapytania” składa się z różnych bloków, takich jak blok „Obrazek wyróżniający”,
 
 9
 00:00:45,000 --> 00:00:48,000
-the Categories block, the Post Title block, the Post Author block, the Post Excerpt block, etc.
+blok „Kategorie”, blok „Tytuł”, blok „Autor”, blok „Zajawka” itp.
 
 10
 00:00:55,000 --> 00:00:58,000
-While you won't be able to edit the content of these nested blocks,
+Chociaż nie można edytować zawartości tych zagnieżdżonych bloków,
 
 11
 00:00:59,000 --> 00:01:02,000
-you can customize the appearance and layout, including adding or removing additional blocks as you'd like.
+można dostosować ich wygląd i układ, w tym dodawać lub usuwać dodatkowe bloki według własnego uznania.
 
 12
 00:01:06,000 --> 00:01:09,000
-Let's look at a few example websites to see how they have used query loops.
+Przyjrzyjmy się kilku przykładowym witrynom internetowym, aby zobaczyć, w jaki sposób wykorzystano w nich pętle zapytań.
 
 13
 00:01:12,000 --> 00:01:15,000
-In our first example, a query loop has been used to highlight the latest stories,
+W naszym pierwszym exemplu pętla zapytań została wykorzystana do wyróżnienia najnowszych artykułów,
 
 14
 00:01:17,000 --> 00:01:20,000
-recognizing women's creativity, leadership, courage and innovation.
+doceniających kreatywność, przywództwo, odwagę i innowacyjność kobiet.
 
 15
 00:01:22,000 --> 00:01:25,000
-And below that, a query loop has been used to display blog posts.
+Poniżej pętla zapytań została wykorzystana do wyświetlenia wpisów na blogu.
 
 16
 00:01:28,000 --> 00:01:31,000
-In the second example, query loops have been used to display different types of recipes.
+W drugim przykładzie pętle zapytań zostały wykorzystane do wyświetlenia różnych rodzajów przepisów.
 
 17
 00:01:33,000 --> 00:01:36,000
-First up, we have breakfast recipes, and if we scroll down, amazing appetizers.
+Najpierw mamy przepisy na śniadania, a po przewinięciu w dół – niesamowite przystawki.
 
 18
 00:01:41,000 --> 00:01:44,000
-And in our last example, a query loop has been used to create a news page.
+W naszym ostatnim przykładzie pętla zapytań została wykorzystana do stworzenia strony z aktualnościami.
 
 19
 00:01:50,000 --> 00:01:53,000
-Let's first look at how to modify a Query Loop block and to use patterns.
+Najpierw przyjrzyjmy się, jak zmodyfikować blok „Pętla zapytania” i wykorzystać wzorce.
 
 20
 00:01:55,000 --> 00:01:58,000
-So let's make our way to Appearance and click on Editor.
+Przejdźmy więc do sekcji „Wygląd” i kliknijmy „Edytor”.
 
 21
 00:01:59,000 --> 00:02:02,000
-This will take us to our Site Editor and currently we are on our blog home template,
+Spowoduje to przejście do edytora witryny, a obecnie znajdujemy się w szablonie strony głównej naszego bloga,
 
 22
 00:02:05,000 --> 00:02:08,000
-that displays all our blog posts.
+który wyświetla wszystkie nasze wpisy na blogu.
 
 23
 00:02:11,000 --> 00:02:14,000
-Let's open the list for you to see how our Query Loop block is structured.
+Otwórzmy listę, aby zobaczyć, jak zbudowany jest nasz blok „Pętla zapytania”.
 
 24
 00:02:17,000 --> 00:02:20,000
-At the top, we will see the Featured Image block.
+U góry zobaczymy blok „Obrazek wyróżniający”.
 
 25
 00:02:23,000 --> 00:02:26,000
-Then we have the Post Title block followed by the Post Meta blocks.
+Następnie mamy blok „Tytuł”, a po nim bloki meta danych.
 
 26
 00:02:34,000 --> 00:02:37,000
-And they include the Post Date block, the Post Author block as well as the Categories block.
+Obejmują one blok „Data publikacji”, blok „Autor” oraz blok „Kategorie”.
 
 27
 00:02:42,000 --> 00:02:45,000
-And then lastly, the Post Excerpt block.
+Na końcu znajduje się blok „Zajawka”.
 
 28
 00:02:45,000 --> 00:02:48,000
-But of course, we can alter what we want to have displayed.
+Oczywiście możemy zmienić to, co chcemy wyświetlać.
 
 29
 00:02:49,000 --> 00:02:52,000
-So let's for example, delete the Post Excerpt block.
+Na przykład usuńmy blok „Zajawka”.
 
 30
 00:02:54,000 --> 00:02:57,000
-And then select the Post Title block and drag and drop it to above the Featured Image block.
+Wybierz blok „Tytuł” i przeciągnij go nad blok „Obrazek wyróżniający”.
 
 31
 00:03:03,000 --> 00:03:06,000
-And the great thing about updating the Query Loop block is that if you change something in one post,
+Wielką zaletą aktualizacji bloku „Pętla zapytania” jest to, że jeśli zmienisz coś w jednym wpisie,
 
 32
 00:03:08,000 --> 00:03:11,000
-it will appear everywhere else.
+pojawi się to wszędzie indziej.
 
 33
 00:03:11,000 --> 00:03:14,000
-But what if we want to use a completely different pattern and layout?
+A co, jeśli chcemy użyć zupełnie innego wzorca i układu?
 
 34
 00:03:16,000 --> 00:03:19,000
-Well, we can click on Replace in our block toolbar and browse through the various patterns that come with your theme.
+Cóż, możemy kliknąć opcję „Zastąp” na pasku narzędzi bloku i przejrzeć różne wzorce dostępne w ramach motywu.
 
 35
 00:03:24,000 --> 00:03:27,000
-And when you select a pattern, you can of course customize it as you please.
+Po wybraniu wzorca można go oczywiście dostosować do własnych potrzeb.
 
 36
 00:03:32,000 --> 00:03:35,000
-When you add a new Query Loop block, you will have two options.
+Podczas dodawania nowego bloku „Pętla zapytania” dostępne są dwie opcje.
 
 37
 00:03:37,000 --> 00:03:40,000
-You can choose a pattern or you can start blank.
+Można wybrać wzorzec lub zacząć od pustego bloku.
 
 38
 00:03:41,000 --> 00:03:44,000
-When you click on Start blank, then you can select one of the variations.
+Po kliknięciu opcji „Zacznij od pustego” można wybrać jedną z dostępnych opcji.
 
 39
 00:03:45,000 --> 00:03:48,000
-In this case, I will select Title, Date and Excerpt.
+W tym przypadku wybieram „Tytuł”, „Data” i „Zajawka”.
 
 40
 00:03:49,000 --> 00:03:52,000
-And then we can modify it further.
+Następnie możemy go dalej modyfikować.
 
 41
 00:03:51,000 --> 00:03:54,000
-So let's go ahead and add a Featured Image block below the title.
+Dodajmy blok „Obrazek wyróżniający” poniżej tytułu.
 
 42
 00:04:03,000 --> 00:04:06,000
-And then we can open up Styles and change the aspect ratio to for example, 4x3,
+Następnie możemy otworzyć styl i zmienić proporcje obrazka, na przykład na 4×3,
 
 43
 00:04:13,000 --> 00:04:16,000
-to ensure that all the post featured images display the same.
+aby wszystkie obrazki wyróżniające we wpisach były wyświetlane w ten sam sposób.
 
 44
 00:04:21,000 --> 00:04:24,000
-Next up, we are going to have a look at taxonomies or filters and how to use the sidebar settings.
+Następnie przyjrzymy się taksonomii lub filtrom oraz sposobowi korzystania z ustawień paska bocznego.
 
 45
 00:04:27,000 --> 00:04:30,000
-I've created a lifestyle page and only want to see posts related to this topic.
+Utworzyłem stronę poświęconą stylowi życia i chcę wyświetlać tylko wpisy związane z tym tematem.
 
 46
 00:04:32,000 --> 00:04:35,000
-So I will select the Query Loop block and then open up my sidebar settings.
+Wybiorę więc blok „Pętla zapytania” i otworzę ustawienia paska bocznego.
 
 47
 00:04:40,000 --> 00:04:43,000
-And the first thing we have to do is deselect Inherit query from template,
+Pierwszą rzeczą, którą musimy zrobić, jest odznaczenie opcji „Dziedzicz zapytanie z szablonu”,
 
 48
 00:04:46,000 --> 00:04:49,000
-as I want to customize the settings of the query loop.
+ponieważ chcę dostosować ustawienia pętli zapytań.
 
 49
 00:04:51,000 --> 00:04:54,000
-And when you scroll down, you now have an option to filter your posts by using taxonomies,
+Przewijając w dół, można filtrować wpisy za pomocą taksonomii,
 
 50
 00:05:01,000 --> 00:05:04,000
-such as categories and tags, authors and even keywords.
+takich jak kategorie i tagi, autorzy, a nawet słowa kluczowe.
 
 51
 00:05:09,000 --> 00:05:12,000
-I am going to select taxonomies as I've created a category called lifestyle
+Wybieram taksonomie, ponieważ utworzyłem kategorię „styl życia”
 
 52
 00:05:15,000 --> 00:05:18,000
-and only want to see posts with this category displayed.
+i chcę wyświetlać tylko wpisy z tej kategorii.
 
 53
 00:05:20,000 --> 00:05:23,000
-And when I add the lifestyle category, all posts that don't have this category will be excluded.
+Wszystkie wpisy, które nie należą do tej kategorii, zostaną wykluczone po dodaniu kategorii „styl życia”.
 
 54
 00:05:29,000 --> 00:05:32,000
-You also have the option to display posts from a specific author.
+Możesz też wyświetlać wpisy konkretnego autora.
 
 55
 00:05:33,000 --> 00:05:36,000
-So once I select the Query Loop block again, I will go to my sidebar settings,
+Po ponownym wybraniu bloku „Pętla zapytania” przejdę do ustawień paska bocznego,
 
 56
 00:05:39,000 --> 00:05:42,000
-click on filters, select Authors and select the person whose posts I would like to display.
+kliknę „Filtry”, wybiorę „Autorzy” i zaznaczę osobę, której wpisy chcę wyświetlić.
 
 57
 00:05:49,000 --> 00:05:52,000
-Now we will only see posts written by Roger Lister.
+Teraz zobaczymy tylko wpisy napisane przez Rogera Listera.
 
 58
 00:05:58,000 --> 00:06:01,000
-You can of course also choose a keyword and only display posts which contain that word or words in the text.
+Możesz też wybrać słowo kluczowe i wyświetlać tylko wpisy, które zawierają to słowo lub słowa w tekście.
 
 59
 00:06:09,000 --> 00:06:12,000
-Lastly, let's have a closer look at our sidebar settings.
+Na koniec przyjrzyjmy się bliżej ustawieniom paska bocznego.
 
 60
 00:06:13,000 --> 00:06:16,000
-As mentioned, I've deselected Inherit query from the template to customize the query.
+Jak już wspomniałem, odznaczyłem opcję „Dziedzicz zapytanie z szablonu”, aby dostosować zapytanie.
 
 61
 00:06:18,000 --> 00:06:21,000
-If you toggle it on, certain customization options will be hidden.
+Jeśli ją włączysz, niektóre opcje dostosowywania zostaną ukryte.
 
 62
 00:06:22,000 --> 00:06:25,000
-And if you toggle it off, more customization options will appear.
+Jeśli ją wyłączysz, pojawi się więcej opcji dostosowywania.
 
 63
 00:06:27,000 --> 00:06:30,000
-When you add a new Query Loop block to a post or template, it is also important to turn this off as your Query Loop block might not appear on the front end.
+Kiedy dodajesz nowy blok „Pętla zapytania” do wpisu lub szablonu, ważne jest, aby wyłączyć tę opcję, ponieważ blok „Pętla zapytania” może nie pojawić się na stronie frontowej.
 
 64
 00:06:38,000 --> 00:06:41,000
-The next option is post type.
+Następna opcja to typ wpisu.
 
 65
 00:06:41,000 --> 00:06:44,000
-At the moment we are displaying blog posts.
+W tej chwili wyświetlamy wpisy z bloga.
 
 66
 00:06:44,000 --> 00:06:47,000
-But you can also display pages or even custom post types.
+Możesz jednak wyświetlać również strony lub nawet własne typy wpisów.
 
 67
 00:06:48,000 --> 00:06:51,000
-Below that you have the option to order your posts from newest to oldest, oldest to newest or alphabetically.
+Poniżej masz możliwość uporządkowania wpisów od najnowszych do najstarszych, od najstarszych do najnowszych lub alfabetycznie.
 
 68
 00:06:56,000 --> 00:06:59,000
-Next, let's talk about sticky posts.
+Następnie porozmawiajmy o wpisach przyklejonych.
 
 69
 00:06:59,000 --> 00:07:02,000
-A sticky post is a post that sticks to the top of your blog page and the option in your sidebar settings will allow you to include sticky posts, exclude them or only show sticky posts.
+Wpis przyklejony to wpis, który pozostaje na górze strony bloga, ta opcja w ustawieniach paska bocznego pozwala na włączenie wpisów przyklejonych, wykluczenie ich lub wyświetlanie tylko wpisów przyklejonych.
 
 70
 00:07:10,000 --> 00:07:13,000
-Below sticky posts, we will see the option to turn off Force page reload.
+Poniżej wpisów przyklejonych znajduje się opcja wyłączenia funkcji „Wymuś ponowne wczytanie strony”.
 
 71
 00:07:15,000 --> 00:07:18,000
-And this will allow someone to browse through posts without a page reloading.
+Pozwoli to użytkownikom przeglądać wpisy bez ponownego wczytywania strony,
 
 72
 00:07:20,000 --> 00:07:23,000
-And this could contribute to a better user experience.
+co może przyczynić się do poprawy komfortu użytkowania.
 
 73
 00:07:24,000 --> 00:07:27,000
-And finally, we have already discussed using filters.
+Na koniec omówiliśmy już kwestię stosowania filtrów.
 
 74
 00:07:29,000 --> 00:07:32,000
-All the best as you take advantage of this powerful blog to display posts.
+Życzę wszystkiego najlepszego podczas korzystania z tego potężnego bloku do wyświetlania wpisów.
 
